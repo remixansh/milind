@@ -94,7 +94,7 @@ def get_subjects():
             'id': 'math',
             'name': 'Mathematics',
             'nameHindi': 'गणित',
-            'icon': 'calculator',
+            'icon': 'arithmetic',
             'color': 'indigo',
             'coming_soon': True
         },
@@ -102,7 +102,7 @@ def get_subjects():
             'id': 'english',
             'name': 'English',
             'nameHindi': 'अंग्रेजी',
-            'icon': 'book',
+            'icon': 'abc',
             'color': 'sky',
             'coming_soon': True
         },
@@ -110,7 +110,7 @@ def get_subjects():
             'id': 'sanskrit',
             'name': 'Sanskrit',
             'nameHindi': 'संस्कृत',
-            'icon': 'scroll',
+            'icon': 'om',
             'color': 'amber',
             'coming_soon': True
         }
