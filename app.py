@@ -20,6 +20,8 @@ def get_data_dir(subject_id):
         return os.path.join(base_dir, 'daily_science')
     if subject_id == 'social_science':
         return os.path.join(base_dir, 'daily_social_science')
+    if subject_id == 'hindi':
+        return os.path.join(base_dir, 'daily_hindi')
     return os.path.join(base_dir, 'data', subject_id)
 
 def load_daily_questions(subject_id, date_code):
@@ -96,9 +98,9 @@ def get_subjects():
             'id': 'hindi',
             'name': 'Hindi',
             'nameHindi': 'हिन्दी',
-            'icon': 'om',
+            'icon': 'book-open',
             'color': 'rose',
-            'coming_soon': True
+            'coming_soon': False
         },
         {
             'id': 'sanskrit',
@@ -149,7 +151,7 @@ def daily_questions(subject_id, date_code):
         target_date = datetime(2026, month, day)
         if datetime.now() < target_date:
              return render_template('locked.html', 
-                                  subject={'name': 'Science'}, # Minimal subject info if loading fails later
+                                  subject=subject,
                                   date_display=f"{day}/{month}/2026",
                                   unlock_time="00:00 AM",
                                   is_quiz=False)
