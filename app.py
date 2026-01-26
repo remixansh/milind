@@ -6,12 +6,16 @@ A minimalist Flask application for daily practice questions
 from flask import Flask, render_template, jsonify, request, session
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
 app.secret_key = 'bseb-super50-secret-key-2026'
 
 # ==================== Helper Functions ====================
+
+def get_ist_now():
+    """Get current time in Indian Standard Time (UTC+5:30)"""
+    return datetime.utcnow() + timedelta(hours=5, minutes=30)
 
 def get_data_dir(subject_id):
     """Get the directory path for a subject's data"""
@@ -132,8 +136,8 @@ def date_select(subject_id):
     if not subject:
         return render_template('404.html'), 404
     
-    # Get today's date for comparison
-    today = datetime.now()
+    # Get today's date for comparison (IST)
+    today = get_ist_now()
     today_month = today.month
     today_day = today.day
     
@@ -146,12 +150,20 @@ def date_select(subject_id):
 @app.route('/daily/<subject_id>/<date_code>')
 def daily_questions(subject_id, date_code):
     """Display daily questions with answers"""
+    # Load subject first to avoid UnboundLocalError in locked check
+    subject = next((s for s in get_subjects() if s['id'] == subject_id), None)
+    
+    if not subject:
+        return render_template('404.html'), 404
+
     # Date restriction: Available from 00:00 of the date
     try:
         month = int(date_code[:2])
         day = int(date_code[2:])
         target_date = datetime(2026, month, day)
-        if datetime.now() < target_date:
+        
+        # Use IST for comparison
+        if get_ist_now() < target_date:
              return render_template('locked.html', 
                                   subject=subject,
                                   date_display=f"{day}/{month}/2026",
@@ -161,9 +173,8 @@ def daily_questions(subject_id, date_code):
         return render_template('404.html'), 404
 
     data = load_daily_questions(subject_id, date_code)
-    subject = next((s for s in get_subjects() if s['id'] == subject_id), None)
     
-    if not data or not subject:
+    if not data:
         return render_template('404.html'), 404
     
     return render_template('daily_questions.html',
@@ -175,8 +186,8 @@ def daily_questions(subject_id, date_code):
 @app.route('/quiz/<subject_id>/<date_code>')
 def quiz(subject_id, date_code):
     """Quiz mode - one question at a time"""
-    data = load_daily_questions(subject_id, date_code)
     subject = next((s for s in get_subjects() if s['id'] == subject_id), None)
+    data = load_daily_questions(subject_id, date_code)
     
     if not data or not subject:
         return render_template('404.html'), 404
@@ -190,7 +201,8 @@ def quiz(subject_id, date_code):
         
         target_dt = datetime(2026, month, day, hour, minute)
         
-        if datetime.now() < target_dt:
+        # Use IST for comparison
+        if get_ist_now() < target_dt:
              return render_template('locked.html', 
                                   subject=subject,
                                   date_display=data.get('dateDisplay', ''),
