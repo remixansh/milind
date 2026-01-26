@@ -39,3 +39,25 @@ download_files.py
 generate_daily_sets.py
 manage_answers.py
 populate_answers.py
+
+# Hindi Generation & Analysis Scripts
+analyze_hindi.py
+apply_answers_from_ref.py
+batch_analyze.py
+check_missed.py
+extract_unique_questions.py
+extract_unsolved_questions.py
+solve_hindi_feb06_10.py
+solve_hindi.js
+solve_hindi.py
+verify_daily_hindi.py
+
+# Intermediate/Raw Data Files
+known_answers.json
+solved_unsolved_questions.json
+unanswered_hindi.json
+unique_questions_list.json
+unsolved_questions_list.json
+
+# Specific Raw Chapters
+hindi_chapter/kavya/4.json
