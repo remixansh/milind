@@ -61,7 +61,7 @@ def get_available_dates(subject_id):
 
 def get_subjects():
     """Get available subjects"""
-    return [
+    subjects = [
         {
             'id': 'science',
             'name': 'Science',
@@ -76,6 +76,14 @@ def get_subjects():
             'nameHindi': 'सामाजिक विज्ञान',
             'icon': 'users',
             'color': 'blue',
+            'coming_soon': False
+        },
+        {
+            'id': 'hindi',
+            'name': 'Hindi',
+            'nameHindi': 'हिन्दी',
+            'icon': 'book-open',
+            'color': 'rose',
             'coming_soon': False
         },
         {
@@ -95,14 +103,6 @@ def get_subjects():
             'coming_soon': True
         },
         {
-            'id': 'hindi',
-            'name': 'Hindi',
-            'nameHindi': 'हिन्दी',
-            'icon': 'book-open',
-            'color': 'rose',
-            'coming_soon': False
-        },
-        {
             'id': 'sanskrit',
             'name': 'Sanskrit',
             'nameHindi': 'संस्कृत',
@@ -111,6 +111,8 @@ def get_subjects():
             'coming_soon': True
         }
     ]
+    # Ensure sorted by availability (Available first)
+    return sorted(subjects, key=lambda x: x['coming_soon'])
 
 # ==================== Page Routes ====================
 
