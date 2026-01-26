@@ -25,6 +25,7 @@ answers_db.json
 
 # Raw Data (Optional - Keep if needed for regeneration)
 sample_data/
+test/
 
 # OS Metadata
 .DS_Store
