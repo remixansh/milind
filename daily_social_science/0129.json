@@ -1,0 +1,658 @@
+{
+    "date": "0129",
+    "dateDisplay": "29 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "उपभोक्ता अधिकार दिवस कब मनाया जाता है ? (When is Consumer Rights Day celebrated?)",
+            "options": [
+                "17 मार्च (17 March)",
+                "15 मार्च (15 March)",
+                "19 अप्रैल (19 April)",
+                "22 अप्रैल (22 April)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "15 मार्च (15 March)"
+        },
+        {
+            "id": 2,
+            "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई ? (When was the Indian National Congress established?)",
+            "options": [
+                "1885",
+                "1890",
+                "1895",
+                "1900"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "1885"
+        },
+        {
+            "id": 3,
+            "question": "बांग्लादेश कब स्वतंत्र हुआ ? (When did Bangladesh become independent?)",
+            "options": [
+                "1969",
+                "1970",
+                "1971",
+                "1972"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "1971"
+        },
+        {
+            "id": 4,
+            "question": "संघ सरकार का उदाहरण है (An example of federal government is)",
+            "options": [
+                "अमेरिका (America)",
+                "चीन (China)",
+                "ग्रेट ब्रिटेन (Great Britain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "अमेरिका (America)"
+        },
+        {
+            "id": 5,
+            "question": "वैश्वीकरण के मुख्य अंग कितने हैं? (How many main components of globalization are there?)",
+            "options": [
+                "एक (One)",
+                "दो (Two)",
+                "पाँच (Five)",
+                "चार (Four)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "पाँच (Five)"
+        },
+        {
+            "id": 6,
+            "question": "लोकतंत्र की सफलता निर्भर करती है (The success of democracy depends on)",
+            "options": [
+                "नागरिकों की उदासीनता पर (Indifference of citizens)",
+                "नागरिकों की गैर-कानूनी कार्रवाई पर (Illegal action of citizens)",
+                "नागरिकों की विवेकपूर्ण सहभागिता पर (Prudent participation of citizens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "नागरिकों की विवेकपूर्ण सहभागिता पर (Prudent participation of citizens)"
+        },
+        {
+            "id": 7,
+            "question": "बिहार में संपूर्ण क्रांति का नेतृत्व निम्नलिखित में से किसने किया? (Who among the following led the Total Revolution in Bihar?)",
+            "options": [
+                "मोरारजी देशाई (Morarji Desai)",
+                "नीतीश कुमार (Nitish Kumar)",
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "जयप्रकाश नारायण (Jayaprakash Narayan)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "जयप्रकाश नारायण (Jayaprakash Narayan)"
+        },
+        {
+            "id": 8,
+            "question": "क्षेत्रवाद की भावना का एक कुपरिणाम है (A bad consequence of the feeling of regionalism is)",
+            "options": [
+                "अपने क्षेत्र से लगाव (Attachment to one's own region)",
+                "राष्ट्रहित (National interest)",
+                "राष्ट्रीय एकता (National unity)",
+                "अलगाववाद (Separatism)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "अलगाववाद (Separatism)"
+        },
+        {
+            "id": 9,
+            "question": "उपभोक्ता अधिकार दिवस कब मनाया जाता है? (When is Consumer Rights Day celebrated?)",
+            "options": [
+                "17 मार्च (17 March)",
+                "15 मार्च (15 March)",
+                "19 अप्रैल (19 April)",
+                "22 अप्रैल (22 April)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "15 मार्च (15 March)"
+        },
+        {
+            "id": 10,
+            "question": "फ्रैंकफर्ट की संधि पर हस्ताक्षर कब हुई थी ? (When was the Treaty of Frankfurt signed?)",
+            "options": [
+                "1863 में (In 1863)",
+                "1864 में (In 1864)",
+                "1871 में (In 1871)",
+                "1872 में (In 1872)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "1871 में (In 1871)"
+        },
+        {
+            "id": 11,
+            "question": "राष्ट्रीय स्वयं सेवक संघ की स्थापना कब हुई ? (When was the Rashtriya Swayamsevak Sangh established?)",
+            "options": [
+                "1923 ई (1923 AD)",
+                "1925 ई (1925 AD)",
+                "1934 ई (1934 AD)",
+                "1939 ई (1939 AD)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "1925 ई (1925 AD)"
+        },
+        {
+            "id": 12,
+            "question": "मुम्बई में प्रथम सूती कपड़ा मिल किस वर्ष स्थापित की गई ? (In which year was the first cotton textile mill established in Mumbai?)",
+            "options": [
+                "1850 ई. (1850 AD)",
+                "1852 ई. (1852 AD)",
+                "1854 ई. (1854 AD)",
+                "1858 ई. (1858 AD)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "1854 ई. (1854 AD)"
+        },
+        {
+            "id": 13,
+            "question": "हीराकुंड बांध है (Hirakud Dam is in)",
+            "options": [
+                "कर्नाटक में (In Karnataka)",
+                "तमिलनाडु में (In Tamil Nadu)",
+                "बिहार में (In Bihar)",
+                "ओडिशा में (In Odisha)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "ओडिशा में (In Odisha)"
+        },
+        {
+            "id": 14,
+            "question": "द्वितीय पृथ्वी सम्मेलन कहाँ हुआ था ? (Where was the Second Earth Summit held?)",
+            "options": [
+                "न्यूयार्क (New York)",
+                "पेरिस (Paris)",
+                "मास्को (Moscow)",
+                "इनमे से कोई नही (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "न्यूयार्क (New York)"
+        },
+        {
+            "id": 15,
+            "question": "रेल वर्कशॉप स्थित है (Rail Workshop is located in)",
+            "options": [
+                "जमालपुर में (In Jamalpur)",
+                "मुंगेर में (In Munger)",
+                "भगवानपुर में (In Bhagwanpur)",
+                "दरभंगा में (In Darbhanga)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "जमालपुर में (In Jamalpur)"
+        },
+        {
+            "id": 16,
+            "question": "मेट्रो रेल सेवा उपलब्ध है (Metro rail service is available in)",
+            "options": [
+                "धनबाद में (In Dhanbad)",
+                "दिल्ली में (In Delhi)",
+                "रायपुर में (In Raipur)",
+                "गुवाहाटी में (In Guwahati)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "दिल्ली में (In Delhi)"
+        },
+        {
+            "id": 17,
+            "question": "बिहार का सबसे बड़ा नगर कौन है ? (Which is the largest city of Bihar?)",
+            "options": [
+                "पटना (Patna)",
+                "भागलपुर (Bhagalpur)",
+                "हाजीपुर (Hajipur)",
+                "दरभंगा (Darbhanga)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "पटना (Patna)"
+        },
+        {
+            "id": 18,
+            "question": "निम्नलिखित में कौन केन्द्र शासित प्रदेश है ? (Which of the following is a Union Territory?)",
+            "options": [
+                "उत्तराखण्ड (Uttarakhand)",
+                "छत्तीसगढ़ (Chhattisgarh)",
+                "चण्डीगढ़ (Chandigarh)",
+                "केरल (Kerala)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "चण्डीगढ़ (Chandigarh)"
+        },
+        {
+            "id": 19,
+            "question": "पटना नगर निगम के प्रधान को क्या कहा जाता है ? (What is the head of Patna Municipal Corporation called?)",
+            "options": [
+                "महापौर (Mayor)",
+                "नगर प्रधान (City Head)",
+                "नगर सचिव (City Secretary)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "महापौर (Mayor)"
+        },
+        {
+            "id": 20,
+            "question": "किसके नेतृत्व में 1977 में जनता पार्टी की सरकार का गठन हुआ था ? (Under whose leadership was the Janata Party government formed in 1977?)",
+            "options": [
+                "मोरारजी देसाई (Morarji Desai)",
+                "कर्पूरी ठाकुर (Karpoori Thakur)",
+                "जगजीवन राम (Jagjivan Ram)",
+                "चंद्रशेखर (Chandrashekhar)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "मोरारजी देसाई (Morarji Desai)"
+        },
+        {
+            "id": 21,
+            "question": "सत्रहवीं लोकसभा का चुनाव किस वर्ष हुआ ? (In which year was the 17th Lok Sabha election held?)",
+            "options": [
+                "2010 ई. (2010 AD)",
+                "2014 ई. (2014 AD)",
+                "2015 ई. (2015 AD)",
+                "2019. ई. (2019 AD)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "2019. ई. (2019 AD)"
+        },
+        {
+            "id": 22,
+            "question": "बिहार सम्पन्न है (Bihar is rich in)",
+            "options": [
+                "खनिजों में (Minerals)",
+                "उद्योग में (Industry)",
+                "कृषि में (Agriculture)",
+                "पशुपालन में (Animal Husbandry)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "कृषि में (Agriculture)"
+        },
+        {
+            "id": 23,
+            "question": "'फूट डालो और राज करो' की नीति किसने अपनायी ? (Who adopted the policy of 'Divide and Rule'?)",
+            "options": [
+                "अंग्रेजों ने (The British)",
+                "पारसियों ने (The Parsis)",
+                "मुसलमानों ने (The Muslims)",
+                "पंजाबियों ने, (The Punjabis)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अंग्रेजों ने (The British)"
+        },
+        {
+            "id": 24,
+            "question": "टीपू सुल्तान शासक थे (Tipu Sultan was the ruler of)",
+            "options": [
+                "मैसुर (Mysore)",
+                "शिमला (Shimla)",
+                "कश्मीर (Kashmir)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "मैसुर (Mysore)"
+        },
+        {
+            "id": 25,
+            "question": "साम्प्रदायिक राजनीति आधारित होती है (Communal politics is based on)",
+            "options": [
+                "धर्म पर (Religion)",
+                "जाति पर (Caste)",
+                "क्षेत्र पर (Region)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "धर्म पर (Religion)"
+        },
+        {
+            "id": 26,
+            "question": "भारत का राष्ट्रीय पक्षी है (The national bird of India is)",
+            "options": [
+                "कबूतर (Pigeon)",
+                "हंस (Swan)",
+                "मोर (Peacock)",
+                "तोता (Parrot)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "मोर (Peacock)"
+        },
+        {
+            "id": 27,
+            "question": "चावल है (Rice is)",
+            "options": [
+                "खरीफ फसल (Kharif crop)",
+                "रबी फसल (Rabi crop)",
+                "जायद फसल (Zaid crop)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "खरीफ फसल (Kharif crop)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में से कौन विदेशी ब्रांड नहीं है? (Which of the following is not a foreign brand?)",
+            "options": [
+                "हुंडई (Hyundai)",
+                "टोयोटा (Toyota)",
+                "फोर्ड (Ford)",
+                "टाटा (Tata)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "टाटा (Tata)"
+        },
+        {
+            "id": 29,
+            "question": "'यंग यूरोप' का संस्थापक कौन था? (Who was the founder of 'Young Europe'?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "गैरीवाल्डी (Garibaldi)",
+                "विक्टर इमानुएल (Victor Emmanuel)",
+                "मुसोलिनी (Mussolini)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "मेजिनी (Mazzini)"
+        },
+        {
+            "id": 30,
+            "question": "'यूरोप का मरीज' किसे कहा जाता था? (Who was the 'Sick man of Europe'?)",
+            "options": [
+                "तुर्की (Turkey)",
+                "इटली (Italy)",
+                "इंग्लैंड (England)",
+                "फ्रांस (France)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "तुर्की (Turkey)"
+        },
+        {
+            "id": 31,
+            "question": "कार्ल मार्क्स का जन्म कहाँ हुआ था? (Where was Karl Marx born?)",
+            "options": [
+                "जर्मनी (Germany)",
+                "इंग्लैंड (England)",
+                "फ्रांस (France)",
+                "पोलैंड (Poland)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 32,
+            "question": "गाँधी जी ने साबरमती आश्रम की स्थापना किस वर्ष की? (In which year did Gandhi ji establish the Sabarmati Ashram?)",
+            "options": [
+                "1895",
+                "1900",
+                "1915",
+                "1916"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "1916"
+        },
+        {
+            "id": 33,
+            "question": "ब्रह्म समाज की स्थापना किसने की? (Who founded the Brahmo Samaj?)",
+            "options": [
+                "राजा राममोहन राय (Raja Ram Mohan Roy)",
+                "दयानंद सरस्वती (Dayanand Saraswati)",
+                "विवेकानंद (Vivekananda)",
+                "रामकृष्ण परमहंस (Ramakrishna Paramhansa)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "राजा राममोहन राय (Raja Ram Mohan Roy)"
+        },
+        {
+            "id": 34,
+            "question": "सेफ्टी लैम्प का अविष्कार किसने किया था? (Who invented safety lamp?)",
+            "options": [
+                "क्रॉम्पटन (Crompton)",
+                "जेम्स हारग्रीव्स (James Hargreaves)",
+                "हंफ्री डेवी (Humphry Davy)",
+                "जॉन के (John K)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "हंफ्री डेवी (Humphry Davy)"
+        },
+        {
+            "id": 35,
+            "question": "अंतर्राष्ट्रीय श्रमिक संगठन की स्थापना किस वर्ष हुई? (In which year the International Labour Organization was established?)",
+            "options": [
+                "1917",
+                "1919",
+                "1921",
+                "1923"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "1919"
+        },
+        {
+            "id": 36,
+            "question": "पटना में गोलघर किस उद्देश्य से बनाया गया था? (The purpose to built Golghar in Patna was-)",
+            "options": [
+                "सैनिक रखने के लिए (To keep the soldiers)",
+                "अस्त्र शस्त्र रखने के लिए (To keep the Arms and ammunitions)",
+                "अनाज रखने के लिए (To keep grains)",
+                "पूजा करने के लिए (To worship)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "अनाज रखने के लिए (To keep grains)"
+        },
+        {
+            "id": 37,
+            "question": "कागज का अविष्कार किस देश में हुआ? (In which country the invention of paper took place?)",
+            "options": [
+                "चीन (China)",
+                "जर्मनी (Germany)",
+                "जापान (Japan)",
+                "रोम (Rome)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 38,
+            "question": "'हिन्दुस्तान रिव्यू' का प्रकाशन किसने आरम्भ किया? (Who started the publication of the 'Hindustan Review'?)",
+            "options": [
+                "रामकृष्ण वर्मा (Ramakrishna Varma)",
+                "श्री कृष्ण सिंह (Sri Krishna Singh)",
+                "मजहरुल हक (Mazharul Haque)",
+                "सच्चिदानंद सिन्हा (Sachidanand Sinha)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "सच्चिदानंद सिन्हा (Sachidanand Sinha)"
+        },
+        {
+            "id": 39,
+            "question": "काली मिट्टी उपयुक्त है (Black soil is suitable for -)",
+            "options": [
+                "कपास के लिए (Cotton)",
+                "लीची लिए (Litchi)",
+                "गेहूँ के लिए (Wheat)",
+                "बाजरा के लिए (Millet)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "कपास के लिए (Cotton)"
+        },
+        {
+            "id": 40,
+            "question": "पीतल बनाया जाता है (Brass is made of -)",
+            "options": [
+                "ताँबे से (Copper)",
+                "जस्ते से (Zinc)",
+                "ताँबा और जस्ता दोनों से (Copper and Zinc)",
+                "ताँबा, जस्ता और टिन से (Copper, Zinc and Tin)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "ताँबा और जस्ता दोनों से (Copper and Zinc)"
+        },
+        {
+            "id": 41,
+            "question": "इनमें से कौन सी प्राथमिक ऊर्जा नहीं है? (Which of these is not the primary energy?)",
+            "options": [
+                "प्राकृतिक गैस (Natural gas)",
+                "पेट्रोलियम (Petroleum)",
+                "विद्युत (Electricity)",
+                "कोयला (Coal)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "विद्युत (Electricity)"
+        },
+        {
+            "id": 42,
+            "question": "नेपानगर प्रसिद्ध है - (Nepanagar is famous for -)",
+            "options": [
+                "चीनी के लिए (Sugar)",
+                "सीमेंट के लिए (Cement)",
+                "अखबारी कागज़ के लिए (News print paper)",
+                "सूती कपड़ों के लिए (Cotton textiles)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "अखबारी कागज़ के लिए (News print paper)"
+        },
+        {
+            "id": 43,
+            "question": "दाल किस पौष्टिक अंश का स्त्रोत है? (Pulse is the source of which nutrition?)",
+            "options": [
+                "कार्बोहाइड्रेट (Carbohydrate)",
+                "प्रोटीन (Protein)",
+                "विटामिन D (Vitamin D)",
+                "वसा (Fat)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "प्रोटीन (Protein)"
+        },
+        {
+            "id": 44,
+            "question": "निम्नलिखित में से कौन सा उद्योग कृषि पर आधारित नहीं है? (Which industry in not based on agriculture?)",
+            "options": [
+                "सूती वस्त्र (Cotton cloth)",
+                "सीमेंट (Cement)",
+                "चीनी (Sugar)",
+                "जूट (Jute)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "सीमेंट (Cement)"
+        },
+        {
+            "id": 45,
+            "question": "इनमें से कौन सा सबसे लम्बा राष्ट्रीय राजमार्ग है? (Which among these is the longest National Highway?)",
+            "options": [
+                "राजमार्ग संख्या 2 (Highway no. 2)",
+                "राजमार्ग संख्या - 3 (Highway no. 3)",
+                "राजमार्ग संख्या 5 (Highway no. 5)",
+                "राजमार्ग संख्या - 7 (Highway no. 7)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "राजमार्ग संख्या - 7 (Highway no. 7)"
+        },
+        {
+            "id": 46,
+            "question": "भारत का सबसे बड़ा बन्दरगाह है- (The biggest port of India is -)",
+            "options": [
+                "मुंबई (Mumbai)",
+                "चेन्नई (Chennai)",
+                "कोलकाता (Kolkata)",
+                "कांडला (Kandla)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "मुंबई (Mumbai)"
+        },
+        {
+            "id": 47,
+            "question": "मन्दार हिल किस जिले में स्थित है? (Mandar Hill is situated in which district?)",
+            "options": [
+                "मुंगेर (Munger)",
+                "भागलपुर (Bhagalpur)",
+                "बांका (Banka)",
+                "बक्सर (Buxar)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "बांका (Banka)"
+        },
+        {
+            "id": 48,
+            "question": "16 वीं लोकसभा में महिला सदस्यों की संख्या कितनी है? (How many women members are in the 16th Lok Sabha?)",
+            "options": [
+                "61",
+                "63",
+                "65",
+                "67"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "61"
+        },
+        {
+            "id": 49,
+            "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई? (When was the Indian National Congress established?)",
+            "options": [
+                "1885",
+                "1890",
+                "1895",
+                "1900"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "1885"
+        },
+        {
+            "id": 50,
+            "question": "सोलहवीं लोकसभा का चुनाव किस वर्ष हुआ? (In which year the election of the 16th Lok Sabha was held?)",
+            "options": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "2014"
+        }
+    ]
+}

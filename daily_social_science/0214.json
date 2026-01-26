@@ -1,0 +1,658 @@
+{
+    "date": "0214",
+    "dateDisplay": "14 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "केन्द्रीय सांख्यिकी संगठन की स्थापना कब हुई थी ? (When was Central Statistical Organisation established ?)",
+            "options": [
+                "1950",
+                "1954",
+                "1956",
+                "1960"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1954"
+        },
+        {
+            "id": 2,
+            "question": "बाँध को आधुनिक भारत का मन्दिर किसने कहा ? (Who called the dam the 'Temple of Modern India' ?)",
+            "options": [
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "पंडित नेहरू (Pandit Nehru)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "लाल बहादुर शास्त्री (Lal Bahadur Shastri)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "पंडित नेहरू (Pandit Nehru)"
+        },
+        {
+            "id": 3,
+            "question": "भोपाल गैस आपदा थी (Bhopal Gas Disaster was)",
+            "options": [
+                "प्राकृतिक आपदा (Natural disaster)",
+                "मानव जनित आपदा (Man-made disaster)",
+                "सामान्य आपदा (General disaster)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "मानव जनित आपदा (Man-made disaster)"
+        },
+        {
+            "id": 4,
+            "question": "निम्न में से कौन भूकम्प का सर्वाधिक खतरनाक जोन है ? (Which of the following is the most dangerous zone of earthquake?)",
+            "options": [
+                "जोन-2 (Zone-2)",
+                "जोन-3 (Zone-3)",
+                "जोन-4 (Zone-4)",
+                "जोन-5 (Zone-5)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "जोन-5 (Zone-5)"
+        },
+        {
+            "id": 5,
+            "question": "तटबंध के किनारे किस प्रकार की वनस्पति को सघन के रूप से लगाना चाहिए? (Which type of vegetation should be planted densely along the embankment?)",
+            "options": [
+                "मैंग्रोव (Mangrove)",
+                "कंटीली झाड़ियाँ (Thorny bushes)",
+                "शंकुधारी वृक्ष (Coniferous trees)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कंटीली झाड़ियाँ (Thorny bushes)"
+        },
+        {
+            "id": 6,
+            "question": "सर्वाधिक खतरनाक सुखाड़ है। (The most dangerous drought is.)",
+            "options": [
+                "सामान्य सुखाड़ (General drought)",
+                "कृषि सुखाड़ (Agricultural drought)",
+                "मौसमी सुखाड़ (Seasonal drought)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कृषि सुखाड़ (Agricultural drought)"
+        },
+        {
+            "id": 7,
+            "question": "आर्थिक विकास का गैर-आर्थिक कारक कौन है ? (Which is a non-economic factor of economic development?)",
+            "options": [
+                "प्राकृतिक संसाधन (Natural resources)",
+                "वित्तीय संस्थाएँ (Financial institutions)",
+                "पूँजी निर्माण (Capital formation)",
+                "मानवीय संसाधन (Human resources)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "मानवीय संसाधन (Human resources)"
+        },
+        {
+            "id": 8,
+            "question": "केन्द्रीय सहकारी बैंकों का गठन होता है (Central Cooperative Banks are formed at)",
+            "options": [
+                "ग्राम स्तर पर (Village level)",
+                "जिला स्तर पर (District level)",
+                "राज्य स्तर पर (State level)",
+                "राष्ट्रीय स्तर पर (National level)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "जिला स्तर पर (District level)"
+        },
+        {
+            "id": 9,
+            "question": "निम्नलिखित में कौन मिश्रित अर्थव्यवस्था की विशेषता है? (Which of the following is a feature of mixed economy?)",
+            "options": [
+                "निजी क्षेत्र (Private sector)",
+                "सार्वजनिक क्षेत्र (Public sector)",
+                "आर्थिक नियोजन (Economic planning)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 10,
+            "question": "भारत सरकार ने किस प्रकार की शिक्षा को मौलिक अधिकार घोषित कर दिया है? (Which type of education has been declared a fundamental right by the Government of India?)",
+            "options": [
+                "प्रारंभिक शिक्षा (Elementary education)",
+                "माध्यमिक शिक्षा (Secondary education)",
+                "उच्च शिक्षा (Higher education)",
+                "तकनीकी शिक्षा (Technical education)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "प्रारंभिक शिक्षा (Elementary education)"
+        },
+        {
+            "id": 11,
+            "question": "किस समिति की अनुशंसा पर पंचायती राज प्रणाली की शुरुआता की गई ? (On the recommendation of which committee was the Panchayati Raj system started?)",
+            "options": [
+                "तेंदुलकर समिति (Tendulkar Committee)",
+                "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)",
+                "वर्मा समिति (Verma Committee)",
+                "राजा चलैया समिति (Raja Chelliah Committee)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)"
+        },
+        {
+            "id": 12,
+            "question": "झारखण्ड राज्य का गठन कब हुआ था ? (When was the state of Jharkhand formed?)",
+            "options": [
+                "1 नवंबर, 2000 (1 November, 2000)",
+                "9 नवंबर, 2000 (9 November, 2000)",
+                "15 नवंबर, 2000 (15 November, 2000)",
+                "15 नवंबर, 2001 (15 November, 2001)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "15 नवंबर, 2000 (15 November, 2000)"
+        },
+        {
+            "id": 13,
+            "question": "'लोकतंत्र का प्राण' किसे कहा जाता है? (Who is called the 'Soul of Democracy'?)",
+            "options": [
+                "सरकार (Government)",
+                "न्यायपालिका (Judiciary)",
+                "संविधान (Constitution)",
+                "राजनीतिक दल (Political Party)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "राजनीतिक दल (Political Party)"
+        },
+        {
+            "id": 14,
+            "question": "बोलिविया में जन संघर्ष का मुख्य कारण क्या था ? (What was the main reason for the mass struggle in Bolivia?)",
+            "options": [
+                "पानी की कीमत में वृद्धि (Increase in water price)",
+                "खा‌द्यान्न की कीमत में वृद्धि (Increase in food price)",
+                "पेट्रोल की कीमत में वृद्धि (Increase in petrol price)",
+                "जीवन रक्षक दवाओं की कीमत में वृद्धि (Increase in price of life-saving drugs)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पानी की कीमत में वृद्धि (Increase in water price)"
+        },
+        {
+            "id": 15,
+            "question": "\"लोकतंत्र जनता का, जनता के द्वारा तथा जनता के लिए शासन है।\" यह कथन किसका है ? (\"Democracy is a government of the people, by the people and for the people.\" Whose statement is this?)",
+            "options": [
+                "अरस्तू (Aristotle)",
+                "अब्राहम लिंकन (Abraham Lincoln)",
+                "रूसो (Rousseau)",
+                "मार्टिन लूथर (Martin Luther)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "अब्राहम लिंकन (Abraham Lincoln)"
+        },
+        {
+            "id": 16,
+            "question": "पंचायती राज व्यवस्था का निम्नतम स्तर क्या है ? (What is the lowest level of Panchayati Raj system?)",
+            "options": [
+                "जिला परिषद (Zila Parishad)",
+                "पंचायत समिति (Panchayat Samiti)",
+                "ग्राम पंचायत (Gram Panchayat)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "ग्राम पंचायत (Gram Panchayat)"
+        },
+        {
+            "id": 17,
+            "question": "नगरपालिका किस अनुसूची से सम्बन्धित है? (Municipality is related to which schedule?)",
+            "options": [
+                "10वीं अनुसूची (10th Schedule)",
+                "11वीं अनुसूची (11th Schedule)",
+                "12वीं अनुसूची (12th Schedule)",
+                "9वीं अनुसूची (9th Schedule)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "12वीं अनुसूची (12th Schedule)"
+        },
+        {
+            "id": 18,
+            "question": "'यंग इटली' की स्थापना किसने की ? (Who founded 'Young Italy'?)",
+            "options": [
+                "बिस्मार्क (Bismarck)",
+                "मेजिनी (Mazzini)",
+                "नेपोलियन (Napoleon)",
+                "हिटलर (Hitler)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "मेजिनी (Mazzini)"
+        },
+        {
+            "id": 19,
+            "question": "वियना कांग्रेस की अध्यक्षता किसने की ? (Who presided over the Vienna Congress?)",
+            "options": [
+                "गैरीबाल्डी (Garibaldi)",
+                "काउंट काबूर (Count Cavour)",
+                "विलियम - । (William I)",
+                "मेटरनिख (Metternich)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "मेटरनिख (Metternich)"
+        },
+        {
+            "id": 20,
+            "question": "ब्रेटन वुड्स सम्मेलन किस वर्ष हुआ ? (In which year did the Bretton Woods Conference take place?)",
+            "options": [
+                "1944",
+                "1947",
+                "1948",
+                "1952"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "1944"
+        },
+        {
+            "id": 21,
+            "question": "किस पत्रिका ने रातों-रात वर्नाक्यूलर प्रेस एक्ट से बचने के लिए अपनी भाषा बदल दी ? (Which newspaper changed its language overnight to avoid the Vernacular Press Act?)",
+            "options": [
+                "हरिजन (Harijan)",
+                "भारत मित्र (Bharat Mitra)",
+                "अमृत बाजार पत्रिका (Amrit Bazar Patrika)",
+                "हिन्दुस्तान रिव्यू (Hindustan Review)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "अमृत बाजार पत्रिका (Amrit Bazar Patrika)"
+        },
+        {
+            "id": 22,
+            "question": "अंकोरवाट का मंदिर कहाँ है ? (Where is the temple of Angkor Wat?)",
+            "options": [
+                "लाओस (Laos)",
+                "कम्बोडिया (Cambodia)",
+                "वियतनाम (Vietnam)",
+                "थाईलैण्ड (Thailand)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कम्बोडिया (Cambodia)"
+        },
+        {
+            "id": 23,
+            "question": "जलियाँवाला बाग हत्याकांड कब हुआ ? (When did the Jallianwala Bagh massacre take place?)",
+            "options": [
+                "13 अप्रैल, 1919 (13 April, 1919)",
+                "14 अप्रैल, 1920 (14 April, 1920)",
+                "15 अप्रैल, 1919 (15 April, 1919)",
+                "16 अप्रैल, 1920 (16 April, 1920)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "13 अप्रैल, 1919 (13 April, 1919)"
+        },
+        {
+            "id": 24,
+            "question": "'हिन्द स्वराज' पुस्तक किसने लिखी ? (Who wrote the book 'Hind Swaraj'?)",
+            "options": [
+                "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+                "सुभाष चन्द्र बोस (Subhash Chandra Bose)",
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "पंडित जवाहरलाल नेहरू (Pandit Jawaharlal Nehru)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "महात्मा गाँधी (Mahatma Gandhi)"
+        },
+        {
+            "id": 25,
+            "question": "हिराकुंड बाँध बना है (Hirakud Dam is built on)",
+            "options": [
+                "महानदी पर (On Mahanadi)",
+                "गंगा पर (On Ganga)",
+                "कृष्णा पर (On Krishna)",
+                "कोसी पर (On Kosi)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "महानदी पर (On Mahanadi)"
+        },
+        {
+            "id": 26,
+            "question": "बिहार में रेल वर्कशाप कहाँ स्थित है ? (Where is the Rail Workshop located in Bihar?)",
+            "options": [
+                "जमालपुर (Jamalpur)",
+                "भागलपुर (Bhagalpur)",
+                "मुंगेर (Munger)",
+                "पटना (Patna)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "जमालपुर (Jamalpur)"
+        },
+        {
+            "id": 27,
+            "question": "काँटी तापीय विद्युत परियोजना किस जिला में स्थित है ? (In which district is Kanti Thermal Power Project located?)",
+            "options": [
+                "पूर्णिया (Purnia)",
+                "सीवान (Siwan)",
+                "मुजफ्फरपुर (Muzaffarpur)",
+                "पूर्वी चंपारण (East Champaran)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मुजफ्फरपुर (Muzaffarpur)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में से कौन प्राकृतिक आपदा है ? (Which of the following is a natural disaster?)",
+            "options": [
+                "आग लगना (Fire)",
+                "बम विस्फोट (Bomb blast)",
+                "भूकम्प (Earthquake)",
+                "रासायनिक दुर्घटनाएँ (Chemical accidents)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "भूकम्प (Earthquake)"
+        },
+        {
+            "id": 29,
+            "question": "संचार का सबसे लोकप्रिय साधन क्या है? (What is the most popular means of communication?)",
+            "options": [
+                "टेलीफोन (Telephone)",
+                "मोबाईल (Mobile)",
+                "वॉकी-टॉकी (Walkie-Talkie)",
+                "रेडियो (Radio)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "मोबाईल (Mobile)"
+        },
+        {
+            "id": 30,
+            "question": "कोसी में बाढ़ आने का क्या कारण है ? (What is the reason for floods in Kosi?)",
+            "options": [
+                "अधिक वर्षा (Heavy rainfall)",
+                "हिमालय की बर्फ का पिघलना (Melting of Himalayan ice)",
+                "नदी में गाद जमना (Siltation in river)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 31,
+            "question": "महासागर की तली में होने वाले कंपन का परिणाम है (The result of vibration at the bottom of the ocean is)",
+            "options": [
+                "हिमस्खलन' (Avalanche)",
+                "चक्रवात (Cyclone)",
+                "सुनामी (Tsunami)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "सुनामी (Tsunami)"
+        },
+        {
+            "id": 32,
+            "question": "किस नदी को 'बिहार का शोक' कहा जाता है ? (Which river is called the 'Sorrow of Bihar'?)",
+            "options": [
+                "सोन नदी (Son River)",
+                "कोसी नदी (Kosi River)",
+                "पुनपुन नदी (Punpun River)",
+                "गंगा नदी (Ganga River)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कोसी नदी (Kosi River)"
+        },
+        {
+            "id": 33,
+            "question": "भारत में उपभोक्ता संरक्षण कानून कब लागू हुआ ? (When was the Consumer Protection Act implemented in India?)",
+            "options": [
+                "1968",
+                "1976",
+                "1984",
+                "1986"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1986"
+        },
+        {
+            "id": 34,
+            "question": "बिहार में जीवनयापन मुख्य साधन है (The main means of livelihood in Bihar is)",
+            "options": [
+                "कृषि (Agriculture)",
+                "उद्योग (Industry)",
+                "व्यापार (Trade)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "कृषि (Agriculture)"
+        },
+        {
+            "id": 35,
+            "question": "पशुपालन एवं मत्स्यपालन किस क्षेत्र के अंग हैं? (Animal husbandry and fisheries are parts of which sector?)",
+            "options": [
+                "प्राथमिक, क्षेत्र (Primary Sector)",
+                "द्वितीयक क्षेत्र (Secondary Sector)",
+                "तृतीयक क्षेत्र (Tertiary Sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "प्राथमिक, क्षेत्र (Primary Sector)"
+        },
+        {
+            "id": 36,
+            "question": "स्वतंत्रता प्राप्ति के बाद भारत का मुख्य आर्थिक उद्देश्य क्या है? (What is the main economic objective of India after independence?)",
+            "options": [
+                "तीव्र आर्थिक विकास (Rapid economic development)",
+                "रोजगार सृजन (Employment generation)",
+                "निर्धनता उन्मूलन (Poverty alleviation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 37,
+            "question": "किस शहर को भारत की वित्तीय राजधानी कहते हैं? (Which city is called the financial capital of India?)",
+            "options": [
+                "कोलकाता (Kolkata)",
+                "दिल्ली (Delhi)",
+                "चेन्नई (Chennai)",
+                "मुम्बई (Mumbai)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "मुम्बई (Mumbai)"
+        },
+        {
+            "id": 38,
+            "question": "सोने के जेवरों की शुद्धता सुनिश्चित करने के लिए किस मानक चिह्न का प्रयोग किया जाता है ? (Which standard mark is used to ensure the purity of gold jewelry?)",
+            "options": [
+                "आई. एस. आई-मार्क (ISI Mark)",
+                "एगमार्क (Agmark)",
+                "हॉल मार्क (Hallmark)",
+                "इको मार्क (Eco Mark)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "हॉल मार्क (Hallmark)"
+        },
+        {
+            "id": 39,
+            "question": "निम्न में से कौन अधात्विक खनिज है ? (Which of the following is a non-metallic mineral?)",
+            "options": [
+                "सोना (Gold)",
+                "टिन (Tin)",
+                "अभ्रक (Mica)",
+                "सोना (Gold)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "अभ्रक (Mica)"
+        },
+        {
+            "id": 40,
+            "question": "लेनिन की मृत्यु कब हुई ? (When did Lenin die?)",
+            "options": [
+                "1921",
+                "1922",
+                "1923",
+                "1924"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1924"
+        },
+        {
+            "id": 41,
+            "question": "वियना काँग्रेस में कौन राष्ट्र सम्मिलित नहीं था ? (Which nation was not included in the Vienna Congress?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "रूस (Russia)",
+                "फ्रांस (France)",
+                "जर्मनी (Germany)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 42,
+            "question": "संयुक्त वियतनाम का गठन किस वर्ष हुआ ? (In which year was United Vietnam formed?)",
+            "options": [
+                "1954",
+                "1968",
+                "1974",
+                "1975"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 43,
+            "question": "आर्य समाज की स्थापना किसने की ? (Who founded Arya Samaj?)",
+            "options": [
+                "राधाकांत ने (Radhakant)",
+                "रामकृष्ण परमहंस ने (Ramakrishna Paramhansa)",
+                "विवेकानंद ने (Vivekananda)",
+                "दयानंद सरस्वती ने (Dayanand Saraswati)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "दयानंद सरस्वती ने (Dayanand Saraswati)"
+        },
+        {
+            "id": 44,
+            "question": "पहला वाष्प इंजन का किसने आविष्कार किया ? (Who invented the first steam engine?)",
+            "options": [
+                "टॉमस न्यूकॉमेन ने (Thomas Newcomen)",
+                "जेम्स वाट ने (James Watt)",
+                "जॉर्ज स्टीफेंसन ने (George Stephenson)",
+                "क्रॉम्पटन ने (Crompton)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "जेम्स वाट ने (James Watt)"
+        },
+        {
+            "id": 45,
+            "question": "बाल गंगाधर तिलक ने 'मराठा' पत्रिका का प्रकाशन किस भाषा में किया ? (In which language did Bal Gangadhar Tilak publish the 'Maratha' magazine?)",
+            "options": [
+                "हिन्दी में (In Hindi)",
+                "मराठी में (In Marathi)",
+                "अंग्रेजी में (In English)",
+                "गुजराती में (In Gujarati)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "अंग्रेजी में (In English)"
+        },
+        {
+            "id": 46,
+            "question": "निम्न में से सबसे अधिक कठोर खनिज कौन है ? (Which of the following is the hardest mineral?)",
+            "options": [
+                "लोहा (Iron)",
+                "मँगनीज (Manganese)",
+                "हीरा (Diamond)",
+                "सोना (Gold)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "हीरा (Diamond)"
+        },
+        {
+            "id": 47,
+            "question": "रबर की खेती भारत के किस राज्य में की जाती है ? (In which state of India is rubber cultivated?)",
+            "options": [
+                "केरल (Kerala)",
+                "गुजरात (Gujarat)",
+                "आंध्र प्रदेश (Andhra Pradesh)",
+                "छत्तीसगढ़ (Chhattisgarh)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 48,
+            "question": "कान्हा राष्ट्रीय उ‌द्यान' कहाँ स्थित है ? (Where is Kanha National Park located?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "उत्तर प्रदेश (Uttar Pradesh)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मध्य प्रदेश (Madhya Pradesh)"
+        },
+        {
+            "id": 49,
+            "question": "भारत का राष्ट्रीय पक्षी है। (The national bird of India is.)",
+            "options": [
+                "कबूतर (Pigeon)",
+                "हंस (Swan)",
+                "मयूर (Peacock)",
+                "तोता (Parrot)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मयूर (Peacock)"
+        },
+        {
+            "id": 50,
+            "question": "निम्न में से किसका प्रयोग ताप शक्ति संयंत्रों में तोपीय विद्युत का उत्पादन करने के लिए किया जाता है? (Which of the following is used in thermal power plants to generate thermal electricity?)",
+            "options": [
+                "कोयला (Coal)",
+                "पेट्रोलियम (Petroleum)",
+                "प्राकृतिक गैस (Natural Gas)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0206",
+    "dateDisplay": "06 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्नलिखित में से कौन-सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित नहीं करता है ? (Which of the following terms does not represent electrical power in an electric circuit ?)",
+            "options": [
+                "I²R",
+                "I R²",
+                "VI",
+                "V²/R"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "I R²"
+        },
+        {
+            "id": 2,
+            "question": "प्रतिरोध का मान बढ़ाने के लिए प्रतिरोधों को जोड़ा जाना चाहिए (To increase the value of resistance, resistors should be connected in)",
+            "options": [
+                "समांतर क्रम में (parallel)",
+                "पार्श्व क्रम में (series)",
+                "(A) और (B) दोनों (both (A) and (B))",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "पार्श्व क्रम में (series)"
+        },
+        {
+            "id": 3,
+            "question": "मूत्र का पीला रंग किस वर्णक के कारण होता है ? (Which pigment makes the colour of urine yellow ?)",
+            "options": [
+                "हीमोग्लोबीन (Haemoglobin)",
+                "यूरोक्रोम (Urochrome)",
+                "क्लोरोफिल (Chlorophyll)",
+                "कैरोटिन (Carotene)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "यूरोक्रोम (Urochrome)"
+        },
+        {
+            "id": 4,
+            "question": "निम्नलिखित में से कौन नवीकरणीय ऊर्जा का स्रोत नहीं है ? (Which of the following is not a renewable source of energy ?)",
+            "options": [
+                "पवन (Wind)",
+                "जल (Water)",
+                "सूर्य (Sun)",
+                "पेट्रोल (Petrol)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "पेट्रोल (Petrol)"
+        },
+        {
+            "id": 5,
+            "question": "निम्नलिखित में से कौन विद्युत का सुचालक है ? (Which one of the following is conductor of electricity ?)",
+            "options": [
+                "सल्फर (Sulphur)",
+                "प्लास्टिक (Plastic)",
+                "आयोडीन (Iodine)",
+                "ग्रेफाइट (Graphite)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "ग्रेफाइट (Graphite)"
+        },
+        {
+            "id": 6,
+            "question": "निम्नलिखित में से कौन पारिस्थितिक तंत्र का एक जैव घटक हो सकता है ? (Which among the following may be biotic component of an ecosystem?)",
+            "options": [
+                "मृदा (Soil)",
+                "कवक (Fungi)",
+                "वायु (Air)",
+                "तापमान (Temperature)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कवक (Fungi)"
+        },
+        {
+            "id": 7,
+            "question": "विद्युत उपकरण का धातु आवरण जोड़ा जाता है (The metal cover of the electrical appliance is connected with)",
+            "options": [
+                "विद्युन्मय तार से (Live wire)",
+                "भू-तार (earth wire) से (Earth wire)",
+                "उदासीन तार (neutral wire) से (Neutral wire)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "भू-तार (earth wire) से (Earth wire)"
+        },
+        {
+            "id": 8,
+            "question": "निम्नलिखित में से किसमें विद्युत मोटर का उपयोग होता है ? (In which of the following is electric motor used ?)",
+            "options": [
+                "विद्युत पंखा में (Electric fan)",
+                "टेप रिकॉर्डर में (Tape recorder)",
+                "लेथ मशीन में (Lathe machine)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 9,
+            "question": "दो हल्के नाभिकों के जुड़कर एक भारी नाभिक बनने की क्रिया को कहते हैं (The process of combining two lighter nuclei to form one heavy nucleus is called)",
+            "options": [
+                "नाभिकीय संलयन (nuclear fusion)",
+                "नाभिकीय विखंडन (nuclear fission)",
+                "(A) और (B) दोनों (both (A) and (B))",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "नाभिकीय संलयन (nuclear fusion)"
+        },
+        {
+            "id": 10,
+            "question": "कार्बन आधुनिक आवर्त सारणी के किस वर्ग का सदस्य है ? (Carbon is a member of which group of modern Periodic Table ?)",
+            "options": [
+                "वर्ग 12 (Group 12)",
+                "वर्ग 13 (Group 13)",
+                "वर्ग 14 (Group 14)",
+                "वर्ग 2 (Group 2)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "वर्ग 14 (Group 14)"
+        },
+        {
+            "id": 11,
+            "question": "बाक्साईट निम्नांकित में से किस धातु का अयस्क है ? (Bauxite is an ore of which of the following metals ?)",
+            "options": [
+                "Al",
+                "Hg",
+                "Fe",
+                "Cu"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "Al"
+        },
+        {
+            "id": 12,
+            "question": "कमरे के ताप पर द्रव अवस्था में रहने वाली धातु है (The metal which remains in liquid state at room temperature)",
+            "options": [
+                "ब्रोमीन (Bromine)",
+                "ताँबा (Copper)",
+                "पारा (Mercury)",
+                "नाइट्रोजन (Nitrogen)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "पारा (Mercury)"
+        },
+        {
+            "id": 13,
+            "question": "सोडियम की संयोजकता क्या है ? (What is the valency of sodium ?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1"
+        },
+        {
+            "id": 14,
+            "question": "अधिकतर धातुओं के ऑक्साइड होते हैं (Oxides of most of the metals are)",
+            "options": [
+                "क्षारीय (basic)",
+                "अम्लीय (acidic)",
+                "उदासीन (neutral)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "क्षारीय (basic)"
+        },
+        {
+            "id": 15,
+            "question": "नाइट्रोजन के अणु में दो परमाणुओं के बीच कितने आबंध हैं ? (How many bonds are there between two atoms of a molecule of nitrogen ?)",
+            "options": [
+                "1",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 16,
+            "question": "सोडियम के बाह्यतम शेल में कितने इलेक्ट्रॉन विद्यमान हैं ? (How many electrons are there in the outermost shell of sodium?)",
+            "options": [
+                "4",
+                "3",
+                "1",
+                "2"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "1"
+        },
+        {
+            "id": 17,
+            "question": "निम्नांकित में से कौन-सी धातु उसके गलित क्लोराइड का वैद्युत अपघटन करके प्राप्त किया जाता है ? (Which of the following metals is obtained by the electrolysis of molten metal chloride ?)",
+            "options": [
+                "Mg",
+                "Cu",
+                "Zn",
+                "Fe"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "Mg"
+        },
+        {
+            "id": 18,
+            "question": "कोई धातु ऑक्सीजन के साथ अभिक्रिया कर उच्च गलनांक वाला यौगिक बनाता है। यह यौगिक जल में विलेय है। यह तत्व निम्नलिखित तत्वों में से कौन हो सकता है ? (On reacting with oxygen, a metal forms a compound having high melting point. This compound is soluble in water. Which among the following elements can it be?)",
+            "options": [
+                "कार्बन (Carbon)",
+                "सिलिकन (Silicon)",
+                "लोहा (Iron)",
+                "कैल्सियम (Calcium)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कैल्सियम (Calcium)"
+        },
+        {
+            "id": 19,
+            "question": "फेनॉल्फ्थैलीन सूचक का क्षारीय माध्यम में कैसा रंग होता है ? (What is the colour of phenolphthalein indicator in alkaline medium ?)",
+            "options": [
+                "हरा (Green)",
+                "गुलाबी (Pink)",
+                "पीला (Yellow)",
+                "नीला (Blue)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "गुलाबी (Pink)"
+        },
+        {
+            "id": 20,
+            "question": "ऐसीटिक अम्ल का IUPAC नाम है (The IUPAC name of acetic acid is)",
+            "options": [
+                "प्रोपेनोइक अम्ल (Propanoic acid)",
+                "एथेनोइक अम्ल (Ethanoic acid)",
+                "मेथेनोइक अम्ल (Methanoic acid)",
+                "टार्टरिक अम्ल (Tartaric acid)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "एथेनोइक अम्ल (Ethanoic acid)"
+        },
+        {
+            "id": 21,
+            "question": "निम्नांकित में से कौन-सी धातु तनु H₂SO₄ से अभिक्रिया नहीं करती है ? (Which of the following metals does not react with dilute H₂SO₄ ?)",
+            "options": [
+                "Mg",
+                "Zn",
+                "Al",
+                "Cu"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "Cu"
+        },
+        {
+            "id": 22,
+            "question": "निम्नांकित में धातुओं का युग्म कौन है ? (Which of the following is a pair of metals ?)",
+            "options": [
+                "सोडियम-कैल्सियम (Sodium-calcium)",
+                "कार्बन-गंधक (Carbon-sulphur)",
+                "ताँबा-गंधक (Copper-sulphur)",
+                "सोना-फॉस्फोरस (Gold-phosphorus)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "सोडियम-कैल्सियम (Sodium-calcium)"
+        },
+        {
+            "id": 23,
+            "question": "हीरा अपररूप है (Diamond is an allotrope of)",
+            "options": [
+                "गंधक का (Sulphur)",
+                "कार्बन का (Carbon)",
+                "फॉस्फोरस का (Phosphorus)",
+                "सिलिकन का (Silicon)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कार्बन का (Carbon)"
+        },
+        {
+            "id": 24,
+            "question": "ताँबा (Cu) की परमाणु संख्या होती है (The atomic number of copper (Cu) is)",
+            "options": [
+                "17",
+                "19",
+                "26",
+                "29"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "29"
+        },
+        {
+            "id": 25,
+            "question": "ऑक्जैलिक अम्ल पाया जाता है (Oxalic acid is found in)",
+            "options": [
+                "सिरका में (Vinegar)",
+                "इमली में (Tamarind)",
+                "संतरा में (Orange)",
+                "टमाटर में (Tomato)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "टमाटर में (Tomato)"
+        },
+        {
+            "id": 26,
+            "question": "निम्नलिखित में कौन-सी धातु ठंडे और गर्म जल से अभिक्रिया नहीं करती है ? (Which of the following metals does not react with cold and hot water?)",
+            "options": [
+                "Mg",
+                "Na",
+                "Ag",
+                "Fe"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "Fe"
+        },
+        {
+            "id": 27,
+            "question": "निम्नांकित में से कौन अमलगम है ? (Which of the following is an amalgam ?)",
+            "options": [
+                "Cu - Sn",
+                "Cu - Zn",
+                "Na - Hg",
+                "Pb - Sn"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "Na - Hg"
+        },
+        {
+            "id": 28,
+            "question": "निम्नांकित में से कौन धातु विद्युत का सबसे अच्छा सुचालक है ? (Which of the following metals is the best conductor of electricity?)",
+            "options": [
+                "Cu",
+                "Ag",
+                "Al",
+                "Pb"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "Ag"
+        },
+        {
+            "id": 29,
+            "question": "निम्नांकित में से कौन-सी धातु जिंक सल्फेट के विलयन से जिंक को विस्थापित कर सकती है ? (Which of the following metals can displace zinc from zinc sulphate solution ?)",
+            "options": [
+                "Mg",
+                "Au",
+                "Sn",
+                "Cu"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "Mg"
+        },
+        {
+            "id": 30,
+            "question": "कोई तत्व ऑक्सीजन से संयोग कर ऑक्साईड बनाता है। यह अभिक्रिया कहलाती है (An element combines with oxygen to form an oxide. This reaction is called)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "अपचयन (Reduction)",
+                "संयोजन (Combination)",
+                "वियोजन (Decomposition)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "उपचयन (Oxidation)"
+        },
+        {
+            "id": 31,
+            "question": "सूर्य के प्रकाश का अवशोषण करके घटित होने वाली अभिक्रियाएँ कहलाती हैं (The reactions that take place by absorption of sunlight are called)",
+            "options": [
+                "संयोजन अभिक्रिया (Combination reaction)",
+                "प्रकाश-रासायनिक अभिक्रिया (Photo-chemical reaction)",
+                "अवक्षेपण अभिक्रिया (Precipitation reaction)",
+                "विस्थापन अभिक्रिया (Displacement reaction)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "प्रकाश-रासायनिक अभिक्रिया (Photo-chemical reaction)"
+        },
+        {
+            "id": 32,
+            "question": "Pb(OH)NO₃ किस प्रकार का लवण है ? (Pb(OH)NO₃ is which type of salt?)",
+            "options": [
+                "अम्लीय लवण (Acidic salt)",
+                "सामान्य लवण (Normal salt)",
+                "क्षारकीय लवण (Basic salt)",
+                "मिश्रित लवण (Mixed salt)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "क्षारकीय लवण (Basic salt)"
+        },
+        {
+            "id": 33,
+            "question": "शुद्ध जल का pH मान कितना होता है ? (What is the pH value of pure water?)",
+            "options": [
+                "3",
+                "7",
+                "10",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 34,
+            "question": "अपशिष्ट प्रबंधन की नई धारणा क्या है ? (What is the new concept of waste management ?)",
+            "options": [
+                "कमी (Low)",
+                "पुनर्चालन (Restructuring)",
+                "पुनरुपयोग (Reuse)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 35,
+            "question": "पॉलीथिन थैलों के बदले किस प्रकार के थैले का इस्तेमाल किया जाना चाहिए ? (Which type of bag should be used instead of polythene bags ?)",
+            "options": [
+                "जूट का थैला (Jute bag)",
+                "कपड़ा का थैला (Cloth bag)",
+                "कागज का थैला (Paper bag)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 36,
+            "question": "कोयला एवं पेट्रोलियम में कौन-से तत्व पाए जाते हैं ? (Which elements are found in coal and petroleum ?)",
+            "options": [
+                "नाइट्रोजन (Nitrogen)",
+                "हाइड्रोजन (Hydrogen)",
+                "सल्फर (Sulphur)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 37,
+            "question": "वर्षा जल को भूमिगत जल स्तर तक पहुँचाने के लिए निम्नलिखित में किसका प्रयोग होता है ? (Which of the following is used to carry rain water to the ground water level ?)",
+            "options": [
+                "बोर वेल (Bore well)",
+                "डग वेल (Dug well)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "ट्यूबवेल (Tubewell)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 38,
+            "question": "तत्वों के निम्नलिखित युग्मों में से कौन-सा युग्म परमाणु संख्या 19 और 22 के मध्य स्थित है ? (Which of the following pairs of elements is located between atomic numbers 19 and 22?)",
+            "options": [
+                "Na, Mg",
+                "Ca, Sc",
+                "Cu, Zn",
+                "Ag, Au"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "Ca, Sc"
+        },
+        {
+            "id": 39,
+            "question": "जल में घुलनशील भस्म कहलाता है (Water soluble bases are called)",
+            "options": [
+                "अम्ल (Acid)",
+                "क्षार (Alkali)",
+                "लवण (Salt)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "क्षार (Alkali)"
+        },
+        {
+            "id": 40,
+            "question": "सोडा ऐश का रासायनिक सूत्र है (The chemical formula of soda ash is)",
+            "options": [
+                "CaCO₃",
+                "Na₂CO₃",
+                "Ca(HCO₃)₂",
+                "NaHCO₃"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "Na₂CO₃"
+        },
+        {
+            "id": 41,
+            "question": "निम्नांकित में कौन विजातीय यौगिक है ? (Which of the following is a heterogeneous compound ?)",
+            "options": [
+                "चूना पत्थर (Limestone)",
+                "प्लास्टर ऑफ पेरिस (Plaster of Paris)",
+                "संगमरमर (Marble)",
+                "खड़िया (Chalk)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "प्लास्टर ऑफ पेरिस (Plaster of Paris)"
+        },
+        {
+            "id": 42,
+            "question": "बेकिंग सोडा का रासायनिक सूत्र है (The chemical formula of baking soda is)",
+            "options": [
+                "CaCO₃",
+                "Na₂CO₃.10H₂O",
+                "Ca(OH)₂",
+                "NaHCO₃"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "NaHCO₃"
+        },
+        {
+            "id": 43,
+            "question": "निम्नांकित में कौन संक्षारक अम्ल है ? (Which of the following is a corrosive acid ?)",
+            "options": [
+                "मेथेनोइक अम्ल (Methanoic acid)",
+                "सल्फ्यूरिक अम्ल (Sulphuric acid)",
+                "एथेनोइक अम्ल (Ethanoic acid)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सल्फ्यूरिक अम्ल (Sulphuric acid)"
+        },
+        {
+            "id": 44,
+            "question": "मिल्क ऑफ मैग्नीशिया का pH मान होता है (The pH value of milk of magnesia is)",
+            "options": [
+                "4",
+                "3",
+                "7",
+                "10.5"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "10.5"
+        },
+        {
+            "id": 45,
+            "question": "सल्फर के संयोजी शेल में इलेक्ट्रॉनों की संख्या है (The number of electrons in the valance shell of sulphur is)",
+            "options": [
+                "2",
+                "4",
+                "7",
+                "6"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "6"
+        },
+        {
+            "id": 46,
+            "question": "निम्नलिखित तत्वों में किसकी आयनन ऊर्जा अधिकतम है ? (Which of the following elements has maximum ionization energy ?)",
+            "options": [
+                "Cl",
+                "F",
+                "I",
+                "Br"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "F"
+        },
+        {
+            "id": 47,
+            "question": "निम्नलिखित में कौन-सा मात्रक वाट (W) के बराबर होता है ? (Which one of the following units is equal to watt ?)",
+            "options": [
+                "J/s",
+                "J/sec²",
+                "J⁻¹s⁻¹",
+                "J⁻²s⁻²"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "J/s"
+        },
+        {
+            "id": 48,
+            "question": "विद्युत हीटर के तार की कुंडली बनी होती है (The coil of the electric heater wire is made up of)",
+            "options": [
+                "ताँबा की (Copper)",
+                "जस्ता की (Zinc)",
+                "टंगस्टन की (Tungsten)",
+                "नाइक्रोम की (Nichrome)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "नाइक्रोम की (Nichrome)"
+        },
+        {
+            "id": 49,
+            "question": "किसी परिपथ का वह गुण जो विद्युत ऊर्जा को ऊष्मा में बदल देता है, है (The property of a circuit that converts electrical energy into heat is)",
+            "options": [
+                "प्रतिरोध (resistance)",
+                "धारा (current)",
+                "विभवांतर (potential difference)",
+                "शक्ति (power)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "प्रतिरोध (resistance)"
+        },
+        {
+            "id": 50,
+            "question": "एक विद्युत सेल से धारा प्राप्त करने पर इसके सिरों के बीच विभवांतर का मान होता है (The potential difference across an electric cell upon drawing current becomes)",
+            "options": [
+                "विद्युत वाहक बल से अधिक (more than emf)",
+                "विद्युत वाहक बल से कम (less than emf)",
+                "विद्युत वाहक बल से दोगुना (double the emf)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "विद्युत वाहक बल से कम (less than emf)"
+        }
+    ]
+}

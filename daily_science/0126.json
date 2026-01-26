@@ -1,0 +1,658 @@
+{
+    "date": "0126",
+    "dateDisplay": "26 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "मेंडलीफ की आवर्त सारणी की एक कमी क्या थी? (Which was a defect of Mendeleev's periodic table?)",
+            "options": [
+                "ऑक्सीजन को सही स्थान नहीं देना (Not giving proper place to oxygen)",
+                "Cl को उचित स्थान न देना (Not giving proper place to Cl)",
+                "हाइड्रोजन को उचित स्थान नहीं देना (Not giving proper place to hydrogen)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "हाइड्रोजन को उचित स्थान नहीं देना (Not giving proper place to hydrogen)"
+        },
+        {
+            "id": 2,
+            "question": "अष्टक का नियम निम्नलिखित में से किसके द्वारा प्रतिपादित किया गया? (Who among the following propounded the laws of octave?)",
+            "options": [
+                "मेंडलीफ (Mendeleev)",
+                "न्यूलैंड्स (Newlands)",
+                "लोथर मेयर (Lother Meyer)",
+                "डॉबेराइनर (Dobereiner)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "न्यूलैंड्स (Newlands)"
+        },
+        {
+            "id": 3,
+            "question": "निम्नलिखित में से कौन यौगिक सबसे अधिक क्षारकीय होगा? (Which of the following compounds would be the most basic?)",
+            "options": [
+                "SO₂",
+                "Na₂O",
+                "Al₂O₃",
+                "NO₂"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "Na₂O"
+        },
+        {
+            "id": 4,
+            "question": "किरणों के समूह को कहते हैं (A group of rays is called):",
+            "options": [
+                "प्रकाश पुंज (Light beam)",
+                "किरण पुंज (Ray beam)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "किरण पुंज (Ray beam)"
+        },
+        {
+            "id": 5,
+            "question": "प्रकाश की किरणें गमन करती हैं (The light rays travel in):",
+            "options": [
+                "किसी भी दिशा में (any direction)",
+                "तिरछी रेखा में (oblique line)",
+                "सीधी रेखा में (a straight line)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सीधी रेखा में (a straight line)"
+        },
+        {
+            "id": 6,
+            "question": "अवतल दर्पण किस प्रकार का दर्पण है? (Which type of mirror is a concave mirror?)",
+            "options": [
+                "अपसारी (Divergent)",
+                "अभिसारी (Convergent)",
+                "अभिसारी तथा अपसारी दोनों (Both convergent and divergent)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "अभिसारी (Convergent)"
+        },
+        {
+            "id": 7,
+            "question": "कार की हेडलाइट में निम्नलिखित में से किस प्रकार के दर्पण का उपयोग किया जाता है? (Which of the following types of mirror is used in the headlight of a car?)",
+            "options": [
+                "उत्तल दर्पण (Convex mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 8,
+            "question": "अवतल दर्पण की फोकस दूरी होती है (The focal length of a concave mirror is):",
+            "options": [
+                "धनात्मक (Positive)",
+                "ऋणात्मक (Negative)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ऋणात्मक (Negative)"
+        },
+        {
+            "id": 9,
+            "question": "किस दर्पण से हमेशा वस्तु से छोटा प्रतिबिंब बनता है? (Which mirror always forms an image smaller than the object?)",
+            "options": [
+                "अवतल (Concave)",
+                "समतल (Plane)",
+                "उत्तल (Convex)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "उत्तल (Convex)"
+        },
+        {
+            "id": 10,
+            "question": "वायु में प्रकाश की चाल, निर्वात की अपेक्षा होती है (The speed of light in air as compared to vacuum is):",
+            "options": [
+                "कम (Less)",
+                "ज्यादा (More)",
+                "समान (Same)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "कम (Less)"
+        },
+        {
+            "id": 11,
+            "question": "प्रकाश द्वारा प्रदर्शित कौन-सी घटना तारों की टिमटिमाहट में प्रदर्शित होती है? (Which phenomenon exhibited by light is demonstrated in the twinkling of stars?)",
+            "options": [
+                "परावर्तन (Reflection)",
+                "वर्ण-विक्षेपण (Dispersion)",
+                "प्रकीर्णन (Scattering)",
+                "अपवर्तन (Refraction)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "अपवर्तन (Refraction)"
+        },
+        {
+            "id": 12,
+            "question": "कलपक्कम नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है? (In which state is the Kalpakkam Nuclear Power Plant located?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "तमिलनाडु (Tamil Nadu)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "तमिलनाडु (Tamil Nadu)"
+        },
+        {
+            "id": 13,
+            "question": "घरेलू गैस (LPG) का प्रमुख अवयव है (The main component of domestic gas (LPG) is):",
+            "options": [
+                "एथेन (Ethane)",
+                "प्रोपेन (Propane)",
+                "ब्यूटेन (Butane)",
+                "मिथेन (Methane)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "ब्यूटेन (Butane)"
+        },
+        {
+            "id": 14,
+            "question": "ऊर्जा के दो अनवीकरणीय स्रोत हैं (The two non-renewable sources of energy are):",
+            "options": [
+                "गोबर गैस तथा जैवमात्रा (Gobar gas and biomass)",
+                "कोयला तथा पेट्रोलियम (Coal and petroleum)",
+                "जैवमात्रा तथा पेट्रोलियम (Biomass and petroleum)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "कोयला तथा पेट्रोलियम (Coal and petroleum)"
+        },
+        {
+            "id": 15,
+            "question": "श्वसन किस प्रकार की अभिक्रिया है? (Which type of reaction is respiration?)",
+            "options": [
+                "संयोजन (Combination)",
+                "अपचयन (Reduction)",
+                "ऊष्माशोषी (Endothermic)",
+                "उपचयन (Oxidation)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "उपचयन (Oxidation)"
+        },
+        {
+            "id": 16,
+            "question": "इलेक्ट्रॉन के स्थानान्तरण से बने यौगिक कहलाते हैं (Compounds formed by transfer of electrons are called):",
+            "options": [
+                "कार्बनिक (Organic)",
+                "सहसंयोजी (Covalent)",
+                "वैद्युत संयोजी (Electrovalent / Ionic)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "वैद्युत संयोजी (Electrovalent / Ionic)"
+        },
+        {
+            "id": 17,
+            "question": "निम्नलिखित अभिक्रियाओं में से कौन अपघटन की अभिक्रिया का एक उदाहरण है? (Which of the following reactions is an example of decomposition reaction?)",
+            "options": [
+                "H₂ + I₂ → 2HI",
+                "NH₄CNO → H₂NCONH₂",
+                "NaOH + HCl → NaCl + H₂O",
+                "2KClO₃ → KCl + 3O₂"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "2KClO₃ → KCl + 3O₂"
+        },
+        {
+            "id": 18,
+            "question": "निम्नलिखित में किसमें टार्टरिक अम्ल पाया जाता है? (In which of the following is tartaric acid found?)",
+            "options": [
+                "संतरा (Orange)",
+                "इमली (Tamarind)",
+                "टमाटर (Tomato)",
+                "सिरका (Vinegar)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "इमली (Tamarind)"
+        },
+        {
+            "id": 19,
+            "question": "बुझे हुए चूने का रासायनिक नाम क्या है? (What is the chemical name of slaked lime?)",
+            "options": [
+                "कैल्सियम ऑक्सीक्लोराइड (Calcium oxychloride)",
+                "कैल्सियम क्लोराइड (Calcium chloride)",
+                "कैल्सियम ऑक्साइड (Calcium oxide)",
+                "कैल्सियम हाइड्राक्साइड (Calcium hydroxide)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "कैल्सियम हाइड्राक्साइड (Calcium hydroxide)"
+        },
+        {
+            "id": 20,
+            "question": "मैग्नीशियम आवर्त सारणी के किस समूह का सदस्य है? (Magnesium is a member of which group of the periodic table?)",
+            "options": [
+                "समूह VIII का (Group VIII)",
+                "समूह I का (Group I)",
+                "समूह II का (Group II)",
+                "अधातु तत्वों का (Nonmetallic element)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "समूह II का (Group II)"
+        },
+        {
+            "id": 21,
+            "question": "आवर्त सारणी में कितने आवर्त हैं? (How many periods are there in the periodic table?)",
+            "options": [
+                "12",
+                "9",
+                "8",
+                "7"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 22,
+            "question": "निम्नलिखित में कौन जल संचयन की प्राचीन विधि नहीं है? (Which of the following is not an ancient method of water harvesting?)",
+            "options": [
+                "कट्टा (Katta)",
+                "कुल्ह (Kulh)",
+                "डग वेल (Dug well)",
+                "ईरिश (Irish)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "डग वेल (Dug well)"
+        },
+        {
+            "id": 23,
+            "question": "टिहरी बाँध निर्माण का उद्देश्य क्या था? (What was the objective of construction of Tehri Dam?)",
+            "options": [
+                "बिजली उत्पादन (Electricity generation)",
+                "भूमि सिंचाई (Land irrigation)",
+                "जल आपूर्ति (Water supply)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 24,
+            "question": "अपशिष्ट प्रबंधन की नई अवधारणा क्या है? (What is the new concept of waste management?)",
+            "options": [
+                "पुनः उपयोग (Reuse)",
+                "पुनःचक्रण (Recycle)",
+                "कमी (Reduce)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 25,
+            "question": "निम्नलिखित में नवीकरणीय संसाधन कौन है? (Which of the following is a renewable resource?)",
+            "options": [
+                "कोयला (Coal)",
+                "वन (Forest)",
+                "पेट्रोलियम (Petroleum)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "वन (Forest)"
+        },
+        {
+            "id": 26,
+            "question": "निम्नलिखित में कौन बायोगैस का मुख्य घटक है? (Which of the following is the main component of biogas?)",
+            "options": [
+                "कार्बन डाइऑक्साइड (Carbon dioxide)",
+                "हाइड्रोजन सल्फाइड (Hydrogen sulphide)",
+                "जलवाष्प (Water vapour)",
+                "मिथेन (Methane)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "मिथेन (Methane)"
+        },
+        {
+            "id": 27,
+            "question": "पेप्टिक अल्सर हो सकता है (Peptic ulcer can be caused by):",
+            "options": [
+                "कम भोजन खाने से (Eating less food)",
+                "सामान्य भोजन खाने से (Eating normal food)",
+                "लंबे समय तक भूखे रहने से (Prolonged starvation)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "लंबे समय तक भूखे रहने से (Prolonged starvation)"
+        },
+        {
+            "id": 28,
+            "question": "दोहरा परिसंचरण नहीं पाया जाता है (Double circulation is not found in):",
+            "options": [
+                "मेढ़क में (Frog)",
+                "मछली में (Fish)",
+                "पक्षी में (Bird)",
+                "मनुष्य में (Human)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "मछली में (Fish)"
+        },
+        {
+            "id": 29,
+            "question": "किशोरावस्था में होने वाले परिवर्तन को कहते हैं (The changes that take place during adolescence are called):",
+            "options": [
+                "विविधता (Diversity)",
+                "अंकुरण (Germination)",
+                "प्यूबर्टि (Puberty)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "प्यूबर्टि (Puberty)"
+        },
+        {
+            "id": 30,
+            "question": "लेंस की फोकस दूरी f एवं क्षमता P हो, तो (If the focal length of the lens is f and power is P then):",
+            "options": [
+                "f / P = 0.5",
+                "f × P = 1",
+                "P + f = 1",
+                "P + f = 2"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "f × P = 1"
+        },
+        {
+            "id": 31,
+            "question": "निम्नलिखित में से कौन सा बुझा हुआ चूना है? (Which one of the following is slaked lime?)",
+            "options": [
+                "CaO",
+                "Ca(OH)₂",
+                "CaCO₃",
+                "Ca"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "Ca(OH)₂"
+        },
+        {
+            "id": 32,
+            "question": "हजामत के लिए किस दर्पण का उपयोग होता है? (Which mirror is used as shaving mirror?)",
+            "options": [
+                "अवतल दर्पण (Concave mirror)",
+                "उत्तल दर्पण (Convex mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "इनमें कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2017,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 33,
+            "question": "निम्नलिखित में कौन लवण है? (Which of the following is a salt?)",
+            "options": [
+                "HCI",
+                "NaOH",
+                "K2SO4",
+                "NH4OH"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "K2SO4"
+        },
+        {
+            "id": 34,
+            "question": "ग्लूकोज का रासायनिक सूत्र निम्नलिखित में कौन है? (Which of the following is the chemical formula of glucose?)",
+            "options": [
+                "C2H5OH",
+                "C6H6O6",
+                "C₆H₁₂O₆",
+                "C6H6"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "C₆H₁₂O₆"
+        },
+        {
+            "id": 35,
+            "question": "निम्न में से किस धातु का गलनांक सबसे कम है? (Which of the following metals has the lowest melting point?)",
+            "options": [
+                "Al",
+                "Na",
+                "Cu",
+                "Fe"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "Na"
+        },
+        {
+            "id": 36,
+            "question": "हमारा शरीर किस pH परास के बीच कार्य करता है? (Within which pH range does our body work?)",
+            "options": [
+                "4.0 से 4.8 (4.0 to 4.8)",
+                "5.0 से 5.8 (5.0 to 5.8)",
+                "6.0 से 6.8 (6.0 to 6.8)",
+                "7.0 से 7.8 (7.0 to 7.8)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "7.0 से 7.8 (7.0 to 7.8)"
+        },
+        {
+            "id": 37,
+            "question": "रंध्र का मुख्य कार्य है (The main function of stomata is)",
+            "options": [
+                "पोषण (Nutrition)",
+                "परिवहन (Transportation)",
+                "प्रकाश संश्लेषण (Photosynthesis)",
+                "गैसों का विनिमय (Gaseous exchange)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "गैसों का विनिमय (Gaseous exchange)"
+        },
+        {
+            "id": 38,
+            "question": "गोबरछत्ता है (Mushroom is)",
+            "options": [
+                "एक परजीवी (a parasite)",
+                "एक स्वपोषी (an autotroph)",
+                "एक मृतोपजीवी (a saprophyte)",
+                "शैवाल (an algae)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एक मृतोपजीवी (a saprophyte)"
+        },
+        {
+            "id": 39,
+            "question": "लैंगिक जनन संचारित रोग है (Sexually transmitted disease is)",
+            "options": [
+                "पीलिया (Jaundice)",
+                "चेचक (Smallpox)",
+                "एड्स (AIDS)",
+                "प्लेग (Plague)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एड्स (AIDS)"
+        },
+        {
+            "id": 40,
+            "question": "जिप्सम का रासायनिक सूत्र है (The chemical formula of gypsum is)",
+            "options": [
+                "CuSO₄.1/2H₂O",
+                "FeSO₄.7H₂O",
+                "CaSO₄.1/2H₂O",
+                "CaSO₄.2H₂O"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "CaSO₄.2H₂O"
+        },
+        {
+            "id": 41,
+            "question": "शुद्ध जल का pH मान होता है (The pH value of pure water is)",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 42,
+            "question": "सबसे कठोर प्राकृतिक पदार्थ है (The hardest natural substance is)",
+            "options": [
+                "चाँदी (Silver)",
+                "लोहा (Iron)",
+                "हीरा (Diamond)",
+                "कोयला (Coal)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "हीरा (Diamond)"
+        },
+        {
+            "id": 43,
+            "question": "पारिस्थितिक तंत्र में ऊर्जा का प्रवाह होता है (The flow of energy in an ecosystem is)",
+            "options": [
+                "एकदिशीय (unidirectional)",
+                "बहुदिशीय (multidirectional)",
+                "द्विदिशीय (bidirectional)",
+                "चक्रीय (cyclic)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "एकदिशीय (unidirectional)"
+        },
+        {
+            "id": 44,
+            "question": "पीतल है (Brass is)",
+            "options": [
+                "धातु (Metal)",
+                "अधातु (Non-metal)",
+                "मिश्र धातु (Alloy)",
+                "उपधातु (Metalloid)"
+            ],
+            "correct": 2,
+            "year": 2016,
+            "correctAnswer": "मिश्र धातु (Alloy)"
+        },
+        {
+            "id": 45,
+            "question": "दर्पण का सूत्र है (Mirror formula is)",
+            "options": [
+                "1/v + 1/u = 1/f",
+                "1/v - 1/u = 1/f",
+                "1/f + 1/u = 1/v",
+                "1/f + 1/v = 1/u"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "1/v + 1/u = 1/f"
+        },
+        {
+            "id": 46,
+            "question": "पित्त रस कहाँ से स्रावित होता है? (Where is bile juice secreted from?)",
+            "options": [
+                "यकृत (Liver)",
+                "मुख गुहा (Oral cavity)",
+                "आमाशय (Stomach)",
+                "छोटी आँत (Small intestine)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "यकृत (Liver)"
+        },
+        {
+            "id": 47,
+            "question": "निम्नलिखित में से कौन विद्युत का सबसे अच्छा चालक है ? (Which of the following is the best conductor of electricity?)",
+            "options": [
+                "चाँदी (Silver)",
+                "लोहा (Iron)",
+                "नाइक्रोम (Nichrome)",
+                "रबर (Rubber)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "चाँदी (Silver)"
+        },
+        {
+            "id": 48,
+            "question": "निम्नलिखित में से कौन गैस चूने के पानी को दुधिया कर देता है ? (Which of the following gases turns lime water milky?)",
+            "options": [
+                "Cl₂",
+                "SO₂",
+                "CO₂",
+                "O₂"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "CO₂"
+        },
+        {
+            "id": 49,
+            "question": "जिप्सम का रासायनिक सूत्र है (The chemical formula of Gypsum is)",
+            "options": [
+                "CaCO4.H2O",
+                "CaSO₄.2H₂O",
+                "CuSO4.10H2O",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "CaSO₄.2H₂O"
+        },
+        {
+            "id": 50,
+            "question": "फूल का कौन-सा भाग फल में बदलता है ? (Which part of a flower changes into fruit?)",
+            "options": [
+                "पुंकेशर (Stamen)",
+                "स्त्रीकेशर (Carpel)",
+                "अंडाशय (Ovary)",
+                "बीजांड (Ovule)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "अंडाशय (Ovary)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0205",
+    "dateDisplay": "05 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "ऑक्सीजन का परमाणु भार क्या है ? (What is the atomic weight of oxygen ?)",
+            "options": [
+                "8",
+                "12",
+                "16",
+                "18"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "16"
+        },
+        {
+            "id": 2,
+            "question": "बॉक्साइट निम्नांकित में से किस धातु का अयस्क है ? (Bauxite is an ore of which of the following metals?)",
+            "options": [
+                "Hg",
+                "Fe",
+                "Al",
+                "Zn"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "Al"
+        },
+        {
+            "id": 3,
+            "question": "धातुओं की क्रियाशीलता का सही क्रम है (The correct order of reactivity of metals is)",
+            "options": [
+                "Na > Zn > Mg > Cu",
+                "Na > Mg > Cu > Zn",
+                "Mg < Na < Zn < Cu",
+                "Na > Mg > Zn > Cu"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "Na > Mg > Zn > Cu"
+        },
+        {
+            "id": 4,
+            "question": "Fe2O3 + 2Al -> Al2O3 + 2Fe निम्नलिखित में से किस प्रकार की अभिक्रिया है। (Fe2O3 + 2Al -> Al2O3 + 2Fe is which of the following types reaction?)",
+            "options": [
+                "संयोजन (Combination)",
+                "विघटन (Decomposition)",
+                "विस्थापन (Displacement)",
+                "द्विविस्थापन (Double displacement)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "विस्थापन (Displacement)"
+        },
+        {
+            "id": 5,
+            "question": "कार्बन हाइड्रोजन से संयोग कर बनाता है (Carbon combines with hydrogen to form)",
+            "options": [
+                "अम्लराज (aqua regia)",
+                "हैलोजन (halogen)",
+                "हाइड्रोकार्बन (hydrocarbon)",
+                "आयनिक यौगिक (ionic compound)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "हाइड्रोकार्बन (hydrocarbon)"
+        },
+        {
+            "id": 6,
+            "question": "बोरॉन एवं ऐलुमिनियम आवर्त सारणी के किस वर्ग के तत्व हैं ? (Boron and aluminium belong to which group of elements in periodic table?)",
+            "options": [
+                "10",
+                "17",
+                "13",
+                "3"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "13"
+        },
+        {
+            "id": 7,
+            "question": "मूत्र का पीला रंग किस वर्णक के कारण होता है ? (Which pigment makes the colour of urine yellow?)",
+            "options": [
+                "क्रोमोप्लास्ट (Chromoplast)",
+                "यूरोक्रोम (Urochrome)",
+                "क्लोरोप्लास्ट (Chloroplast)",
+                "ल्यूकोप्लास्ट (Leucoplast)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "यूरोक्रोम (Urochrome)"
+        },
+        {
+            "id": 8,
+            "question": "बाघ उपभोक्ता है (The tiger is a consumer of)",
+            "options": [
+                "प्रथम पोषी स्तर का (first trophic level)",
+                "द्वितीय पोषी स्तर का (second trophic level)",
+                "तृतीय पोषी स्तर का (third trophic level)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "तृतीय पोषी स्तर का (third trophic level)"
+        },
+        {
+            "id": 9,
+            "question": "पित्त रस का स्राव होता है (Bile juice is secreted by)",
+            "options": [
+                "छोटी आँत द्वारा (small intestine)",
+                "यकृत द्वारा (liver)",
+                "अग्न्याशय द्वारा (pancreas)",
+                "ग्रहणी द्वारा (duodenum)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "यकृत द्वारा (liver)"
+        },
+        {
+            "id": 10,
+            "question": "मनुष्य, बिल्ली तथा चमगादड़ के अग्रपाद हैं (The forelimbs of man, cat and bat are)",
+            "options": [
+                "समजात अंग (homologous organ)",
+                "असमजात अंग (analogous organs)",
+                "अवशेषी अंग (vestigial organ)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "समजात अंग (homologous organ)"
+        },
+        {
+            "id": 11,
+            "question": "निम्नांकित में से कौन पुनरुद्भवन का उदाहरण है ? (Which of the following is an example of regeneration ?)",
+            "options": [
+                "हाइड्रा (Hydra)",
+                "मेढ़क (Frog)",
+                "गाय (Cow)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "हाइड्रा (Hydra)"
+        },
+        {
+            "id": 12,
+            "question": "किसी जीव की जीनी संरचना कहलाती है (The genic constitution of an individual organism is called)",
+            "options": [
+                "जीनोटाइप (genotype)",
+                "फीनोटाइप (phenotype)",
+                "विभिन्नता (variation)",
+                "आनुवंशिकता (heredity)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "जीनोटाइप (genotype)"
+        },
+        {
+            "id": 13,
+            "question": "मानव का प्रमुख उत्सर्जी अंग निम्नांकित में कौन है ? (Which of the following is the major excretory organ of human ?)",
+            "options": [
+                "रक्त (Blood)",
+                "वृक्क (Kidney)",
+                "अग्न्याशय (Pancreas)",
+                "स्वेद ग्रंथि (Sweat gland)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "वृक्क (Kidney)"
+        },
+        {
+            "id": 14,
+            "question": "निम्न में से कौन पिट्युटरी ग्रंथि से स्रावित होने वाला हॉर्मोन है ? (Which of the following is a hormone secreted by pituitary gland ?)",
+            "options": [
+                "थायरॉक्सीन (Thyroxine)",
+                "एंट्रोजेन (Androgen)",
+                "वृद्धि हॉर्मोन (Growth hormone)",
+                "इंसुलिन (Insulin)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "वृद्धि हॉर्मोन (Growth hormone)"
+        },
+        {
+            "id": 15,
+            "question": "पुष्प का नर जननांग कहलाता है (Male reproductive organ of a flower is called)",
+            "options": [
+                "पुंकेसर (Stamen)",
+                "स्त्रीकेसर (Pistil)",
+                "पंखुड़ी (Petal)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "पुंकेसर (Stamen)"
+        },
+        {
+            "id": 16,
+            "question": "द्विखंडन होता है (Binary fission occurs in)",
+            "options": [
+                "अमीबा में (Amoeba)",
+                "पारामिशियम में (Paramecium)",
+                "लिसमानिया में (Leishmania)",
+                "इनमें से सभी में (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी में (All of these)"
+        },
+        {
+            "id": 17,
+            "question": "युग्मक होते हैं (Gametes are)",
+            "options": [
+                "हमेशा अगुणित (always haploid)",
+                "हमेशा द्विगुणित (always diploid)",
+                "हमेशा त्रिगुणित (always triploid)",
+                "इनमें से कोई नहीं (any of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "हमेशा अगुणित (always haploid)"
+        },
+        {
+            "id": 18,
+            "question": "सोमैटोस्टैटिन है (Somatostatin is)",
+            "options": [
+                "आपातकालीन हॉर्मोन (emergency hormone)",
+                "वृद्धि अवरोधक हॉर्मोन (growth inhibitor hormone)",
+                "वृद्धि हॉर्मोन (growth hormone)",
+                "साइटोकाइनिन (cytokinin)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "वृद्धि अवरोधक हॉर्मोन (growth inhibitor hormone)"
+        },
+        {
+            "id": 19,
+            "question": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को कहते हैं (The structural and functional unit of kidney is called)",
+            "options": [
+                "बोमैन संपुट (Bowman's capsule)",
+                "नेफ्रॉन (Nephron)",
+                "ग्लोमेरुलस (Glomerulus)",
+                "मूत्रवाहिनी (Ureter)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "नेफ्रॉन (Nephron)"
+        },
+        {
+            "id": 20,
+            "question": "मानव मस्तिष्क का सर्वाधिक विकसित भाग है (The most highly developed part of human brain is)",
+            "options": [
+                "मेडुला (Medulla)",
+                "सेरेबेलम (Cerebellum)",
+                "सेरेब्रम (Cerebrum)",
+                "पॉन्स (Pons)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सेरेब्रम (Cerebrum)"
+        },
+        {
+            "id": 21,
+            "question": "मूत्र की सान्द्रता किस पर निर्भर करती है ? (Concentration of urine depends upon)",
+            "options": [
+                "मेलाटोनीन (Melatonin)",
+                "ADH (ADH)",
+                "थायरॉक्सीन (Thyroxine)",
+                "वैसोप्रेसीन (Vasopressin)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ADH (ADH)"
+        },
+        {
+            "id": 22,
+            "question": "पक्षी तथा चमगादड़ के पंख हैं (Wings of birds and bats are)",
+            "options": [
+                "अवशेषी अंग (Vestigial organ)",
+                "समजात अंग (Homologous organ)",
+                "समवृत्ति अंग (Analogous organ)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "समवृत्ति अंग (Analogous organ)"
+        },
+        {
+            "id": 23,
+            "question": "रक्त का लाल रंग निम्नांकित में से किस प्रोटीन के कारण होता है ? (Which one of the following proteins is responsible for the red colour of blood ?)",
+            "options": [
+                "हीपैरीन (Heparin)",
+                "हीमोग्लोबिन (Haemoglobin)",
+                "थ्रोम्बिन (Thrombin)",
+                "फाइब्रिनोजिन (Fibrinogen)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "हीमोग्लोबिन (Haemoglobin)"
+        },
+        {
+            "id": 24,
+            "question": "मानव में ऑटोसोम की जोड़ियों की संख्या होती है (The number of pairs of autosomes in human is)",
+            "options": [
+                "11",
+                "22",
+                "23",
+                "24"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "22"
+        },
+        {
+            "id": 25,
+            "question": "पौधों के वायवीय भागों से जल के वाष्प के रूप में निकलने की क्रिया कहलाती है (The exit of water in the form of vapour from the aerial parts of the plant is known as)",
+            "options": [
+                "परासरण (Diffusion)",
+                "विसरण (Osmosis)",
+                "वाष्पोत्सर्जन (Transpiration)",
+                "उत्सर्जन (Excretion)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "वाष्पोत्सर्जन (Transpiration)"
+        },
+        {
+            "id": 26,
+            "question": "आयोडीन घोल को स्टार्च में मिलाने पर इसका रंग हो जाता है (When iodine solution is mixed with starch, its colour becomes)",
+            "options": [
+                "नीला (blue)",
+                "हरा (green)",
+                "पीला (yellow)",
+                "लाल (red)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "नीला (blue)"
+        },
+        {
+            "id": 27,
+            "question": "दो तंत्रिका कोशिकाओं के मध्य खाली स्थान को कहते हैं (The space in between two nerve cells is called)",
+            "options": [
+                "एक्सॉन (Axon)",
+                "द्रुमिका (Dendrite)",
+                "आवेग (Impulse)",
+                "सिनेप्स (Synapse)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "सिनेप्स (Synapse)"
+        },
+        {
+            "id": 28,
+            "question": "वर्तिका भाग है (Style is a part of)",
+            "options": [
+                "जायांग का (Gynoecium)",
+                "पुंकेसर का (Stamen)",
+                "तंतु का (Filament)",
+                "अंडाशय का (Ovary)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "जायांग का (Gynoecium)"
+        },
+        {
+            "id": 29,
+            "question": "दाँत का कठोरतम भाग है (The hardest part of the tooth is)",
+            "options": [
+                "मज्जा गुहा (Pulp cavity)",
+                "डेंटाइन (Dentine)",
+                "केनाइन (Canine)",
+                "इनैमल (Enamel)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनैमल (Enamel)"
+        },
+        {
+            "id": 30,
+            "question": "एक खाद्य श्रृंखला में, दूसरे पोषी स्तर पर हमेशा कौन रहता है ? (In a food chain, who is always at the second trophic level ?)",
+            "options": [
+                "शाकाहारी (Herbivores)",
+                "स्वपोषी (Autotrophs)",
+                "मांसाहारी (Carnivores)",
+                "उत्पादक (Producer)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "शाकाहारी (Herbivores)"
+        },
+        {
+            "id": 31,
+            "question": "गर्म जल प्राप्त करने के लिए हम सौर जल तापक का उपयोग किस दिन नहीं कर सकते ? (On which day we cannot use solar heater to get hot water?)",
+            "options": [
+                "धूप वाले दिन (Sunny day)",
+                "बादलों वाले दिन (Cloudy day)",
+                "गरम दिन (Hot day)",
+                "हवादार दिन (Windy day)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "बादलों वाले दिन (Cloudy day)"
+        },
+        {
+            "id": 32,
+            "question": "निम्नलिखित में से कौन जैवमात्रा ऊर्जा स्रोत का उदाहरण नहीं है ? (Which of the following is not an example of biomass energy source ?)",
+            "options": [
+                "लकड़ी (Wood)",
+                "गोबर गैस (Gobar gas)",
+                "नाभिकीय ऊर्जा (Atomic energy)",
+                "कोयला (Coal)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "नाभिकीय ऊर्जा (Atomic energy)"
+        },
+        {
+            "id": 33,
+            "question": "समजात अंगों का उदाहरण है (Which are examples of homologous organs ?)",
+            "options": [
+                "मानव हाथ तथा कुत्ते का अग्रपाद (Forelimb of human and dog)",
+                "मानव दाँत तथा हाथी का दाँत (Teeth of human and elephant)",
+                "आलू एवं घास के उपरिभूस्तारी (Runner of potato and grass)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 34,
+            "question": "निम्नलिखित में कौन परागकोष में होते हैं ? (Which of the following are present in the anther ?)",
+            "options": [
+                "स्त्रीकेसर (Pistil)",
+                "बीजांड (Ovules)",
+                "बाह्यदल (Sepals)",
+                "पराग कण (Pollen grains)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "पराग कण (Pollen grains)"
+        },
+        {
+            "id": 35,
+            "question": "निम्न में से कौन आहार श्रृंखला का निर्माण करते हैं ? (Which of the following constitutes a food chain ?)",
+            "options": [
+                "घास, गेहूँ तथा आम (Grass, wheat and mango)",
+                "घास, बकरी तथा मानव (Grass, goat and human)",
+                "बकरी, गाय तथा हाथी (Goat, cow and elephant)",
+                "घास, मछली तथा बकरी (Grass, fish and goat)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "घास, बकरी तथा मानव (Grass, goat and human)"
+        },
+        {
+            "id": 36,
+            "question": "Philosophic Zoologique नामक पुस्तक किसके द्वारा लिखी गई है ? (Who wrote the book Philosophic Zoologique ?)",
+            "options": [
+                "डार्विन द्वारा (Darwin)",
+                "मिलर द्वारा (Miller)",
+                "वाईसमान द्वारा (Weismann)",
+                "लामार्क द्वारा (Lamarck)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "लामार्क द्वारा (Lamarck)"
+        },
+        {
+            "id": 37,
+            "question": "रेजिन एवं गोंद कहाँ संचित रहता है ? (Where are resins and gum stored in ?)",
+            "options": [
+                "फ्लोएम में (Phloem)",
+                "छाल में (Bark)",
+                "कॉर्टेक्स में (Cortex)",
+                "पुराने जाइलम में (Old xylem)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "पुराने जाइलम में (Old xylem)"
+        },
+        {
+            "id": 38,
+            "question": "निम्न में से किस माध्यम में प्रकाश की चाल अधिकतम होती है ? (In which of the following mediums is the speed of light maximum ?)",
+            "options": [
+                "जल (Water)",
+                "हवा (Air)",
+                "शीशा (Glass)",
+                "हीरा (Diamond)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "हवा (Air)"
+        },
+        {
+            "id": 39,
+            "question": "विद्युत आवेश का SI मात्रक है (S. I. unit of electric charge is)",
+            "options": [
+                "वोल्ट (volt)",
+                "ओम (ohm)",
+                "ऐम्पियर (ampere)",
+                "कूलॉम (coulomb)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कूलॉम (coulomb)"
+        },
+        {
+            "id": 40,
+            "question": "अतिभारण के समय विद्युत परिपथ में विद्युत धारा का मान होता है (The value of the current in the electric circuit at the time of overloading is)",
+            "options": [
+                "बहुत कम (very low)",
+                "बहुत अधिक (very high)",
+                "अपरिवर्तित (unchanged)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "बहुत अधिक (very high)"
+        },
+        {
+            "id": 41,
+            "question": "विभक्त वलय का उपयोग किस उपकरण में किया जाता है ? (In which instrument is split ring used?)",
+            "options": [
+                "विद्युत मोटर (Electric motor)",
+                "विद्युत जनित्र (Electric generator)",
+                "एम्मीटर (Ammeter)",
+                "गैल्वेनोमीटर (Galvanometer)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "विद्युत मोटर (Electric motor)"
+        },
+        {
+            "id": 42,
+            "question": "सौर कुकर के लिए कौन-सा दर्पण सर्वाधिक उपयुक्त होता है ? (Which mirror is best suited for a solar cooker ?)",
+            "options": [
+                "उत्तल दर्पण (Convex mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 43,
+            "question": "विद्युत विभवांतर का SI मात्रक है (The SI unit of electric potential difference is)",
+            "options": [
+                "वोल्ट (volt)",
+                "वोल्ट प्रति कूलॉम (volt/coulomb)",
+                "एम्पियर (ampere)",
+                "ओम (ohm)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "वोल्ट (volt)"
+        },
+        {
+            "id": 44,
+            "question": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है (The colour of neutral wire in a domestic electrical circuit is)",
+            "options": [
+                "पीला (Yellow)",
+                "काला (Black)",
+                "हरा (Green)",
+                "लाल (Red)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "काला (Black)"
+        },
+        {
+            "id": 45,
+            "question": "बैटरी से किस प्रकार की धारा प्राप्त होती है ? (What type of current is received from the battery ?)",
+            "options": [
+                "प्रत्यावर्ती धारा (Alternating current)",
+                "दिष्ट धारा (Direct current)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "दिष्ट धारा (Direct current)"
+        },
+        {
+            "id": 46,
+            "question": "सघन माध्यम से विरल माध्यम में प्रवेश करने पर आपतन कोण तथा अपवर्तन कोण में क्या संबंध रहता है ? (What is the relationship between the angle of incidence and the angle of refraction on entering from a denser medium into a rarer medium?)",
+            "options": [
+                "आपतन कोण बड़ा होता है (The angle of incidence is greater)",
+                "अपवर्तन कोण बड़ा होता है (The angle of refraction is greater)",
+                "दोनों कोण बराबर होते हैं (Both angles are equal)",
+                "इनमें कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अपवर्तन कोण बड़ा होता है (The angle of refraction is greater)"
+        },
+        {
+            "id": 47,
+            "question": "समांग माध्यम में प्रकाश गमन करता है (In a homogeneous medium light travels in)",
+            "options": [
+                "सरल रेखा में (straight line)",
+                "वक्र रेखा में (curved line)",
+                "अनिश्चित तरीके से (indefinite ways)",
+                "वृत्त में (in circle)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "सरल रेखा में (straight line)"
+        },
+        {
+            "id": 48,
+            "question": "लेंस का सूत्र है (The formula of lens is)",
+            "options": [
+                "1/f - 1/u = - 1/v",
+                "1/v - 1/u = 1/f",
+                "1/v + 1/u = 1/f",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1/v - 1/u = 1/f"
+        },
+        {
+            "id": 49,
+            "question": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्ध्य अधिकतम होता है ? (Which colour has maximum wavelength in visible light ?)",
+            "options": [
+                "पीला (Yellow)",
+                "नीला (Blue)",
+                "बैंगनी (Violet)",
+                "लाल (Red)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 50,
+            "question": "किसी लेंस की फोकस दूरी 1m है। उसकी क्षमता होगी (The focal length of any lens is 1 metre. Its power will be)",
+            "options": [
+                "1.5 डायोप्टर (1.5 dioptre)",
+                "0.5 डायोप्टर (0.5 dioptre)",
+                "1 डायोप्टर (1 dioptre)",
+                "2 डायोप्टर (2 dipotre)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "1 डायोप्टर (1 dioptre)"
+        }
+    ]
+}

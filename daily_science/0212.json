@@ -1,0 +1,658 @@
+{
+    "date": "0212",
+    "dateDisplay": "12 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "टारटैरिक अम्ल निम्नलिखित में से किसमें पाया जाता है? (Tartaric acid is found in which one of the following?)",
+            "options": [
+                "टमाटर (Tomato)",
+                "संतरा (Orange)",
+                "सिरका (Vinegar)",
+                "इमली (Tamarind)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इमली (Tamarind)"
+        },
+        {
+            "id": 2,
+            "question": "जिंक तथा सल्फ्यूरिक अम्ल के बीच अभिक्रिया से निम्नलिखित में से कौन-सी गैस निकलती है? (Which of the following is evolved when zinc reacts with sulphuric acid ?)",
+            "options": [
+                "O₂",
+                "CO₂",
+                "H₂",
+                "N₂"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "H₂"
+        },
+        {
+            "id": 3,
+            "question": "आयोडीन की कमी से कौन-सा रोग होता है? (Which disease is caused by the deficiency of iodine ?)",
+            "options": [
+                "घेघा (Goitre)",
+                "मधुमेह (Diabetes)",
+                "स्कर्वी (Scurvy)",
+                "एड्स (AIDS)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "घेघा (Goitre)"
+        },
+        {
+            "id": 4,
+            "question": "निम्न में कौन पिट्युटरी ग्रंथि से निकलने वाला हार्मोन है? (Which one of the following is a hormone secreted by pituitary gland ?)",
+            "options": [
+                "वृद्धि हार्मोन (Growth hormone)",
+                "थायरॉक्सीन (Thyroxine)",
+                "इंसुलिन (Insulin)",
+                "एण्ड्रोजन (Androgen)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "वृद्धि हार्मोन (Growth hormone)"
+        },
+        {
+            "id": 5,
+            "question": "अमीबा में अलैंगिक जनन किस विधि द्वारा होता है? (Which method of asexual reproduction occurs in amoeba ?)",
+            "options": [
+                "मुकुलन (Budding)",
+                "विखंडन (Fission)",
+                "बीजाणुजनन (Sporulation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "विखंडन (Fission)"
+        },
+        {
+            "id": 6,
+            "question": "मानव का प्रमुख उत्सर्जी अंग निम्नांकित में कौन है? (Main excretory organ of human beings in the following is)",
+            "options": [
+                "वृक्क (kidney)",
+                "रक्त (blood)",
+                "स्वेद ग्रंथि (sweat gland)",
+                "अग्न्याशय (pancreas)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "वृक्क (kidney)"
+        },
+        {
+            "id": 7,
+            "question": "ऍड्रोजेन क्या है? (What is Androgen?)",
+            "options": [
+                "नर लिंग हार्मोन (Male sex hormone)",
+                "मादा लिंग हार्मोन (Female sex hormone)",
+                "पाचक रस (Digestive juice)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "नर लिंग हार्मोन (Male sex hormone)"
+        },
+        {
+            "id": 8,
+            "question": "जब किसी अभिक्रिया के समय किसी पदार्थ में ऑक्सीजन की वृद्धि होती है, तो निम्नलिखित में से क्या कहा जाता है? (If a substance gains oxygen during a reaction, then it is known as which of the following?)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "अपचयन (Reduction)",
+                "संक्षारण (Corrosion)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "उपचयन (Oxidation)"
+        },
+        {
+            "id": 9,
+            "question": "धोने का सोडा का आण्विक सुत्र है- (The molecular formula of washing soda is)",
+            "options": [
+                "Na2CO3",
+                "Na2CO3.2H2O",
+                "Na2CO3.10H2O",
+                "Na2CO3.5H2O"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "Na2CO3.10H2O"
+        },
+        {
+            "id": 10,
+            "question": "अमीबा अपना भोजन कैसे पकड़ता है? (How does amoeba catch its food?)",
+            "options": [
+                "स्पर्शक द्वारा (By tentacles)",
+                "जीभ द्वारा (By tongue)",
+                "कूटपाद द्वारा (By pseudopodia)",
+                "मुँह द्वारा (By mouth)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "कूटपाद द्वारा (By pseudopodia)"
+        },
+        {
+            "id": 11,
+            "question": "कौन-सा एंजाइम वसा पर क्रिया करता है? (Which enzyme acts upon fat?)",
+            "options": [
+                "पेप्सीन (Pepsin)",
+                "ट्रिप्सीन (Trypsin)",
+                "लाइपेज (Lypase)",
+                "एमाइलेज (Amylase)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "लाइपेज (Lypase)"
+        },
+        {
+            "id": 12,
+            "question": "मछली का श्वसनांग है- (Respiratory organ of fish is)",
+            "options": [
+                "ट्रेकिया (trachea)",
+                "गिल्स (gills)",
+                "त्वचा (skin)",
+                "फेफड़ा (lungs)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "गिल्स (gills)"
+        },
+        {
+            "id": 13,
+            "question": "रासायनिक अभिक्रिया में भाग लेने वाले पदार्थ को कहा जाता है। (The substances taking part in a chemical reaction are called)",
+            "options": [
+                "अभिकारक (Reactants)",
+                "उत्पाद (Products)",
+                "अभिकारक एवं उत्पाद दोनों (Both reactants and products)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अभिकारक (Reactants)"
+        },
+        {
+            "id": 14,
+            "question": "टूथपेस्ट कैसा होता है? (How is toothpaste?)",
+            "options": [
+                "अम्लीय (Acidic)",
+                "क्षारीय (Basic)",
+                "उदासीन (Neutral)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "क्षारीय (Basic)"
+        },
+        {
+            "id": 15,
+            "question": "निम्नलिखित में कौन विद्युत का सुचालक है? (Which of the following is a conductor of electricity?)",
+            "options": [
+                "सल्फर (Sulphur)",
+                "क्लोरीन (Chlorine)",
+                "ग्रेफाइट (Graphite)",
+                "आयोडीन (Iodine)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "ग्रेफाइट (Graphite)"
+        },
+        {
+            "id": 16,
+            "question": "निम्नलिखित में कौन कार्बोक्सिल समूह है? (Which of the following is a carboxyl group?)",
+            "options": [
+                "-CHO",
+                ">CO",
+                "-COOH",
+                "-O-"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "-COOH"
+        },
+        {
+            "id": 17,
+            "question": "आमीटर से निम्नलिखित में किसे मापा जाता है ? (Which of the following is measured by an ammeter?)",
+            "options": [
+                "धारा (Current)",
+                "आवेश (Charge)",
+                "विभव (Potential)",
+                "विद्युत शक्ति (Electric Power)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "धारा (Current)"
+        },
+        {
+            "id": 18,
+            "question": "वह उपकरण जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है, होता है- (The device that converts electrical energy into mechanical energy is)",
+            "options": [
+                "जेनरेटर (Generator)",
+                "विद्युत मोटर (Electric Motor)",
+                "जेनरेटर और विद्युत मोटर दोनों (Both Generator and Electric Motor)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "विद्युत मोटर (Electric Motor)"
+        },
+        {
+            "id": 19,
+            "question": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है? (Short-sightedness is corrected by which of the following lenses?)",
+            "options": [
+                "उत्तल (Convex)",
+                "अवतल (Concave)",
+                "बाइफोकल (Bifocal)",
+                "बेलनाकार (Cylindrical)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "अवतल (Concave)"
+        },
+        {
+            "id": 20,
+            "question": "पौधे में जनन अंग कहाँ पाये जाते हैं ?. (Where are reproductive organs found in plants?)",
+            "options": [
+                "तना में (In stem)",
+                "जड़ में (In root)",
+                "पुष्प में (In flower)",
+                "फल में (In fruit)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "पुष्प में (In flower)"
+        },
+        {
+            "id": 21,
+            "question": "मेडल ने अपने आनुवंशिको प्रयोग हेतु किस पौधे का उपयोग किया था? (Which plant did Mendel use for his genetics experiments?)",
+            "options": [
+                "नीम (Neem)",
+                "गुलाब (Rose)",
+                "मटर (Pea)",
+                "गुलदाऊदी (Chrysanthemum)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "मटर (Pea)"
+        },
+        {
+            "id": 22,
+            "question": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह किस दिशा में होता है? (In which direction does energy flow in an ecosystem?)",
+            "options": [
+                "एकदिशीय (Unidirectional)",
+                "द्विदिशीय (Bidirectional)",
+                "बहूदिशीय (Multidirectional)",
+                "किसी भी दिशा में नहीं (Non-directional)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "एकदिशीय (Unidirectional)"
+        },
+        {
+            "id": 23,
+            "question": "ओजोन परत पाया जाता है (Ozone layer is found in)",
+            "options": [
+                "वायुमंडल के निचली सतह में (Lower layer of atmosphere)",
+                "वायुमंडल के ऊपरी सतह में (Upper layer of atmosphere)",
+                "वायुमंडल के मध्य सतह में (Middle layer of atmosphere)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वायुमंडल के ऊपरी सतह में (Upper layer of atmosphere)"
+        },
+        {
+            "id": 24,
+            "question": "पौधों में गैसों का आदान-प्रदान किसके द्वारा होता है ? (Gas exchange in plants takes place through)",
+            "options": [
+                "रन्ध्र (Stomata)",
+                "जड़ (Root)",
+                "तना (Stem)",
+                "टहनी (Branch)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "रन्ध्र (Stomata)"
+        },
+        {
+            "id": 25,
+            "question": "निम्न में सबसे तेज हृदय धड़कन किसका होता है? (Who has the fastest heartbeat among the following?)",
+            "options": [
+                "हेल (Whale)",
+                "चूहा (Mouse)",
+                "हाथी (Elephant)",
+                "आदमी (Man)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "चूहा (Mouse)"
+        },
+        {
+            "id": 26,
+            "question": "सजीव जीवधारियों द्वारा किस प्रकार की नाइट्रोजनी पदार्थ (कचरा) का उत्सर्जन होता है ? (Which type of nitrogenous waste is excreted by living organisms?)",
+            "options": [
+                "अमोनिया (Ammonia)",
+                "यूरिक अम्ल (Uric acid)",
+                "यूरिया (Urea)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 27,
+            "question": "तंत्रिका तंत्र की रचनात्मक एवं क्रियात्मक इकाई को कहते हैं। (The structural and functional unit of the nervous system is called)",
+            "options": [
+                "नेफ्रॉन (Nephron)",
+                "न्यूरॉन (Neuron)",
+                "सेरीब्रम (Cerebrum)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "न्यूरॉन (Neuron)"
+        },
+        {
+            "id": 28,
+            "question": "निम्नलिखित में किस धातु से सोलर सेल बना होता है? (Solar cell is made of which of the following metals?)",
+            "options": [
+                "जस्ता (Zinc)",
+                "सोना (Gold)",
+                "प्लेटिनम (Platinum)",
+                "सिलिकन (Silicon)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सिलिकन (Silicon)"
+        },
+        {
+            "id": 29,
+            "question": "निम्नलिखित में सबसे भारी धातु कौन है? (Which is the heaviest metal among the following?)",
+            "options": [
+                "लिथियम (Lithium)",
+                "यूरेनियम (Uranium)",
+                "सिजियम (Cesium)",
+                "आयरन (Iron)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "यूरेनियम (Uranium)"
+        },
+        {
+            "id": 30,
+            "question": "इथेन के एक अणु में कितने सह-संयोजक बंधन है ? (How many covalent bonds are there in a molecule of ethane?)",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "7"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 31,
+            "question": "किसकी उपस्थिति के कारण पौधे का रंग हरा होता है ? (Due to whose presence is the color of plants green?)",
+            "options": [
+                "क्लोरोफिल (Chlorophyll)",
+                "लिउकोप्लास्ट (Leucoplast)",
+                "फाइटोक्रोम (Phytochrome)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "क्लोरोफिल (Chlorophyll)"
+        },
+        {
+            "id": 32,
+            "question": "पौधे में उत्सर्जी पदार्थ है- (Excretory substance in plants is)",
+            "options": [
+                "गोंद (Gum)",
+                "टैनिन (Tannin)",
+                "रेजिन (Resin)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 33,
+            "question": "टेहरी बाँध का निर्माण किस प्रदेश में किया गया है? (In which state has the Tehri Dam been constructed?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "उत्तराखंड (Uttarakhand)",
+                "राजस्थान (Rajasthan)",
+                "मध्य प्रदेश (Madhya Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 34,
+            "question": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है? (Due to which of the following does acid rain occur?)",
+            "options": [
+                "CO₂",
+                "SO₂",
+                "CO",
+                "Cl₂"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "SO₂"
+        },
+        {
+            "id": 35,
+            "question": "स्विच लगाये जाते हैं- (Switches are connected to)",
+            "options": [
+                "ठंडे तार में (Cold wire)",
+                "गर्म तार में (Live wire)",
+                "भू-योजित तार में (Earth wire)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "गर्म तार में (Live wire)"
+        },
+        {
+            "id": 36,
+            "question": "निम्न में से कौन अनवीकरणीय ऊर्जा का स्रोत नहीं है? (Which of the following is NOT a non-renewable energy source?)",
+            "options": [
+                "पेट्रोलियम (Petroleum)",
+                "कोयला (Coal)",
+                "बायोगैस (Biogas)",
+                "प्राकृतिक गैस (Natural Gas)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "बायोगैस (Biogas)"
+        },
+        {
+            "id": 37,
+            "question": "मनुष्य में वृक्क निम्न में किससे संबंधित है? (Kidney in humans is related to which of the following?)",
+            "options": [
+                "पोषण (Nutrition)",
+                "श्वसन (Respiration)",
+                "परिवहन (Transport)",
+                "उत्सर्जन (Excretion)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "उत्सर्जन (Excretion)"
+        },
+        {
+            "id": 38,
+            "question": "हाइड्रा में क्या पाया जाता है ? (What is found in Hydra?)",
+            "options": [
+                "मस्तिष्क (Brain)",
+                "तंत्रिका (Nerve)",
+                "मुख (Mouth)",
+                "स्पर्शक (Tentacles)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "स्पर्शक (Tentacles)"
+        },
+        {
+            "id": 39,
+            "question": "किसे रासायनिक दूत कहा जाता है? (Who is called chemical messenger?)",
+            "options": [
+                "उद्दीपक (Stimulus)",
+                "पाचक रस (Digestive Juice)",
+                "हार्मोन (Hormone)",
+                "आवेग (Impulse)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "हार्मोन (Hormone)"
+        },
+        {
+            "id": 40,
+            "question": "'द ओरिजिन ऑफ स्पेशीज' नामक पुस्तक किसने लिखी है ? (Who wrote the book 'The Origin of Species'?)",
+            "options": [
+                "डार्विन (Darwin)",
+                "लैमार्क (Lamarck)",
+                "ओपेरिन (Oparin)",
+                "वाईसमान (Weismann)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "डार्विन (Darwin)"
+        },
+        {
+            "id": 41,
+            "question": "निम्नलिखित में किस माध्यम में प्रकाश की चाल सबसे अधिक होता है? (In which medium is the speed of light maximum?)",
+            "options": [
+                "काँच (Glass)",
+                "पानी (Water)",
+                "लोहा (Iron)",
+                "निर्वात (Vacuum)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "निर्वात (Vacuum)"
+        },
+        {
+            "id": 42,
+            "question": "विभवांतर का S.I. मात्रक होता है (The S.I. unit of potential difference is)",
+            "options": [
+                "कूलम्ब (Coulomb)",
+                "वोल्ट (Volt)",
+                "एम्पीयर (Ampere)",
+                "ओम (Ohm)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वोल्ट (Volt)"
+        },
+        {
+            "id": 43,
+            "question": "प्रकाश की किरणें गमन करती हैं (Light rays travel in)",
+            "options": [
+                "सीधी रेखा में (Straight line)",
+                "तिरछी रेखा में (Oblique line)",
+                "किसी भी दिशा में (Any direction)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "सीधी रेखा में (Straight line)"
+        },
+        {
+            "id": 44,
+            "question": "निम्नलिखित में कौन लेंस की क्षमता का मात्रक है? (Which of the following is the unit of lens power?)",
+            "options": [
+                "जूल (Joule)",
+                "वाट (Watt)",
+                "डाइऑप्टर (Diopter)",
+                "अर्ग (Erg)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "डाइऑप्टर (Diopter)"
+        },
+        {
+            "id": 45,
+            "question": "किस रंग का विचलन न्यूनतम होता है? (Which color has minimum deviation?)",
+            "options": [
+                "लाल (Red)",
+                "पीला (Yellow)",
+                "नीला (Blue)",
+                "बैंगनी (Violet)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 46,
+            "question": "बैटरी से किस प्रकार की धारा प्राप्त होती है? (What type of current is obtained from a battery?)",
+            "options": [
+                "प्रत्यावर्ती धारा (Alternating Current)",
+                "दिष्ट धारा (Direct Current)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "दिष्ट धारा (Direct Current)"
+        },
+        {
+            "id": 47,
+            "question": "समीकरण 2H₂ + O₂ → 2H₂O है एक (The equation 2H₂ + O₂ → 2H₂O is a)",
+            "options": [
+                "संयोजन अभिक्रिया (Combination reaction)",
+                "वियोजन अभिक्रिया (Decomposition reaction)",
+                "अवशेष अभिक्रिया (Precipitation reaction)",
+                "उदासीनीकरण अभिक्रिया (Neutralization reaction)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "संयोजन अभिक्रिया (Combination reaction)"
+        },
+        {
+            "id": 48,
+            "question": "अमीबा में अधिकांश पोषण कैसा होता है ? (How is most nutrition in Amoeba?)",
+            "options": [
+                "शाकाहारी (Herbivorous)",
+                "अंतर्ग्रहण (Ingestion)",
+                "सर्वाहारी (Omnivorous)",
+                "स्वपोषी (Autotrophic)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "अंतर्ग्रहण (Ingestion)"
+        },
+        {
+            "id": 49,
+            "question": "आवर्त सारणी के प्रथम वर्ग के सदस्य होते हैं (Members of the first group of the periodic table are)",
+            "options": [
+                "अम्लीय धातु (Acidic metal)",
+                "अक्रिय गैस (Inert gas)",
+                "क्षार धातु (Alkali metal)",
+                "मिश्र धातु (Alloy)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "क्षार धातु (Alkali metal)"
+        },
+        {
+            "id": 50,
+            "question": "निम्नलिखित में कौन प्राकृतिक संसाधन नहीं है? (Which of the following is not a natural resource?)",
+            "options": [
+                "वायू (Air)",
+                "जल (Water)",
+                "मिट्टी (Soil)",
+                "जीवधारी (Organism)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "जीवधारी (Organism)"
+        }
+    ]
+}

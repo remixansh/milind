@@ -1,0 +1,891 @@
+{
+    "subjects": {
+        "science": {
+            "name": "Science - High Yield Questions",
+            "icon": "flask",
+            "description": "Top 80 most repeated questions from BSEB Science papers (2016-2025)",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "मेंडल ने अपने प्रयोगों के लिए किस पौधे का चयन किया? (Which plant did Mendel select for his experiments?)",
+                    "options": [
+                        "आम (Mango)",
+                        "गुलाब (Rose)",
+                        "गेहूँ (Wheat)",
+                        "मटर (Pea)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 2,
+                    "question": "वृक्क की रचनात्मक एवं क्रियात्मक इकाई है (The structural and functional unit of kidney is):",
+                    "options": [
+                        "न्यूरॉन (Neuron)",
+                        "नेफ्रॉन (Nephron)",
+                        "ग्लोमेरुलस (Glomerulus)",
+                        "निलय (Ventricle)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 3,
+                    "question": "जैव आवर्धन प्रदर्शित करने वाला रसायन है (The chemical which shows biomagnification is):",
+                    "options": [
+                        "CFC",
+                        "ADP",
+                        "ATP",
+                        "DDT"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 4,
+                    "question": "ओजोन परत के अपक्षय के लिए कौन-सी गैस जिम्मेदार है? (Which gas is responsible for ozone layer depletion?)",
+                    "options": [
+                        "CO₂",
+                        "O₂",
+                        "CFC",
+                        "N₂"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 5,
+                    "question": "रक्त में ऑक्सीजन का वहन करता है (Oxygen is carried in blood by):",
+                    "options": [
+                        "WBC",
+                        "हीमोग्लोबिन (Haemoglobin)",
+                        "प्लाज्मा (Plasma)",
+                        "प्लेटलेट्स (Platelets)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 6,
+                    "question": "सबसे कठोर प्राकृतिक पदार्थ है (The hardest natural substance is):",
+                    "options": [
+                        "लोहा (Iron)",
+                        "सोना (Gold)",
+                        "चांदी (Silver)",
+                        "हीरा (Diamond)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 7,
+                    "question": "ओजोन का आण्विक सूत्र है (The molecular formula of ozone is):",
+                    "options": [
+                        "O₂",
+                        "O₃",
+                        "O₄",
+                        "O₅"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 8,
+                    "question": "मानव का उद्भव कहाँ हुआ? (Where did humans originate?)",
+                    "options": [
+                        "एशिया (Asia)",
+                        "अफ्रीका (Africa)",
+                        "यूरोप (Europe)",
+                        "ऑस्ट्रेलिया (Australia)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 9,
+                    "question": "शुद्ध जल का pH मान होता है (The pH value of pure water is):",
+                    "options": [
+                        "0",
+                        "5",
+                        "7",
+                        "14"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 10,
+                    "question": "आधुनिक आवर्त सारणी में कितने आवर्त एवं समूह हैं? (How many periods and groups are in modern periodic table?)",
+                    "options": [
+                        "6 आवर्त, 16 समूह",
+                        "7 आवर्त, 18 समूह",
+                        "8 आवर्त, 18 समूह",
+                        "7 आवर्त, 16 समूह"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 11,
+                    "question": "प्रतिरोध का SI मात्रक है (The SI unit of resistance is):",
+                    "options": [
+                        "वाट (Watt)",
+                        "वोल्ट (Volt)",
+                        "एम्पियर (Ampere)",
+                        "ओम (Ohm)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 12,
+                    "question": "भारत में प्रत्यावर्ती धारा की आवृत्ति होती है (The frequency of AC current in India is):",
+                    "options": [
+                        "50 Hz",
+                        "60 Hz",
+                        "100 Hz",
+                        "220 Hz"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 13,
+                    "question": "वायवीय श्वसन से अधिक ऊर्जा मुक्त होती है (Aerobic respiration releases more energy):",
+                    "options": [
+                        "सही (True)",
+                        "गलत (False)",
+                        "दोनों बराबर (Both equal)",
+                        "इनमें से कोई नहीं (None)"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 14,
+                    "question": "लाइपेज किस पर कार्य करता है? (Lipase acts on which substance?)",
+                    "options": [
+                        "प्रोटीन (Protein)",
+                        "कार्बोहाइड्रेट (Carbohydrate)",
+                        "वसा (Fat)",
+                        "न्यूक्लिक अम्ल (Nucleic acid)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 15,
+                    "question": "कार के अग्रदीप में प्रयुक्त दर्पण होता है (Mirror used in car headlight is):",
+                    "options": [
+                        "समतल (Plane)",
+                        "उत्तल (Convex)",
+                        "अवतल (Concave)",
+                        "बाइफोकल (Bifocal)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 16,
+                    "question": "कार के साइड मिरर में प्रयुक्त दर्पण होता है (Mirror used in car side mirror is):",
+                    "options": [
+                        "समतल (Plane)",
+                        "उत्तल (Convex)",
+                        "अवतल (Concave)",
+                        "बाइफोकल (Bifocal)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 17,
+                    "question": "निकट-दृष्टि दोष के निवारण के लिए प्रयुक्त लेंस है (Lens used to correct myopia is):",
+                    "options": [
+                        "उत्तल (Convex)",
+                        "अवतल (Concave)",
+                        "बाइफोकल (Bifocal)",
+                        "बेलनाकार (Cylindrical)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 18,
+                    "question": "दूर-दृष्टि दोष के निवारण के लिए प्रयुक्त लेंस है (Lens used to correct hypermetropia is):",
+                    "options": [
+                        "उत्तल (Convex)",
+                        "अवतल (Concave)",
+                        "बाइफोकल (Bifocal)",
+                        "बेलनाकार (Cylindrical)"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 19,
+                    "question": "घेंघा रोग किसकी कमी से होता है? (Goitre is caused by deficiency of):",
+                    "options": [
+                        "आयरन (Iron)",
+                        "कैल्शियम (Calcium)",
+                        "आयोडीन (Iodine)",
+                        "जिंक (Zinc)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 20,
+                    "question": "धोबिया सोडा का रासायनिक सूत्र है (The chemical formula of washing soda is):",
+                    "options": [
+                        "NaHCO₃",
+                        "Na₂CO₃",
+                        "Na₂CO₃·10H₂O",
+                        "NaCl"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 21,
+                    "question": "खड़िया का रासायनिक सूत्र है (The chemical formula of chalk is):",
+                    "options": [
+                        "MgCO₃",
+                        "Na₂CO₃",
+                        "CaCO₃",
+                        "Mg(HCO₃)₂"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 22,
+                    "question": "पारा का अयस्क है (The ore of mercury is):",
+                    "options": [
+                        "बॉक्साइट (Bauxite)",
+                        "सिनेबार (Cinnabar)",
+                        "हेमेटाइट (Haematite)",
+                        "कैलामाइन (Calamine)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 23,
+                    "question": "समावयवी यौगिकों में होता है (Isomers have):",
+                    "options": [
+                        "समान सूत्र, भिन्न संरचना (Same formula, different structure)",
+                        "भिन्न सूत्र, समान संरचना",
+                        "समान सूत्र, समान संरचना",
+                        "इनमें से कोई नहीं"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 24,
+                    "question": "अम्लराज (एक्वा रेजिया) में HCl और HNO₃ का अनुपात होता है (The ratio of HCl and HNO₃ in aqua regia is):",
+                    "options": [
+                        "1:3",
+                        "3:1",
+                        "1:1",
+                        "2:1"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 25,
+                    "question": "टमाटर में कौन सा अम्ल पाया जाता है? (Which acid is found in tomato?)",
+                    "options": [
+                        "सिट्रिक अम्ल (Citric acid)",
+                        "ऑक्सैलिक अम्ल (Oxalic acid)",
+                        "टार्टरिक अम्ल (Tartaric acid)",
+                        "एसिटिक अम्ल (Acetic acid)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 26,
+                    "question": "इमली में कौन सा अम्ल पाया जाता है? (Which acid is found in tamarind?)",
+                    "options": [
+                        "सिट्रिक अम्ल (Citric acid)",
+                        "ऑक्सैलिक अम्ल (Oxalic acid)",
+                        "टार्टरिक अम्ल (Tartaric acid)",
+                        "एसिटिक अम्ल (Acetic acid)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 27,
+                    "question": "सबसे अधिक क्रियाशील धातु है (The most reactive metal is):",
+                    "options": [
+                        "Na",
+                        "K",
+                        "Ca",
+                        "Fe"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 28,
+                    "question": "C₃H₈ में कितने सहसंयोजक बंधन हैं? (How many covalent bonds are in C₃H₈?)",
+                    "options": [
+                        "8",
+                        "9",
+                        "10",
+                        "11"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 29,
+                    "question": "सोडियम को चाकू से आसानी से काटा जा सकता है क्योंकि यह है (Sodium can be easily cut with knife because it is):",
+                    "options": [
+                        "कठोर (Hard)",
+                        "मुलायम (Soft)",
+                        "भंगुर (Brittle)",
+                        "तन्य (Ductile)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 30,
+                    "question": "सोने के आभूषण बनाने में कौन सी धातु मिलाई जाती है? (Which metal is mixed in making gold ornaments?)",
+                    "options": [
+                        "Fe",
+                        "Zn",
+                        "Cu",
+                        "Ag"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 31,
+                    "question": "श्वेत फास्फोरस को किसमें रखा जाता है? (White phosphorus is kept in):",
+                    "options": [
+                        "मिट्टी के तेल में (Kerosene)",
+                        "जल में (Water)",
+                        "एल्कोहल में (Alcohol)",
+                        "वायु में (Air)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 32,
+                    "question": "जल में घुलनशील क्षारक कहलाते हैं (Water soluble bases are called):",
+                    "options": [
+                        "अम्ल (Acids)",
+                        "क्षार (Alkali)",
+                        "लवण (Salts)",
+                        "ऑक्साइड (Oxides)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 33,
+                    "question": "बेकिंग सोडा का रासायनिक सूत्र है (The chemical formula of baking soda is):",
+                    "options": [
+                        "Na₂CO₃",
+                        "NaHCO₃",
+                        "NaCl",
+                        "NaOH"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 34,
+                    "question": "सल्फर की संयोजकता इलेक्ट्रॉन संख्या है (The valence electrons of sulphur are):",
+                    "options": [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 35,
+                    "question": "सबसे अधिक आयनन ऊर्जा किसकी है? (Which has maximum ionization energy?)",
+                    "options": [
+                        "Li",
+                        "Na",
+                        "K",
+                        "F"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 36,
+                    "question": "-CHO क्रियात्मक समूह कहलाता है (The -CHO functional group is called):",
+                    "options": [
+                        "ऐल्कोहॉल (Alcohol)",
+                        "एल्डिहाइड (Aldehyde)",
+                        "कीटोन (Ketone)",
+                        "कार्बोक्सिलिक अम्ल (Carboxylic acid)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 37,
+                    "question": "एथेनॉल + सांद्र H₂SO₄ → ? (Ethanol + Conc. H₂SO₄ →)",
+                    "options": [
+                        "CH₄",
+                        "C₂H₆",
+                        "C₂H₄",
+                        "C₂H₂"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 38,
+                    "question": "जिंक ब्लेंड किसका अयस्क है? (Zinc blende is an ore of):",
+                    "options": [
+                        "Fe",
+                        "Cu",
+                        "Zn",
+                        "Al"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 39,
+                    "question": "CaO + H₂O → Ca(OH)₂ यह किस प्रकार की अभिक्रिया है? (This is which type of reaction?)",
+                    "options": [
+                        "वियोजन (Decomposition)",
+                        "संयोजन (Combination)",
+                        "विस्थापन (Displacement)",
+                        "द्विविस्थापन (Double displacement)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 40,
+                    "question": "क्षारीय विलयन का pH मान होता है (The pH of alkaline solution is):",
+                    "options": [
+                        "7 से कम (Less than 7)",
+                        "7",
+                        "7 से अधिक (More than 7)",
+                        "0"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 41,
+                    "question": "जल में H:O का अनुपात होता है (The ratio of H:O in water is):",
+                    "options": [
+                        "1:1",
+                        "2:1",
+                        "1:2",
+                        "3:1"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 42,
+                    "question": "प्रथम आवर्त में कितने तत्व हैं? (How many elements are in first period?)",
+                    "options": [
+                        "2",
+                        "8",
+                        "18",
+                        "32"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 43,
+                    "question": "संतृप्त हाइड्रोकार्बन कहलाते हैं (Saturated hydrocarbons are called):",
+                    "options": [
+                        "ऐल्कीन (Alkene)",
+                        "ऐल्काइन (Alkyne)",
+                        "ऐल्केन (Alkane)",
+                        "ऐरीन (Arene)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 44,
+                    "question": "मेंडलीफ की आवर्त सारणी में रिक्त स्थान को भरने वाला तत्व था (The element that filled Mendeleev's gap was):",
+                    "options": [
+                        "जर्मेनियम (Germanium)",
+                        "गैलियम (Gallium)",
+                        "स्कैंडियम (Scandium)",
+                        "इनमें से सभी (All of these)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 45,
+                    "question": "आवर्त के अंतिम सदस्य होते हैं (The last member of a period is):",
+                    "options": [
+                        "धातु (Metal)",
+                        "अधातु (Non-metal)",
+                        "उपधातु (Metalloid)",
+                        "अक्रिय गैस (Inert gas)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 46,
+                    "question": "सबसे अधिक क्रियाशील हैलोजन है (The most reactive halogen is):",
+                    "options": [
+                        "Cl",
+                        "Br",
+                        "I",
+                        "F"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 47,
+                    "question": "बायोगैस का मुख्य घटक है (The main component of biogas is):",
+                    "options": [
+                        "CO₂",
+                        "H₂S",
+                        "CH₄",
+                        "N₂"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 48,
+                    "question": "टिंक्चर आयोडीन किसमें घुला होता है? (Tincture iodine is dissolved in):",
+                    "options": [
+                        "जल में (Water)",
+                        "एथिल एल्कोहल में (Ethyl alcohol)",
+                        "मिट्टी के तेल में (Kerosene)",
+                        "तेल में (Oil)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 49,
+                    "question": "O₂ अणु में कितने बंधन होते हैं? (How many bonds are in O₂ molecule?)",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "0"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 50,
+                    "question": "समूह 13-18 के तत्व कहलाते हैं (Elements of groups 13-18 are called):",
+                    "options": [
+                        "s-ब्लॉक",
+                        "p-ब्लॉक",
+                        "d-ब्लॉक",
+                        "f-ब्लॉक"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 51,
+                    "question": "पेंटेन के कितने समावयवी हैं? (How many isomers of pentane are there?)",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 52,
+                    "question": "ऐमलगम किसकी मिश्रधातु है? (Amalgam is an alloy of):",
+                    "options": [
+                        "Cu के साथ (with Cu)",
+                        "पारा के साथ (with Mercury)",
+                        "Zn के साथ (with Zn)",
+                        "Fe के साथ (with Fe)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 53,
+                    "question": "कार्बन के क्रिस्टलीय अपररूप हैं (Crystalline allotropes of carbon are):",
+                    "options": [
+                        "हीरा (Diamond)",
+                        "फुलरीन (Fullerene)",
+                        "ग्रेफाइट (Graphite)",
+                        "इनमें से सभी (All of these)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 54,
+                    "question": "दुर्बल अम्ल है (A weak acid is):",
+                    "options": [
+                        "H₂SO₄",
+                        "HCl",
+                        "HNO₃",
+                        "CH₃COOH"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 55,
+                    "question": "नाइट्रोजन अणु में कितने बंधन होते हैं? (How many bonds are in nitrogen molecule?)",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 56,
+                    "question": "ऐल्काइन का सामान्य सूत्र है (The general formula of alkyne is):",
+                    "options": [
+                        "CₙH₂ₙ₊₂",
+                        "CₙH₂ₙ",
+                        "CₙH₂ₙ₋₂",
+                        "CₙH₂ₙ₋₄"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 57,
+                    "question": "LPG का मुख्य घटक है (The main component of LPG is):",
+                    "options": [
+                        "मिथेन (Methane)",
+                        "एथेन (Ethane)",
+                        "प्रोपेन (Propane)",
+                        "ब्यूटेन (Butane)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 58,
+                    "question": "एक परिनालिका का व्यवहार होता है (A solenoid behaves like):",
+                    "options": [
+                        "चुंबक (Magnet)",
+                        "विद्युत सेल (Electric cell)",
+                        "धारित्र (Capacitor)",
+                        "प्रतिरोधक (Resistor)"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": 59,
+                    "question": "विद्युत मोटर रूपांतरित करता है (Electric motor converts):",
+                    "options": [
+                        "यांत्रिक ऊर्जा को विद्युत में",
+                        "विद्युत ऊर्जा को यांत्रिक में",
+                        "रासायनिक को विद्युत में",
+                        "विद्युत को रासायनिक में"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 60,
+                    "question": "फ्लेमिंग के वाम-हस्त नियम में तर्जनी इंगित करती है (In Fleming's left-hand rule, index finger indicates):",
+                    "options": [
+                        "धारा की दिशा (Current direction)",
+                        "चुंबकीय क्षेत्र की दिशा (Magnetic field direction)",
+                        "बल की दिशा (Force direction)",
+                        "गति की दिशा (Motion direction)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 61,
+                    "question": "सौर सेल किससे बना होता है? (Solar cell is made of):",
+                    "options": [
+                        "ताँबा (Copper)",
+                        "सिलिकॉन (Silicon)",
+                        "लोहा (Iron)",
+                        "जस्ता (Zinc)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 62,
+                    "question": "विद्युत बल्ब का तंतु किससे बना होता है? (Filament of electric bulb is made of):",
+                    "options": [
+                        "लोहा (Iron)",
+                        "ताँबा (Copper)",
+                        "टंगस्टन (Tungsten)",
+                        "एल्युमिनियम (Aluminium)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 63,
+                    "question": "1 जूल = ? कैलोरी (1 Joule = ? calories):",
+                    "options": [
+                        "0.19",
+                        "0.21",
+                        "0.23",
+                        "0.25"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 64,
+                    "question": "चुंबक स्थिर अवस्था में किस दिशा में ठहरती है? (In which direction does a magnet rest in stable position?)",
+                    "options": [
+                        "पूर्व-पश्चिम (East-West)",
+                        "उत्तर-दक्षिण (North-South)",
+                        "ऊपर-नीचे (Up-Down)",
+                        "किसी भी दिशा में (Any direction)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 65,
+                    "question": "विद्युत चुंबकीय प्रेरण की खोज किसने की? (Who discovered electromagnetic induction?)",
+                    "options": [
+                        "न्यूटन (Newton)",
+                        "ओम (Ohm)",
+                        "फैराडे (Faraday)",
+                        "एम्पियर (Ampere)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 66,
+                    "question": "नेत्र में प्रतिबिंब कैसा बनता है? (What type of image is formed in eye?)",
+                    "options": [
+                        "वास्तविक, सीधा, छोटा",
+                        "वास्तविक, उल्टा, छोटा",
+                        "आभासी, सीधा, बड़ा",
+                        "आभासी, उल्टा, छोटा"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 67,
+                    "question": "स्वस्थ नेत्र का निकट बिंदु होता है (Near point of healthy eye is):",
+                    "options": [
+                        "10 cm",
+                        "25 cm",
+                        "50 cm",
+                        "अनंत (Infinity)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 68,
+                    "question": "स्वस्थ नेत्र का दूर बिंदु होता है (Far point of healthy eye is):",
+                    "options": [
+                        "25 cm",
+                        "50 cm",
+                        "100 cm",
+                        "अनंत (Infinity)"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": 69,
+                    "question": "तारों का टिमटिमाना किस कारण होता है? (Twinkling of stars is due to):",
+                    "options": [
+                        "परावर्तन (Reflection)",
+                        "अपवर्तन (Refraction)",
+                        "विवर्तन (Diffraction)",
+                        "प्रकीर्णन (Scattering)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 70,
+                    "question": "कॉर्पस ल्यूटियम से कौन सा हॉर्मोन स्रावित होता है? (Which hormone is secreted by corpus luteum?)",
+                    "options": [
+                        "एस्ट्रोजन (Estrogen)",
+                        "प्रोजेस्टेरोन (Progesterone)",
+                        "टेस्टोस्टेरोन (Testosterone)",
+                        "इंसुलिन (Insulin)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 71,
+                    "question": "पारिस्थितिक तंत्र में ऊर्जा का स्रोत है (Source of energy in ecosystem is):",
+                    "options": [
+                        "पानी (Water)",
+                        "मिट्टी (Soil)",
+                        "सूर्य (Sun)",
+                        "हवा (Air)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 72,
+                    "question": "प्राथमिक उपभोक्ता कहलाते हैं (Primary consumers are called):",
+                    "options": [
+                        "मांसाहारी (Carnivores)",
+                        "शाकाहारी (Herbivores)",
+                        "सर्वाहारी (Omnivores)",
+                        "अपघटक (Decomposers)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 73,
+                    "question": "लेंस की क्षमता का मात्रक है (The unit of power of lens is):",
+                    "options": [
+                        "मीटर (Metre)",
+                        "सेंटीमीटर (Centimetre)",
+                        "डायोप्टर (Dioptre)",
+                        "वाट (Watt)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 74,
+                    "question": "उत्तल दर्पण की फोकस दूरी होती है (Focal length of convex mirror is):",
+                    "options": [
+                        "ऋणात्मक (Negative)",
+                        "धनात्मक (Positive)",
+                        "शून्य (Zero)",
+                        "अनंत (Infinity)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 75,
+                    "question": "ग्लाइकोलिसिस कहाँ होता है? (Where does glycolysis occur?)",
+                    "options": [
+                        "माइटोकॉन्ड्रिया में (Mitochondria)",
+                        "कोशिकाद्रव्य में (Cytoplasm)",
+                        "केंद्रक में (Nucleus)",
+                        "रिक्तिका में (Vacuole)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 76,
+                    "question": "तंत्रिका तंत्र की क्रियात्मक इकाई है (Functional unit of nervous system is):",
+                    "options": [
+                        "मस्तिष्क (Brain)",
+                        "न्यूरॉन (Neuron)",
+                        "मेरुरज्जु (Spinal cord)",
+                        "तंत्रिका (Nerve)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 77,
+                    "question": "अनुचुंबक सुई किस उपकरण में होती है? (Magnetic needle is in which instrument?)",
+                    "options": [
+                        "वोल्टमीटर (Voltmeter)",
+                        "ऐमीटर (Ammeter)",
+                        "कंपास (Compass)",
+                        "गैल्वेनोमीटर (Galvanometer)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 78,
+                    "question": "प्रकाश संश्लेषण की प्रकाश अभिक्रिया कहाँ होती है? (Where does light reaction of photosynthesis occur?)",
+                    "options": [
+                        "स्ट्रोमा में (Stroma)",
+                        "ग्रेना में (Grana)",
+                        "कोशिकाद्रव्य में (Cytoplasm)",
+                        "केंद्रक में (Nucleus)"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": 79,
+                    "question": "मिथेन का आकार होता है (Shape of methane is):",
+                    "options": [
+                        "रैखिक (Linear)",
+                        "त्रिकोणीय (Triangular)",
+                        "चतुष्फलकीय (Tetrahedral)",
+                        "अष्टफलकीय (Octahedral)"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": 80,
+                    "question": "ऐल्केन का सामान्य सूत्र है (General formula of alkane is):",
+                    "options": [
+                        "CₙH₂ₙ",
+                        "CₙH₂ₙ₊₂",
+                        "CₙH₂ₙ₋₂",
+                        "CₙH₂ₙ₋₄"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    }
+}

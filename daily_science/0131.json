@@ -1,0 +1,658 @@
+{
+    "date": "0131",
+    "dateDisplay": "31 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "एक साधारण प्रिज्म कितने सतहों से घिरा रहता है? (A simple prism is bounded by how many surfaces?)",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "5"
+        },
+        {
+            "id": 2,
+            "question": "वृक्क सहायता प्रदान करता है (Kidney helps in):",
+            "options": [
+                "श्वसन में (respiration)",
+                "जनन में (reproduction)",
+                "उत्सर्जन में (excretion)",
+                "पाचन में (digestion)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "उत्सर्जन में (excretion)"
+        },
+        {
+            "id": 3,
+            "question": "प्रकाश संश्लेषण होता है (Photosynthesis takes place during):",
+            "options": [
+                "सुबह-शाम (Morning-evening)",
+                "केवल दिन में (Day only)",
+                "दिन-रात (Day-night)",
+                "केवल रात में (Night only)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "केवल दिन में (Day only)"
+        },
+        {
+            "id": 4,
+            "question": "सिनैप्टिक नॉब्स पाया जाता है (Synaptic knobs are found in):",
+            "options": [
+                "वृक्क में (kidney)",
+                "मस्तिष्क में (brain)",
+                "अंडाशय में (ovary)",
+                "न्यूरॉन में (neuron)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "न्यूरॉन में (neuron)"
+        },
+        {
+            "id": 5,
+            "question": "निम्न में सबसे तेज हृदय धड़कन किसका होता है? (Which of the following has the fastest heartbeat?)",
+            "options": [
+                "हाथी (Elephant)",
+                "आदमी (Human)",
+                "चूहा (Rat)",
+                "ह्वेल (Whale)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "चूहा (Rat)"
+        },
+        {
+            "id": 6,
+            "question": "कोशिकीय ईंधन निम्न में से कौन है? (Which of the following is cellular fuel?)",
+            "options": [
+                "प्रोटीन (Protein)",
+                "ग्लूकोज (Glucose)",
+                "वसा (Fat)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "ग्लूकोज (Glucose)"
+        },
+        {
+            "id": 7,
+            "question": "ATP में फॉस्फेट की संख्या कितनी होती है? (How many phosphates are there in ATP?)",
+            "options": [
+                "एक (1)",
+                "दो (2)",
+                "तीन (3)",
+                "चार (4)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "तीन (3)"
+        },
+        {
+            "id": 8,
+            "question": "निम्नलिखित में कौन मनुष्य का एक उत्सर्जी अंग नहीं है? (Which of the following is not an excretory organ of human?)",
+            "options": [
+                "फेंफड़ा (Lungs)",
+                "वृक्क (Kidney)",
+                "अग्न्याशय (Pancreas)",
+                "त्वचा (Skin)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अग्न्याशय (Pancreas)"
+        },
+        {
+            "id": 9,
+            "question": "सबसे छोटी अंतःस्रावी ग्रंथि है (The smallest endocrine gland is):",
+            "options": [
+                "एड्रिनल (Adrenal)",
+                "थाइरॉइड (Thyroid)",
+                "पीनियल (Pineal)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "पीनियल (Pineal)"
+        },
+        {
+            "id": 10,
+            "question": "सभी अम्ल जल में घुलकर प्रदान करते हैं (All acids dissolve in water to give):",
+            "options": [
+                "H⁺ आयन (H⁺)",
+                "OH आयन (OH ion)",
+                "इलेक्ट्रॉन (electron)",
+                "न्यूट्रॉन (neutron)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "H⁺ आयन (H⁺)"
+        },
+        {
+            "id": 11,
+            "question": "निम्नांकित यौगिकों में कौन दुर्बल अम्ल है? (Which of the following compounds is a weak acid?)",
+            "options": [
+                "HCl",
+                "CH₃COOH",
+                "H₂SO₄",
+                "HNO₃"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "CH₃COOH"
+        },
+        {
+            "id": 12,
+            "question": "सिल्वर आयोडाइड का रंग कैसा होता है? (What is the colour of silver iodide?)",
+            "options": [
+                "श्वेत (White)",
+                "नीला (Blue)",
+                "पीला (Yellow)",
+                "हरा (Green)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "पीला (Yellow)"
+        },
+        {
+            "id": 13,
+            "question": "सबसे कठोर प्राकृतिक पदार्थ है (The hardest natural substance is):",
+            "options": [
+                "चाँदी (Silver)",
+                "सोना (Gold)",
+                "हीरा (Diamond)",
+                "लोहा (Iron)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "हीरा (Diamond)"
+        },
+        {
+            "id": 14,
+            "question": "कार्बन के कितने रवादार अपररूप हैं? (How many crystalline allotropes of carbon are there?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 15,
+            "question": "जिंक ब्लेंड किस धातु का अयस्क है? (Zinc blende is an ore of which metal?)",
+            "options": [
+                "Mg",
+                "Zn",
+                "Pb",
+                "Au"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "Zn"
+        },
+        {
+            "id": 16,
+            "question": "नाइट्रोजन के अणु में दो परमाणुओं के बीच कितने आबंध हैं? (How many bonds are there between two atoms in a nitrogen molecule?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 17,
+            "question": "ऐल्काईन का सामान्य सूत्र है (The general formula of alkyne is):",
+            "options": [
+                "CₙH₂ₙ₊₂",
+                "CₙH₂ₙ",
+                "CₙH₂ₙ₋₂",
+                "CₙH₂ₙ₋₁"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "CₙH₂ₙ₋₂"
+        },
+        {
+            "id": 18,
+            "question": "सामान्य नेत्र के लिए दूर बिन्दु है (The far point for the normal vision is):",
+            "options": [
+                "25 मिमी (25 mm)",
+                "25 सेमी (25 cm)",
+                "25 मी (25 m)",
+                "अनंत (infinity)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "अनंत (infinity)"
+        },
+        {
+            "id": 19,
+            "question": "यदि किसी बिम्ब का प्रतिबिम्ब का आवर्धन ऋणात्मक है, तो उस प्रतिबिम्ब की प्रकृति क्या होगी? (What will be the nature of the image of an object, if magnification of the image is negative?)",
+            "options": [
+                "वास्तविक और सीधा (Real and erect)",
+                "आभासी और सीधा (Virtual and erect)",
+                "आभासी और उल्टा (Virtual and inverted)",
+                "वास्तविक और उल्टा (Real and inverted)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "वास्तविक और उल्टा (Real and inverted)"
+        },
+        {
+            "id": 20,
+            "question": "प्रकाश के परावर्तन के कितने नियम हैं? (How many laws are there for reflection of light?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 21,
+            "question": "एक प्रकाश किरण एक समतल दर्पण पर लम्बवत आपतित होती है। परावर्तन कोण का मान होगा (A ray of light is incident perpendicular to a plane mirror. The angle of reflection will be):",
+            "options": [
+                "135°",
+                "90°",
+                "45°",
+                "0°"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "0°"
+        },
+        {
+            "id": 22,
+            "question": "वायुमंडल में प्रकाश का कौन-सा रंग (वर्ण) अधिक प्रकीर्णन करता है? (Which colour of light scatters more in atmosphere?)",
+            "options": [
+                "पीला (Yellow)",
+                "नारंगी (Orange)",
+                "लाल (Red)",
+                "नीला (Blue)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "नीला (Blue)"
+        },
+        {
+            "id": 23,
+            "question": "वायु में अभिसारी लेंस है (Converging lens in air is):",
+            "options": [
+                "काँच का अवतल लेंस (Concave lens of glass)",
+                "काँच का समतलावतल लेंस (Plano-concave lens of glass)",
+                "काँच का उत्तल लेंस (Convex lens of glass)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "काँच का उत्तल लेंस (Convex lens of glass)"
+        },
+        {
+            "id": 24,
+            "question": "यदि अवतल दर्पण का निचला आधा भाग टूट जाए, तो प्रतिबिंब (If the lower half of a concave mirror gets broken then the image):",
+            "options": [
+                "सीधा बनेगा (will form erect)",
+                "आधा बनेगा (will be halved)",
+                "कम तीव्र बनेगा (will be less intense)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कम तीव्र बनेगा (will be less intense)"
+        },
+        {
+            "id": 25,
+            "question": "जब प्रकाश की किरण हवा (विरल माध्यम) से काँच (सघन माध्यम) में जाती है, तो वह मुड़ जाती है (When a ray of light travels from air (a rarer medium) to glass (a denser medium), it bends):",
+            "options": [
+                "अभिलंब से दूर (away from the normal)",
+                "अभिलंब की ओर (towards the normal)",
+                "अभिलंब के समांतर (parallel to the normal)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "अभिलंब की ओर (towards the normal)"
+        },
+        {
+            "id": 26,
+            "question": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है? (Which one of the following is the natural source of oxalic acid?)",
+            "options": [
+                "टमाटर (Tomato)",
+                "इमली (Tamarind)",
+                "संतरा (Orange)",
+                "सिरका (Vinegar)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "टमाटर (Tomato)"
+        },
+        {
+            "id": 27,
+            "question": "प्रोपेन का आण्विक सूत्र C₃H₈ है। इसमें (Propane, with the molecular formula C₃H₈ has):",
+            "options": [
+                "7 सहसंयोजक आबंध है (7 covalent bonds)",
+                "8 सहसंयोजक आबंध है (8 covalent bonds)",
+                "9 सहसंयोजक आबंध है (9 covalent bonds)",
+                "10 सहसंयोजक आबंध है (10 covalent bonds)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "10 सहसंयोजक आबंध है (10 covalent bonds)"
+        },
+        {
+            "id": 28,
+            "question": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है? (Ozone layer protects earth from which harmful radiation?)",
+            "options": [
+                "अवरक्त विकिरण (Infrared)",
+                "तापीय विकिरण (Thermal)",
+                "पराबैंगनी विकिरण (Ultraviolet)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "पराबैंगनी विकिरण (Ultraviolet)"
+        },
+        {
+            "id": 29,
+            "question": "कौन-सा अधातु कमरे के तापमान पर तरल अवस्था में पाया जाता है? (Which non-metal is found in liquid state at room temperature?)",
+            "options": [
+                "पारा (Mercury)",
+                "ब्रोमीन (Bromine)",
+                "सल्फर (Sulphur)",
+                "सोडियम (Sodium)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "ब्रोमीन (Bromine)"
+        },
+        {
+            "id": 30,
+            "question": "निम्नांकित में कौन उपधातु है? (Which one of the following is a metalloid?)",
+            "options": [
+                "Fe",
+                "Cu",
+                "Ni",
+                "As"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "As"
+        },
+        {
+            "id": 31,
+            "question": "CaCO₃(s) → CaO(s) + CO₂(g) किस प्रकार की अभिक्रिया है? (CaCO₃(s) → CaO(s) + CO₂(g) is what type of reaction?)",
+            "options": [
+                "वियोजन (Decomposition)",
+                "संयोजन (Combination)",
+                "विस्थापन (Displacement)",
+                "द्विविस्थापन (Double displacement)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "वियोजन (Decomposition)"
+        },
+        {
+            "id": 32,
+            "question": "निम्नांकित में कौन समीकरण संतुलित है? (Which of the following equations is balanced?)",
+            "options": [
+                "Mg + O₂ → MgO",
+                "Fe + Cl₂ → FeCl₃",
+                "Zn + H₂SO₄ → ZnSO₄ + H₂",
+                "H₂ + Cl₂ → HCl"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "Zn + H₂SO₄ → ZnSO₄ + H₂"
+        },
+        {
+            "id": 33,
+            "question": "निम्नलिखित में से किसके द्वारा औद्योगिक क्षेत्र में अम्ल वर्षा होती है? (Which of the following causes acid rain in industrial areas?)",
+            "options": [
+                "क्लोरोफ्लोरोकार्बन (Chlorofluorocarbon)",
+                "सल्फर डाईऑक्साइड (Sulphur dioxide)",
+                "ओजोन (Ozone)",
+                "कार्बन डाईऑक्साइड (Carbon dioxide)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सल्फर डाईऑक्साइड (Sulphur dioxide)"
+        },
+        {
+            "id": 34,
+            "question": "खड़िया का रासायनिक सूत्र है (The chemical formula of Chalk is):",
+            "options": [
+                "MgCO₃",
+                "Na₂CO₃",
+                "CaCO₃",
+                "Mg(HCO₃)₂"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "CaCO₃"
+        },
+        {
+            "id": 35,
+            "question": "निम्नांकित में कौन-सी धातु सर्वाधिक तन्य है? (Which of the following metals is the most ductile?)",
+            "options": [
+                "सोना (Gold)",
+                "ताँबा (Copper)",
+                "लोहा (Iron)",
+                "जस्ता (Zinc)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "सोना (Gold)"
+        },
+        {
+            "id": 36,
+            "question": "पेंटेन जिसका अणुसूत्र C₅H₁₂ है, के कितने संरचनात्मक समावयवी संभव है? (How many structural isomers of pentane, having molecular formula C₅H₁₂ are possible?)",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 37,
+            "question": "अभिक्रियाशील समूह CO को कहते हैं (The functional group CO is called):",
+            "options": [
+                "एल्डिहाइड समूह (aldehyde group)",
+                "ईथर समूह (ether group)",
+                "ऐल्कोहॉल समूह (alcohol group)",
+                "कार्बोनिल समूह (carbonyl group)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "कार्बोनिल समूह (carbonyl group)"
+        },
+        {
+            "id": 38,
+            "question": "कोई धातु ऑक्सीजन के साथ अभिक्रिया कर उच्च गलनांक वाला यौगिक बनाता है। यह यौगिक जल में विलेय है। वह तत्व निम्नांकित तत्वों में कौन हो सकता है? (A metal reacts with oxygen to form a compound with high melting point. This compound is soluble in water. Which of the following elements can it be?)",
+            "options": [
+                "सिलिकॉन (Silicon)",
+                "कार्बन (Carbon)",
+                "कैल्सियम (Calcium)",
+                "लोहा (Iron)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कैल्सियम (Calcium)"
+        },
+        {
+            "id": 39,
+            "question": "मालाचाइट किस धातु का अयस्क है? (Malachite is an ore of which metal?)",
+            "options": [
+                "Mg",
+                "Cu",
+                "Fe",
+                "Au"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "Cu"
+        },
+        {
+            "id": 40,
+            "question": "लोहे पर जिंक परत लेपित करने की क्रिया को कहते हैं (The process of coating a layer of zinc on iron is called):",
+            "options": [
+                "विद्युत लेपन (electroplating)",
+                "संक्षारण (corrosion)",
+                "विद्युत अपघटन (electrolysis)",
+                "गैल्वनीकरण (galvanisation)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "गैल्वनीकरण (galvanisation)"
+        },
+        {
+            "id": 41,
+            "question": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है? (Which of the following acids is found in vinegar?)",
+            "options": [
+                "ऐसीटिक अम्ल (Acetic acid)",
+                "गंधकाम्ल (Sulphuric acid)",
+                "फॉर्मिक अम्ल (Formic acid)",
+                "हाइड्रोक्लोरिक अम्ल (Hydrochloric acid)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ऐसीटिक अम्ल (Acetic acid)"
+        },
+        {
+            "id": 42,
+            "question": "वायु का निरपेक्ष अपवर्तनांक वास्तव में होता है (The absolute refractive index of air is actually):",
+            "options": [
+                "1 से कम (less than 1)",
+                "1 से अधिक (more than 1)",
+                "1 के बराबर (equal to 1)",
+                "0"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1 से अधिक (more than 1)"
+        },
+        {
+            "id": 43,
+            "question": "आँख-नाक-गला के चिकित्सक द्वारा उपयोग में लाया जाने वाला दर्पण है (Mirror used by ENT (Ear-Nose-throat) doctor is):",
+            "options": [
+                "उत्तल दर्पण (convex mirror)",
+                "अवतल दर्पण (concave mirror)",
+                "समतल दर्पण (plane mirror)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "अवतल दर्पण (concave mirror)"
+        },
+        {
+            "id": 44,
+            "question": "वेल्डिंग में किस गैस का उपयोग होता है? (Which of the following gases is used in welding?)",
+            "options": [
+                "मेथेन (Methane)",
+                "एथाइन (Ethyne)",
+                "एथेन (Ethane)",
+                "एथीन (Ethene)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "एथाइन (Ethyne)"
+        },
+        {
+            "id": 45,
+            "question": "एल्कीन (Alkene) का सामान्य सूत्र है (The general formula of an alkene is):",
+            "options": [
+                "CₙH₂ₙ₊₂",
+                "CₙH₂ₙ₋₂",
+                "CₙH₂ₙ",
+                "CₙH₂ₙ₋₁"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "CₙH₂ₙ"
+        },
+        {
+            "id": 46,
+            "question": "निम्न में से कौन-सा स्वच्छ ऊर्जा स्रोत है? (Which one of the following is a clean energy source?)",
+            "options": [
+                "कोयला (Coal)",
+                "लकड़ी (Wood)",
+                "प्राकृतिक गैस (Natural gas)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "प्राकृतिक गैस (Natural gas)"
+        },
+        {
+            "id": 47,
+            "question": "सोडियम की परमाणु संख्या है (The atomic number of sodium is):",
+            "options": [
+                "17",
+                "20",
+                "11",
+                "14"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "11"
+        },
+        {
+            "id": 48,
+            "question": "मैग्निशियम की परमाणु संख्या 12 है। इसकी संयोजकता क्या है? (The atomic number of magnesium is 12. What is its valency?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 49,
+            "question": "निम्नांकित में किस धातु का विस्थापन उसके लवण के विलयन से लोहा द्वारा होता है? (Which of the following metals is displaced from its salt solution by iron?)",
+            "options": [
+                "ताँबा (Copper)",
+                "सोडियम (Sodium)",
+                "कैल्सियम (Calcium)",
+                "मैग्निशियम (Magnesium)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ताँबा (Copper)"
+        },
+        {
+            "id": 50,
+            "question": "एथिल ऐल्कोहॉल का व्यापारिक उत्पादन किस रासायनिक क्रिया द्वारा किया जाता है? (The commercial production of ethyl alcohol is done by which chemical process?)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "अपचयन (Reduction)",
+                "किण्वन (Fermentation)",
+                "भर्जन (Roasting)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "किण्वन (Fermentation)"
+        }
+    ]
+}

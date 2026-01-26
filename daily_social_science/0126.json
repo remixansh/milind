@@ -1,0 +1,658 @@
+{
+    "date": "0126",
+    "dateDisplay": "26 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "किसने कहा, मुद्रण ईश्वर की दी हुई महानतम देन है, सबसे बड़ा तोहफा ? (Who said printing is the greatest gift of God ?)",
+            "options": [
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "मार्टिन लूथर (Martin Luther)",
+                "मुहम्मद पैगम्बर (Prophet Muhammad)",
+                "ईसा मसीह (Jesus Christ)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "मार्टिन लूथर (Martin Luther)"
+        },
+        {
+            "id": 2,
+            "question": "भारत में किस प्रकार की शासन प्रणाली है ? (What type of system of government is there in India?)",
+            "options": [
+                "संघीय और अध्यक्षीय (Federal and Presidential)",
+                "संघीय और संसदीय (Federal and Parliamentary)",
+                "एकात्मक और अध्यक्षीय (Unitary and Presidential)",
+                "एकात्मक और संघीय (Unitary and Parliamentary)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "संघीय और संसदीय (Federal and Parliamentary)"
+        },
+        {
+            "id": 3,
+            "question": "भारत में कोयले का सर्वप्रमुख उत्पादक राज्य है (The leading coal producing state in India is)",
+            "options": [
+                "पश्चिम बंगाल (West Bengal)",
+                "झारखण्ड (Jharkhand)",
+                "ओडिशा (Odisha)",
+                "छत्तीसगढ़ (Chhattisgarh)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "झारखण्ड (Jharkhand)"
+        },
+        {
+            "id": 4,
+            "question": "भारत का प्रथम लौह-इस्पात उत्पादक उद्योग है (The first iron and steel producing industry is)",
+            "options": [
+                "भारतीय लौह और इस्पात कंपनी (Indian Iron and Steel Company - IISCO)",
+                "टाटा लौह और इस्पात कंपनी (Tata Iron and Steel Company - TISCO)",
+                "बोकारो स्टील सिटी (Bokaro Steel City)",
+                "विश्वेश्वरैया लौह और इस्पात प्लान्ट (Visvesvaraya Iron and Steel Plant)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "टाटा लौह और इस्पात कंपनी (Tata Iron and Steel Company - TISCO)"
+        },
+        {
+            "id": 5,
+            "question": "निम्न में से कौन-सी एक बात लोकतांत्रिक व्यवस्थाओं के अनुरूप नहीं है ? (Which one of the following is not according to the democratic system ?)",
+            "options": [
+                "कानून के समक्ष समानता (Equality before law)",
+                "स्वतंत्र एवं निष्पक्ष चुनाव (Free and fair election)",
+                "उत्तरदायी शासन व्यवस्था (Responsible ruling system)",
+                "बहुसंख्यकों का शासन (Rule of majority)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "बहुसंख्यकों का शासन (Rule of majority)"
+        },
+        {
+            "id": 6,
+            "question": "महासागर तल के कंपन का परिणाम है (The result of vibration of ocean bottom is)",
+            "options": [
+                "हिमस्खलन (Avalanche)",
+                "चक्रवात (Cyclone)",
+                "सुनामी (Tsunami)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "सुनामी (Tsunami)"
+        },
+        {
+            "id": 7,
+            "question": "दीर्घकालीन ऋण प्रदान करने वाली संस्था कौन-सी है ? (Which institution promotes long term loans ?)",
+            "options": [
+                "कृषक महाजन (Agricultural lenders)",
+                "भूमि विकास बैंक (Land Development Bank)",
+                "प्राथमिक कृषि साख समिति (Primary Agricultural Credit Society)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "भूमि विकास बैंक (Land Development Bank)"
+        },
+        {
+            "id": 8,
+            "question": "उपभोक्ता द्वारा शिकायत करने के लिए आवेदन शुल्क कितना लगता है ? (What is the application fee for making a complaint by the consumer?)",
+            "options": [
+                "50 रु (Rs. 50)",
+                "70 रु (Rs. 70)",
+                "10 रु (Rs. 10)",
+                "इनमें से कोई नहीं (No application fee)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से कोई नहीं (No application fee)"
+        },
+        {
+            "id": 9,
+            "question": "उपभोक्ता अधिकार दिवस कब मनाया जाता है ? (When is Consumer Rights Day celebrated ?)",
+            "options": [
+                "17 मार्च (17th March)",
+                "15 मार्च (15th March)",
+                "19 अप्रैल (19th April)",
+                "22 अप्रैल (22nd April)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "15 मार्च (15th March)"
+        },
+        {
+            "id": 10,
+            "question": "कौन-सी सेवा गैर-सरकारी है ? (Which of the following is a non-government service ?)",
+            "options": [
+                "सैन्य सेवा (Police service)",
+                "वित्त सेवा (Finance service)",
+                "मॉल सेवा (Mall service)",
+                "रेल सेवा (Railway service)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "मॉल सेवा (Mall service)"
+        },
+        {
+            "id": 11,
+            "question": "संघ सरकार का उदाहरण है (The example of federal government is)",
+            "options": [
+                "अमेरिका (America)",
+                "चीन (China)",
+                "ब्रिटेन (Britain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अमेरिका (America)"
+        },
+        {
+            "id": 12,
+            "question": "लोकतांत्रिक व्यवस्थाओं ने निम्नांकित किन मुद्दे पर सफलता पाई है ? (On which of the following points did democratic system get success ?)",
+            "options": [
+                "राजनीतिक असमानता को समाप्त कर दिया है (Abolished the political differences)",
+                "लोगों के बीच टकरावों को समाप्त कर दिया है (Abolished the conflicts between the people)",
+                "बहुमत समूह और अल्प समूह के साथ एक जैसा व्यवहार करता है (Majority and minority groups are treated equally)",
+                "समाज की आखिरी पंक्ति में खड़े लोगों के बीच आर्थिक पैमाना कम कर दिया है (Reduces the economic grade for the poeple standing in the last line)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "राजनीतिक असमानता को समाप्त कर दिया है (Abolished the political differences)"
+        },
+        {
+            "id": 13,
+            "question": "सुदूर संवेदी उपग्रह (रिमोट सेंसिंग उपग्रह) का प्रयोग किसलिए होता है ? (For which purpose is remote sensing satellite used?)",
+            "options": [
+                "दूर संचार के लिए (For telecommunication)",
+                "मौसम विज्ञान के लिए (For meteorology)",
+                "संसाधनों की खोज के लिए (For searching the resources)",
+                "दूरदर्शन के लिए (For television)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "संसाधनों की खोज के लिए (For searching the resources)"
+        },
+        {
+            "id": 14,
+            "question": "निम्न में कौन भूकम्प का सर्वाधिक संवेदनशील नगर है ? (Which of the following is the most sensitive city to earthquake?)",
+            "options": [
+                "देहरादून (Dehradun)",
+                "राँची (Ranchi)",
+                "हैदराबाद (Hyderabad)",
+                "चेन्नई (Chennai)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "देहरादून (Dehradun)"
+        },
+        {
+            "id": 15,
+            "question": "निम्न में से किसे पिछड़ा राज्य कहा जाता है ? (Which of the following is called backward state?)",
+            "options": [
+                "पंजाब (Punjab)",
+                "केरल (Kerala)",
+                "बिहार (Bihar)",
+                "दिल्ली (Delhi)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 16,
+            "question": "भारत में वित्तीय वर्ष कौन कहा जाता है ? (Which of the following is Financial year in India?)",
+            "options": [
+                "1 जनवरी से 31 दिसम्बर तक (From 1st January to 31st December)",
+                "1 जुलाई से 30 जून तक (From 1st July to 30th June)",
+                "1 अप्रैल से 31 मार्च तक (From 1st April to 31st March)",
+                "1 सितम्बर से 31 अगस्त तक (From 1st September to 31st August)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "1 अप्रैल से 31 मार्च तक (From 1st April to 31st March)"
+        },
+        {
+            "id": 17,
+            "question": "रक्त एवं लौह की नीति का अवलम्बन किसने किया था ? (Who started the policy of blood and iron ?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "हिटलर (Hitler)",
+                "बिस्मार्क (Bismarck)",
+                "विलियम । (William I)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "बिस्मार्क (Bismarck)"
+        },
+        {
+            "id": 18,
+            "question": "रेल वर्कशाप कहाँ स्थित है ? (Where is the railway workshop situated ?)",
+            "options": [
+                "जमालपुर (Jamalpur)",
+                "भागलपुर (Bhagalpur)",
+                "मुंगेर (Munger)",
+                "पटना (Patna)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "जमालपुर (Jamalpur)"
+        },
+        {
+            "id": 19,
+            "question": "पंजाब में भूमि निम्नीकरण का मुख्य कारण है (The main cause of land degradation in Punjab is)",
+            "options": [
+                "वनोन्मूलन (Deforestation)",
+                "गहन खेती (Intensive cultivation)",
+                "अति पशुचारण (Overgrazing)",
+                "अधिक सिंचाई (Overirrigation)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "अधिक सिंचाई (Overirrigation)"
+        },
+        {
+            "id": 20,
+            "question": "मानव शरीर में जल की मात्रा होती है (Amount of water present in human body is)",
+            "options": [
+                "55%",
+                "60%",
+                "65%",
+                "70%"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "65%"
+        },
+        {
+            "id": 21,
+            "question": "सीमेन्ट उद्योग का प्रमुख कच्चा माल है (The main raw material of cement industry is)",
+            "options": [
+                "चूनापत्थर (Limestone)",
+                "बॉक्साइट (Bauxite)",
+                "ग्रेनाइट (Granite)",
+                "लौह अयस्क (Iron ore)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "चूनापत्थर (Limestone)"
+        },
+        {
+            "id": 22,
+            "question": "हिन्द-चीन पहुँचने वाले प्रथम व्यापारी कौन थे ? (Who were the first merchant to arrive Indo-China ?)",
+            "options": [
+                "इंग्लैण्ड (England)",
+                "फ्रांसीसी (French)",
+                "पुर्तगाली (Portugal)",
+                "डच (Dutch)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "पुर्तगाली (Portugal)"
+        },
+        {
+            "id": 23,
+            "question": "सामंती व्यवस्था से हटकर किस प्रकार की शहरी व्यवस्था की प्रवृत्ति बढ़ी ? (Which type of attitude emerged in urban system leaving the feudal system behind?)",
+            "options": [
+                "प्रगतिशील प्रवृत्ति (Progressive attitude)",
+                "आक्रामक प्रवृत्ति (Aggressive attitude)",
+                "रूढ़िवादी प्रवृत्ति (Orthodox attitude)",
+                "शोषणकारी प्रवृत्ति (Exploitative attitude)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "प्रगतिशील प्रवृत्ति (Progressive attitude)"
+        },
+        {
+            "id": 24,
+            "question": "वैश्वीकरण का क्या अर्थ है ? (What is the meaning of globalization?)",
+            "options": [
+                "आयात पर नियंत्रण (Control on imports)",
+                "निर्यात पर नियंत्रण (Control on exports)",
+                "विश्व अर्थव्यवस्था से समन्वय (Integration with world economy)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "विश्व अर्थव्यवस्था से समन्वय (Integration with world economy)"
+        },
+        {
+            "id": 25,
+            "question": "अर्थव्यवस्था के किस क्षेत्र से हरित क्रांति सम्बन्धित है ? (Green Revolution is related to which sector of the economy?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary Sector)",
+                "द्वितीयक क्षेत्र (Secondary Sector)",
+                "तृतीयक क्षेत्र (Tertiary Sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "प्राथमिक क्षेत्र (Primary Sector)"
+        },
+        {
+            "id": 26,
+            "question": "भारत में पहली सूती मिल कहाँ स्थापित की गई ? (Where was the first cotton mill established in India?)",
+            "options": [
+                "सूरत (Surat)",
+                "मुम्बई (Mumbai)",
+                "अहमदाबाद (Ahmedabad)",
+                "कोलकाता (Kolkata)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "मुम्बई (Mumbai)"
+        },
+        {
+            "id": 27,
+            "question": "अंतरराष्ट्रीय श्रमिक संगठन का मुख्यालय कहाँ है ? (Where is the headquarters of International Labour Organization?)",
+            "options": [
+                "पेरिस (Paris)",
+                "वाशिंगटन डी० सी० (Washington D.C.)",
+                "रोम (Rome)",
+                "जेनेवा (Geneva)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "जेनेवा (Geneva)"
+        },
+        {
+            "id": 28,
+            "question": "सिंगापुर कब आजाद हुआ ? (When did Singapore become independent?)",
+            "options": [
+                "1955",
+                "1960",
+                "1962",
+                "1965"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "1965"
+        },
+        {
+            "id": 29,
+            "question": "भारत सदस्य नहीं है (India is not a member of)",
+            "options": [
+                "दक्षेस का (SAARC)",
+                "ओपेक का (OPEC)",
+                "जी-15 का (G-15)",
+                "डब्ल्यू. टी. ओ. का (WTO)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ओपेक का (OPEC)"
+        },
+        {
+            "id": 30,
+            "question": "भारत में सबसे बड़ा मानव-निर्मित जलाशय है (The largest man-made reservoir in India is)",
+            "options": [
+                "नागार्जुन सागर (Nagarjuna Sagar)",
+                "कृष्णा सागर (Krishna Sagar)",
+                "गोविंद वल्लभ पंत सागर (Govind Vallabh Pant Sagar)",
+                "गोविन्द सागर (Govind Sagar)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "गोविन्द सागर (Govind Sagar)"
+        },
+        {
+            "id": 31,
+            "question": "सर्वाधिक बाढ़ प्रभावित देश है (The most flood affected country is)",
+            "options": [
+                "पाकिस्तान (Pakistan)",
+                "ईरान (Iran)",
+                "बांग्लादेश (Bangladesh)",
+                "भूटान (Bhutan)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "बांग्लादेश (Bangladesh)"
+        },
+        {
+            "id": 32,
+            "question": "गरीबी के कुचक्र की धारणा किसने दी है ? (Who gave the concept of Vicious Circle of Poverty?)",
+            "options": [
+                "अलफ्रेड मार्शल (Alfred Marshall)",
+                "किन्स (Keynes)",
+                "पीगू (Pigou)",
+                "रैगनर नर्क्स (Ragnar Nurkse)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "रैगनर नर्क्स (Ragnar Nurkse)"
+        },
+        {
+            "id": 33,
+            "question": "कृषि तथा ग्रामीण विकास के लिए पुनर्वित्त करने वाली शीर्ष संस्था कौन है? (Which is the apex institution for refinancing for agriculture and rural development?)",
+            "options": [
+                "भूमि विकास बैंक (Land Development Bank)",
+                "नाबार्ड (NABARD)",
+                "क्षेत्रीय ग्रामीण बैंक (Regional Rural Bank)",
+                "व्यावसायिक बैंक (Commercial Bank)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "नाबार्ड (NABARD)"
+        },
+        {
+            "id": 34,
+            "question": "भारतीय रिजर्व बैंक की स्थापना हुई थी (Reserve Bank of India was established in)",
+            "options": [
+                "1935 में (In 1935)",
+                "1949 में (In 1949)",
+                "1950 में (In 1950)",
+                "1955 में (In 1955)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1935 में (In 1935)"
+        },
+        {
+            "id": 35,
+            "question": "भारत में भाषाई आधार पर गठित पहला राज्य कौन था ? (Which was the first state in India formed on linguistic basis ?)",
+            "options": [
+                "केरल (Kerala)",
+                "असम (Assam)",
+                "आंध्र प्रदेश (Andhra Pradesh)",
+                "तमिलनाडु (Tamil Nadu)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "आंध्र प्रदेश (Andhra Pradesh)"
+        },
+        {
+            "id": 36,
+            "question": "निम्नलिखित में से किसका सबसे बुनियादी परिणाम नागरिकों के प्रति जवाबदेही है ? (Accountability to the citizens is the most basic outcome of which of the following ?)",
+            "options": [
+                "धर्मतंत्र (Theocracy)",
+                "निरंकुशता (Autocracy)",
+                "लोकतंत्र (Democracy)",
+                "समाजवाद (Socialism)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "लोकतंत्र (Democracy)"
+        },
+        {
+            "id": 37,
+            "question": "यूगोस्लाविया के विघटन के बाद कितने स्वतंत्र देशों का उदय हुआ ? (How many independent countries emerged after the disintegration of Yugoslavia ?)",
+            "options": [
+                "सात (Seven)",
+                "नौ (Nine)",
+                "छः (Six)",
+                "पाँच (Five)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "सात (Seven)"
+        },
+        {
+            "id": 38,
+            "question": "कार्बोनारी संस्था का संबंध किस देश से है ? (Carbonari organization is related to which country?)",
+            "options": [
+                "इटली (Italy)",
+                "जर्मनी (Germany)",
+                "फ्रांस (France)",
+                "रूस (Russia)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "इटली (Italy)"
+        },
+        {
+            "id": 39,
+            "question": "सोवियत संघ का विघटन कब हुआ ? (When did the Soviet Union disintegrate?)",
+            "options": [
+                "1918",
+                "1921",
+                "1985",
+                "1991"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "1991"
+        },
+        {
+            "id": 40,
+            "question": "मार्क्सवादी दर्शन किस नाम से विख्यात हुआ ? (By what name did the Marxist philosophy become famous ?)",
+            "options": [
+                "समाजवाद (Socialism)",
+                "साम्यवाद (Communism)",
+                "पूँजीवाद (Capitalism)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "साम्यवाद (Communism)"
+        },
+        {
+            "id": 41,
+            "question": "हनोई समझौता किन देशों के बीच हुआ ? (Between which countries did the Hanoi Agreement signed ?)",
+            "options": [
+                "फ्रांस और वियतनाम (France and Vietnam)",
+                "वियतनाम और जापान (Vietnam and Japan)",
+                "वियतनाम और लाओस (Vietnam and Laos)",
+                "फ्रांस और जापान (France and Japan)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "फ्रांस और वियतनाम (France and Vietnam)"
+        },
+        {
+            "id": 42,
+            "question": "सुन्दरी वृक्ष मुख्यतः कहाँ पाए जाते हैं ? (Where are Sundari trees mainly found ?)",
+            "options": [
+                "पर्वतीय वनों में (In mountain forests)",
+                "डेल्टाई वनों में (In deltaic forests)",
+                "उष्णकटिबंधीय वनों में (In tropical forests)",
+                "शीतोष्ण पर्वतीय वनों में (In temperate montane forests)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "डेल्टाई वनों में (In deltaic forests)"
+        },
+        {
+            "id": 43,
+            "question": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया ? (Who changed the name of Bolshevik Party to Communist Party?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "ट्रॉटस्की (Trotsky)",
+                "स्टालिन (Stalin)",
+                "बिस्मार्क (Bismarck)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 44,
+            "question": "बंगाल विभाजन को कब रद्द किया गया था ? (When was the partition of Bengal annulled ?)",
+            "options": [
+                "1904",
+                "1905",
+                "1907",
+                "1911"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "1911"
+        },
+        {
+            "id": 45,
+            "question": "रूस में कृषि दासता को किसने समाम किया ? (Who abolished Serfdom in Russia ?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "जार एलेक्जेंडर द्वितीय (Czar Alexander II)",
+                "स्टालिन (Stalin)",
+                "ट्रॉटस्की (Trotsky)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "जार एलेक्जेंडर द्वितीय (Czar Alexander II)"
+        },
+        {
+            "id": 46,
+            "question": "सबसे लंबा राष्ट्रीय जलमार्ग कौन है ? (Which is the longest National waterway ?)",
+            "options": [
+                "राष्ट्रीय जलमार्ग-1 (National Waterway-1)",
+                "राष्ट्रीय जलमार्ग-2 (National Waterway-2)",
+                "राष्ट्रीय जलमार्ग-3 (National Waterway-3)",
+                "राष्ट्रीय जलमार्ग-4 (National Waterway-4)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "राष्ट्रीय जलमार्ग-1 (National Waterway-1)"
+        },
+        {
+            "id": 47,
+            "question": "भारत में सार्वजनिक क्षेत्र के कितने तेल परिष्करण केन्द्र कार्य कर रहे हैं? (How many public sector oil refineries are functioning in India?)",
+            "options": [
+                "18",
+                "20",
+                "23",
+                "25"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "18"
+        },
+        {
+            "id": 48,
+            "question": "प्राकृतिक गैस किस खनिज के साथ पायी जाती है ? (Natural gas is found with which mineral?)",
+            "options": [
+                "यूरेनियम (Uranium)",
+                "चूनापत्थर (Limestone)",
+                "कोयला (Coal)",
+                "पेट्रोलियम (Petroleum)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "पेट्रोलियम (Petroleum)"
+        },
+        {
+            "id": 49,
+            "question": "संचार का सबसे लोकप्रिय साधन है (The most popular means of communication is)",
+            "options": [
+                "सार्वजनिक टेलीफोन (Public Telephone)",
+                "मोबाईल (Mobile)",
+                "रेडियो (Radio)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "मोबाईल (Mobile)"
+        },
+        {
+            "id": 50,
+            "question": "राष्ट्रीय जलमार्ग-1 है (National Waterway-1 is)",
+            "options": [
+                "सदिया से धुबरी तक (From Sadiya to Dhubri)",
+                "इलाहाबाद से हल्दिया तक (From Allahabad to Haldia)",
+                "कोल्लम से कोट्टापुरम तक (From Kollam to Kottapuram)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "इलाहाबाद से हल्दिया तक (From Allahabad to Haldia)"
+        }
+    ]
+}

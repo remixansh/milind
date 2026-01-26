@@ -1,0 +1,658 @@
+{
+    "date": "0210",
+    "dateDisplay": "10 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "एक गोलीय दर्पण की फोकस दूरी + 20 cm, है तो यह गोली दर्पण कैसा है? (Ideally, a spherical mirror has focal length +20 cm, then what type of mirror is this?)",
+            "options": [
+                "उत्तल (Convex)",
+                "अवतल (Concave)",
+                "समतलोत्तल (Plano-convex)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "उत्तल (Convex)"
+        },
+        {
+            "id": 2,
+            "question": "तालाब का जल कम गहरा दिखाई देने का कारण है। (The reason for the pond water appearing less deep is)",
+            "options": [
+                "परावर्तन (Reflection)",
+                "विवर्तन (Diffraction)",
+                "अपवर्तन (Refraction)",
+                "ध्रुवण (Polarization)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "अपवर्तन (Refraction)"
+        },
+        {
+            "id": 3,
+            "question": "अवतल दर्पण की फोकस दूरी होती है। (The focal length of a concave mirror is)",
+            "options": [
+                "ऋणात्मक (Negative)",
+                "धनात्मक (Positive)",
+                "ऋणात्मक एवं धनात्मक दोनों (Both negative and positive)",
+                "शून्य (Zero)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "ऋणात्मक (Negative)"
+        },
+        {
+            "id": 4,
+            "question": "किसी अवतल दर्पण की फोकस दूरी (f) और उसकी वक्रता त्रिज्या R है, तो निम्नांकित में कौन संबंध सही है? (Ideally, the focal length (f) of a concave mirror and its radius of curvature R are related as)",
+            "options": [
+                "R = 2f",
+                "R = f",
+                "R = 3f",
+                "R = f/2"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "R = 2f"
+        },
+        {
+            "id": 5,
+            "question": "इलेक्ट्रिक हीटर की कुंडली बनाने में किस पदार्थ का प्रयोग किया जाता है? (Which material is used to make the coil of an electric heater?)",
+            "options": [
+                "नाइक्रोम (Nichrome)",
+                "ताँबा (Copper)",
+                "लोहा (Iron)",
+                "चाँदी (Silver)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "नाइक्रोम (Nichrome)"
+        },
+        {
+            "id": 6,
+            "question": "एक यूनिट विद्युत ऊर्जा का मान है (The value of one unit of electrical energy is)",
+            "options": [
+                "3.6 x 10⁶ J",
+                "3.6 x 10³ J",
+                "3.6 x 10⁵ J",
+                "3.6 x 10⁴ J"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "3.6 x 10⁶ J"
+        },
+        {
+            "id": 7,
+            "question": "किलावाट / घंटा एक इकाई है। (Kilowatt-hour is a unit of)",
+            "options": [
+                "ऊर्जा की (Energy)",
+                "शक्ति की (Power)",
+                "विद्युत आवेश की (Electric charge)",
+                "विद्युत धारा की (Electric current)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "ऊर्जा की (Energy)"
+        },
+        {
+            "id": 8,
+            "question": "विद्युत फ्युज धारा के किस सिद्धांत पर कार्य करता है ? (On which principle of current does the electric fuse work?)",
+            "options": [
+                "ऊष्मीय (Thermal)",
+                "चुम्बकीय (Magnetic)",
+                "रासायनिक (Chemical)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "ऊष्मीय (Thermal)"
+        },
+        {
+            "id": 9,
+            "question": "वोल्टमीटर को विद्युत परिपथ में किस क्रम में जोड़ा जाता है (In which order is the voltmeter connected in the electric circuit?)",
+            "options": [
+                "समानान्तर क्रम (Parallel)",
+                "श्रेणीक्रम (Series)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "समानान्तर क्रम (Parallel)"
+        },
+        {
+            "id": 10,
+            "question": "विद्युत परिपथ में दो विन्दुओं के बीच विभवान्तर मापने के लिए प्रयुक्त होता है (Used to measure potential difference between two points in an electric circuit)",
+            "options": [
+                "वोल्टमीटर (Voltmeter)",
+                "आमीटर (Ammeter)",
+                "गैल्वेनोमीटर (Galvanometer)",
+                "प्लग-कुंजी (Plug key)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "वोल्टमीटर (Voltmeter)"
+        },
+        {
+            "id": 11,
+            "question": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत में रूपांतरित करता है? (Hydroelectric plant converts which energy into electricity?)",
+            "options": [
+                "स्थितिज ऊर्जा (Potential energy)",
+                "तापीय ऊर्जा (Thermal energy)",
+                "नाभिकीय ऊर्जा (Nuclear energy)",
+                "सौर ऊर्जा (Solar energy)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "स्थितिज ऊर्जा (Potential energy)"
+        },
+        {
+            "id": 12,
+            "question": "विद्युत बल्व में कौन-सी गैस भरी रहती है? (Which gas is filled in electric bulb?)",
+            "options": [
+                "निष्क्रिय गैस (Inert gas)",
+                "नाइट्रोजन (Nitrogen)",
+                "वायु (Air)",
+                "हाइड्रोजन गैस (Hydrogen gas)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "निष्क्रिय गैस (Inert gas)"
+        },
+        {
+            "id": 13,
+            "question": "एक घोल नीले लिटमस पत्र लाल कर देता है। पोल का pH क्या हो सकता है? (A solution turns blue litmus paper red. What can be the pH of the solution?)",
+            "options": [
+                "2",
+                "9",
+                "7",
+                "10"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 14,
+            "question": "बेंजीन का अणुसूत्र क्या है? (What is the molecular formula of Benzene?)",
+            "options": [
+                "C₆H₆",
+                "CH₄",
+                "C₂H₆",
+                "C₂H₄"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "C₆H₆"
+        },
+        {
+            "id": 15,
+            "question": "एथिल ऐल्कोहॉल का IUPAC नाम है (IUPAC name of Ethyl Alcohol is)",
+            "options": [
+                "एथेनॉल (Ethanol)",
+                "एथेनल (Ethanal)",
+                "एथोनोन (Ethanone)",
+                "एथेनोइक अम्ल (Ethanoic acid)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "एथेनॉल (Ethanol)"
+        },
+        {
+            "id": 16,
+            "question": "CnH₂n निम्नलिखित में किसका सामान्य सूत्र है? (CnH₂n is the general formula of which of the following?)",
+            "options": [
+                "ऐल्कीन (Alkene)",
+                "ऐल्केन (Alkane)",
+                "ऐल्काइन (Alkyne)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "ऐल्कीन (Alkene)"
+        },
+        {
+            "id": 17,
+            "question": "लोहे की परमाणु संख्या है (Atomic number of Iron is)",
+            "options": [
+                "26",
+                "23",
+                "25",
+                "24"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "26"
+        },
+        {
+            "id": 18,
+            "question": "स्टेनलेस स्टील में लोहा एवं कार्बन के अलावे अन्य तत्व रहते हैं (Stainless steel contains elements other than iron and carbon)",
+            "options": [
+                "निकेल एवं क्रोमियम (Nickel and Chromium)",
+                "एल्युमिनियम एवं लेड (Aluminium and Lead)",
+                "चाँदी एवं निकेल (Silver and Nickel)",
+                "मैगनीज एवं क्रोमियम (Manganese and Chromium)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "निकेल एवं क्रोमियम (Nickel and Chromium)"
+        },
+        {
+            "id": 19,
+            "question": "निम्नांकित यौगिकों में कौन अम्ल है? (Which of the following compounds is an acid?)",
+            "options": [
+                "H₂SO₄",
+                "CuO",
+                "Na₂O",
+                "Ca(OH)₂"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "H₂SO₄"
+        },
+        {
+            "id": 20,
+            "question": "निम्नांकित में कौन प्राकृतिक सूचक है? (Which of the following is a natural indicator?)",
+            "options": [
+                "हल्दी (Turmeric)",
+                "मेथिल ऑरेंज (Methyl Orange)",
+                "केनॉलफ्थलीन (Phenolphthalein)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "हल्दी (Turmeric)"
+        },
+        {
+            "id": 21,
+            "question": "-OH अभिक्रियाशील मूलक वाले यौगिक का नाम क्या है? (What is the name of the compound with -OH reactive radical?)",
+            "options": [
+                "एल्कोहॉल (Alcohol)",
+                "कीटोन (Ketone)",
+                "अम्ल (Acid)",
+                "एल्डिहाइड (Aldehyde)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "एल्कोहॉल (Alcohol)"
+        },
+        {
+            "id": 22,
+            "question": "कैल्सियम कार्बाइड जल के साथ अभिक्रिया करके देता है (Calcium carbide reacts with water to give)",
+            "options": [
+                "एथाइन (Ethyne)",
+                "ऐल्केन (Alkane)",
+                "एथेन (Ethane)",
+                "एथीन (Ethene)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "एथाइन (Ethyne)"
+        },
+        {
+            "id": 23,
+            "question": "ओजोन के एक अणु में आक्सीजन के परमाणुओं की संख्या कितनी होती है? (How many oxygen atoms are there in one molecule of ozone?)",
+            "options": [
+                "3",
+                "1",
+                "2",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 24,
+            "question": "कमरे के ताप पर द्रव अवस्था में रहनेवाली धातु है (Metal existing in liquid state at room temperature is)",
+            "options": [
+                "पारा (Mercury)",
+                "कैल्सियम (Calcium)",
+                "लीथियम (Lithium)",
+                "सोडियम (Sodium)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पारा (Mercury)"
+        },
+        {
+            "id": 25,
+            "question": "सरलतम हाइड्रोकार्बन है (Simplest hydrocarbon is)",
+            "options": [
+                "मिथेन (Methane)",
+                "एथेन (Ethane)",
+                "प्रोपेन (Propane)",
+                "ब्यूटेन (Butane)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "मिथेन (Methane)"
+        },
+        {
+            "id": 26,
+            "question": "निम्नांकित में कौन क्षारीय आक्साइड है? (Which of the following is a basic oxide?)",
+            "options": [
+                "Na₂O",
+                "SO₂",
+                "NO₂",
+                "P₂O₅"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "Na₂O"
+        },
+        {
+            "id": 27,
+            "question": "बेकिंग पाउडर एक मिश्रण है। (Baking powder is a mixture of)",
+            "options": [
+                "NaHCO₃ एवं टार्टरिक अम्ल का (NaHCO₃ and Tartaric acid)",
+                "Na₂CO₃ एवं CaO का (Na₂CO₃ and CaO)",
+                "NaHCO₃ एवं ऐसीटिक अम्ल का (NaHCO₃ and Acetic acid)",
+                "Ca(OH)₂ एवं Na₂O का (Ca(OH)₂ and Na₂O)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "NaHCO₃ एवं टार्टरिक अम्ल का (NaHCO₃ and Tartaric acid)"
+        },
+        {
+            "id": 28,
+            "question": "'न्यूक्लियस' शब्द किनके द्वारा दी गई है ? (The word 'Nucleus' was given by)",
+            "options": [
+                "रॉबर्ट ब्राउन (Robert Brown)",
+                "रॉबर्ट हुक (Robert Hooke)",
+                "पालाड (Palade)",
+                "विर्चाऊ (Virchow)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "रॉबर्ट ब्राउन (Robert Brown)"
+        },
+        {
+            "id": 29,
+            "question": "पौधे में भोजन किस रूप में जमा होता है (In what form is food stored in plants?)",
+            "options": [
+                "स्टार्च (Starch)",
+                "ग्लूकोज (Glucose)",
+                "प्रोटीन (Protein)",
+                "फैटी एसीड (Fatty acid)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "स्टार्च (Starch)"
+        },
+        {
+            "id": 30,
+            "question": "प्रसिद्ध पुस्तक 'द माइक्रोग्राफिया' किनके द्वारा लिखी गई थी ? (Who wrote the famous book 'The Micrographia'?)",
+            "options": [
+                "रॉबर्ट हुक (Robert Hooke)",
+                "राबर्टसन (Robertson)",
+                "ब्राउन (Brown)",
+                "डार्विन (Darwin)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "रॉबर्ट हुक (Robert Hooke)"
+        },
+        {
+            "id": 31,
+            "question": "पौधों और पशुओं की कोशिकाओं का वैज्ञानिक अध्ययन क्या कहलाता है? (What is the scientific study of plant and animal cells called?)",
+            "options": [
+                "कोशिका विज्ञान (Cytology)",
+                "आनुवंशिकी (Genetics)",
+                "साइटोजेनेटिक्स (Cytogenetics)",
+                "ऊतक विज्ञान (Histology)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "कोशिका विज्ञान (Cytology)"
+        },
+        {
+            "id": 32,
+            "question": "मानव हृदय घिरा हुआ है (Human heart is enclosed by)",
+            "options": [
+                "पेरिकार्डियम से (Pericardium)",
+                "जाइलम से (Xylem)",
+                "फ्लोएम के (Phloem)",
+                "प्लाज्मा से (Plasma)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पेरिकार्डियम से (Pericardium)"
+        },
+        {
+            "id": 33,
+            "question": "बीजांड की ओर पराग नलिका की वृद्धि का कारण होता है (The growth of pollen tube towards ovule is due to)",
+            "options": [
+                "केमोट्रॉपिज्म (Chemotropism)",
+                "हाइड्रोट्रॉपिज्म (Hydrotropism)",
+                "गुरुत्वानुवर्तन (Geotropism)",
+                "फोटोट्रॉपिज्म (Phototropism)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "केमोट्रॉपिज्म (Chemotropism)"
+        },
+        {
+            "id": 34,
+            "question": "मनुष्य में श्वेत रक्त कोशिकाओं की जीवन अवधि कितनी होती है (What is the life span of white blood cells in humans?)",
+            "options": [
+                "12 से 20 दिन (12 to 20 days)",
+                "2 से 3 महीना (2 to 3 months)",
+                "20 से 30 दिन (20 to 30 days)",
+                "4 महीना से अधिक (More than 4 months)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "12 से 20 दिन (12 to 20 days)"
+        },
+        {
+            "id": 35,
+            "question": "किस जीव में हीमोग्लोबिन नहीं होता है ? (Which organism does not have hemoglobin?)",
+            "options": [
+                "मक्खी (Fly)",
+                "पक्षी (Bird)",
+                "मनुष्य (Human)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "मक्खी (Fly)"
+        },
+        {
+            "id": 36,
+            "question": "हीमोग्लोबिन की कमी से कौन-सा रोग होता है? (Which disease is caused by deficiency of hemoglobin?)",
+            "options": [
+                "एनीमिया (Anemia)",
+                "मधुमेह (Diabetes)",
+                "पीलिया (Jaundice)",
+                "डायरिया (Diarrhea)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "एनीमिया (Anemia)"
+        },
+        {
+            "id": 37,
+            "question": "मनुष्य के आहारनाल में अवशेषी अंग है (Vestigial organ in human alimentary canal is)",
+            "options": [
+                "एपेंडिक्स (Appendix)",
+                "कोलन (Colon)",
+                "सीकम (Caecum)",
+                "रेक्टम (Rectum)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "एपेंडिक्स (Appendix)"
+        },
+        {
+            "id": 38,
+            "question": "निम्नांकित में कौन 'ट्रिप्सिन' एंजाइम का कार्य है ? (Which of the following is the function of 'Trypsin' enzyme?)",
+            "options": [
+                "प्रोटीन का पाचन (Digestion of protein)",
+                "वसा का पाचन (Digestion of fat)",
+                "कार्बोहाइड्रेट का पाचन (Digestion of carbohydrate)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "प्रोटीन का पाचन (Digestion of protein)"
+        },
+        {
+            "id": 39,
+            "question": "मुख गुहा में आहार का कौन-सा भाग का पाचन होता है। (Which part of food is digested in oral cavity?)",
+            "options": [
+                "कार्बोहाइड्रेट (Carbohydrate)",
+                "प्रोटीन (Protein)",
+                "वसा (Fat)",
+                "न्यूक्लिक अम्ल (Nucleic acid)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "कार्बोहाइड्रेट (Carbohydrate)"
+        },
+        {
+            "id": 40,
+            "question": "ऑक्सीजन का वाहक कौन है? (Who is the carrier of oxygen?)",
+            "options": [
+                "RBC",
+                "WBC",
+                "लसीका (Lymph)",
+                "इनमें से कोई नही (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "RBC"
+        },
+        {
+            "id": 41,
+            "question": "रक्त में शर्करा का स्तर नियंत्रित करता है (Controls blood sugar level)",
+            "options": [
+                "इंसुलीन (Insulin)",
+                "रिलैक्सिन (Relaxin)",
+                "एस्ट्रोजेन (Estrogen)",
+                "प्रोजेस्टेरोन (Progesterone)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "इंसुलीन (Insulin)"
+        },
+        {
+            "id": 42,
+            "question": "मानव शरीर में सबसे लम्बी कोशिका कौन है? (Which is the longest cell in human body?)",
+            "options": [
+                "तंत्रिका कोशिका (Nerve cell)",
+                "रक्त कोशिका (Blood cell)",
+                "मांसपेशियाँ (Muscles)",
+                "दिल की कोशिका (Heart cell)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "तंत्रिका कोशिका (Nerve cell)"
+        },
+        {
+            "id": 43,
+            "question": "प्रकाश के परावर्तन के कितने नियम हैं? (How many laws of reflection of light are there?)",
+            "options": [
+                "2",
+                "1",
+                "3",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 44,
+            "question": "अवतल लेंस का आवर्धन होता है। (Magnification of concave lens is)",
+            "options": [
+                "v/u",
+                "u/v",
+                "uv",
+                "u+v"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "v/u"
+        },
+        {
+            "id": 45,
+            "question": "टिंडल प्रभाव प्रदर्शित करता है। (Tyndall effect demonstrates)",
+            "options": [
+                "प्रकाश का प्रकीर्णन (Scattering of light)",
+                "प्रकाश का परावर्तन (Reflection of light)",
+                "प्रकाश का विक्षेपण (Dispersion of light)",
+                "प्रकाश का अपवर्तन (Refraction of light)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "प्रकाश का प्रकीर्णन (Scattering of light)"
+        },
+        {
+            "id": 46,
+            "question": "कौन-सा लेंस हवा में अभिसारी लेंस भी कहलाता है? (Which lens is also called converging lens in air?)",
+            "options": [
+                "उत्तल लेंस (Convex lens)",
+                "अवतल लेंस (Concave lens)",
+                "अवतल लेंस एवं उत्तल लेंस दोनों (Both concave and convex lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 47,
+            "question": "उत्तल दर्पण में प्रतिवबिंब बनता है। (Image formed in convex mirror is)",
+            "options": [
+                "आभासी (Virtual)",
+                "वास्तविक (Real)",
+                "वास्तविक तथा आभासी (Real and virtual)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "आभासी (Virtual)"
+        },
+        {
+            "id": 48,
+            "question": "प्रकाशिक माध्यम कितने प्रकार के होते हैं? (How many types of optical media are there?)",
+            "options": [
+                "तीन (Three)",
+                "एक (One)",
+                "दो (Two)",
+                "चार (Four)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "तीन (Three)"
+        },
+        {
+            "id": 49,
+            "question": "डायनेमो परिवर्तित करता है (Dynamo converts)",
+            "options": [
+                "यांत्रिक ऊर्जा को विद्युत ऊर्जा मे (Mechanical energy into electrical energy)",
+                "विद्युत ऊर्जा को यांत्रिक ऊर्जा में (Electrical energy into mechanical energy)",
+                "रासायनिक ऊर्जा को विद्युत ऊर्जा में (Chemical energy into electrical energy)",
+                "विद्युत ऊर्जा को रासायनिक ऊर्जा में (Electrical energy into chemical energy)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "यांत्रिक ऊर्जा को विद्युत ऊर्जा मे (Mechanical energy into electrical energy)"
+        },
+        {
+            "id": 50,
+            "question": "इलेक्ट्रॉन पर आवेश होता है (Charge on an electron is)",
+            "options": [
+                "-1.6 x 10⁻¹⁹ कूलम्ब (Coulomb)",
+                "-1.6 x 10²⁰ कूलम्ब (Coulomb)",
+                "-1.6 x 10⁻²⁷ कूलम्ब (Coulomb)",
+                "-1.6 x 10⁻¹⁹ कूलम्ब (Coulomb) - Duplicate option"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "-1.6 x 10⁻¹⁹ कूलम्ब (Coulomb)"
+        }
+    ]
+}

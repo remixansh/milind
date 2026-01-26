@@ -1,0 +1,658 @@
+{
+    "date": "0128",
+    "dateDisplay": "28 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्न में से किसका गठन आर्थिक नियोजन में राज्यों की भागीदारी सुनिश्चित करने के लक्ष्य से हुआ था ? (Which of the following was formed with the aim of ensuring participation of states in economic planning?)",
+            "options": [
+                "योजना आयोग (Planning Commission)",
+                "राष्ट्रीय विकास परिषद् (National Development Council)",
+                "नाबार्ड (NABARD)",
+                "मुद्रा बाजार (Money Market)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "राष्ट्रीय विकास परिषद् (National Development Council)"
+        },
+        {
+            "id": 2,
+            "question": "शेतकारी संगठन कहाँ स्थापित हुआ ? (Where was Shetkari organization established ?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "बिहार (Bihar)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 3,
+            "question": "निम्नलिखित में से कहाँ संघीय सरकार प्रणाली नहीं है ? (Which of the following does not have a federal system of government?)",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "स्पेन (Spain)",
+                "संयुक्त राज्य अमेरिका (United States of America)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 4,
+            "question": "निम्न में से किस विषय को राज्य सूची में रखा गया है ? (Which of the following subjects has been placed in the State List ?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "पुलिस (Police)",
+                "सिंचाई (Irrigation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 5,
+            "question": "राजनीतिक दलों को चुनाव चिह्न कौन आवंटित करता है ? (Who allots election symbols to political parties ?)",
+            "options": [
+                "भारत सरकार (Government of India)",
+                "भारतीय संविधान (Constitution of India)",
+                "चुनाव आयोग (Election Commission)",
+                "राष्ट्रपति (President)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "चुनाव आयोग (Election Commission)"
+        },
+        {
+            "id": 6,
+            "question": "लोक जनशक्ति पार्टी का गठन किसने किया ? (Who formed Lok Janshakti Party?)",
+            "options": [
+                "राम विलास पासवान (Ram Vilas Paswan)",
+                "मुलायम सिंह (Mulayam Singh)",
+                "कांशीराम (Kanshi Ram)",
+                "शरद यादव (Sharad Yadav)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "राम विलास पासवान (Ram Vilas Paswan)"
+        },
+        {
+            "id": 7,
+            "question": "किस राज्य को काटकर मेघालय राज्य का गठन किया गया ? (Meghalaya was formed from which state ?)",
+            "options": [
+                "त्रिपुरा (Tripura)",
+                "असम (Assam)",
+                "नागालैण्ड (Nagaland)",
+                "अरुणाचल प्रदेश (Arunachal Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "असम (Assam)"
+        },
+        {
+            "id": 8,
+            "question": "प्राकृतिक गैस किस खनिज के साथ पाया जाता है ? (With which mineral is natural gas found?)",
+            "options": [
+                "यूरेनियम (Uranium)",
+                "पेट्रोलियम (Petroleum)",
+                "चूनापत्थर (Limestone)",
+                "कोयला (Coal)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "पेट्रोलियम (Petroleum)"
+        },
+        {
+            "id": 9,
+            "question": "पावरलूम का आविष्कार किसने किया ? (Who invented the Powerloom?)",
+            "options": [
+                "जेम्स वॉट (James Watt)",
+                "जॉन के (John Kay)",
+                "एडमण्ड कार्टराईट (Edmund Cartwright)",
+                "क्रॉम्पटन (Crompton)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "एडमण्ड कार्टराईट (Edmund Cartwright)"
+        },
+        {
+            "id": 10,
+            "question": "मानचित्र में नीले रंग द्वारा किस भाग को दिखाया जाता है ? (Which part is shown by blue color in the map?)",
+            "options": [
+                "पर्वत (Mountain)",
+                "पठार (Plateau)",
+                "मैदान (Plain)",
+                "जल (Water)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "जल (Water)"
+        },
+        {
+            "id": 11,
+            "question": "निम्न में से कौन संचार सेवाओं का अंग है ? (Which of the following is a part of communication services?)",
+            "options": [
+                "समाचारपत्र (Newspaper)",
+                "टेलीफोन (Telephone)",
+                "टेलीविजन (Television)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 12,
+            "question": "मानवीय पूँजी निर्माण का मुख्य घटक है (The main component of human capital formation is)",
+            "options": [
+                "स्वास्थ्य सेवाएँ (Health services)",
+                "आवास (Housing)",
+                "शिक्षा एवं प्रशिक्षण (Education and training)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 13,
+            "question": "क्षेत्रवाद की भावना का एक कुरिणाम है (Bad effect of feeling of regionalism is)",
+            "options": [
+                "अपने क्षेत्र से लगाव (Attachment to own region)",
+                "राष्ट्रहित (National interest)",
+                "राष्ट्रीय एकता (National integration)",
+                "अलगाववाद (Separationalism)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "अलगाववाद (Separationalism)"
+        },
+        {
+            "id": 14,
+            "question": "पृथ्यो को सतह पर सर्वप्रथम पहुंचनेवाली भूकम्प-तरंग है (The seismic wave reaching the earth's surface first is)",
+            "options": [
+                "पी तरंग (P wave)",
+                "एस तरंग (S wave)",
+                "एल तरंग (L wave)",
+                "टी तरंग (T wave)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "पी तरंग (P wave)"
+        },
+        {
+            "id": 15,
+            "question": "आधिक विकास का तीसरा क्षेत्र क्या है ? (Which is the third sector of Economic development?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "विज्ञान क्षेत्र (Science sector)",
+                "शिक्षा क्षेत्र (Education sector)",
+                "सेवा क्षेत्र (Service sector)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सेवा क्षेत्र (Service sector)"
+        },
+        {
+            "id": 16,
+            "question": "नई आर्थिक नीति में किसे सम्मिलित किया गया ? (What was included in the New Economic Policy ?)",
+            "options": [
+                "उदारीकरण (Liberalisation)",
+                "निजीकरण (Privatisation)",
+                "येश्वीकरण (Globalisation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 17,
+            "question": "वैश्वीकरण के मुख्य अंग कितने है ? (How many factors constitute globalisation?)",
+            "options": [
+                "एक (One)",
+                "दो (Two)",
+                "पाँच (Five)",
+                "चार (Four)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "पाँच (Five)"
+        },
+        {
+            "id": 18,
+            "question": "भारत को वित्तीय राजधानी किस शहर को कहा गया है ? (Which is the financial capital of India ?)",
+            "options": [
+                "मुम्बई (Mumbai)",
+                "दिल्ली (Delhi)",
+                "पटना (Patna)",
+                "बंगलुरू (Bengaluru)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "मुम्बई (Mumbai)"
+        },
+        {
+            "id": 19,
+            "question": "संघ राज्य की विशेषता नहीं है (Which is not a characteristic of a federal state ?)",
+            "options": [
+                "लिखित संविधान (Written constitution)",
+                "शक्तियों का विभाजन (Power distribution)",
+                "इकहरी शासन व्यवस्था (Unitary ruling system)",
+                "सर्वोच्च न्यायपालिका (Supreme Judiciary)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "इकहरी शासन व्यवस्था (Unitary ruling system)"
+        },
+        {
+            "id": 20,
+            "question": "बिहार में संपूर्ण क्रांति का नेतृत्व निम्नलिखित में से किसने किया ? (Who among the following led the Sampurna Kranti in Bihar ?)",
+            "options": [
+                "मोरारजी देशाई (Morarji Desai)",
+                "नीतीश कुमार (Nitish Kumar)",
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "जयप्रकाश नारायण (Jay Prakash Narayan)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "जयप्रकाश नारायण (Jay Prakash Narayan)"
+        },
+        {
+            "id": 21,
+            "question": "काउंट कापूर को विक्टर इमैनुएल ने किस पद पर नियुक्त किया ? (In which post did Victor Emmanuel appoint Count Cavour?)",
+            "options": [
+                "सेनापति (Army Chief)",
+                "फ्रांस में राजदूत (Ambassador in France)",
+                "प्रधानमंत्री (Prime Minister)",
+                "गृहमंत्री (Home Minister)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "प्रधानमंत्री (Prime Minister)"
+        },
+        {
+            "id": 22,
+            "question": "साम्यवादी शासन का पहला प्रयोग कहाँ हुआ था ? (Where was the first experiment of the communist governance started ?)",
+            "options": [
+                "रूस (Russia)",
+                "जापान (Japan)",
+                "चीन (China)",
+                "क्यूबा (Cuba)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "रूस (Russia)"
+        },
+        {
+            "id": 23,
+            "question": "कोटी तापीय विद्युत परियोजना किस जिला में स्थापित है ? (In which district is Kanti Thermal Power Project situated ?)",
+            "options": [
+                "पूर्णिया (Purnia)",
+                "सीवान (Siwan)",
+                "मुजफ्फरपुर (Muzaffarpur)",
+                "पूर्वी चंपारण (East Champaran)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "मुजफ्फरपुर (Muzaffarpur)"
+        },
+        {
+            "id": 24,
+            "question": "सुनामी का प्रमुख कारण क्या है ? (What is the main cause of Tsunami?)",
+            "options": [
+                "समुद्र में भूकंप (Earthquake in sea)",
+                "मैदानी क्षेत्र में भूकंप (Earthquake in plain area)",
+                "पर्वत पर भूकंप (Earthquake on mountain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "समुद्र में भूकंप (Earthquake in sea)"
+        },
+        {
+            "id": 25,
+            "question": "निम्न जोवों में कौन केवल भारत में पाया जाता है ? (Which of the following creatures is found only in India?)",
+            "options": [
+                "मगरमच्छ (Crocodile)",
+                "डॉल्फिन (Dolphin)",
+                "ह्वेल (Whale)",
+                "कछुआ (Tortoise)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "डॉल्फिन (Dolphin)"
+        },
+        {
+            "id": 26,
+            "question": "निम्न में से कौन रोपण फसल नहीं है ? (Which of the following is not a plantation crop?)",
+            "options": [
+                "रबड़ (Rubber)",
+                "गन्ना (Sugarcane)",
+                "धान (Paddy)",
+                "चाय (Tea)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "धान (Paddy)"
+        },
+        {
+            "id": 27,
+            "question": "आर्थिक विकास का तीसरा क्षेत्र क्या है ? (What is the third sector of economic development?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "विज्ञान क्षेत्र (Science sector)",
+                "शिक्षा क्षेत्र (Education sector)",
+                "सेवा क्षेत्र (Service sector)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सेवा क्षेत्र (Service sector)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में से कौन जीवाश्म ईंधन है ? (Which of the following is a fossil fuel?)",
+            "options": [
+                "कोयला (Coal)",
+                "पेट्रोलियम (Petroleum)",
+                "प्राकृतिक गैस (Natural Gas)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 29,
+            "question": "विश्व में सर्वप्रथम मुद्रण की शुरुआत कहाँ हुई ? (Where did printing start first in the world?)",
+            "options": [
+                "भारत (India)",
+                "जापान (Japan)",
+                "चीन (China)",
+                "अमेरिका (America)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 30,
+            "question": "अन्तरराष्ट्रीय मजदूर दिवस कब मनाया जाता है ? (When is International Labour Day celebrated?)",
+            "options": [
+                "1 अप्रैल (1 April)",
+                "1 मई (1 May)",
+                "1 जून (1 June)",
+                "1 जुलाई (1 July)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "1 मई (1 May)"
+        },
+        {
+            "id": 31,
+            "question": "निम्न में से कौन लौह अयस्क का एक प्रकार है ? (Which of the following is a type of iron ore ?)",
+            "options": [
+                "लिगनाइट (Lignite)",
+                "हेमाटाइट (Haematite)",
+                "बिटुमिनस (Bituminous)",
+                "पीट (Peat)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "हेमाटाइट (Haematite)"
+        },
+        {
+            "id": 32,
+            "question": "काउंट कावूर को विक्टर इमैनुएल ने किस पद पर नियुक्त किया ? (To which post did Victor Emmanuel appoint Count Cavour?)",
+            "options": [
+                "सेनापति (General)",
+                "फ्रांस में राजदूत (Ambassador to France)",
+                "प्रधानमंत्री (Prime Minister)",
+                "गृहमंत्री (Home Minister)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "प्रधानमंत्री (Prime Minister)"
+        },
+        {
+            "id": 33,
+            "question": "विश्व व्यापार संगठन की स्थापना कब हुई ? (When was the World Trade Organization established?)",
+            "options": [
+                "1990",
+                "1991",
+                "1997",
+                "1995"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1995"
+        },
+        {
+            "id": 34,
+            "question": "टेक्सोल का उपयोग होता है (Taxol is used in)",
+            "options": [
+                "मलेरिया में (In Malaria)",
+                "एड्स में (In AIDS)",
+                "कैंसर में (In Cancer)",
+                "टी०बी० में (In T.B.)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "कैंसर में (In Cancer)"
+        },
+        {
+            "id": 35,
+            "question": "जल्वेरिन सम्बन्धित था (Zollverein was related to)",
+            "options": [
+                "क्रांतिकारीयों से (Revolutionaries)",
+                "व्यापारियों से (Merchants)",
+                "विद्वानों से (Scholars)",
+                "पादरियों से (Clergy)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "व्यापारियों से (Merchants)"
+        },
+        {
+            "id": 36,
+            "question": "वियना सम्मेलन हुआ था (Vienna Conference was held in)",
+            "options": [
+                "1815 में (In 1815)",
+                "1848 में (In 1848)",
+                "1870 में (In 1870)",
+                "1871 में (In 1871)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1815 में (In 1815)"
+        },
+        {
+            "id": 37,
+            "question": "सासाराम नगर का विकास हुआ था (Sasaram city was developed in)",
+            "options": [
+                "प्राचीन युग में (In Ancient Era)",
+                "मध्य युग में (In Medieval Era)",
+                "आधुनिक युग में (In Modern Era)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "मध्य युग में (In Medieval Era)"
+        },
+        {
+            "id": 38,
+            "question": "सुखाड़ का कारण है (The cause of drought is)",
+            "options": [
+                "जल का अभाव (Lack of water)",
+                "मिट्टी की नमी का अभाव (Lack of soil moisture)",
+                "मिट्टी का क्षय (Soil erosion)",
+                "मिट्टी की लवणता (Soil salinity)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "जल का अभाव (Lack of water)"
+        },
+        {
+            "id": 39,
+            "question": "भारत में सबसे बड़ा लौह अयस्क उत्पादक राज्य है (The largest iron ore producing state in India is)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "ओडिशा (Odisha)",
+                "झारखण्ड (Jharkhand)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 40,
+            "question": "ग्राम कचहरी में मुकदमे सुलझाए जाते हैं (Cases are settled in Gram Kachhari)",
+            "options": [
+                "दिवानी मामले (Civil Cases)",
+                "फौजदारी मामले (Criminal Cases)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 41,
+            "question": "भारतीय जनता पार्टी के प्रथम अध्यक्ष कौन थे ? (Who was the first president of Bharatiya Janata Party?)",
+            "options": [
+                "लाल कृष्ण आडवाणी (Lal Krishna Advani)",
+                "मुरली मनोहर जोशी (Murali Manohar Joshi)",
+                "राजनाथ सिंह (Rajnath Singh)",
+                "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)"
+        },
+        {
+            "id": 42,
+            "question": "निम्न में से कौन उपभोक्ता उद्योग है ? (Which of the following is a consumer industry ?)",
+            "options": [
+                "पेट्रो-रसायन (Petro-chemical)",
+                "लौह-इस्पात (Iron-Steel)",
+                "चीनी उद्योग (Sugar Industry)",
+                "चित्तरंजन लोकोमोटिव (Chittaranjan Locomotive)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "चीनी उद्योग (Sugar Industry)"
+        },
+        {
+            "id": 43,
+            "question": "गिर राष्ट्रीय उद्यान कहाँ है ? (Where is Gir National Park ?)",
+            "options": [
+                "अरुणाचल प्रदेश (Arunachal Pradesh)",
+                "बिहार (Bihar)",
+                "असम (Assam)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "गुजरात (Gujarat)"
+        },
+        {
+            "id": 44,
+            "question": "प्रथम पृथ्वी सम्मेलन कहाँ आयोजित हुआ ? (Where was the First Earth Summit held ?)",
+            "options": [
+                "रियो डी जेनेरो (Rio de Janeiro)",
+                "जोहान्सबर्ग (Johannesburg)",
+                "न्यूयार्क (New York)",
+                "टोक्यो (Tokyo)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "रियो डी जेनेरो (Rio de Janeiro)"
+        },
+        {
+            "id": 45,
+            "question": "निम्न में से कौन खरीफ फसल है ? (Which of the following is a Kharif crop ?)",
+            "options": [
+                "गेहूँ (Wheat)",
+                "चना (Gram)",
+                "मटर (Peas)",
+                "कपास (Cotton)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कपास (Cotton)"
+        },
+        {
+            "id": 46,
+            "question": "मरुस्थलीय मृदा कहाँ मिलती है ? (Where is desert soil found ?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "राजस्थान (Rajasthan)",
+                "कर्नाटक (Karnataka)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 47,
+            "question": "भारत का सबसे छोटा रेलवे क्षेत्र कौन है ? (Which is the smallest railway zone in India ?)",
+            "options": [
+                "उत्तर रेलवे (Northern Railway)",
+                "पूर्व रेलवे (Eastern Railway)",
+                "मध्य रेलवे (Central Railway)",
+                "उत्तर-पूर्वी रेलवे (North-Eastern Railway)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "उत्तर-पूर्वी रेलवे (North-Eastern Railway)"
+        },
+        {
+            "id": 48,
+            "question": "दीर्घकालीन ऋण प्रदान करने वाली संस्था कौन-सी है ? (Which institution provides long term loans?)",
+            "options": [
+                "कृषक महाजन (Farmer money lender)",
+                "भूमि विकास बैंक (Land Development Bank)",
+                "प्राथमिक कृषि साख समिति (Primary Agricultural Credit Society)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "भूमि विकास बैंक (Land Development Bank)"
+        },
+        {
+            "id": 49,
+            "question": "दल-बदल कानून निम्नलिखित में से किस पर लागू होता है? (Anti-defection law applies to which of the following?)",
+            "options": [
+                "सांसदों एवं विधायकों पर (MPs and MLAs)",
+                "राष्ट्रपति पर (President)",
+                "उपराष्ट्रपति पर (Vice President)",
+                "इनमें से सभी पर (All of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "सांसदों एवं विधायकों पर (MPs and MLAs)"
+        },
+        {
+            "id": 50,
+            "question": "भारत के लिए पहला फैक्ट्री एक्ट कब पारित हुआ ? (When was the first Factory Act passed for India?)",
+            "options": [
+                "1838",
+                "1858",
+                "1881",
+                "1911"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "1881"
+        }
+    ]
+}

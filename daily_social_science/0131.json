@@ -1,0 +1,658 @@
+{
+    "date": "0131",
+    "dateDisplay": "31 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "मास्टर दा किनका उपनाम था ? (Whose nickname was Master Da ?)",
+            "options": [
+                "सुभाषचन्द्र बोस (Subhash Chandra Bose)",
+                "सूर्य सेन (Surya Sen)",
+                "चित्तरंजन दास (Chittaranjan Das)",
+                "विपिन चंद्र पाल (Bipin Chandra Pal)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सूर्य सेन (Surya Sen)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से क्या पूँजीगत वस्तु का उदाहरण है ? (Which of the following is an example of a capital good ?)",
+            "options": [
+                "ट्रैक्टर (Tractor)",
+                "उपकरण (Tools)",
+                "मशीन (Machine)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 3,
+            "question": "कार्यशील जनसंख्या का बड़ा हिस्सा किस क्षेत्र में कार्यरत है ? (In which sector is the major part of the working population employed ?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "प्राथमिक क्षेत्र (Primary sector)"
+        },
+        {
+            "id": 4,
+            "question": "\"बिहार के विकास के बिना भारत का विकास संभव नहीं है।\" यह कथन किसका है ? (\"India's development is not possible without the development of Bihar.\" Whose statement is this?)",
+            "options": [
+                "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+                "ए. पी. जे. अब्दुल कलाम (A. P. J. Abdul Kalam)",
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "कर्पूरी ठाकुर (Karpuri Thakur)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ए. पी. जे. अब्दुल कलाम (A. P. J. Abdul Kalam)"
+        },
+        {
+            "id": 5,
+            "question": "निम्न में कौन आर्थिक आधारभूत संरचना का अंग है ? (Which of the following is a part of economic infrastructure ?)",
+            "options": [
+                "संचार (Communication)",
+                "शिक्षा (Education)",
+                "स्वास्थ्य सुविधाएँ (Health facilities)",
+                "कुशल प्रशासन (Efficient administration)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "संचार (Communication)"
+        },
+        {
+            "id": 6,
+            "question": "विश्व व्यापार संगठन के सदस्य देशों की संख्या कितनी है ? (What is the number of member countries of World Trade Organization ?)",
+            "options": [
+                "149",
+                "164",
+                "166",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "164"
+        },
+        {
+            "id": 7,
+            "question": "राष्ट्रीय आय को कुल जनसंख्या से भाग देने पर क्या प्राप्त होगा ? (What is obtained on dividing national income by total population?)",
+            "options": [
+                "सीमान्त आय (Marginal Income)",
+                "कुल आय (Total Income)",
+                "कुल बचत (Total Savings)",
+                "प्रति व्यक्ति आय (Per Capita Income)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "प्रति व्यक्ति आय (Per Capita Income)"
+        },
+        {
+            "id": 8,
+            "question": "उपभोक्ता संरक्षण अधिनियम के अंतर्गत शिकायत दर्ज करने की समय सीमा क्या है ? (What is the time limit for filing complaint under Consumer Protection Act ?)",
+            "options": [
+                "एक वर्ष (One year)",
+                "दो वर्ष (Two years)",
+                "एक माह (One month)",
+                "दो माह (Two months)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दो वर्ष (Two years)"
+        },
+        {
+            "id": 9,
+            "question": "भारत में कार्यरत सार्वजनिक क्षेत्र के वाणिज्यिक बैंकों की संख्या क्या है ? (What is the number of public sector commercial banks operating in India?)",
+            "options": [
+                "19",
+                "12",
+                "15",
+                "20"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "12"
+        },
+        {
+            "id": 10,
+            "question": "निम्न में से किस आर्थिक सुधार की प्रक्रिया में बहुराष्ट्रीय कंपनियाँ मुख्य भूमिका निभा रही हैं ?- (Multinational companies are playing a key role in with following economic reform processes ?)",
+            "options": [
+                "उदारीकरण (Liberalization)",
+                "राष्ट्रीयकरण (Nationalization)",
+                "वैश्वीकरण (Globalization)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "वैश्वीकरण (Globalization)"
+        },
+        {
+            "id": 11,
+            "question": "पूँजी बाजार से प्राप्त ऋणों की परिपक्वता अवधि क्या होती है ? (What is the maturity period of loans obtained from capital market?)",
+            "options": [
+                "अल्पकालीन (Short term)",
+                "दीर्घकालीन (Long term)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दीर्घकालीन (Long term)"
+        },
+        {
+            "id": 12,
+            "question": "मानव विकास रिपोर्ट किस घटक के आधार पर तैयार की जाती है ? (On the basis of which component is the Human Development Report prepared?)",
+            "options": [
+                "शैक्षिक स्तर (Education level)",
+                "स्वास्थ्य स्थिति (Health status)",
+                "प्रति व्यक्ति आय (Per capita income)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 13,
+            "question": "गरीबी के कुचक्र की अवधारणा किसने दी ? (Who gave the concept of the vicious circle of poverty?)",
+            "options": [
+                "प्रो० केन्स (Prof. Keynes)",
+                "प्रो० मार्शल (Prof. Marshall)",
+                "रेगनर नर्क्स (Ragnar Nurkse)",
+                "एडम स्मिथ (Adam Smith)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "रेगनर नर्क्स (Ragnar Nurkse)"
+        },
+        {
+            "id": 14,
+            "question": "गरीबी रेखा निर्धारण हेतु कैलोरी मापदण्ड किसके सुझाव पर निर्धारित किया गया ? (On whose suggestion was the calorie criteria for determining the poverty line decided ?)",
+            "options": [
+                "तेंदुलकर समिति (Tendulkar Committee)",
+                "लकड़ावाला समिति (Lakdawala Committee)",
+                "योजना आयोग (Planning Commission)",
+                "रंगराजन समिति (Rangarajan Committee)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "योजना आयोग (Planning Commission)"
+        },
+        {
+            "id": 15,
+            "question": "सहकारिता प्रांतीय सरकारों का हस्तांतरित विषय कब बना ? (When did co-operation become a transferred subject of provincial governments?)",
+            "options": [
+                "1904",
+                "1912",
+                "1914",
+                "1919"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "1919"
+        },
+        {
+            "id": 16,
+            "question": "निम्न में से क्या बिहार के विकास में बाधक है ? (Which of the following is a hindrance in the development of Bihar ?)",
+            "options": [
+                "गरीबी (Poverty)",
+                "बेरोजगारी (Unemployment)",
+                "बाढ़ (Flood)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में से किस देश का HDI रैंक भारत से अच्छा है ? (Which of the following countries has a better HDI rank than India?)",
+            "options": [
+                "नेपाल (Nepal)",
+                "श्रीलंका (Sri Lanka)",
+                "पाकिस्तान (Pakistan)",
+                "म्यांमार (Myanmar)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "श्रीलंका (Sri Lanka)"
+        },
+        {
+            "id": 18,
+            "question": "हीराकुड बाँध किस राज्य में अवस्थित है ? (In which state is Hirakud Dam located?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "उत्तराखण्ड (Uttarakhand)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 19,
+            "question": "भारत के सार्वजनिक क्षेत्र के सभी लौह इस्पात संयंत्रों का प्रबंध किसके अधीन है ? (Under whose control is the management of all the iron and steel plants in the public sector of India ?)",
+            "options": [
+                "टिस्को (TISCO)",
+                "सेल (SAIL)",
+                "भेल (BHEL)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सेल (SAIL)"
+        },
+        {
+            "id": 20,
+            "question": "नेल्लोर किस खनिज के उत्पादन के लिए प्रसिद्ध है ? (Nellore is famous for the production of which mineral ?)",
+            "options": [
+                "अभ्रक (Mica)",
+                "बॉक्साइट (Bauxite)",
+                "लौह अयस्क (Iron ore)",
+                "हीरा (Diamond)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "अभ्रक (Mica)"
+        },
+        {
+            "id": 21,
+            "question": "भिलाई स्टील संयंत्र किस देश के सहयोग से स्थापित किया गया था ? (Bhilai Steel Plant was established with the cooperation of which country?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "रूस (Russia)",
+                "जर्मनी (Germany)",
+                "फ्रांस (France)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "रूस (Russia)"
+        },
+        {
+            "id": 22,
+            "question": "उत्तर और दक्षिण वियतनाम का एकीकरण कब हुआ ? (When did the unification of North and South Vietnam occur ?)",
+            "options": [
+                "अप्रैल 1975 (April 1975)",
+                "मई 1970 (May 1970)",
+                "जुलाई 1965 (July 1965)",
+                "जून 1960 (June 1960)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "अप्रैल 1975 (April 1975)"
+        },
+        {
+            "id": 23,
+            "question": "मिरात-उल-अखबार किसने शुरू किया ? (Who started Miraat-ul-Akhbar?)",
+            "options": [
+                "बदरुद्दीन तैयबजी (Badruddin Tyabji)",
+                "फिरोज मेहता (Pheroze Mehta)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "राजा राममोहन राय (Raja Rammohan Roy)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "राजा राममोहन राय (Raja Rammohan Roy)"
+        },
+        {
+            "id": 24,
+            "question": "निम्न में से किसे 'समाजवादियों की बाइबिल' कहा जाता है ? (Which of the following is called the 'Bible of Socialists' ?)",
+            "options": [
+                "साम्यवादी घोषणापत्र (Communist Manifesto)",
+                "अप्रैल थिसिस (April Theses)",
+                "दास कैपिटल (Das Kapital)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "दास कैपिटल (Das Kapital)"
+        },
+        {
+            "id": 25,
+            "question": "1954 का जेनेवा समझौते के क्रियान्वयन की देखभाल हेतु गठित त्रिसदस्यीय अंतरराष्ट्रीय निगरानी आयोग का सदस्य निम्न में से कौन नहीं था ? (Who among the following was not a member of the three-member International Monitoring Commission formed to look after implementation of the Geneva Agreement of 1954 ?)",
+            "options": [
+                "भारत (India)",
+                "कनाडा (Canada)",
+                "पोलैण्ड (Poland)",
+                "फ्रांस (France)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 26,
+            "question": "निम्न में से कहाँ महिलाओं के लिए आरक्षण की व्यवस्था है ? (Which of the following has a reservation system for women ?)",
+            "options": [
+                "लोकसभा (Lok Sabha)",
+                "विधानसभा (Vidhan Sabha)",
+                "पंचायती राज (Panchayati Raj)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पंचायती राज (Panchayati Raj)"
+        },
+        {
+            "id": 27,
+            "question": "निम्न में से किसके विरुद्ध चिली में जनसंघर्ष हुआ था ? (Against which of the following was the mass struggle in Chile occurred?)",
+            "options": [
+                "राजतंत्र (Monarchy)",
+                "सैनिक तानाशाही (Military dictatorship)",
+                "समाजवाद (Socialism)",
+                "साम्यवाद (Communism)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सैनिक तानाशाही (Military dictatorship)"
+        },
+        {
+            "id": 28,
+            "question": "शिरोमणी अकाली दल किस राज्य का राजनीतिक दल है ? (Shiromani Akali Dal is the political Party of which state ?)",
+            "options": [
+                "हरियाणा (Haryana)",
+                "झारखंड (Jharkhand)",
+                "पंजाब (Punjab)",
+                "हिमाचल प्रदेश (Himachal Pradesh)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पंजाब (Punjab)"
+        },
+        {
+            "id": 29,
+            "question": "निम्न में किसे नगर का प्रथम नागरिक माना जाता है ? (Who among the following is considered the first citizen of the city ?)",
+            "options": [
+                "मुखिया (Mukhiya)",
+                "सरपंच (Sarpanch)",
+                "महापौर (Mayor)",
+                "पंचायत सचिव (Panchayat Secretary)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "महापौर (Mayor)"
+        },
+        {
+            "id": 30,
+            "question": "सामाजिक विभाजनों को हल करने का सबसे अच्छा तरीका क्या है ? (What is the best way to solve social divisions ?)",
+            "options": [
+                "राजतंत्र (Monarchy)",
+                "लोकतंत्र (Democracy)",
+                "सैनिक तानाशाही (Military dictatorship)",
+                "जन संघर्ष (Mass struggle)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लोकतंत्र (Democracy)"
+        },
+        {
+            "id": 31,
+            "question": "2024 में कौन-सी लोकसभा का चुनाव हुआ था ? (Which Lok Sabha elections were held in 2024 ?)",
+            "options": [
+                "14 वीं (14th)",
+                "15 वीं (15th)",
+                "18 वीं (18th)",
+                "20 वीं (20th)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "18 वीं (18th)"
+        },
+        {
+            "id": 32,
+            "question": "भारतीय लोकतंत्र में सत्ता के विरुद्ध जन आक्रोश किस दशक से प्रारंभ हुआ ? (From which decade did the Public anger against power in Indian democracy begin?)",
+            "options": [
+                "1960 के दशक में (In the 1960s)",
+                "1970 के दशक में (In the 1970s)",
+                "1980 के दशक में (In the 1980s)",
+                "1990 के दशक में (In the 1990s)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1970 के दशक में (In the 1970s)"
+        },
+        {
+            "id": 33,
+            "question": "संविधान की ग्यारहवीं (11 वीं) अनुसूची का संबंध किससे है ? (Which of the following is related to the 11th Schedule of the Constitution?)",
+            "options": [
+                "नगरपालिका (Municipality)",
+                "ग्राम पंचायत (Gram Panchayat)",
+                "आपातकाल (Emergency)",
+                "मौलिक अधिकार (Fundamental Right)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ग्राम पंचायत (Gram Panchayat)"
+        },
+        {
+            "id": 34,
+            "question": "भुज किस राज्य में है.? (Bhuj is in which state ?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "गुजरात (Gujarat)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "गुजरात (Gujarat)"
+        },
+        {
+            "id": 35,
+            "question": "ज्वालामुखी उद्‌गार से कौन-सा पदार्थ निकलता है ? (What substance comes out of volcanic eruption ?)",
+            "options": [
+                "लावा (Lava)",
+                "जलवाष्प (Water vapour)",
+                "गैस (Gases)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 36,
+            "question": "निम्न में से किसे बाढ़ का देश कहा जाता है ? (Which of the following is called the country of flood ?)",
+            "options": [
+                "पाकिस्तान (Pakistan)",
+                "बांग्लादेश (Bangladesh)",
+                "इण्डोनेशिया (Indonesia)",
+                "भूटान (Bhutan)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बांग्लादेश (Bangladesh)"
+        },
+        {
+            "id": 37,
+            "question": "किस आपदा का संबंध पृथ्वी की आंतरिक संरचना से है ? (Which disaster is related to the internal structure of the Earth?)",
+            "options": [
+                "बाढ़ (Flood)",
+                "रासायनिक आपदा (Chemical disaster)",
+                "सुनामी (Tsunami)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सुनामी (Tsunami)"
+        },
+        {
+            "id": 38,
+            "question": "निम्न में से किसमें मूल्यह्रास का मूल्य शामिल है ? (Which of the following includes the values of depreciation ?)",
+            "options": [
+                "NDP",
+                "NNP",
+                "GDP",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "GDP"
+        },
+        {
+            "id": 39,
+            "question": "ब्रंटलैंड आयोग निम्नलिखित में से किससे संबंधित है ? (Brundtland Commission is related to which of the following ?)",
+            "options": [
+                "धारणीय विकास (Sustainable Development)",
+                "गरीबी (Poverty)",
+                "बेरोजगारी (Unemployment)",
+                "समावेशी विकास (Inclusive Development)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "धारणीय विकास (Sustainable Development)"
+        },
+        {
+            "id": 40,
+            "question": "1949 में भारत सरकार द्वारा गठित राष्ट्रीय आय समिति के अध्यक्ष कौन थे ? (Who was the Chairman of the National Income Committee constituted by the Government of India in 1949 ?)",
+            "options": [
+                "पी. सी. महालनोबिस (P. C. Mahalanobis)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "एम. एस. स्वामीनाथन (M. S. Swaminathan)",
+                "साइमन कुजनेट्स (Siman Kuznets)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "पी. सी. महालनोबिस (P. C. Mahalanobis)"
+        },
+        {
+            "id": 41,
+            "question": "क्षेत्रीय ग्रामीण बैंक की स्थापना कब हुई थी ? (When was Regional Rural Bank established ?)",
+            "options": [
+                "अगस्त 1952 (August 1952)",
+                "जुलाई 1982 (July 1982)",
+                "अक्टूबर 1975 (October 1975)",
+                "अप्रैल 1980 (April 1980)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अक्टूबर 1975 (October 1975)"
+        },
+        {
+            "id": 42,
+            "question": "लोहे की मात्रा अधिक होने के कारण कौन-सी मृदा अनुर्वर होती जा रही है ? (Which soil is becoming infertile due to high amount of iron?)",
+            "options": [
+                "जलोढ़ मृदा (Alluvial soil)",
+                "काली मृदा (Black soil)",
+                "लैटेराइट मृदा (Laterite soil)",
+                "मरुस्थलीय मृदा (Desert soil)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "लैटेराइट मृदा (Laterite soil)"
+        },
+        {
+            "id": 43,
+            "question": "रेगुर मृदा का सर्वाधिक विस्तार किस राज्य में है ? (In which state is the maximum expansion of Regur soil ?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "केरल (Kerala)",
+                "पंजाब (Punjab)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 44,
+            "question": "सिमलीपाल वन्य जीव अभयारण्य कहाँ स्थित है ? (Where is Similipal Wildlife Sanctuary located ?)",
+            "options": [
+                "उत्तराखण्ड (Uttarakhand)",
+                "ओडिशा (Odisha)",
+                "गुजरात (Gujarat)",
+                "त्रिपुरा (Tripura)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 45,
+            "question": "कर्तन एवं दहन कृषि को अन्य किस नाम से जाना जाता है ? (By what other name is burn and slash agriculture known ?)",
+            "options": [
+                "गहन कृषि (Intensive farming)",
+                "रोपण कृषि (Plantation agriculture)",
+                "जैविक कृषि (Organic farming)",
+                "झूम कृषि (Jhum agriculture)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "झूम कृषि (Jhum agriculture)"
+        },
+        {
+            "id": 46,
+            "question": "भारत में सर्वाधिक क्षेत्रफल पर किस फसल की कृषि होती है ? (Which crop is cultivated on the largest area in India ?)",
+            "options": [
+                "गेहूँ (Wheat)",
+                "चावल (Rice)",
+                "दलहन (Pulses)",
+                "कपास (Cotton)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "चावल (Rice)"
+        },
+        {
+            "id": 47,
+            "question": "भारत की सबसे पुरानी तेल शोधन इकाई कौन है ? (Which is the oldest oil refining unit in India?)",
+            "options": [
+                "डिगबोई (Digboi)",
+                "मथुरा (Mathura)",
+                "बरौनी (Barauni)",
+                "जामनगर (Jamnagar)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "डिगबोई (Digboi)"
+        },
+        {
+            "id": 48,
+            "question": "किस बंदरगाह का नाम दीनदयाल बंदरगाह कर दिया गया है ? (Which port has been renamed as Deendayal Port ?)",
+            "options": [
+                "तूतीकोरिन (Tuticorin)",
+                "न्यू मंगलोर (New Mangalore)",
+                "कांडला (Kandla)",
+                "मुंबई (Mumbai)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "कांडला (Kandla)"
+        },
+        {
+            "id": 49,
+            "question": "भारतीय अंतर्देशीय जलमार्ग प्राधिकरण का मुख्यालय कहाँ है ? (Where is the headquarters of Inland Waterways Authority of India ?)",
+            "options": [
+                "पटना (Patna)",
+                "नोएडा (Noida)",
+                "फरक्का (Farakka)",
+                "कोलकाता (Kolkata)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "नोएडा (Noida)"
+        },
+        {
+            "id": 50,
+            "question": "इलबर्ट बिल कब पारित हुआ ? (When was Ilbert Bill passed ?)",
+            "options": [
+                "1818",
+                "1843",
+                "1884",
+                "1918"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "1884"
+        }
+    ]
+}

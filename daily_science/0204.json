@@ -1,0 +1,658 @@
+{
+    "date": "0204",
+    "dateDisplay": "04 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "एक वन पारिस्थितिक तंत्र में कितने पोषी स्तर होते हैं ? (How many trophic levels are there in a forest ecosystem?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "4"
+        },
+        {
+            "id": 2,
+            "question": "अभिक्रिया, जिसमें आयनों का आदान-प्रदान होता है, कहलाती है (The reaction in which ions are exchanged is called)",
+            "options": [
+                "विस्थापन (displacement)",
+                "द्विविस्थापन (double displacement)",
+                "संयोजन (combination)",
+                "अवक्षेपण (precipitation)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "द्विविस्थापन (double displacement)"
+        },
+        {
+            "id": 3,
+            "question": "निम्नलिखित में से कौन समीकरण संतुलित नहीं है ? (Which of the following equations is not balanced?)",
+            "options": [
+                "2H2 + O2 -> 2H2O",
+                "2KClO3 -> 2KCl + 3O2",
+                "H2 + Cl2 -> 2HCl",
+                "Pb(NO3)2 -> PbO + NO2 + O2"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "Pb(NO3)2 -> PbO + NO2 + O2"
+        },
+        {
+            "id": 4,
+            "question": "किसी भी उदासीन विलयन का pH मान होता है (The pH value of any neutral solution is)",
+            "options": [
+                "0",
+                "4",
+                "7",
+                "14"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 5,
+            "question": "निम्नांकित में से प्राकृतिक सूचक कौन है ? (Which of the following is a natural indicator?)",
+            "options": [
+                "फेनॉल्फ्थैलीन (Phenolphthalein)",
+                "हल्दी (Turmeric)",
+                "मेथिल ऑरेंज (Methyl orange)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "हल्दी (Turmeric)"
+        },
+        {
+            "id": 6,
+            "question": "धोबिया सोडा का रासायनिक सूत्र क्या है ? (What is the chemical formula of washing soda?)",
+            "options": [
+                "Na2CO3.7H2O",
+                "Na2CO3.5H2O",
+                "Na2CO3.10H2O",
+                "Na2CO3.H2O"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "Na2CO3.10H2O"
+        },
+        {
+            "id": 7,
+            "question": "निम्नांकित में से कौन विजातीय यौगिक है ? (Which of the following is a heterogeneous compound?)",
+            "options": [
+                "खड़िया (Chalk)",
+                "चूना पत्थर (Limestone)",
+                "संगमरमर (Marble)",
+                "प्लास्टर ऑफ पेरिस (Plaster of Paris)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "प्लास्टर ऑफ पेरिस (Plaster of Paris)"
+        },
+        {
+            "id": 8,
+            "question": "निम्नांकित में से कौन-सा आयन लाल लिटमस पत्र को नीला कर सकता है ? (Which of the following ions can turn red litmus paper blue ?)",
+            "options": [
+                "H+",
+                "OH-",
+                "O2-",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "OH-"
+        },
+        {
+            "id": 9,
+            "question": "फल पकाने वाला हॉर्मोन है (Fruit-ripening hormone is)",
+            "options": [
+                "एथिलीन (ethylene)",
+                "ऑक्सीन (auxin)",
+                "जिबरेलिन (gibberellin)",
+                "साइटोकाइनिन (cytokinin)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "एथिलीन (ethylene)"
+        },
+        {
+            "id": 10,
+            "question": "ओजोन का आण्विक सूत्र है (The molecular formula of ozone is)",
+            "options": [
+                "O2",
+                "O3",
+                "O4",
+                "O5"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "O3"
+        },
+        {
+            "id": 11,
+            "question": "कवक में पोषण की कौन-सी विधि है ? (Which mode of nutrition is found in fungi ?)",
+            "options": [
+                "स्वपोषी (Autotrophic)",
+                "समभोजी (Holozoic)",
+                "मृतजीबी (Saprophytic)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "मृतजीबी (Saprophytic)"
+        },
+        {
+            "id": 12,
+            "question": "मानव हृदय में कितने कोष्ठक पाये जाते हैं ? (How many chambers are found in human heart?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "4"
+        },
+        {
+            "id": 13,
+            "question": "विकासीय दृष्टिकोण से हमारी किससे अधिक समानता है ? (According to evolutional view, we are more similar to)",
+            "options": [
+                "चिम्पैंजी (Chimpanzee)",
+                "मकड़ी (Spider)",
+                "ओरंगउटान (Orangutan)",
+                "जीवाणु (Bacteria)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "चिम्पैंजी (Chimpanzee)"
+        },
+        {
+            "id": 14,
+            "question": "दूध से दही बनने में निम्नांकित में से कौन-सी अभिक्रिया होती है ? (Which one of the following reactions occurs in the formation of curd from milk?)",
+            "options": [
+                "अपघटन (Dissociation)",
+                "किण्वन (Fermentation)",
+                "उत्सर्जन (Excretion)",
+                "प्रकाश संश्लेषण (Photosynthesis)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "किण्वन (Fermentation)"
+        },
+        {
+            "id": 15,
+            "question": "निम्नलिखित में से किस लेंस को अपसारी लेंस कहते हैं ? (Which of the following lenses is called diverging lens?)",
+            "options": [
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "उत्तल लेंस एवं अवतल लेंस (Convex lens and concave lens)",
+                "बाइफोकल लेंस (Bifocal lens)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "अवतल लेंस (Concave lens)"
+        },
+        {
+            "id": 16,
+            "question": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्ध्य अधिकतम होता है ? (Which colour has maximum wavelength in visible light?)",
+            "options": [
+                "पीला (Yellow)",
+                "बैंगनी (Violet)",
+                "लाल (Red)",
+                "हरा (Green)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 17,
+            "question": "प्रतिरोध का मान बढ़ाने के लिए प्रतिरोधकों को जोड़ा जाना चाहिए (To increase the value of the resistance, resistors should be connected in)",
+            "options": [
+                "पार्श्वक्रम में (series)",
+                "समानांतर क्रम में (parallel)",
+                "(A) और (B) दोनों (both (A) and (B))",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "पार्श्वक्रम में (series)"
+        },
+        {
+            "id": 18,
+            "question": "किस उपकरण में धन (+) और ऋण (-) का चिह्न नहीं होता है ? (Which instrument does not have a positive (+) and a negative (-) sign?)",
+            "options": [
+                "वोल्टमीटर में (In voltmeter)",
+                "एमीटर में (In ammeter)",
+                "विद्युत सेल में (In electric cell)",
+                "कुंडली में (In coil)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "कुंडली में (In coil)"
+        },
+        {
+            "id": 19,
+            "question": "एक अभिसारी किरण पुंज समतल दर्पण पर आपतित होती है। परावर्तित किरण पुंज होगा (A converging beam is incident on a plane mirror. The reflected beam will be)",
+            "options": [
+                "अपसारी (diverging)",
+                "अभिसारी (converging)",
+                "समांतर (parallel)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अभिसारी (converging)"
+        },
+        {
+            "id": 20,
+            "question": "चुम्बकीय फ्लक्स का S.I. मात्रक है (The Sl unit of magnetic flux is)",
+            "options": [
+                "वाट (watt)",
+                "जूल (joule)",
+                "वेबर (weber)",
+                "न्यूटन (newton)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "वेबर (weber)"
+        },
+        {
+            "id": 21,
+            "question": "एक ऐमीटर के शून्य (0) तथा 2A अंकों के बीच 20 विभाग हैं। ऐमीटर का अल्पतमांक (least count) क्या है ? (There are 20 divisions between the zero (0) and 2A number of an ammeter. What is the least count of the ammeter?)",
+            "options": [
+                "0.01 A",
+                "0.1 A",
+                "0.001 A",
+                "2 A"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "0.1 A"
+        },
+        {
+            "id": 22,
+            "question": "यदि कई प्रतिरोध समानांतर हों, तो उनका समतुल्य प्रतिरोध होगा (If several resistances are parallel, their equivalent resistance will be)",
+            "options": [
+                "प्रत्येक प्रतिरोध से अधिक (more than each resistance)",
+                "प्रत्येक प्रतिरोध से कम (less than each resistance)",
+                "प्रत्येक प्रतिरोध के बराबर (equal to each resistance)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "प्रत्येक प्रतिरोध से कम (less than each resistance)"
+        },
+        {
+            "id": 23,
+            "question": "निम्नलिखित में से किससे रंध्र के छिद्र घिरे रहते हैं ? (The pores of the stomata are surrounded by which of the following?)",
+            "options": [
+                "क्यूटिकल से (Cuticle)",
+                "गार्ड कोशिका से (Guard cells)",
+                "वात रंध्रों से (Lenticels)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "गार्ड कोशिका से (Guard cells)"
+        },
+        {
+            "id": 24,
+            "question": "कौन-सी गैस श्वसन क्रिया में मुक्त होती है ? (Which gas is liberated during respiration?)",
+            "options": [
+                "O2",
+                "SO2",
+                "NO2",
+                "CO2"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "CO2"
+        },
+        {
+            "id": 25,
+            "question": "निम्न में से किस रंग की प्रकाश किरण प्रकाश संश्लेषण के लिए सबसे ज्यादा प्रभावी है ? (Which colour of light ray is most effective for photosynthesis ?)",
+            "options": [
+                "हरा (Green)",
+                "नीला (Blue)",
+                "पीला (Yellow)",
+                "लाल (Red)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 26,
+            "question": "ग्लूकोज के पूर्ण ओक्सीकरण से क्या मुक्त होता है? (What is liberated by complete oxidation of glucose?)",
+            "options": [
+                "केवल CO2 (Only CO2)",
+                "केवल ऊर्जा (Only energy)",
+                "केवल H2O (Only H2O)",
+                "इन सब (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इन सब (All of these)"
+        },
+        {
+            "id": 27,
+            "question": "कोशिका झिल्ली किस प्रकार की झिल्ली है ? (What type of membrane is the cell membrane ?)",
+            "options": [
+                "पारगम्य (Permeable)",
+                "अपारगम्य (Impermeable)",
+                "अर्ध-पारगम्य (Semi-permeable)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "अर्ध-पारगम्य (Semi-permeable)"
+        },
+        {
+            "id": 28,
+            "question": "ए.टी.पी. (ATP) का विस्तारित रूप है. (Full form of ATP is)",
+            "options": [
+                "एडिनिन थाइमिन फॉस्फेट (Adenine thymine phosphate)",
+                "एडिनिन ट्राईफॉस्फेट (Adenine triphosphate)",
+                "एडिनोसिन ट्राइफॉस्फेट (Adenosine triphosphate)",
+                "एडिनिन थाइमीन डाईफॉस्फेट (Adenine thymine diphosphate)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "एडिनोसिन ट्राइफॉस्फेट (Adenosine triphosphate)"
+        },
+        {
+            "id": 29,
+            "question": "स्टार्च की उपस्थिति की जाँच के लिए किस विलयन का उपयोग होता है ? (Which solution is used to test the presence of starch?)",
+            "options": [
+                "आयोडीन (lodine)",
+                "सैफ्रेनीन (Safranin)",
+                "इओसीन (Eosin)",
+                "मेथिलीन ब्लू (Methylene blue)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "आयोडीन (lodine)"
+        },
+        {
+            "id": 30,
+            "question": "प्रकाश संश्लेषण की दर निम्न में से किन कारकों पर निर्भर करती है ? (Rate of photosynthesis is dependent on which factors?)",
+            "options": [
+                "प्रकाश के गुण पर (Properties of light)",
+                "प्रकाश की मात्रा पर (The amount of light)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 31,
+            "question": "CaOCl2 का प्रचलित (साधारण) नाम क्या है ? (What is the common name of CaOCl2?)",
+            "options": [
+                "कैल्सियम क्लोरो ऑक्साइड (Calcium chloro oxide)",
+                "कैल्सियम ऑक्सी ऑक्साइड (Calcium oxy oxide)",
+                "विरंजक चूर्ण (Bleaching powder)",
+                "कैल्सियम क्लोराइड (Calcium chloride)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "विरंजक चूर्ण (Bleaching powder)"
+        },
+        {
+            "id": 32,
+            "question": "आयोडीनयुक्त नमक है (lodized salt is)",
+            "options": [
+                "NaCl + KΙΟ3",
+                "NaCl + KI",
+                "(A) और (B) दोनों (both (A) and (B))",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "NaCl + KΙΟ3"
+        },
+        {
+            "id": 33,
+            "question": "मिश्रधातु जिसमें 90% Cu और 10% Sn है, उसका नाम है (The alloy consisting of 90% Cu and 10% Sn is named as)",
+            "options": [
+                "सोल्डर (Solder)",
+                "पीतल (Brass)",
+                "जर्मन सिल्वर (German silver)",
+                "काँसा (Bronze)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "काँसा (Bronze)"
+        },
+        {
+            "id": 34,
+            "question": "ऑक्सीजन गैस के एक अणु के दो परमाणुओं के बीच कितने आबंध पाए जाते हैं ? (How many bonds are there between two atoms of one molecule of oxygen gas ?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "कोई आबंध नहीं (No bond)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 35,
+            "question": "यशद् पुष्प क्या है ? (What is Philosopher wool?)",
+            "options": [
+                "ZnO",
+                "ZnS",
+                "ZnCl2",
+                "ZnSO4"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "ZnO"
+        },
+        {
+            "id": 36,
+            "question": "उच्च वसीय अम्लों के सोडियम लवण कहलाते हैं (The sodium salts of higher fatty acids are called)",
+            "options": [
+                "रबर (rubber)",
+                "प्लास्टिक (plastic)",
+                "साबुन (soap)",
+                "अपमार्जक (detergent)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "साबुन (soap)"
+        },
+        {
+            "id": 37,
+            "question": "निम्नलिखित में से कार्बोनिल समूह का संकेत कौन है ? (Which of the following is a symbol of carbonyl group?)",
+            "options": [
+                "- CHO",
+                "- COOH",
+                ">CO",
+                "-0-"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": ">CO"
+        },
+        {
+            "id": 38,
+            "question": "निम्नलिखित कार्बनिक यौगिकों में कौन-सा यौगिक ऐल्काइन है ? (Which of the following organic compounds is an alkyne ?)",
+            "options": [
+                "एथीन (Ethene)",
+                "मेथेन (Methane)",
+                "एसीटिलीन (Acetylene)",
+                "क्लोरोफॉर्म (Chloroform)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "एसीटिलीन (Acetylene)"
+        },
+        {
+            "id": 39,
+            "question": "किस दर्पण की फोकस दूरी, चिह्नों की परिपाटी के अनुसार, ऋणात्मक मानी जाती है ? (The focal length of which mirror is taken as negative according to the convention of signs?)",
+            "options": [
+                "समतल दर्पण (Plane mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "उत्तल दर्पण (Convex mirror)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 40,
+            "question": "अवतल दर्पण में आवर्धित काल्पनिक प्रतिबिंब बनाने के लिए वस्तु को कहाँ रखा जाता है ? (Where is the object placed to form a magnified virtual image in a concave mirror ?)",
+            "options": [
+                "फोकस और ध्रुव के बीच (Between focus and pole)",
+                "वक्रता केन्द्र से परे (Beyond centre of curvature)",
+                "फोकस पर (At focus)",
+                "वक्रता केन्द्र और फोकस के बीच (Between centre of curvature and focus)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "फोकस और ध्रुव के बीच (Between focus and pole)"
+        },
+        {
+            "id": 41,
+            "question": "प्रकाश के अपवर्तन के कितने नियम हैं ? (How many laws of refraction of light are there?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 42,
+            "question": "किसी माध्यम के अपवर्तनांक का मान क्या होता है ? (What is the value of refractive index of a medium ?)",
+            "options": [
+                "sin i / sin r",
+                "sin r / sin i",
+                "sin i + sin r",
+                "sin i x sin r"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "sin i / sin r"
+        },
+        {
+            "id": 43,
+            "question": "लेंस की क्षमता का S.I. मात्रक क्या है ? (What is the S.I. unit of power of lens ?)",
+            "options": [
+                "cm-1",
+                "m",
+                "cm",
+                "डायोप्टर (Dioptre)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "डायोप्टर (Dioptre)"
+        },
+        {
+            "id": 44,
+            "question": "अवतल लेंस में आवर्धन (m) बराबर होता है (The magnification (m) in a concave lens is equal to)",
+            "options": [
+                "uv",
+                "u/v",
+                "v/u",
+                "u+v"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "v/u"
+        },
+        {
+            "id": 45,
+            "question": "हीरे का अपवर्तनांक कितना है ? (What is the refractive index of diamond ?)",
+            "options": [
+                "1.42",
+                "1.32",
+                "2.24",
+                "2.42"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "2.42"
+        },
+        {
+            "id": 46,
+            "question": "एक प्रिज्म कितने सतहों से घिरा होता है ? (A prism is bounded by how many surfaces ?)",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "5"
+        },
+        {
+            "id": 47,
+            "question": "पोटैशियम की परमाणु संख्या 19 है। इसकी संयोजकता क्या है ? (The atomic number of potassium is 19. What is the valency ?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "1"
+        },
+        {
+            "id": 48,
+            "question": "एल्केन का सामान्य सूत्र क्या है ? (What is the general formula of an alkane?)",
+            "options": [
+                "CnH2n",
+                "CnH2n+2",
+                "CnH2n-2",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "CnH2n+2"
+        },
+        {
+            "id": 49,
+            "question": "फ्लोरिन की परमाणु संख्या क्या है ? (What is the atomic number of fluorine ?)",
+            "options": [
+                "9",
+                "19",
+                "29",
+                "39"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "9"
+        },
+        {
+            "id": 50,
+            "question": "कोई विलयन लाल लिटमस को नीला कर देता है। इस विलयन का pH मान होगा (A solution turns red litmus into blue. The pH value of this solution would be)",
+            "options": [
+                "7",
+                "7 से अधिक (more than 7)",
+                "7 से कम (less than 7)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "7 से अधिक (more than 7)"
+        }
+    ]
+}

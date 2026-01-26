@@ -1,0 +1,658 @@
+{
+    "date": "0208",
+    "dateDisplay": "08 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्न में से कौन क्षेत्रीय पार्टी है ? (Which of the following is a regional party?)",
+            "options": [
+                "लोक जनशक्ति पार्टी (Lok Janshakti Party)",
+                "बहुजन समाज पार्टी (Bahujan Samaj Party)",
+                "झारखंड मुक्ति मोर्चा (Jharkhand Mukti Morcha)",
+                "भारतीय जनता पार्टी (Bharatiya Janata Party)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "झारखंड मुक्ति मोर्चा (Jharkhand Mukti Morcha)"
+        },
+        {
+            "id": 2,
+            "question": "बंगला किस राजनीतिक दल का चुनाव चिह्न है ? (Bungalow is the election symbol of which political party?)",
+            "options": [
+                "समाजवादी पार्टी (Samajwadi Party)",
+                "राष्ट्रीय जनता दल (Rashtriya Janta Dal)",
+                "लोक जनशक्ति पार्टी (Lok Janshakti Party)",
+                "भारतीय कम्युनिस्ट पार्टी (Communist Party of India)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "लोक जनशक्ति पार्टी (Lok Janshakti Party)"
+        },
+        {
+            "id": 3,
+            "question": "नर्मदा घाटी परियोजना किन राज्यों से सम्बन्धित है ? (Narmada Valley Project is related to which states ?)",
+            "options": [
+                "बिहार, उत्तर प्रदेश, मध्य प्रदेश (Bihar, Uttar Pradesh, Madhya Pradesh)",
+                "तमिलनाडु, केरल, कर्नाटक (Tamil Nadu, Kerala, Karnataka)",
+                "पश्चिम बंगाल, उत्तर प्रदेश, पंजाब (West Bengal, Uttar Pradesh, Punjab)",
+                "गुजरात, महाराष्ट्र, मध्य प्रदेश (Gujarat, Maharashtra, Madhya Pradesh)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "गुजरात, महाराष्ट्र, मध्य प्रदेश (Gujarat, Maharashtra, Madhya Pradesh)"
+        },
+        {
+            "id": 4,
+            "question": "निम्न में से कौन भारतीय किसान यूनियन के प्रमुख नेता थे ? (Who among the following was a prominent leader of the Bhartiya Kisan Union ?)",
+            "options": [
+                "जयप्रकाश नारायण (Jayprakash Narayan)",
+                "चौधरी चरण सिंह (Chaudhary Charan Singh)",
+                "महेन्द्र सिंह टिकैत (Mahendra Singh Tikait)",
+                "मोरारजी देसाई (Morarji Desai)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "महेन्द्र सिंह टिकैत (Mahendra Singh Tikait)"
+        },
+        {
+            "id": 5,
+            "question": "जिला परिषद का कार्यकाल कितने वर्ष का होता है ? (What is the term of Zilla Parishad ?)",
+            "options": [
+                "4 वर्ष (4 years)",
+                "5 वर्ष (5 years)",
+                "6 वर्ष (6 years)",
+                "2 वर्ष (2 years)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "5 वर्ष (5 years)"
+        },
+        {
+            "id": 6,
+            "question": "पंचायती राज प्रणाली की शुरुआत कहाँ हुई थी ? (Where was the Panchayati Raj System started?)",
+            "options": [
+                "बिहार (Bihar)",
+                "राजस्थान (Rajasthan)",
+                "कर्नाटक (Karnataka)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 7,
+            "question": "ग्राम पंचायत का प्रधान कौन होता है ? (Who is the head of Gram Panchayat ?)",
+            "options": [
+                "पार्षद (Parshad)",
+                "महापौर (Mayor)",
+                "आयुक्त (Commissioner)",
+                "मुखिया (Mukhiya)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "मुखिया (Mukhiya)"
+        },
+        {
+            "id": 8,
+            "question": "आंग सान सू की का सम्बन्ध किस देश से है ? (To which country is Aung San Suu Kyi related ?)",
+            "options": [
+                "दक्षिण अफ्रीका (South Africa)",
+                "म्यांमार (Myanmar)",
+                "श्रीलंका (Sri Lanka)",
+                "भूटान (Bhutan)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "म्यांमार (Myanmar)"
+        },
+        {
+            "id": 9,
+            "question": "भारतीय राष्ट्रीय काँग्रेस की स्थापना कब हुई ? (When was the Indian National Congress established ?)",
+            "options": [
+                "1732",
+                "1885",
+                "1890",
+                "1945"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1885"
+        },
+        {
+            "id": 10,
+            "question": "बोलिविया में जनसंघर्ष का मुख्य कारण क्या था ? (What was the main cause of mass struggle in Bolivia?)",
+            "options": [
+                "पानी की कीमत में वृद्धि (Water price hike)",
+                "खाद्यान्न की कीमत में वृद्धि (Increase in the price of food grains)",
+                "पेट्रोल की कीमत में वृद्धि (Petrol price hike)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "पानी की कीमत में वृद्धि (Water price hike)"
+        },
+        {
+            "id": 11,
+            "question": "निम्न में से किस पत्र ने रातों-रात वर्नाक्यूलर प्रेस एक्ट से बचने के लिए अपनी भाषा बदल दी ? (Which of the following papers changed its language overnight to avoid the Vernacular Press Act?)",
+            "options": [
+                "हरिजन (Harijan)",
+                "अमृत बाजार पत्रिका (Amrita Bazar Patrika)",
+                "मराठा (Maratha)",
+                "यंग इंडिया (Young India)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अमृत बाजार पत्रिका (Amrita Bazar Patrika)"
+        },
+        {
+            "id": 12,
+            "question": "निम्न में से किस सम्मेलन में जर्मनी की क्षतिपूर्ति राशि को कम कर दिया गया ? (In which of the following conferences Germany's compensation amount was reduced?)",
+            "options": [
+                "क्योटो सम्मेलन (Kyoto conference)",
+                "वियना सम्मेलन (Vienna conference)",
+                "रियो-डी-जेनेरो सम्मेलन (Rio-de-Janeiro conference)",
+                "लौसने सम्मेलन (Lausanne conference)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "लौसने सम्मेलन (Lausanne conference)"
+        },
+        {
+            "id": 13,
+            "question": "अमेरिका में 'न्यू डील' किसने लागू की ? (Who implemented the 'New Deal' in America?)",
+            "options": [
+                "अब्राहम लिंकन (Abraham Lincoln)",
+                "फ्रैंकलिन डी रूजवेल्ट (Franklin D. Roosevelt)",
+                "बराक ओबामा (Barack Obama)",
+                "निक्सन (Nixon)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "फ्रैंकलिन डी रूजवेल्ट (Franklin D. Roosevelt)"
+        },
+        {
+            "id": 14,
+            "question": "जॉन के ने किस मशीन का आविष्कार किया ? (Which machine did John Kay invent ?)",
+            "options": [
+                "स्पिनिंग जेनी (Spinning Jenny)",
+                "पावरलूम (Powerloom)",
+                "फ्लाइंग शट्ल (Flying shuttle)",
+                "वाष्प इंजन (Steam engine)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "फ्लाइंग शट्ल (Flying shuttle)"
+        },
+        {
+            "id": 15,
+            "question": "वर्नाक्यूलर प्रेस एक्ट को किसने रद्द किया ? (Who repealed the Vernacular Press Act?)",
+            "options": [
+                "लार्ड लिटन (Lord Lytton)",
+                "लार्ड रिपन (Lord Ripon)",
+                "लार्ड डलहौजी (Lord Dalhousie)",
+                "लार्ड इरविन (Lord Irwin)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "लार्ड रिपन (Lord Ripon)"
+        },
+        {
+            "id": 16,
+            "question": "रूस में अल्पमत वाला दल क्या कहलाया ? (What was minority party called in Russia ?)",
+            "options": [
+                "बोल्शेविक (Bolshevik)",
+                "मेनशेविक (Menshevik)",
+                "सर्वहारा वर्ग (Proletariat)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "मेनशेविक (Menshevik)"
+        },
+        {
+            "id": 17,
+            "question": "बाओदाई की सरकार कहाँ थी ? (Where was Bao Dai's government ?)",
+            "options": [
+                "उत्तरी वियतनाम (North Vietnam)",
+                "दक्षिणी वियतनाम (South Vietnam)",
+                "कम्बोडिया (Cambodia)",
+                "हनोई (Hanoi)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "दक्षिणी वियतनाम (South Vietnam)"
+        },
+        {
+            "id": 18,
+            "question": "उत्तरी और दक्षिणी वियतनाम का एकीकरण कब हुआ ? (When was the unification of North and South Vietnam held ?)",
+            "options": [
+                "1960",
+                "1965",
+                "1975",
+                "1976"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में से किसके योगदान से इटली का एकीकरण पूर्ण हुआ ? (Who of the following contributed to the completion of unification Italy ?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "काउंट कावूर (Count Cavour)",
+                "विक्टर इमैनुएल (Victor Emmanuel)",
+                "इनमें से सभी (All of them)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of them)"
+        },
+        {
+            "id": 20,
+            "question": "हीगेल किस देश का दार्शनिक था ? (Hegel was the philosopher of which country?)",
+            "options": [
+                "फ्रांस (France)",
+                "इटली (Italy)",
+                "जर्मनी (Germany)",
+                "ऑस्ट्रिया (Austria)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 21,
+            "question": "जर्मन राईन राज्य का निर्माण किसने किया था ? (Who had created the state of Rhine in Germany?)",
+            "options": [
+                "लुई XVIII (Louis XVIII)",
+                "नेपोलियन बोनापार्ट (Napoleon Bonaparte)",
+                "नेपोलियन III (Napoleon III)",
+                "बिस्मार्क (Bismarck)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "नेपोलियन बोनापार्ट (Napoleon Bonaparte)"
+        },
+        {
+            "id": 22,
+            "question": "अन्तरराष्ट्रीय महिला दिवस की घोषणा किस संस्था ने की ? (Which organization announced International Women's Day?)",
+            "options": [
+                "अन्तरराष्ट्रीय महिला आयोग (International Women Commission)",
+                "संयुक्त राष्ट्र संघ (United Nations Organisation)",
+                "यूरोपीय संघ (European Union)",
+                "आसियान (ASEAN)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "संयुक्त राष्ट्र संघ (United Nations Organisation)"
+        },
+        {
+            "id": 23,
+            "question": "टका किस देश की मुद्रा है ? (Taka is the currency of which country?)",
+            "options": [
+                "सिंगापुर (Singapore)",
+                "इराक (Iraq)",
+                "नेपाल (Nepal)",
+                "बांग्लादेश (Bangladesh)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "बांग्लादेश (Bangladesh)"
+        },
+        {
+            "id": 24,
+            "question": "बिहार में पहला क्षेत्रीय ग्रामीण बैंक कब स्थापित हुआ ? (When was the first Regional Rural Bank established in Bihar ?)",
+            "options": [
+                "1974",
+                "1975",
+                "1976",
+                "1977"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 25,
+            "question": "केन्द्रीय सहकारी बैंक किस स्तर पर काम करता है ? (At what level does the Central Cooperative Bank work?)",
+            "options": [
+                "ग्राम स्तर (Village level)",
+                "जिला स्तर (District level)",
+                "राज्य स्तर (State level)",
+                "राष्ट्रीय स्तर (National level)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "जिला स्तर (District level)"
+        },
+        {
+            "id": 26,
+            "question": "प्राथमिक कृषि साख समिति कृषकों को किस प्रकार का ऋण प्रदान करती है ? (What type of loan is provided to the farmers by the Primary Agricultural Credit Society?)",
+            "options": [
+                "अल्पकालीन (Short term)",
+                "मध्यकालीन (Medium term)",
+                "दीर्घकालीन (Long term)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "अल्पकालीन (Short term)"
+        },
+        {
+            "id": 27,
+            "question": "सरकार द्वारा लगाए गए अनावश्यक नियंत्रणों तथा प्रतिबन्धों को हटाना क्या कहलाता है ? (Removal of unnecessary controls and restrictions imposed by the government is called)",
+            "options": [
+                "निजीकरण (Privatization)",
+                "उदारीकरण (Liberalization)",
+                "वैश्वीकरण (Globalization)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "उदारीकरण (Liberalization)"
+        },
+        {
+            "id": 28,
+            "question": "विश्व व्यापार संगठन का मुख्यालय कहाँ है ? (Where is the headquarters of World Trade Organization?)",
+            "options": [
+                "न्यूयार्क (New York)",
+                "वाशिंगटन डी.सी. (Washington D.C.)",
+                "जेनेवा (Geneva)",
+                "रोम (Rome)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "जेनेवा (Geneva)"
+        },
+        {
+            "id": 29,
+            "question": "वर्तमान में उपभोक्ता संरक्षण हेतु कितने राज्य आयोग काम कर रहे हैं ? (How many State Commissions are currently working for consumer protection?)",
+            "options": [
+                "34",
+                "35",
+                "32",
+                "36"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "35"
+        },
+        {
+            "id": 30,
+            "question": "हुगली औ‌द्योगिक प्रदेश का केन्द्र है (The centre of Hooghly industrial region is)",
+            "options": [
+                "कोलकाता - रिशरा (Kolkata - Rishra)",
+                "कोलकाता - कोन्नगर (Kolkata - Konnagar)",
+                "कोलकाता - मेदिनीपुर (Kolkata - Medinipur)",
+                "कोलकाता - हावड़ा (Kolkata - Howrah)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "कोलकाता - रिशरा (Kolkata - Rishra)"
+        },
+        {
+            "id": 31,
+            "question": "भारत का सबसे छोटा रेलवे जोन कौन है ? (Which is the smallest railway zone in India?)",
+            "options": [
+                "उत्तर रेलवे (Northern railways)",
+                "उत्तर-पूर्वी सीमांत रेलवे (North-east Frontier railways)",
+                "दक्षिण-पूर्व रेलवे (South-eastern railways)",
+                "पूर्वी तटवर्ती रेलवे (East coastal railways)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "उत्तर-पूर्वी सीमांत रेलवे (North-east Frontier railways)"
+        },
+        {
+            "id": 32,
+            "question": "फाल्टा विशेष आर्थिक क्षेत्र कहाँ स्थित है ? (Where is Falta Special Economic Zone located?)",
+            "options": [
+                "बिहार (Bihar)",
+                "पश्चिम बंगाल (West Bengal)",
+                "केरल (Kerala)",
+                "ओडिशा (Odisha)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "पश्चिम बंगाल (West Bengal)"
+        },
+        {
+            "id": 33,
+            "question": "भारत का पहला सीमेंट संयंत्र कहाँ स्थापित हुआ ? (Where was the first cement plant established in India?)",
+            "options": [
+                "दिल्ली (Delhi)",
+                "कोलकाता (Kolkata)",
+                "मुम्बई (Mumbai)",
+                "चेन्नई (Chennai)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "चेन्नई (Chennai)"
+        },
+        {
+            "id": 34,
+            "question": "भारत का बर्मिंघम किस शहर को कहा जाता है ? (Which city is known as Birmingham of India?)",
+            "options": [
+                "बोकारो (Bokaro)",
+                "जमशेदपुर (Jamshedpur)",
+                "भिलाई (Bhilai)",
+                "रेवाड़ी (Rewari)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "जमशेदपुर (Jamshedpur)"
+        },
+        {
+            "id": 35,
+            "question": "बाघ परियोजना की शुरुआत कब हुई ? (When was the Tiger Project started?)",
+            "options": [
+                "1970",
+                "1973",
+                "1975",
+                "1978"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1973"
+        },
+        {
+            "id": 36,
+            "question": "काजीरंगा राष्ट्रीय उद्यान कहाँ स्थित है ? (Where is Kaziranga National Park located?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "उत्तराखण्ड (Uttarakhand)",
+                "असम (Assam)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "असम (Assam)"
+        },
+        {
+            "id": 37,
+            "question": "अमृत बाजार पत्रिका के संपादक कौन थे? (Who was the editor of Amrit Bazar Patrika?)",
+            "options": [
+                "मोतीलालघोष (Motilal Ghosh)",
+                "भारतेन्दु हरिश्चंद्र (Bhartendu Harishchandra)",
+                "राजा राममोहन राय (Raja Rammohan Roy)",
+                "सच्चिदानंद सिन्हा (Sachchidanand Sinha)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "मोतीलालघोष (Motilal Ghosh)"
+        },
+        {
+            "id": 38,
+            "question": "'मराठा' समाचार पत्र किस भाषा से सम्बन्धित था ? (To which language was the 'Maratha' newspaper related?)",
+            "options": [
+                "अंग्रेजी (English)",
+                "हिन्दी (Hindi)",
+                "बांग्ला (Bengali)",
+                "मराठी (Marathi)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "अंग्रेजी (English)"
+        },
+        {
+            "id": 39,
+            "question": "निम्न में से किस सिख गुरु का जन्म पटना में हुआ था ? (Which of the following Sikh Gurus was born in Patna?)",
+            "options": [
+                "पांचवें (Fifth)",
+                "चौथे (Fourth)",
+                "पहले (First)",
+                "दसवें (Tenth)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "दसवें (Tenth)"
+        },
+        {
+            "id": 40,
+            "question": "बिहार बंगाल से कब पृथक हुआ? (When was Bihar separated from Bengal?)",
+            "options": [
+                "1912",
+                "1936",
+                "1928",
+                "1940"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1912"
+        },
+        {
+            "id": 41,
+            "question": "भारत आने वाले प्रथम व्यापारी कौन थे ? (Who were the first traders to come to India?)",
+            "options": [
+                "डच (Dutch)",
+                "ब्रिटिश (British)",
+                "पुर्तगाली (Portuguese)",
+                "फ्रांसीसी (French)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "पुर्तगाली (Portuguese)"
+        },
+        {
+            "id": 42,
+            "question": "उत्तरी एवं दक्षिणी वियतनाम का एकीकरण कब हुआ था? (When did the unification of North and South Vietnam take place?)",
+            "options": [
+                "1965",
+                "1968",
+                "1970",
+                "1975"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 43,
+            "question": "दिसंबर, 1929 में किस नदी के तट पर नेहरू जी द्वारा तिरंगा फहराया गया ? (On the banks of which river was the tricolor hoisted by Nehru ji in December 1929?)",
+            "options": [
+                "गंगा (Ganga)",
+                "यमुना (Yamuna)",
+                "रावी (Ravi)",
+                "सिंधु (Indus)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "रावी (Ravi)"
+        },
+        {
+            "id": 44,
+            "question": "क्रांतिकारी नेता सूर्य सेन का उपनाम क्या था ? (What was the nickname of revolutionary leader Surya Sen?)",
+            "options": [
+                "नेता जी (Netaji)",
+                "मास्टर दा (Master Da)",
+                "सरदार (Sardar)",
+                "मुखिया (Mukhiya)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "मास्टर दा (Master Da)"
+        },
+        {
+            "id": 45,
+            "question": "निम्न में से कौन उपभोक्ता उ‌द्योग है ? (Which of the following is a consumer industry?)",
+            "options": [
+                "पेट्रो-रसायन (Petrochemical)",
+                "लौह-इस्पात (Iron and Steel)",
+                "चीनी उ‌द्योग (Sugar Industry)",
+                "चित्तरंजन लोकोमोटिव (Chittaranjan Locomotive)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "चीनी उ‌द्योग (Sugar Industry)"
+        },
+        {
+            "id": 46,
+            "question": "गिर राष्ट्रीय उद्यान कहाँ है ? (Where is Gir National Park?)",
+            "options": [
+                "अरुणाचल प्रदेश (Arunachal Pradesh)",
+                "बिहार (Bihar)",
+                "असम (Assam)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "गुजरात (Gujarat)"
+        },
+        {
+            "id": 47,
+            "question": "प्रथम पृथ्वी सम्मेलन कहाँ आयोजित हुआ ? (Where was the first Earth Summit held?)",
+            "options": [
+                "रियो डी जनेरियो (Rio de Janeiro)",
+                "जोहान्सबर्ग (Johannesburg)",
+                "न्यूयार्क (New York)",
+                "टोक्यो (Tokyo)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "रियो डी जनेरियो (Rio de Janeiro)"
+        },
+        {
+            "id": 48,
+            "question": "निम्न में से कौन खरीफ फसल है ? (Which of the following is a Kharif crop?)",
+            "options": [
+                "गेहूँ (Wheat)",
+                "चना (Gram)",
+                "मटर (Peas)",
+                "कपास (Cotton)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कपास (Cotton)"
+        },
+        {
+            "id": 49,
+            "question": "बाँध को आधुनिक भारत का मन्दिर किसने कहा ? (Who called the dam the temple of modern India?)",
+            "options": [
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "पंडित नेहरू (Pandit Nehru)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "लाल बहादुर शास्त्री (Lal Bahadur Shastri)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "पंडित नेहरू (Pandit Nehru)"
+        },
+        {
+            "id": 50,
+            "question": "मरुस्थलीय मृदा कहाँ मिलती है ? (Where is desert soil found?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "राजस्थान (Rajasthan)",
+                "कर्नाटक (Karnataka)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        }
+    ]
+}

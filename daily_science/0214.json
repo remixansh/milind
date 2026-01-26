@@ -1,0 +1,658 @@
+{
+    "date": "0214",
+    "dateDisplay": "14 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "तंत्रिका तंत्र की रचनात्मक एवं क्रियात्मक इकाई को कहते हैं (The structural and functional unit of nervous system is called)",
+            "options": [
+                "नेफ्रान (Nephron)",
+                "न्यूरॉन (Neuron)",
+                "सेरीब्रम (Cerebrum)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "न्यूरॉन (Neuron)"
+        },
+        {
+            "id": 2,
+            "question": "निम्नलिखित में से कौन सबसे कम अभिक्रियाशील धातु है ? (Which of the following metals is least reactive ?)",
+            "options": [
+                "Al",
+                "Zn",
+                "Fe",
+                "Mg"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "Fe"
+        },
+        {
+            "id": 3,
+            "question": "कार्बन की परमाणु संख्या है (The atomic number of carbon is)",
+            "options": [
+                "6",
+                "8",
+                "9",
+                "11"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "6"
+        },
+        {
+            "id": 4,
+            "question": "असंतृप्त हाइड्रोकार्बन जिनमें कार्बन-कार्बन परमाणु के बीच त्रि-आबंध होते हैं, वे कहलाते हैं (Unsaturated hydrocarbons having triple bonds in between carbon-carbon atoms are called)",
+            "options": [
+                "एल्कंन (Alkane)",
+                "ऐल्काइन (Alkyne)",
+                "ऐल्कीन (Alkene)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "ऐल्काइन (Alkyne)"
+        },
+        {
+            "id": 5,
+            "question": "एथेनॉल के क्रियाशील गुलक का सूत्र है (The formula of functional group of ethanol is)",
+            "options": [
+                "- OH",
+                "- CHO",
+                "- COOH",
+                "> CO"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "- OH"
+        },
+        {
+            "id": 6,
+            "question": "बैद्युत प्रतिरोधकता का S.I. मात्रक है (The S.I. unit of the electrical resistivity is)",
+            "options": [
+                "ओम (ohm)",
+                "ओम / मीटर (ohm/metre)",
+                "बोल्ट / मीटर (volt/metre)",
+                "ओम-मीटर (ohm-metre)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "ओम-मीटर (ohm-metre)"
+        },
+        {
+            "id": 7,
+            "question": "विद्युत् धारा के चुंचकीय प्रभाव का खोज किसने किया था ? (Who discovered the magnetic effect of electric current?)",
+            "options": [
+                "फैराडे (Faraday)",
+                "ओस्टेंड (Oersted)",
+                "ऐम्पियर (Ampere)",
+                "बोर (Bohr)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "ओस्टेंड (Oersted)"
+        },
+        {
+            "id": 8,
+            "question": "विद्युत मोटर परिवर्तित करता है (Electric motor converts)",
+            "options": [
+                "यांत्रिक ऊर्जा को विद्युत ऊर्जा में (mechanical energy into electrical energy)",
+                "रासायनिक ऊर्जा को विद्युत ऊर्जा में (chemical energy into electrical energy)",
+                "विद्युत ऊर्जा को रासार्यानक ऊर्जा में (electrical energy into chemical energy)",
+                "विद्युत ऊर्जा को यांत्रिक ऊर्जा में (electrical energy into mechanical energy)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में (electrical energy into mechanical energy)"
+        },
+        {
+            "id": 9,
+            "question": "जब पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा-कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर को ओर विक्षेपित हो जाता है तो चुंबकीय क्षेत्र की दिशा होगी (When positively charged particle (alpha-particle) is projected towards west and deflected towards north by a magnetic field, the direction of magnetic field will be)",
+            "options": [
+                "दक्षिण की ओर (toward south)",
+                "पूर्व की ओर (towards east)",
+                "अधांमुखी (downward)",
+                "उर्फरमुखो (upward)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "उर्फरमुखो (upward)"
+        },
+        {
+            "id": 10,
+            "question": "हमारे घरों में जो विद्युत आपूर्ति की जाती है. वह (The domestic supply of electric current is)",
+            "options": [
+                "220 V पर दिष्ट धारा होती है (direct current at 220 V)",
+                "12 V पर दिष्ट धारा होती है (direct current at 12 V)",
+                "220 V पर प्रत्यावर्ती धारा होती है (alternating current at 220 V)",
+                "12 V पर प्रत्यावर्ती धारा होती है (alternating current at 12 V)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "220 V पर प्रत्यावर्ती धारा होती है (alternating current at 220 V)"
+        },
+        {
+            "id": 11,
+            "question": "गर्म जल प्राप्त करने के लिये हम सौर जल तापक का उपयोग किस दिन नहीं कर सकते हैं ? (In which day a solar water heater cannot be used to get hot water?)",
+            "options": [
+                "धूप वाले दिन (A sunny day)",
+                "बादलों वाले दिन (A cloudy day)",
+                "गरम दिन (A hot day)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "बादलों वाले दिन (A cloudy day)"
+        },
+        {
+            "id": 12,
+            "question": "निम्न में से कौन-सा ऊर्जा स्रोत सौर ऊर्जा के व्युत्पन्न नहीं है ? (Which of the following is not derived from the solar energy?)",
+            "options": [
+                "भूतापीय ऊर्जा (Geothermal energy)",
+                "पवन ऊर्जा (Wind energy)",
+                "नाभिकीय ऊर्जा (Nuclear energy)",
+                "जेवमात्रा (Biomass)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "नाभिकीय ऊर्जा (Nuclear energy)"
+        },
+        {
+            "id": 13,
+            "question": "दर्पण के सामने किसी भी दूरी पर स्थित वस्तु का प्रतिविम्ब सीधा प्रतीत होता है तो वह दर्पण है (If the image of an object is always erect for any distance of the object in front of the mirror, then the mirror is)",
+            "options": [
+                "केवल समतल (only plane)",
+                "केवल अवतल (only concave)",
+                "केवल उत्तल (only convex)",
+                "या तो समतल अथवा उत्तल (either plane or convex)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "या तो समतल अथवा उत्तल (either plane or convex)"
+        },
+        {
+            "id": 14,
+            "question": "किसी कार का अग्रदीप में प्रयुक्त दर्पण निम्नलिखित में से कौन होता है ? (Which of the following is the mirror used in the headlight of a car ?)",
+            "options": [
+                "अवतल दर्पण (Concave mirror)",
+                "उत्तल दर्पण (Convex mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "समतल या उत्तल दर्पण (Plane or convex mirror)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 15,
+            "question": "निम्नलिखित में से किसका अपवर्तनांक सबसे अधिक होता है ? (Which of the following has the highest refractive index ?)",
+            "options": [
+                "बायु (Air)",
+                "बर्फ (Ice)",
+                "काँच (Glass)",
+                "होरा (Diamond)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "होरा (Diamond)"
+        },
+        {
+            "id": 16,
+            "question": "निम्नलिखित में से किस लेंस को अभिसारी लेंस कहते हैं ? (Which of the following lenses is called converging lens ?)",
+            "options": [
+                "उत्तल लेंस (Convex lens)",
+                "अवतल लेंस (Concave lens)",
+                "उत्तल एवं अवतल लेंस दोनों (Both convex and concave lens)",
+                "बाइफोकल लेंस (Bifocal lens)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 17,
+            "question": "निम्नलिखित में कौन उभयलिंगी है ? (Which of the following is bisexual?)",
+            "options": [
+                "केंचुआ (Earthworm)",
+                "मेढ़क (Frog)",
+                "मछली (Fish)",
+                "कछुआ (Tortoise)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "केंचुआ (Earthworm)"
+        },
+        {
+            "id": 18,
+            "question": "मॅडल ने अपने प्रयोगों के लिये किस पौधे को चुना ? (Which plant is selected by Mendel for his experiments ?)",
+            "options": [
+                "आम (Mango)",
+                "गुलाब (Rose)",
+                "गेहूँ (Wheat)",
+                "मटर (Pea)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "मटर (Pea)"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में से कौन एक अवशेषो अंग है ? (Which one of the following is a vestigial organ ?)",
+            "options": [
+                "रीढ़ हड़ी (Backbone)",
+                "अंगूठा (Thumb)",
+                "कान (Ear)",
+                "एपेन्डिक्स (Apendix)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "एपेन्डिक्स (Apendix)"
+        },
+        {
+            "id": 20,
+            "question": "'चिपको आन्दोलन' किससे संबंधित है ? (Chipko movement is related to)",
+            "options": [
+                "यन संरक्षण (forest conservation)",
+                "मृदा संरक्षण (soil conservation)",
+                "जल संरक्षण (water conservation)",
+                "वृक्षारोपण (afforestation)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "यन संरक्षण (forest conservation)"
+        },
+        {
+            "id": 21,
+            "question": "निम्नलिखित में से कौन लेस का आवर्द्धन (m) होता है ? (Which of the following is the magnification (m) of a lens ?)",
+            "options": [
+                "u/v",
+                "uv",
+                "u+v",
+                "v/u"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "v/u"
+        },
+        {
+            "id": 22,
+            "question": "निम्नलिखित में से कौन नेत्र का रंगीन भाग होता है ? (Which of the following is the coloured portion of an eye ?)",
+            "options": [
+                "कांनिया (Cornea)",
+                "रेटिना (Retina)",
+                "परिनारिका (Iris)",
+                "पुतली (Pupil)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "परिनारिका (Iris)"
+        },
+        {
+            "id": 23,
+            "question": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन अधिक होता है ? (Light of which colour scatters more in atomsphere?)",
+            "options": [
+                "लाल (Red)",
+                "नीला (Blue)",
+                "पीला (Yellow)",
+                "नारंगी (Orange)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "नीला (Blue)"
+        },
+        {
+            "id": 24,
+            "question": "प्रकाश की किस घटना के कारण सूर्य हमें वास्तविक सूर्योदय से लगभग 2 मिनट पूर्व दिखाई देने लगता है ? (The sun is visible to us about 2 minutes before the actual sunrise due to which phenomenon of light ?)",
+            "options": [
+                "परावर्तन (Reflection)",
+                "वायुमंडलीय अपवर्तन (Atmospheric refraction)",
+                "प्रकीर्णन (Scattering)",
+                "वायुमंडलीय अपवर्तन एवं प्रकीर्णन दोनों (Both atmospheric refraction and scattering)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वायुमंडलीय अपवर्तन (Atmospheric refraction)"
+        },
+        {
+            "id": 25,
+            "question": "आधुनिक आवर्त नियम के अनुसार तत्वों के गुणधर्म निम्नलिखित में किसके आवर्त फलन होते हैं ? (According to modern periodic law, properties of elements are a periodic function of their)",
+            "options": [
+                "परमाणु द्रव्यमानों के (Atomic masses)",
+                "परमाणु संख्याओं के (Atomic numbers)",
+                "परमाणु आकार के (Atomic size)",
+                "घनत्व के (Density)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "परमाणु संख्याओं के (Atomic numbers)"
+        },
+        {
+            "id": 26,
+            "question": "आधुनिक आवर्त सारणी की क्षैतिज कतारें निम्नलिखित में क्या कहलाती हैं ? (The horizontal rows of modern periodic table are known as which of the following?)",
+            "options": [
+                "आवर्त (Periods)",
+                "समूह (Groups)",
+                "कोश (Shells)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "आवर्त (Periods)"
+        },
+        {
+            "id": 27,
+            "question": "लोहे के फ्राइंग पैन के जंग से बचाने के लिये निम्न में से कौन-सी विधि उपयुक्त है ? (Which of the following methods is suitable for preventing an iron frying pan from rusting?)",
+            "options": [
+                "ग्रीज लगाकर (Applying grease)",
+                "पेंट लगाकर (Applying paint)",
+                "जिंक की परत चढ़ाकर (Applying a coating of zinc)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "जिंक की परत चढ़ाकर (Applying a coating of zinc)"
+        },
+        {
+            "id": 28,
+            "question": "निम्नलिखित में किस धातु को चाकू से आसानी से काटा जा सकता है ? (Which of the following metals can easily be cut with a knife ?)",
+            "options": [
+                "Al",
+                "Na",
+                "Mg",
+                "Cu"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "Na"
+        },
+        {
+            "id": 29,
+            "question": "टारटैरिक अम्ल निम्नलिखित में से किसमें पाया जाता ? (Tartaric acid is found in which one of the following?)",
+            "options": [
+                "टमाटर (Tomato)",
+                "संतरा (Orange)",
+                "सिरका (Vinegar)",
+                "इमली (Tamarind)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इमली (Tamarind)"
+        },
+        {
+            "id": 30,
+            "question": "जिक तथा सल्फ्यूरिक अम्ल के बीच अभिक्रिया से निम्नलिखित में से कौन सी गैस निकलती है ? (Which of the following is evolved when zinc reacts with sulphuric acid ?)",
+            "options": [
+                "O₂",
+                "CO₂",
+                "H₂",
+                "N₂"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "H₂"
+        },
+        {
+            "id": 31,
+            "question": "आयोडीन की कमी से कौन-सा रोग होता है ? (Which disease is caused by the deficiency of iodine ?)",
+            "options": [
+                "घेघा (Goitre)",
+                "मधुमेह (Diabetes)",
+                "स्की (Scurvy)",
+                "एड्स (AIDS)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "घेघा (Goitre)"
+        },
+        {
+            "id": 32,
+            "question": "निम्न में से कौन पिट्यूटरी ग्रंथि से निकलने वाला हामौन है ? (Which one of the following is a hormone secreted by pituitary gland ?)",
+            "options": [
+                "वृद्धि हामोन (Growth hormone)",
+                "थायरॉक्सीन (Thyroxine)",
+                "इंसुलिन (Insulin)",
+                "एण्ड्रोजन (Androgen)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "वृद्धि हामोन (Growth hormone)"
+        },
+        {
+            "id": 33,
+            "question": "अमीबा में अलैंगिक जनन किस विधि द्वारा होता है ? (Which method of asexual reproduction occurs in amoeba ?)",
+            "options": [
+                "मुकुलन (Budding)",
+                "विखंडन (Fission)",
+                "बोजाणुजनन (Sporulation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "विखंडन (Fission)"
+        },
+        {
+            "id": 34,
+            "question": "मानव का प्रमुख उत्सर्जी अंग निम्नांकित में कौन है ? (Main excretory organ of human beings in the following is)",
+            "options": [
+                "वृक्क (kidney)",
+                "रक्त (blood)",
+                "स्वेद ग्रंथि (sweat gland)",
+                "अग्न्याशय (pancreas)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "वृक्क (kidney)"
+        },
+        {
+            "id": 35,
+            "question": "एंड्रोजन क्या है ? (What is Androgen?)",
+            "options": [
+                "नर लिंग हामांन (Male sex hormone)",
+                "मादा लिंग हामांन (Female sex hormone)",
+                "पाचक रस (Digestive juice)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "नर लिंग हामांन (Male sex hormone)"
+        },
+        {
+            "id": 36,
+            "question": "जब किसी अभिक्रिया के समय किसी पदार्थ में ऑक्सीजन की वृद्धि होती है, तो निम्नलिखित में से क्या कहा जाता है ? (If a substance gains oxygen during a reaction, then it is known as which of the following?)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "अपचयन (Reduction)",
+                "संक्षारण (Corrosion)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "उपचयन (Oxidation)"
+        },
+        {
+            "id": 37,
+            "question": "धोने का सोडा का आणविक सूत्र है (The molecular formula of washing soda is)",
+            "options": [
+                "Na₂CO₃",
+                "Na₂CO₃.2H₂O",
+                "Na₂CO₃.10H₂O",
+                "Na₂CO₃.5H₂O"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "Na₂CO₃.10H₂O"
+        },
+        {
+            "id": 38,
+            "question": "अमीया अपना भोजन कैसे पकड़ता है ? (How does amoeba catch its food?)",
+            "options": [
+                "ग्पर्शक द्वारा (By tentacles)",
+                "जीभ द्वारा (By tongue)",
+                "कूटपाद द्वारा (By pseudopodia)",
+                "मुंह द्वारा (By mouth)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "कूटपाद द्वारा (By pseudopodia)"
+        },
+        {
+            "id": 39,
+            "question": "कौन-सा एन्जाइम बसा पर क्रिया करता है ? (Which enzyme acts upon fat?)",
+            "options": [
+                "पंप्सीन (Pepsin)",
+                "ट्रिप्सीन (Trypsin)",
+                "लाइपंज (Lypase)",
+                "एमाइलेज (Amylase)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "लाइपंज (Lypase)"
+        },
+        {
+            "id": 40,
+            "question": "मछली का श्वसनांग है (Respiratory organ of fish is)",
+            "options": [
+                "ट्रेकिया (trachea)",
+                "गिल्स (gills)",
+                "त्वचा (skin)",
+                "फेफड़ा (lungs)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "गिल्स (gills)"
+        },
+        {
+            "id": 41,
+            "question": "किस लेंस का उपयोग कर दीर्घदृष्टि दोष को संशोधित किया जा सकता है? (Which lens can be used for correction of hypermetropia?)",
+            "options": [
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "कभी अवतल लेंस और कभी उत्तल लेंस (Sometimes concave lens and sometimes convex lens)",
+                "बेलनाकार लेस (Cylindrical lens)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 42,
+            "question": "किस वर्ण (रंग) का तरंगदैर्ध्य सबसे बड़ा है? (Which colour has the largest wave - length?)",
+            "options": [
+                "लाल (Red)",
+                "नीला (Blue)",
+                "पीला (Yellow)",
+                "बैंगनी (Violet)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 43,
+            "question": "निम्न में से कौन सा गुण आनुवंशिक नहीं है? (Which of the following character is not heritable?)",
+            "options": [
+                "आँख का रंग (Colour of eye)",
+                "चमड़ी का रंग (Colour of skin)",
+                "शरीर का आकार (Size of body)",
+                "बाल की प्रकृति (Nature of hair)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "शरीर का आकार (Size of body)"
+        },
+        {
+            "id": 44,
+            "question": "निम्न में से कौन सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित करता है? (Which one of the following terms represents electric power in electric circuit?)",
+            "options": [
+                "I²R",
+                "IR²",
+                "VI",
+                "V²/R"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "IR²"
+        },
+        {
+            "id": 45,
+            "question": "फ्लेमिंग के वाम हस्त नियम में बायें हाथ की तर्जनी संकेत करती है (According to Fleming's left hand rule, the index finger of the left hand indicates -)",
+            "options": [
+                "चालक पर आरोपित विद्युत बल की दिशा (Direction of electric force applied on a conductor)",
+                "चुम्बकीय क्षेत्र की दिशा (Direction of magnetic field)",
+                "चालक में प्रवाहित विद्युत धारा की दिशा (Direction of the flow of electric current in a conductor)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "चुम्बकीय क्षेत्र की दिशा (Direction of magnetic field)"
+        },
+        {
+            "id": 46,
+            "question": "मानव हृदय में कोष्ठों की संख्या कितनी है? (How many chambers are present in human heart?)",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "4"
+        },
+        {
+            "id": 47,
+            "question": "आधुनिक आवर्त सारणी में समूहों की संख्या है - (The number of groups in the modern periodic table is -)",
+            "options": [
+                "7",
+                "8",
+                "9",
+                "18"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "18"
+        },
+        {
+            "id": 48,
+            "question": "निम्न में से किस लेंस की फोकस दूरी धनात्मक होती है? (Which one of the following lenses has positive focal length?)",
+            "options": [
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "समतल अवतल लेंस (Plano-concave lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 49,
+            "question": "ताँबे की तार की एक आयताकार कुंडली किसी चुम्बकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात परिवर्तन होता है? (A rectangular coil of a copper wire is rotated in a magnetic field. The direction of the induced current in the coil changes once in every -)",
+            "options": [
+                "दो (Two rotations)",
+                "एक (One rotation)",
+                "आधे (Half rotation)",
+                "एक-चौथाई (One-fourth rotation)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "आधे (Half rotation)"
+        },
+        {
+            "id": 50,
+            "question": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है? (Which gas is responsible for the global warming?)",
+            "options": [
+                "कार्बन डाइऑक्साइड (Carbon dioxide)",
+                "ऑक्सीजन (Oxygen)",
+                "नाइट्रोजन (Nitrogen)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "कार्बन डाइऑक्साइड (Carbon dioxide)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0125",
+    "dateDisplay": "25 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "ब्यूटेन के कितने समावयवी संभव हैं? (How many isomers of butane are possible?)",
+            "options": [
+                "5",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 2,
+            "question": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है? (Which gas is responsible for global warming?)",
+            "options": [
+                "कार्बन डाइऑक्साइड (Carbon dioxide)",
+                "ऑक्सीजन (Oxygen)",
+                "नाइट्रोजन (Nitrogen)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "कार्बन डाइऑक्साइड (Carbon dioxide)"
+        },
+        {
+            "id": 3,
+            "question": "हवा में स्वतंत्र रूप से लटका हुआ क्षैतिज चुम्बक हमेशा आराम की स्थिति में रहता है (A horizontal magnet hanging freely in air always comes to rest in):",
+            "options": [
+                "किसी भी दिशा में (Any direction)",
+                "पूरब-पश्चिम दिशा में (East-West direction)",
+                "उत्तर-दक्षिण दिशा में (North-South direction)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "उत्तर-दक्षिण दिशा में (North-South direction)"
+        },
+        {
+            "id": 4,
+            "question": "यदि एक विद्युत धारावाही तार के समीप कम्पास रखा जाता है, तो यह कम्पास की सुई (If a compass is placed near a wire carrying electric current, the compass needle):",
+            "options": [
+                "विक्षेपित होगी (Will be deflected)",
+                "धारावाही तार विक्षेपित होगी (The current carrying wire will be deflected)",
+                "विक्षेपित नहीं होगी (Will not be deflected)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "विक्षेपित होगी (Will be deflected)"
+        },
+        {
+            "id": 5,
+            "question": "फैराडे ने बहुत से क्रांतिकारी खोज की जिनमें शामिल है (Faraday made many revolutionary discoveries, including):",
+            "options": [
+                "विद्युत चुंबकीय प्रेरण (Electromagnetic induction)",
+                "विद्युत अपघटन के नियम (Law of electrolysis)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "(A) और (B) दोनों (Both A and B)"
+        },
+        {
+            "id": 6,
+            "question": "विद्युत मोटर परिवर्तित करता है (An electric motor converts):",
+            "options": [
+                "रासायनिक ऊर्जा को विद्युत ऊर्जा में (Chemical energy into electrical energy)",
+                "विद्युत ऊर्जा को यांत्रिक ऊर्जा में (Electrical energy into mechanical energy)",
+                "यांत्रिक ऊर्जा को विद्युत ऊर्जा में (Mechanical energy into electrical energy)",
+                "विद्युत ऊर्जा को रासायनिक ऊर्जा में (Electrical energy into chemical energy)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में (Electrical energy into mechanical energy)"
+        },
+        {
+            "id": 7,
+            "question": "फ्लेमिंग के वाम हस्त नियम में बायें हाथ की तर्जनी संकेत करती है (In Fleming's left-hand rule, the index finger of the left hand indicates):",
+            "options": [
+                "चुम्बकीय क्षेत्र की दिशा (Direction of magnetic field)",
+                "चालक पर आरोपित विद्युत बल की दिशा (Direction of electric force applied on the conductor)",
+                "चालक में प्रवाहित विद्युत धारा की दिशा (Direction of electric current flowing in the conductor)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "चुम्बकीय क्षेत्र की दिशा (Direction of magnetic field)"
+        },
+        {
+            "id": 8,
+            "question": "किसी चालक तार से विद्युत धारा प्रवाहित करने पर तार के ऊपर तथा नीचे किस प्रकार के चुंबकीय क्षेत्र पैदा होते हैं? (When electric current flows through a conducting wire, what type of magnetic field is generated above and below the wire?)",
+            "options": [
+                "विपरीत प्रकार के (Opposite type)",
+                "समान प्रकार के (Similar type)",
+                "किसी भी प्रकार के नहीं (Not of any kind)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "विपरीत प्रकार के (Opposite type)"
+        },
+        {
+            "id": 9,
+            "question": "जल विद्युत ऊर्जा किस प्रकार का ऊर्जा स्रोत है? (What type of energy source is hydroelectric energy?)",
+            "options": [
+                "नवीकरणीय (Renewable)",
+                "अनवीकरणीय (Non-renewable)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "नवीकरणीय (Renewable)"
+        },
+        {
+            "id": 10,
+            "question": "पित्त रस स्रावित होता है (Bile juice is secreted by):",
+            "options": [
+                "मुखगुहा से (Oral cavity)",
+                "यकृत से (Liver)",
+                "छोटी आँत से (Small intestine)",
+                "आमाशय से (Stomach)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "यकृत से (Liver)"
+        },
+        {
+            "id": 11,
+            "question": "क्षुद्रांत्र में स्थित रसांकुर का क्या कार्य होता है? (What is the function of the villi located in small intestine?)",
+            "options": [
+                "अवशोषण अवरुद्ध करना (Blocking absorption)",
+                "अवशोषण का सतही क्षेत्रफल घटाना (Reducing the surface area of absorption)",
+                "अवशोषण का सतही क्षेत्रफल बढ़ाना (Increasing the surface area of absorption)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अवशोषण का सतही क्षेत्रफल बढ़ाना (Increasing the surface area of absorption)"
+        },
+        {
+            "id": 12,
+            "question": "मुख गुहा का पिछला भाग है (The posterior part of the oral cavity is):",
+            "options": [
+                "ग्रासनली (Esophagus)",
+                "ग्रसनी (Pharynx)",
+                "ग्रहनी (Duodenum)",
+                "अग्न्याशय (Pancreas)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ग्रसनी (Pharynx)"
+        },
+        {
+            "id": 13,
+            "question": "बाहरी वातावरण से कोशिका में ऑक्सीजन का स्थानान्तरण और कार्बन डाइऑक्साइड को हटाना कहलाता है (The transfer of O₂ from outside environment to cells and removal of CO₂ is referred to as):",
+            "options": [
+                "श्वासोच्छ्वास (Exhalation/Breathing)",
+                "निःश्वसन (Respiration)",
+                "अन्तःश्वसन (Inhalation)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "श्वासोच्छ्वास (Exhalation/Breathing)"
+        },
+        {
+            "id": 14,
+            "question": "प्रकाश-संश्लेषण में ऑक्सीजन का मूल स्रोत है (The basic source of oxygen in photosynthesis is):",
+            "options": [
+                "पर्णहरित (Chlorophyll)",
+                "CO₂",
+                "जल (Water)",
+                "सौर ऊर्जा (Solar energy)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "जल (Water)"
+        },
+        {
+            "id": 15,
+            "question": "निम्नलिखित में किसे कोशिका का 'ऊर्जा मुद्रा' के रूप में जाना जाता है? (Which of the following is known as the 'energy currency' of the cell?)",
+            "options": [
+                "ATP",
+                "ADP",
+                "DTP",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "ATP"
+        },
+        {
+            "id": 16,
+            "question": "पादप में जाइलम उत्तरदायी है (Xylem in plant is responsible for):",
+            "options": [
+                "भोजन का वहन के लिए (Carrying of food)",
+                "ऑक्सीजन का वहन के लिए (Carrying of oxygen)",
+                "अमीनो अम्ल का वहन के लिए (Carrying of amino acid)",
+                "जल का वहन के लिए (Carrying of water)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "जल का वहन के लिए (Carrying of water)"
+        },
+        {
+            "id": 17,
+            "question": "प्लाज्मा के अलावा रक्त में निम्नलिखित में क्या पाए जाते हैं? (Apart from plasma, which of the following is found in blood?)",
+            "options": [
+                "श्वेत रक्त कोशिकाएँ (WBC)",
+                "लाल रक्त कोशिकाएँ (RBC)",
+                "रक्त पट्टिकाणु (Blood platelets)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 18,
+            "question": "अम्ल का जलीय विलयन विद्युत का संचालन करता है, क्योंकि अम्ल जल में (An aqueous solution of acid conducts electricity because acid in water):",
+            "options": [
+                "आयनित होता है (Gets ionized)",
+                "विलेय होता है (Is soluble)",
+                "अविलेय होता है (Is insoluble)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "आयनित होता है (Gets ionized)"
+        },
+        {
+            "id": 19,
+            "question": "निम्नलिखित में से कौन गंधीय सूचक (olfactory indicator) नहीं है? (Which of the following is not an olfactory indicator?)",
+            "options": [
+                "लौंग का तेल (Clove oil)",
+                "वैनिला (Vanilla)",
+                "शकरकन्द (Sweet potato)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "शकरकन्द (Sweet potato)"
+        },
+        {
+            "id": 20,
+            "question": "चींटी के डंक में कौन-सा अम्ल पाया जाता है? (Which acid is found in ant sting?)",
+            "options": [
+                "सिट्रिक अम्ल (Citric acid)",
+                "ऐसीटिक अम्ल (Acetic acid)",
+                "मेथेनोइक अम्ल (Methanoic acid)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "मेथेनोइक अम्ल (Methanoic acid)"
+        },
+        {
+            "id": 21,
+            "question": "निम्नांकित में किसको जल में डुबोकर रखते हैं? (Which of the following is kept immersed in water?)",
+            "options": [
+                "श्वेत फास्फोरस को (White phosphorus)",
+                "लाल फास्फोरस को (Red phosphorus)",
+                "आयोडीन को (Iodine)",
+                "गंधक को (Sulphur)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "श्वेत फास्फोरस को (White phosphorus)"
+        },
+        {
+            "id": 22,
+            "question": "अयस्क में अशुद्धि के रूप में उपस्थित पदार्थ कहलाते हैं (The substances, present as impurities in on ore, are called):",
+            "options": [
+                "धातुमल (Slag)",
+                "आधात्री (Gangue)",
+                "खनिज (Mineral)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "आधात्री (Gangue)"
+        },
+        {
+            "id": 23,
+            "question": "निम्नांकित में किस धातु को चाकू से आसानी से काटा जा सकता है? (Which of the following metals can be easily cut with a knife?)",
+            "options": [
+                "Na",
+                "Cu",
+                "Ni",
+                "Al"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "Na"
+        },
+        {
+            "id": 24,
+            "question": "सोने में कौन-सी धातु मिलाकर मिश्रधातु तैयार की जाती है? (Which metal is mixed with gold to make an alloy?)",
+            "options": [
+                "Fe",
+                "Cu",
+                "Zn",
+                "Ag"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "Cu"
+        },
+        {
+            "id": 25,
+            "question": "सिलिकॉन है एक (Silicon is a/an):",
+            "options": [
+                "अधातु (Non-metal)",
+                "धातु (Metal)",
+                "मिश्रधातु (Alloy)",
+                "उपधातु (Metalloid)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "उपधातु (Metalloid)"
+        },
+        {
+            "id": 26,
+            "question": "यूरिया रक्त में कहाँ से प्रवेश करती है? (From where does urea enter the blood?)",
+            "options": [
+                "वृक्क से (Kidney)",
+                "फेफड़ा से (Lungs)",
+                "यकृत से (Liver)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "यकृत से (Liver)"
+        },
+        {
+            "id": 27,
+            "question": "ग्लूकोज का पुनरवशोषण कहाँ होता है? (Where does glucose reabsorption occur?)",
+            "options": [
+                "PCT में (In PCT)",
+                "DCT में (In DCT)",
+                "हेनले लूप में (In Henle's loop)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "PCT में (In PCT)"
+        },
+        {
+            "id": 28,
+            "question": "विभिन्न क्रियाओं के फलस्वरूप बने हानिकारक पदार्थों को शरीर से बाहर निकालने के तंत्र को कहते हैं (The mechanism for removing harmful substances formed as a result of various activities from the body is called):",
+            "options": [
+                "पाचन तंत्र (Digestive system)",
+                "परिसंचरण तंत्र (Circulatory system)",
+                "उत्सर्जन तंत्र (Excretory system)",
+                "तंत्रिका तंत्र (Nervous system)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "उत्सर्जन तंत्र (Excretory system)"
+        },
+        {
+            "id": 29,
+            "question": "मेरुरज्जु के आघात से क्या हो सकता है? (What can happen due to spinal cord injury?)",
+            "options": [
+                "घेघा (Goitre)",
+                "बौनापन (Dwarfism)",
+                "मधुमेह (Diabetes)",
+                "लकवा (Paralysis)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "लकवा (Paralysis)"
+        },
+        {
+            "id": 30,
+            "question": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है (The largest gland in the human body is):",
+            "options": [
+                "एड्रीनल (Adrenal)",
+                "लीवर (Liver)",
+                "अंडाशय (Ovary)",
+                "अग्न्याशय (Pancreas)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लीवर (Liver)"
+        },
+        {
+            "id": 31,
+            "question": "पादप हॉर्मोन कहलाते हैं (Plant hormone is called):",
+            "options": [
+                "फेरोमोन (Pheromone)",
+                "फाइटोहॉर्मोन (Phytohormone)",
+                "एंजाइम (Enzyme)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "फाइटोहॉर्मोन (Phytohormone)"
+        },
+        {
+            "id": 32,
+            "question": "पत्तियों द्वारा कायिक प्रवर्धन का उदाहरण है (An example of vegetative propagation through leaves is):",
+            "options": [
+                "प्याज (Onion)",
+                "आलू (Potato)",
+                "गुलाब (Rose)",
+                "ब्रायोफाइलम (Bryophyllum)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "ब्रायोफाइलम (Bryophyllum)"
+        },
+        {
+            "id": 33,
+            "question": "कैमरे का कौन-सा भाग आँखों के रेटिना की तरह कार्य करता है? (Which part of camera acts like the retina of the eye?)",
+            "options": [
+                "द्वारक (Aperture)",
+                "लेंस (Lens)",
+                "फिल्म (Film)",
+                "शटर (Shutter)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "फिल्म (Film)"
+        },
+        {
+            "id": 34,
+            "question": "एक स्वस्थ मानव नेत्र के लिए निकट-बिन्दु तथा दूर-बिन्दु क्रमशः होते हैं (For a healthy human eye, the near point and far point are respectively):",
+            "options": [
+                "0 एवं अनंत (0 and infinity)",
+                "25 cm एवं 250 cm",
+                "25 cm एवं अनंत (25 cm and infinity)",
+                "0 एवं 25 cm"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "25 cm एवं अनंत (25 cm and infinity)"
+        },
+        {
+            "id": 35,
+            "question": "चंद्रमा पर खड़े अंतरिक्ष यात्री को आकाश प्रतीत होता है (To an astronaut standing on the moon, the sky appears to be):",
+            "options": [
+                "लाल (Red)",
+                "नीला (Blue)",
+                "काला (Black)",
+                "उजला (White)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "काला (Black)"
+        },
+        {
+            "id": 36,
+            "question": "नेत्र की समंजन-क्षमता कम हो जाने से उत्पन्न होता है (The decreased accommodative ability of the eye causes):",
+            "options": [
+                "दूर-दृष्टि दोष (Farsightedness)",
+                "जरा-दृष्टि दोष (Presbyopia)",
+                "निकट-दृष्टि दोष (Nearsightedness)",
+                "वर्णाधता (Colourblindness)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "जरा-दृष्टि दोष (Presbyopia)"
+        },
+        {
+            "id": 37,
+            "question": "किसी चालक की प्रतिरोधकता का मात्रक है (The unit of resistivity in a conductor is):",
+            "options": [
+                "Ωm",
+                "Ω/m",
+                "Ω⁻¹",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "Ωm"
+        },
+        {
+            "id": 38,
+            "question": "1 जूल में कितनी कैलोरी होती है? (How many calories are there in 1 joule?)",
+            "options": [
+                "0.23",
+                "0.19",
+                "0.21",
+                "0.25"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "0.23"
+        },
+        {
+            "id": 39,
+            "question": "विद्युत बल्ब में फीलामेंट निम्नलिखित में किस धातु का बना होता है? (The filament in an electric bulb is made of which of the following metals?)",
+            "options": [
+                "लोहा (Iron)",
+                "एल्युमीनियम (Aluminium)",
+                "टंगस्टन (Tungsten)",
+                "ताँबा (Copper)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "टंगस्टन (Tungsten)"
+        },
+        {
+            "id": 40,
+            "question": "निम्नलिखित में कौन परिवार नियोजन साधनों में प्रयुक्त एक प्रभावी उपाय है? (Which of the following is an effective measure used in family planning?)",
+            "options": [
+                "डायफ्रॉम (Diaphragm)",
+                "कंडोम (Condom)",
+                "कॉपर टी एवं लूप (Copper T and loop)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 41,
+            "question": "एटाविज्म का क्या अर्थ है? (What is the meaning of atavism?)",
+            "options": [
+                "संतति में जनकों के गुणों का आना (Inheritance of parental characteristics in progeny)",
+                "संतति में जनकों के गुणों का नहीं आना (No inheritance of parental characteristics in progeny)",
+                "संतति में पूर्वजों के गुणों का आना, जो जनकों में नहीं है (Inheritance of ancestral characteristics in progeny, which are not in parents)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "संतति में पूर्वजों के गुणों का आना, जो जनकों में नहीं है (Inheritance of ancestral characteristics in progeny, which are not in parents)"
+        },
+        {
+            "id": 42,
+            "question": "किसी जीव की जीनी संरचना कहलाती है (The genetic structure of an organism is called):",
+            "options": [
+                "फेनोटाइप (Phenotype)",
+                "जीनोटाइप (Genotype)",
+                "आनुवंशिकता (Heredity)",
+                "विविधता (Diversity)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "जीनोटाइप (Genotype)"
+        },
+        {
+            "id": 43,
+            "question": "प्राकृतिक चयन द्वारा जीवों का विकास कहलाता है (The evolution of organisms by natural selection is called):",
+            "options": [
+                "मेंडलवाद (Mendelism)",
+                "लामार्कवाद (Lamarckism)",
+                "सूक्ष्म विकास (Micro-development)",
+                "डार्विनवाद (Darwinism)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "डार्विनवाद (Darwinism)"
+        },
+        {
+            "id": 44,
+            "question": "जैव आवर्धन प्रदर्शित करने वाला रसायन है (The chemical which shows biomagnification is):",
+            "options": [
+                "CFC",
+                "ADP",
+                "ATP",
+                "DDT"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "DDT"
+        },
+        {
+            "id": 45,
+            "question": "प्राथमिक उपभोक्ता कहलाते हैं (Primary consumers are called):",
+            "options": [
+                "अपघटक (Decomposer)",
+                "सर्वाहारी (Omnivorous)",
+                "मांसाहारी (Carnivorous)",
+                "शाकाहारी (Vegetarian/Herbivorous)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "शाकाहारी (Vegetarian/Herbivorous)"
+        },
+        {
+            "id": 46,
+            "question": "CFC का व्यापक उपयोग होता है (CFC is widely used in):",
+            "options": [
+                "जेट इंजनों में (Jet engines)",
+                "रेफ्रीजरेटरों में (Refrigerators)",
+                "एयर कंडीशनरों में (Air conditioners)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 47,
+            "question": "मिथेन के अणु का आकार होता है (The shape of methane molecule is):",
+            "options": [
+                "एकरेखीय (Linear)",
+                "वलयाकार (Annular)",
+                "समचतुष्फलकीय (Tetrahedral)",
+                "अष्टफलकीय (Octahedral)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "समचतुष्फलकीय (Tetrahedral)"
+        },
+        {
+            "id": 48,
+            "question": "कार्बनिक यौगिकों में कार्बन की संयोजकता होती है (The valency of carbon in organic compounds is):",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "4"
+        },
+        {
+            "id": 49,
+            "question": "निम्न में से कौन संतृप्त हाइड्रोकार्बन है? (Which of the following is saturated hydrocarbon?)",
+            "options": [
+                "ऐल्केन (Alkane)",
+                "ऐल्कीन (Alkene)",
+                "ऐल्काइन (Alkyne)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "ऐल्केन (Alkane)"
+        },
+        {
+            "id": 50,
+            "question": "एथिलीन का IUPAC नाम है (IUPAC name of ethylene is):",
+            "options": [
+                "एथेन (Ethane)",
+                "एथाइन (Ethyne)",
+                "एथीन (Ethene)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "एथीन (Ethene)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0209",
+    "dateDisplay": "09 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "फूल में नर-प्रजनन अंग है। (Male reproductive organ in flower is)",
+            "options": [
+                "पुंकेसर (Stamen)",
+                "अंडाशय (Ovary)",
+                "वर्तिकाग्र (Stigma)",
+                "वर्तिका (Style)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पुंकेसर (Stamen)"
+        },
+        {
+            "id": 2,
+            "question": "निम्नलिखित में किसमें द्विखंडन नहीं होता (In which of the following binary fission does not occur?)",
+            "options": [
+                "अमीबा में (Amoeba)",
+                "यीस्ट में (Yeast)",
+                "पैरामीशियम में (Paramoecium)",
+                "युग्लीना में (Euglena)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "यीस्ट में (Yeast)"
+        },
+        {
+            "id": 3,
+            "question": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है (Source of energy in ecosystem is)",
+            "options": [
+                "वायु (Air)",
+                "सूर्य प्रकाश (Sunlight)",
+                "वर्षा जल (Rain water)",
+                "मिट्टी (Soil)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "सूर्य प्रकाश (Sunlight)"
+        },
+        {
+            "id": 4,
+            "question": "निम्नलिखित में से किसे 'आनुवंशिकी का पिता' कहा जाता है? (Who among the following is called 'Father of Genetics'?)",
+            "options": [
+                "चार्ल्स डार्विन (Charles Darwin)",
+                "ग्रेगर जॉन मेंडल (Gregor Johann Mendel)",
+                "लामार्क (Lamarck)",
+                "वाइसमान (Weismann)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "ग्रेगर जॉन मेंडल (Gregor Johann Mendel)"
+        },
+        {
+            "id": 5,
+            "question": "हरे पौधे कहलाते हैं (Green plants are called)",
+            "options": [
+                "उत्पादक (Producers)",
+                "उपभोक्ता (Consumers)",
+                "अपघटक (Decomposers)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "उत्पादक (Producers)"
+        },
+        {
+            "id": 6,
+            "question": "नर- युग्मक में गुणसूत्र की संख्या होती है (Number of chromosomes in male gamete is)",
+            "options": [
+                "22",
+                "23",
+                "24",
+                "11"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "23"
+        },
+        {
+            "id": 7,
+            "question": "ओजोन परत पायी जाती है (Ozone layer is found in)",
+            "options": [
+                "स्ट्रेटोस्फियर में (Stratosphere)",
+                "एक्सोस्फियर में (Exosphere)",
+                "आयनोस्फियर में (Ionosphere)",
+                "ट्रापोस्फियर में (Troposphere)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "स्ट्रेटोस्फियर में (Stratosphere)"
+        },
+        {
+            "id": 8,
+            "question": "ऐसे तत्व जो इलेक्ट्रॉनों को त्यागकर धनात्मक आयन बनाते हैं, कहे जाते है (Elements that lose electrons to form positive ions are called)",
+            "options": [
+                "उपधातु (Metalloids)",
+                "धातु (Metals)",
+                "अधातु (Non-metals)",
+                "मिश्रिधातु (Alloys)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "धातु (Metals)"
+        },
+        {
+            "id": 9,
+            "question": "लोहा पर जिंक लेपित करने की क्रिया को कहते हैं (The process of coating zinc on iron is called)",
+            "options": [
+                "विद्युत लेपित करना (Electroplating)",
+                "संक्षारण (Corrosion)",
+                "गैल्वनीकरण (Galvanisation)",
+                "विद्युत अपघटन (Electrolysis)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "गैल्वनीकरण (Galvanisation)"
+        },
+        {
+            "id": 10,
+            "question": "निम्न में कौन सहसंयोजी यौगिक है? (Which of the following is a covalent compound?)",
+            "options": [
+                "NaCl",
+                "CaCl₂",
+                "CH₄",
+                "Na₂O"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "CH₄"
+        },
+        {
+            "id": 11,
+            "question": "आभूषण बनने वाला सोना होता है (Gold used for making ornaments is)",
+            "options": [
+                "24 कैरेट का (24 carat)",
+                "16 कैरेट का (16 carat)",
+                "22 कैरेट का (22 carat)",
+                "15 कैरेट का (15 carat)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "22 कैरेट का (22 carat)"
+        },
+        {
+            "id": 12,
+            "question": "निम्न में कौन-सा उत्कृष्ट तत्व है। (Which of the following is a noble element?)",
+            "options": [
+                "आयोडीन (Iodine)",
+                "सिलिकॉन (Silicon)",
+                "आर्गन (Argon)",
+                "ब्रोमीन (Bromine)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "आर्गन (Argon)"
+        },
+        {
+            "id": 13,
+            "question": "ताम्र एवं टीन के मिश्रधातु को कहते है (Alloy of copper and tin is called)",
+            "options": [
+                "कांसा (Bronze)",
+                "पीतल (Brass)",
+                "सोल्डर (Solder)",
+                "डयुरालुमिन (Duralumin)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "कांसा (Bronze)"
+        },
+        {
+            "id": 14,
+            "question": "प्लास्टर ऑफ पेरिस का रासासनिक सूत्र है। (Chemical formula of Plaster of Paris is)",
+            "options": [
+                "CaSO₄.5H₂O",
+                "CaSO₄.1/2H₂O",
+                "CaSO₄.2H₂O",
+                "CaSO₄.H₂O"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "CaSO₄.1/2H₂O"
+        },
+        {
+            "id": 15,
+            "question": "अम्ल और क्षार आपस में अभिक्रिया कर बनाते हैं (Acid and base react to form)",
+            "options": [
+                "प्रबल क्षार (Strong base)",
+                "प्रबल अम्ल (Strong acid)",
+                "लवण (Salt)",
+                "क्षार (Base)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "लवण (Salt)"
+        },
+        {
+            "id": 16,
+            "question": "बूझा हुआ चूना है। (Slaked lime is)",
+            "options": [
+                "Ca(OH)₂",
+                "CaO",
+                "CaCO₃",
+                "Ca"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "Ca(OH)₂"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में कौन भस्म नहीं है ? (Which of the following is not a base?)",
+            "options": [
+                "CaO",
+                "NaCl",
+                "NaOH",
+                "Na₂CO₃"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "NaCl"
+        },
+        {
+            "id": 18,
+            "question": "जस्ता का अयस्क है। (Ore of Zinc is)",
+            "options": [
+                "सिनाबार (Cinnabar)",
+                "जिंक ब्लैंड (Zinc Blende)",
+                "बॉक्साइट (Bauxite)",
+                "सोडियम क्लोराइड (Sodium Chloride)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "जिंक ब्लैंड (Zinc Blende)"
+        },
+        {
+            "id": 19,
+            "question": "सिलिकन है एक (Silicon is a)",
+            "options": [
+                "धातु (Metal)",
+                "अधातु (Non-metal)",
+                "उपधातु (Metalloid)",
+                "मिश्रधातु (Alloy)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "उपधातु (Metalloid)"
+        },
+        {
+            "id": 20,
+            "question": "एल्कोहल में कौन-सा तत्त्व उपस्थित है? (Which element is present in alcohol?)",
+            "options": [
+                "कार्बन (Carbon)",
+                "ऑक्सीजन (Oxygen)",
+                "हाइड्रोजन (Hydrogen)",
+                "नाइट्रोजन (Nitrogen)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "नाइट्रोजन (Nitrogen)"
+        },
+        {
+            "id": 21,
+            "question": "मेथनॉइक अम्ल का सामान्य नाम है (Common name of Methanoic acid is)",
+            "options": [
+                "फॉर्मिक अम्ल (Formic acid)",
+                "एसीटीक अम्ल (Acetic acid)",
+                "लैक्टीक अम्ल (Lactic acid)",
+                "टार्टरिक अम्ल (Tartaric acid)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "फॉर्मिक अम्ल (Formic acid)"
+        },
+        {
+            "id": 22,
+            "question": "स्वपोषी पोषण के लिए आवश्यक है (Essential for autotrophic nutrition is)",
+            "options": [
+                "क्लोरोफिल (Chlorophyll)",
+                "कार्बन डाइऑक्साइड तथा जल (Carbon dioxide and water)",
+                "सूर्य का प्रकाश (Sunlight)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 23,
+            "question": "मैग्नीशियम पाया जाता है (Magnesium is found in)",
+            "options": [
+                "क्लोरोफिल में (Chlorophyll)",
+                "लाल रक्त कण में (Red blood cells)",
+                "वर्णी लवक में (Chromoplast)",
+                "श्वेत रक्त कण में (White blood cells)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "क्लोरोफिल में (Chlorophyll)"
+        },
+        {
+            "id": 24,
+            "question": "तैलीय कागज होता है (Oily paper is)",
+            "options": [
+                "पारदर्शक (Transparent)",
+                "अपारदर्शक (Opaque)",
+                "पारभासक (Translucent)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "पारभासक (Translucent)"
+        },
+        {
+            "id": 25,
+            "question": "लेंस द्वारा उत्पन्न आवर्धन की S.I. इकाई क्या है? (What is the S.I. unit of magnification produced by lens?)",
+            "options": [
+                "मी (m)",
+                "सेमी (cm)",
+                "मिमी (mm)",
+                "मात्रक विहीन (Unitless)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "मात्रक विहीन (Unitless)"
+        },
+        {
+            "id": 26,
+            "question": "प्रकाश की चाल विभिन्न माध्यमों में (Speed of light in different media)",
+            "options": [
+                "समान होती है (is same)",
+                "भिन्न-भिन्न होती है (is different)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "भिन्न-भिन्न होती है (is different)"
+        },
+        {
+            "id": 27,
+            "question": "वायु में प्रकाश की चाल निर्वात की अपेक्षा होती है (Speed of light in air compared to vacuum is)",
+            "options": [
+                "कम (Less)",
+                "ज्यादा (More)",
+                "समान (Same)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "कम (Less)"
+        },
+        {
+            "id": 28,
+            "question": "लेंस में मुख्य फोकस की संख्या होती है (Number of principal foci in a lens is)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 29,
+            "question": "विद्युत का अच्छा चालक है (Good conductor of electricity is)",
+            "options": [
+                "लकड़ी (Wood)",
+                "प्लास्टिक (Plastic)",
+                "कार्बन (Carbon)",
+                "चाँदी (Silver)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "चाँदी (Silver)"
+        },
+        {
+            "id": 30,
+            "question": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है (In dry cell, negative electrode is made of)",
+            "options": [
+                "ताँबा का (Copper)",
+                "कार्बन का (Carbon)",
+                "जस्ता का (Zinc)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "जस्ता का (Zinc)"
+        },
+        {
+            "id": 31,
+            "question": "1 जूल का मान होता है (Value of 1 Joule is)",
+            "options": [
+                "0.24 कैलोरी (0.24 calorie)",
+                "4.18 कैलोरी (4.18 calorie)",
+                "0.42 कैलोरी (0.42 calorie)",
+                "2.4 कैलोरी (2.4 calorie)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "0.24 कैलोरी (0.24 calorie)"
+        },
+        {
+            "id": 32,
+            "question": "वनस्पति तेलों में होती है (Vegetable oils contain)",
+            "options": [
+                "लंबी संतृप्त हाइड्रोकार्बन श्रृंखलाएँ (Long saturated hydrocarbon chains)",
+                "लंबी असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ (Long unsaturated hydrocarbon chains)",
+                "लघु असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ (Short unsaturated hydrocarbon chains)",
+                "लघु संतृप्त हाइड्रोकार्बन शृंखलाएँ (Short saturated hydrocarbon chains)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "लंबी असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ (Long unsaturated hydrocarbon chains)"
+        },
+        {
+            "id": 33,
+            "question": "मेंडलीफ के आवर्त नियम में तत्व वर्गीकरण का आधार क्या है? (What is the basis of classification of elements in Mendeleev's periodic law?)",
+            "options": [
+                "परमाणु त्रिज्या (Atomic radius)",
+                "परमाणु घनत्व (Atomic density)",
+                "परमाणु संख्या (Atomic number)",
+                "परमाणु द्रव्यमान (Atomic mass)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "परमाणु द्रव्यमान (Atomic mass)"
+        },
+        {
+            "id": 34,
+            "question": "अमोनिया के अणु में नाइट्रोजन एवं आइड्रोजन के परमाणुओं की संख्या का अनुपात है। (Ratio of number of atoms of nitrogen and hydrogen in ammonia molecule is)",
+            "options": [
+                "3:1",
+                "2:1",
+                "1:2",
+                "1:3"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1:3"
+        },
+        {
+            "id": 35,
+            "question": "निम्न में कौन कमरे के तापक्रम पर द्रव है (Which of the following is liquid at room temperature?)",
+            "options": [
+                "एथेन (Ethane)",
+                "एथाइन (Ethyne)",
+                "एथनॉल (Ethanol)",
+                "मिथेन (Methane)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "एथनॉल (Ethanol)"
+        },
+        {
+            "id": 36,
+            "question": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है? (Which acid is found in vinegar?)",
+            "options": [
+                "गंधकाम्ल (Sulphuric acid)",
+                "हाइड्रोक्लोरिक अम्ल (Hydrochloric acid)",
+                "फॉर्मिल अम्ल (Formic acid)",
+                "ऐसीटिक अम्ल (Acetic acid)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "ऐसीटिक अम्ल (Acetic acid)"
+        },
+        {
+            "id": 37,
+            "question": "निम्न में कौन कार्बन के अपररूप हैं? (Which of the following are allotropes of carbon?)",
+            "options": [
+                "ग्रेफाइट (Graphite)",
+                "हीरा (Diamond)",
+                "फुलेरिन (Fullerene)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 38,
+            "question": "एक अणुसूत्र परन्तु विभिन्न सूत्र वाले यौगिक कहलाते हैं। (Compounds with same molecular formula but different structural formula are called)",
+            "options": [
+                "समावयवी (Isomers)",
+                "अपररूप (Allotropes)",
+                "उत्प्रेरक (Catalysts)",
+                "बहुलक (Polymers)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "समावयवी (Isomers)"
+        },
+        {
+            "id": 39,
+            "question": "दाढ़ी बनाने के लिए कौन-सा दर्पण प्रयुक्त होता है (Which mirror is used for shaving?)",
+            "options": [
+                "उत्तल दर्पण (Convex mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 40,
+            "question": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है? (Which colour ray deviates the most in white light spectrum?)",
+            "options": [
+                "लाल (Red)",
+                "हरा (Green)",
+                "पीला (Yellow)",
+                "बैंगनी (Violet)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "बैंगनी (Violet)"
+        },
+        {
+            "id": 41,
+            "question": "समतल दर्पण की फोकस दूरी होती है (Focal length of plane mirror is)",
+            "options": [
+                "अनंत (Infinity)",
+                "शून्य (Zero)",
+                "100 cm",
+                "50 cm"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "अनंत (Infinity)"
+        },
+        {
+            "id": 42,
+            "question": "अवतल दर्पण के सामने वस्तु को कहाँ रखा जाय ताकि प्रतिविम्ब उल्टा, वास्तविक और समान आकार बने ? (Where should an object be placed in front of a concave mirror so that the image is inverted, real and of same size?)",
+            "options": [
+                "ध्रुव पर (At pole)",
+                "अनंत पर (At infinity)",
+                "वक्रता केन्द्र पर (At centre of curvature)",
+                "फोकस पर (At focus)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "वक्रता केन्द्र पर (At centre of curvature)"
+        },
+        {
+            "id": 43,
+            "question": "तारे के टिमटिमाने का कारण है। (Reason for twinkling of stars is)",
+            "options": [
+                "वायुमंडलीय परावर्तन (Atmospheric reflection)",
+                "कुल परावर्तन (Total reflection)",
+                "वायुमंडलीय अपवर्तन (Atmospheric refraction)",
+                "कुल अपवर्तन (Total refraction)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "वायुमंडलीय अपवर्तन (Atmospheric refraction)"
+        },
+        {
+            "id": 44,
+            "question": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है। (Persistence of vision for human eye is)",
+            "options": [
+                "1/10 sec",
+                "1/16 sec",
+                "1/6 sec",
+                "1/18 sec"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "1/16 sec"
+        },
+        {
+            "id": 45,
+            "question": "उत्तल दर्पण से बना काल्पनिक प्रतिबिम्ब होता है (Virtual image formed by convex mirror is)",
+            "options": [
+                "सीधा एवं आवर्धित (Erect and magnified)",
+                "अल्टा एवं आवर्धित (Inverted and magnified)",
+                "सीधा एवं हासित (Erect and diminished)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "सीधा एवं हासित (Erect and diminished)"
+        },
+        {
+            "id": 46,
+            "question": "अवतल लेंस का आवर्धन (m) बराबर होता है (Magnification (m) of concave lens is equal to)",
+            "options": [
+                "v/u",
+                "uv",
+                "u/v",
+                "u+v"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "v/u"
+        },
+        {
+            "id": 47,
+            "question": "निम्न में कौन-सा पदार्थ लेंस के लिए प्रयुक्त नहीं किसा जा सकता है? (Which of the following materials cannot be used to make a lens?)",
+            "options": [
+                "जल (Water)",
+                "काँच (Glass)",
+                "पीतल (Brass)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "पीतल (Brass)"
+        },
+        {
+            "id": 48,
+            "question": "निम्नलिखित में कौन संख्या प्रकाश के अपवर्तन के नियम के लिए सही है? (Which number is correct for the laws of refraction of light?)",
+            "options": [
+                "2",
+                "1",
+                "3",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 49,
+            "question": "किसी वस्तु का प्रतिबिम्ब आँख के जिस भाग पर बनता है वह है (The part of the eye on which the image of an object is formed is)",
+            "options": [
+                "कॉर्निया (Cornea)",
+                "रेटिना (Retina)",
+                "पुतली (Pupil)",
+                "आइरिस (Iris)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "रेटिना (Retina)"
+        },
+        {
+            "id": 50,
+            "question": "किसी माध्यम के अपवर्तनांक (μ) का मान होता है। (The value of refractive index (μ) of a medium is)",
+            "options": [
+                "sin i/ sin r",
+                "sin r/ sin i",
+                "sin i x sin r",
+                "sin i + sin r"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "sin i/ sin r"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0213",
+    "dateDisplay": "13 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "प्रकाश के परावर्तन के कितने नियम है? (How many laws of reflection of light are there?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 2,
+            "question": "तरंगदैर्ध्य को सामान्यतः व्यक्त किया जाता है। (Wavelength is generally expressed in)",
+            "options": [
+                "केंडेला के रूप में (Candela)",
+                "जूल के रूप में (Joule)",
+                "एम्पियर के रूप में (Ampere)",
+                "ऐंगस्ट्रम (Angstrom)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "ऐंगस्ट्रम (Angstrom)"
+        },
+        {
+            "id": 3,
+            "question": "सभी जीव-जंतुओं के लिए ऊर्जा का अंतिम स्रोत है (The ultimate source of energy for all living beings is)",
+            "options": [
+                "ग्रह (Planet)",
+                "चंद्रमा (Moon)",
+                "सूर्य (Sun)",
+                "कोयला (Coal)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "सूर्य (Sun)"
+        },
+        {
+            "id": 4,
+            "question": "तिलचट्टा में कितने जोड़े श्वास रंध्र पाये जाते हैं? (How many pairs of spiracles are found in a cockroach?)",
+            "options": [
+                "2",
+                "8",
+                "10",
+                "6"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "10"
+        },
+        {
+            "id": 5,
+            "question": "फ्लोएम ऊतकों द्वारा कार्बोहाइड्रेट का परिवहन होता है (Transport of carbohydrates through phloem tissues occurs as)",
+            "options": [
+                "ग्लूकोज के रूप में (Glucose)",
+                "फ्रक्टोज के रूप में (Fructose)",
+                "लैक्टोज के रूप में (Lactose)",
+                "सुक्रोज के रूप में (Sucrose)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सुक्रोज के रूप में (Sucrose)"
+        },
+        {
+            "id": 6,
+            "question": "आमीटर से निम्नलिखित में किसे मापा जाता है ? (Which of the following is measured by ammeter ?)",
+            "options": [
+                "धारा (Current)",
+                "आवेश (Charge)",
+                "विभय (Potential)",
+                "विद्युत शक्ति (Electric power)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "धारा (Current)"
+        },
+        {
+            "id": 7,
+            "question": "यह उपकरण जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है, होता है (The device which converts electrical energy into mechanical energy is)",
+            "options": [
+                "जेनरेटर (Generator)",
+                "विद्युत मोटर (Electric motor)",
+                "जेनरेटर और विद्युत मोटर दोनों (both Generator and Electric motor)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "विद्युत मोटर (Electric motor)"
+        },
+        {
+            "id": 8,
+            "question": "दर्पण का सूत्र है (Mirror's formula is)",
+            "options": [
+                "1/v + 1/u = 1/f",
+                "1/v - 1/u = 1/f",
+                "1/f + 1/u = 1/v",
+                "1/f + 1/v = 1/u"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "1/v + 1/u = 1/f"
+        },
+        {
+            "id": 9,
+            "question": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है ? (Which of the following lens is used to remove short sightedness ?)",
+            "options": [
+                "उत्तल (Convex)",
+                "बाइफोकल (Bifocal)",
+                "अवतल (Concave)",
+                "बेलनाकार (Cylindrical)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "अवतल (Concave)"
+        },
+        {
+            "id": 10,
+            "question": "रासायनिक अभिक्रिया में भाग लेने वाले पदार्थ को कहा जाता है (The substance which takes part in chemical reaction is called)",
+            "options": [
+                "अभिकारक (reactant)",
+                "उत्पाद (product)",
+                "अभिकारक एवं उत्पाद दोनों (both reactant and product)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अभिकारक (reactant)"
+        },
+        {
+            "id": 11,
+            "question": "टूथ पेस्ट कैसा होता है ? (Tooth paste is)",
+            "options": [
+                "अम्लीय (acidic)",
+                "क्षारीय (basic (alkaline))",
+                "उदासीन (neutral)",
+                "इनमें से सभी (all of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "क्षारीय (basic (alkaline))"
+        },
+        {
+            "id": 12,
+            "question": "निम्नलिखित में कौन विद्युत का सुचालक है ? (Which of the following is a good conductor of electricity?)",
+            "options": [
+                "सल्फर (Sulphur)",
+                "क्लोरीन (Chlorine)",
+                "ग्रेफाइट (Graphite)",
+                "आयोडोन (Iodine)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "ग्रेफाइट (Graphite)"
+        },
+        {
+            "id": 13,
+            "question": "निम्नलिखित में कौन कार्बोक्सिल समूह है ? (Which of the following is a carboxyl group ?)",
+            "options": [
+                "- CHO",
+                "> CO",
+                "- COOH",
+                "-O-"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "- COOH"
+        },
+        {
+            "id": 14,
+            "question": "स्विच लगाये जाते हैं (Switches are set)",
+            "options": [
+                "ठंडे तार में (in cold wire)",
+                "गर्म तार में (in hot wire)",
+                "भू-योजित तार में (in underground (earth) wire)",
+                "इनमें से सभी (in all of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "गर्म तार में (in hot wire)"
+        },
+        {
+            "id": 15,
+            "question": "निम्न में से कौन अनवीकरणीय ऊर्जा का स्रोत नहीं है ? (Which of the following is not the source of non-renewable energy?)",
+            "options": [
+                "पेट्रोलियम (Petroleum)",
+                "कोयला (Coal)",
+                "बायोगैस (Biogas)",
+                "प्राकृतिक गैस (Natural gas)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "बायोगैस (Biogas)"
+        },
+        {
+            "id": 16,
+            "question": "मनुष्य में वृक्क निम्न में किससे सम्बंधित है ? (To which of the following is human kidney related ?)",
+            "options": [
+                "पोषण (Nutrition)",
+                "श्वसन (Respiration)",
+                "परिवहन (Transportation)",
+                "उत्सर्जन (Excretion)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "उत्सर्जन (Excretion)"
+        },
+        {
+            "id": 17,
+            "question": "हाइड्रा में क्या पाया जाता है ? (What is found in hydra ?)",
+            "options": [
+                "मस्तिष्क (Brain)",
+                "तंत्रिका (Nerve)",
+                "मुख (Mouth)",
+                "स्पर्शक (Tentacles)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "स्पर्शक (Tentacles)"
+        },
+        {
+            "id": 18,
+            "question": "प्रकाश को किरणें गमन करती हैं (The rays of light travel in)",
+            "options": [
+                "सीधी रेखा में (straight line)",
+                "तिरछी रेखा में (oblique line)",
+                "किसी भी दिशा में (any direction)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "सीधी रेखा में (straight line)"
+        },
+        {
+            "id": 19,
+            "question": "निम्नलिखित में कौन लेन्स की क्षमता का मात्रक है ? (Which of the following is the unit of power of lens ?)",
+            "options": [
+                "जूल (joule)",
+                "डाइऑप्टर (dioptre)",
+                "वाट (watt)",
+                "अर्ग (erg)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "डाइऑप्टर (dioptre)"
+        },
+        {
+            "id": 20,
+            "question": "किस रंग का विचलन न्यूनतम होता है ? (The deviation of which colour is minimum ?)",
+            "options": [
+                "लाल (Red)",
+                "पीला (Yellow)",
+                "नीला (Blue)",
+                "बैंगनी (Violet)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 21,
+            "question": "बैटरी से किस प्रकार की धारा प्राप्त होती है ? (Which type of current is obtained from a battery?)",
+            "options": [
+                "प्रत्यावर्ती धारा (Alternating current)",
+                "दिष्ट धारा (Direct current)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "दिष्ट धारा (Direct current)"
+        },
+        {
+            "id": 22,
+            "question": "किसको उपस्थिति के कारण पौधे का रंग हरा होता है ? (The green colour of plants is due to the presence of)",
+            "options": [
+                "क्लोरोफिल (Chlorophyll)",
+                "लिउकोप्लास्ट (Leucoplast)",
+                "फाइटोक्रोम (Phytochrome)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "क्लोरोफिल (Chlorophyll)"
+        },
+        {
+            "id": 23,
+            "question": "पौधे में उत्सजी पदार्थ है (Excretory substance in plants is)",
+            "options": [
+                "गोंद (Gum)",
+                "टैनिन (Tannin)",
+                "रेजिन (Resin)",
+                "इनमें से सभी (all of these)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से सभी (all of these)"
+        },
+        {
+            "id": 24,
+            "question": "टेहरी बाँध का निर्माण किस प्रदेश में किया गया है ? (In which state is Tehri Dam constructed ?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "उत्तराखंड (Uttarakhand)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "राजस्थान (Rajasthan)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 25,
+            "question": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है ? (Which of the following causes acid rain ?)",
+            "options": [
+                "CO₂",
+                "SO₂",
+                "CO",
+                "Cl₂"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "SO₂"
+        },
+        {
+            "id": 26,
+            "question": "सभी जीव-जन्तुओं के लिए ऊर्जा का अंतिम स्रोत है (Ultimate source of energy for all living organisms is)",
+            "options": [
+                "ग्रह (Planet)",
+                "चन्द्रमा (Moon)",
+                "सूर्य (Sun)",
+                "कोयला (Coal)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "सूर्य (Sun)"
+        },
+        {
+            "id": 27,
+            "question": "तिलचट्टा में कितने जोड़े श्वास रंध्र पाये जाते हैं ? (How many pairs of spiracles are found in cockroach ?)",
+            "options": [
+                "2",
+                "8",
+                "10",
+                "6"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "10"
+        },
+        {
+            "id": 28,
+            "question": "फ्लोएम ऊतकों द्वारा कार्बोहाइड्रेट का परिवहन होता है (Transportation of carbohydrate through phloem tissues takes place in the form of)",
+            "options": [
+                "ग्लूकोज के रूप में (Glucose)",
+                "फ्रक्टोज के रूप में (Fructose)",
+                "लैक्टोज के रूप में (Lactose)",
+                "सुक्रोज के रूप में (Sucrose)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सुक्रोज के रूप में (Sucrose)"
+        },
+        {
+            "id": 29,
+            "question": "समीकरण 2H₂ + O₂ → 2H₂O है एक (Equation 2H₂ + O₂ → 2H₂O is a)",
+            "options": [
+                "संयोजन अभिक्रिया (combination reaction)",
+                "वियोजन अभिक्रिया (decomposition reaction)",
+                "अवक्षेप अभिक्रिया (precipitation reaction)",
+                "उदासीनीकरण अभिक्रिया (neutralisation reaction)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "संयोजन अभिक्रिया (combination reaction)"
+        },
+        {
+            "id": 30,
+            "question": "ग्लूकोज का रासायनिक सूत्र निम्नलिखित में कौन है ? (Which of the following is the chemical formula of glucose ?)",
+            "options": [
+                "C₂H₅OH",
+                "C₆H₆O₆",
+                "C₆H₁₂O₆",
+                "C₆H₆"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "C₆H₁₂O₆"
+        },
+        {
+            "id": 31,
+            "question": "अमीबा में अधिकांश पोषण कैसा होता है ? (Most of the nutrition in an amoeba is)",
+            "options": [
+                "शाकाहारी (Herbivores)",
+                "अंतर्ग्रहण (Ingestion/Holozoic - Note: Hindi says Ingestion, English says Holozoic)",
+                "सर्वाहारी (Omnivores)",
+                "स्वपोषी (Autotrophic)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "अंतर्ग्रहण (Ingestion/Holozoic - Note: Hindi says Ingestion, English says Holozoic)"
+        },
+        {
+            "id": 32,
+            "question": "आवर्त सारणी के प्रथम वर्ग के सदस्य होते हैं (The element of first group of the periodic table is)",
+            "options": [
+                "अम्लीय धातु (acidic metal)",
+                "अक्रिय गैस (inert gas)",
+                "क्षार धातु (alkaline metal)",
+                "मिश्र धातु (alloy)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "क्षार धातु (alkaline metal)"
+        },
+        {
+            "id": 33,
+            "question": "निम्नलिखित में कौन प्राकृतिक संसाधन नहीं है ? (Which of the following is not a natural resource?)",
+            "options": [
+                "वायु (Air)",
+                "जल (Water)",
+                "मिट्टी (Soil)",
+                "जीवधारी (Organism)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "जीवधारी (Organism)"
+        },
+        {
+            "id": 34,
+            "question": "प्रकाश के परावर्तन के कितने नियम है ? (How many laws are there of reflection of light ?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 35,
+            "question": "तरंगदैर्ध्य को सामान्यतः व्यक्त किया जाता है (Wavelength is generally expressed as)",
+            "options": [
+                "कंडेला के रूप में (candela)",
+                "जूल के रूप में (joule)",
+                "एम्पियर के रूप में (ampere)",
+                "ऐंगस्ट्रम (angstrom)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "ऐंगस्ट्रम (angstrom)"
+        },
+        {
+            "id": 36,
+            "question": "निम्नलिखित में किस धातु से सोलर सेल बना होता है ? (With which of the following metals is solar cell made of?)",
+            "options": [
+                "जस्ता (Zinc)",
+                "सोना (Gold)",
+                "प्लेटीनम (Platinum)",
+                "सिलिकन (Silicon)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "सिलिकन (Silicon)"
+        },
+        {
+            "id": 37,
+            "question": "निम्नलिखित में कौन लवण है ? (Which of the following is a salt?)",
+            "options": [
+                "HCl",
+                "NaOH",
+                "K₂SO₄",
+                "NH₄OH"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "K₂SO₄"
+        },
+        {
+            "id": 38,
+            "question": "निम्नलिखित में सबसे भारी धातु कौन है ? (Which of the following is the heaviest metal ?)",
+            "options": [
+                "लिथियम (Lithium)",
+                "यूरेनियम (Uranium)",
+                "सिजियम (Cesium)",
+                "आयरन (Iron)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "यूरेनियम (Uranium)"
+        },
+        {
+            "id": 39,
+            "question": "इथेन के एक अणु में कितने सह-संयोजक बन्धन है ? (How many covalent bonds are there in one molecule of ethane ?)",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "7"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 40,
+            "question": "किसे रासायनिक दूत कहा जाता है ? (Which is called chemical messenger ?)",
+            "options": [
+                "उद्दीपक (Stimuli)",
+                "पाचक रस (Digestive juice)",
+                "हार्मोन (Hormone)",
+                "आवेग (Impulse)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "हार्मोन (Hormone)"
+        },
+        {
+            "id": 41,
+            "question": "'द ऑरिजिन ऑफ स्पेशीज' नामक पुस्तक किसने लिखी है ? (Who wrote the book The Origin of Species ?)",
+            "options": [
+                "डार्विन (Darwin)",
+                "लामार्क (Lamarck)",
+                "ओपेरिन (Oparin)",
+                "वाईसमान (Weismann)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "डार्विन (Darwin)"
+        },
+        {
+            "id": 42,
+            "question": "निम्नलिखित में किस माध्यम में प्रकाश की चाल सबसे अधिक होता है ? (In which of the following media is the speed of light maximum ?)",
+            "options": [
+                "कांच (Glass)",
+                "पानी (Water)",
+                "लोहा (Iron)",
+                "निर्वात (Vacuum)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "निर्वात (Vacuum)"
+        },
+        {
+            "id": 43,
+            "question": "विभवान्तर का S.I. मात्रक होता है (S.I. unit of potential difference is)",
+            "options": [
+                "कूलम्ब (coulomb)",
+                "वोल्ट (volt)",
+                "एम्पीयर (ampere)",
+                "ओम (ohm)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वोल्ट (volt)"
+        },
+        {
+            "id": 44,
+            "question": "पौधे में जनन अंग कहाँ पाये जाते हैं ? (Where is reproductive organ found in plants ?)",
+            "options": [
+                "तना में (In stem)",
+                "जड़ में (In roots)",
+                "पुष्प में (In flower)",
+                "फल में (In fruit)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "पुष्प में (In flower)"
+        },
+        {
+            "id": 45,
+            "question": "मेंडल ने अपने आनुवंशिकी प्रयोग हेतु किस पौधे का उपयोग किया था ? (Which plant did Mendel use for his experiments in genetics?)",
+            "options": [
+                "नीम (Neem)",
+                "गुलाब (Rose)",
+                "मटर (Pea)",
+                "गुलदाऊदी (Chrysanthemum)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "मटर (Pea)"
+        },
+        {
+            "id": 46,
+            "question": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह किस दिशा में होता है ? (In which direction does energy flow in an ecosystem?)",
+            "options": [
+                "एकदिशीय (Unidirectional)",
+                "द्विदिशोय (Bidirectional)",
+                "बहुदिशीय (Multidirectional)",
+                "किसी भी दिशा में नहीं (Non-directional)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "एकदिशीय (Unidirectional)"
+        },
+        {
+            "id": 47,
+            "question": "ओजोन परत पाया जाता है (The ozone layer is found)",
+            "options": [
+                "वायुमंडल के निचली सतह में (in the lower layer of atmosphere)",
+                "वायुमंडल के ऊपरी सतह में (in the upper layer of atmosphere)",
+                "वायुमंडल के मध्य सतह में (in the middle layer of atmosphere)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वायुमंडल के ऊपरी सतह में (in the upper layer of atmosphere)"
+        },
+        {
+            "id": 48,
+            "question": "पौधों में गैसों का आदान-प्रदान किसके द्वारा होता है ? (By which of the following gases are exchanged in plants ?)",
+            "options": [
+                "रंध्र (Stomata)",
+                "जड़ (Roots)",
+                "तना (Stem)",
+                "टहनी (Shoot)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "रंध्र (Stomata)"
+        },
+        {
+            "id": 49,
+            "question": "निम्न में सबसे तेज हृदय धड़कन किसका होता है ? (Who has the fastest heartbeat?)",
+            "options": [
+                "ह्वेल (Whale)",
+                "चूहा (Rat)",
+                "हाथी (Elephant)",
+                "आदमी (Human)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "चूहा (Rat)"
+        },
+        {
+            "id": 50,
+            "question": "सजीव जीयधारियों द्वारा किस प्रकार की नाइट्रोजनी पदार्थ (कचरा) का उत्सर्जन होता है ? (Which type of nitrogenous wastes is excreted by living organisms?)",
+            "options": [
+                "अमोनिया (Ammonia)",
+                "यूरिक अम्ल (Uric acid)",
+                "यूरिया (Urea)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        }
+    ]
+}

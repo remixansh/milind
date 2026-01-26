@@ -1,0 +1,658 @@
+{
+    "date": "0206",
+    "dateDisplay": "06 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "किन संवैधानिक संशोधनों का संबंध स्थानीय स्वशासन से है? (Which constitutional amendments are related to local self-government ?)",
+            "options": [
+                "71 वाँ और 72 वाँ (71 st and 72 nd)",
+                "72 वाँ और 73 वाँ (72 nd and 73 rd)",
+                "73 वाँ और 74 वाँ (73 rd and 74 th)",
+                "74 वाँ और 75 वाँ (74 th and 75 th)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "73 वाँ और 74 वाँ (73 rd and 74 th)"
+        },
+        {
+            "id": 2,
+            "question": "भूस्खलन की समस्या का सामना निम्न में से किसे करना पड़ता है ? (Which of the following has to face the problem of landslide ?)",
+            "options": [
+                "बिहार (Bihar)",
+                "झारखण्ड (Jharkhand)",
+                "उत्तराखंड (Uttarakhand)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 3,
+            "question": "भारत में सर्वप्रथम किसने राष्ट्रीय आय का अनुमान लगाया ? (Who estimated national income in India for the first time?)",
+            "options": [
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "पी. सी. महालनोबिस (P. C. Mahalanobis)",
+                "मनमोहन सिंह (Manmohan Singh)",
+                "जवाहरलाल नेहरू (Jawaharlal Nehru)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "दादाभाई नौरोजी (Dadabhai Naoroji)"
+        },
+        {
+            "id": 4,
+            "question": "भारत की राष्ट्रीय आय में सर्वाधिक योगदान किस क्षेत्र का है ? (Which sector has the highest contribution in the national income of India ?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "औद्योगिक क्षेत्र (Industrial sector)",
+                "सेवा क्षेत्र (Service sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सेवा क्षेत्र (Service sector)"
+        },
+        {
+            "id": 5,
+            "question": "आय का सृजन किसके द्वारा होता है ? (What generates income ?)",
+            "options": [
+                "उपभोग (Consumption)",
+                "बचत (Saving)",
+                "आर्थिक क्रिया (Economic activity)",
+                "सरकार के कर (Government tax)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "आर्थिक क्रिया (Economic activity)"
+        },
+        {
+            "id": 6,
+            "question": "मुद्रा का प्राचीनतम रूप क्या है ? (What is the oldest form of money ?)",
+            "options": [
+                "धातु मुद्रा (Metallic money)",
+                "सिक्के (Coins)",
+                "वस्तु मुद्रा (Commodity money)",
+                "पत्र मुद्रा (Paper money)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "वस्तु मुद्रा (Commodity money)"
+        },
+        {
+            "id": 7,
+            "question": "मुद्रा बाजार में किस प्रकार के ऋणों का लेन-देन होता है ? (What type of loans are transacted in the money market ?)",
+            "options": [
+                "अल्पकालीन (Short term)",
+                "मध्यकालीन (Medium term)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "दीर्घकालीन (Long term)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "अल्पकालीन (Short term)"
+        },
+        {
+            "id": 8,
+            "question": "पहली मानव विकास रिपोर्ट किस प्रधानमंत्री द्वारा जारी की गई ? (The first Human Development Report was released by which Prime Minister?)",
+            "options": [
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "राजीव गाँधी (Rajiv Gandhi)",
+                "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)",
+                "मनमोहन सिंह (Manmohan Singh)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)"
+        },
+        {
+            "id": 9,
+            "question": "निम्न में से कौन कृषि आधारित उद्योग नहीं है ? (Which of the following is not an agro-based industry?)",
+            "options": [
+                "चीनी उद्योग (Sugar industry)",
+                "टेक्सटाइल उद्योग (Textile industry)",
+                "चाय उद्योग (Tea industry)",
+                "सीमेंट उद्योग (Cement industry)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "सीमेंट उद्योग (Cement industry)"
+        },
+        {
+            "id": 10,
+            "question": "बिहार के नगर निगम में कितने प्रतिशत स्थान महिलाओं के लिए आरक्षित है ? (What percentage of seats are reserved for women in Municipal Corporation of Bihar ?)",
+            "options": [
+                "एक-तिहाई (One-third)",
+                "दो-तिहाई (Two-third)",
+                "50 प्रतिशत (50 per cent)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "50 प्रतिशत (50 per cent)"
+        },
+        {
+            "id": 11,
+            "question": "'गरीबी हटाओ' का नारा किस राजनीतिक दल ने दिया ? (Which political party gave the slogan of 'Remove Poverty' ?)",
+            "options": [
+                "भारतीय जनता पार्टी (Bhartiya Janata Party)",
+                "जनता दल (Janata Dal)",
+                "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
+                "भारतीय कम्यूनिस्ट पार्टी (Communist Party of India)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)"
+        },
+        {
+            "id": 12,
+            "question": "श्रीलंका में कौन-सी भाषा बोलने वाले अल्पसंख्यक हैं ? (Which language speaking people are in minority in Sri Lanka ?)",
+            "options": [
+                "सिंहली (Sinhalese)",
+                "तेलुगु (Telugu)",
+                "तमिल (Tamil)",
+                "हिन्दी (Hindi)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "तमिल (Tamil)"
+        },
+        {
+            "id": 13,
+            "question": "उस देश का नाम क्या है जहाँ आजादी के समय से ही लोकतंत्र स्थापित है ? (The country which has a democratic form of government since its independence is)",
+            "options": [
+                "बेल्जियम (Belgium)",
+                "भारत (India)",
+                "भूटान (Bhutan)",
+                "नेपाल (Nepal)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "भारत (India)"
+        },
+        {
+            "id": 14,
+            "question": "सरकार के तीनों अंगों के बीच सत्ता का विभाजन किसका रूप है ? (Which of the following is the division of power among the three organs of the government ?)",
+            "options": [
+                "सामुदायिक सरकार का (Community government)",
+                "संघीय सरकार का (Federal government)",
+                "गठबंधन सरकार का (Coalition government)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "संघीय सरकार का (Federal government)"
+        },
+        {
+            "id": 15,
+            "question": "किनकी अध्यक्षता में राज्य पुनर्गठन आयोग बना ? (Under whose chairmanship was the States Reorganization Commission formed ?)",
+            "options": [
+                "हृदयनाथ कुंजरू (Hridaynath Kunzru)",
+                "के. एम. पाणिक्कर (K. M. Panikkar)",
+                "सरदार वल्लभ भाई पटेल (Sardar Vallabhbhai Patel)",
+                "फ़ज़ल अली (Fazal Ali)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "फ़ज़ल अली (Fazal Ali)"
+        },
+        {
+            "id": 16,
+            "question": "2004 में बने संयुक्त प्रगतिवादी गठबन्धन (UPA) में कौन दल शामिल नहीं था ? (Which party was not included in the United Progressive Alliance (UPA) formed in 2004 ?)",
+            "options": [
+                "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
+                "जनता दल (सेक्यूलर) (Janata Dal (Secular))",
+                "भारतीय जनता पार्टी (Bhartiya Janata Party)",
+                "राष्ट्रवादी कांग्रेस पार्टी (Nationalist Congress Party)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "भारतीय जनता पार्टी (Bhartiya Janata Party)"
+        },
+        {
+            "id": 17,
+            "question": "जनता दल की स्थापना किसने की ? (Who founded the Janata Dal?)",
+            "options": [
+                "जयप्रकाश नारायण (Jayaprakash Narayan)",
+                "विश्वनाथ प्रताप सिंह (Vishwanath Pratap Singh)",
+                "मोरारजी देसाई (Morarji Desai)",
+                "लाल कृष्ण आडवानी (Lal Krishna Advani)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "विश्वनाथ प्रताप सिंह (Vishwanath Pratap Singh)"
+        },
+        {
+            "id": 18,
+            "question": "काली मिट्टी में मुख्यतः कौन-सी फसल ऊपजाई जाती है ? (Which crop is mainly grown in black soil ?)",
+            "options": [
+                "काजू (Cashew)",
+                "कपास (Cotton)",
+                "गेहूँ (Wheat)",
+                "चावल (Rice)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "कपास (Cotton)"
+        },
+        {
+            "id": 19,
+            "question": "नागार्जुन सागर परियोजना किस नदी पर बनी है ? (Nagarjuna Sagar project is built on which river ?)",
+            "options": [
+                "चंबल (Chambal)",
+                "कृष्णा (Krishna)",
+                "महानदी (Mahanadi)",
+                "सतलज (Satluj)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "कृष्णा (Krishna)"
+        },
+        {
+            "id": 20,
+            "question": "घाना पक्षी विहार कहाँ स्थित है ? (Where is the Ghana Bird Sanctuary located?)",
+            "options": [
+                "मिजोरम (Mizoram)",
+                "हिमाचल प्रदेश (Himachal Pradesh)",
+                "सिक्किम (Sikkim)",
+                "राजस्थान (Rajasthan)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 21,
+            "question": "अभ्रक उत्पादन में निम्न में से कौन अग्रणी राज्य है ? (Which of the following is the leading state in mica production ?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "पश्चिम बंगाल (West Bengal)",
+                "आंध्र प्रदेश (Andhra Pradesh)",
+                "ओडिशा (Odisha)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "आंध्र प्रदेश (Andhra Pradesh)"
+        },
+        {
+            "id": 22,
+            "question": "एशिया की प्रथम जल विद्युत परियोजना कहाँ बनी ? (Where was the first hydroelectric project of Asia built ?)",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "म्यांमार (Myanmar)",
+                "जापान (Japan)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "भारत (India)"
+        },
+        {
+            "id": 23,
+            "question": "प्राकृतिक रबर के उत्पादन में भारत का विश्व में कौन-सा स्थान है ? (What is the place of India in the world in the production of natural rubber?)",
+            "options": [
+                "पहला (First)",
+                "दूसरा (Second)",
+                "तीसरा (Third)",
+                "चौथा (Fourth)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "चौथा (Fourth)"
+        },
+        {
+            "id": 24,
+            "question": "रेशम उद्योग का प्रसिद्ध केन्द्र कौन है ? (Which is the famous centre of silk industry?)",
+            "options": [
+                "भागलपुर (Bhagalpur)",
+                "दरभंगा (Darbhanga)",
+                "पटना (Patna)",
+                "पूर्णिया (Purnea)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "भागलपुर (Bhagalpur)"
+        },
+        {
+            "id": 25,
+            "question": "निम्न में से कौन पुराना जलोढ़ मिट्टी है ? (Which of the following is an old alluvial soil ?)",
+            "options": [
+                "खादर (Khadar)",
+                "बांगर (Bangar)",
+                "लैटेराइट (Laterite)",
+                "रेगुर (Regur)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "बांगर (Bangar)"
+        },
+        {
+            "id": 26,
+            "question": "गाँधीजी ने कहाँ औद्योगिक श्रमिक आंदोलन चलाया ? (Where did Gandhiji start the industrial labour movement ?)",
+            "options": [
+                "चम्पारण (Champaran)",
+                "खेड़ा (Kheda)",
+                "अहमदाबाद (Ahmedabad)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अहमदाबाद (Ahmedabad)"
+        },
+        {
+            "id": 27,
+            "question": "प्रथम विश्व युद्ध की समाप्ति किस संधि से हुई ? (Which treaty ended the First World War ?)",
+            "options": [
+                "पेरिस शांति सम्मेलन (Paris Peace Conference)",
+                "ओटावा सम्मेलन (Ottawa Conference)",
+                "याल्टा सम्मेलन (Yalta Conference)",
+                "ब्रेटन वुड्स सम्मेलन (Bretton Woods Conference)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "पेरिस शांति सम्मेलन (Paris Peace Conference)"
+        },
+        {
+            "id": 28,
+            "question": "1917 की रूसी क्रांति के समय किस जार का शासन था ? (Which Czar was ruling during the Russian Revolution of 1917?)",
+            "options": [
+                "एलेक्जेंडर प्रथम (Alexander I)",
+                "निकोलस प्रथम (Nicholas I)",
+                "निकोलस द्वितीय (Nicolas II)",
+                "पीटर महान (Peter the Great)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "निकोलस द्वितीय (Nicolas II)"
+        },
+        {
+            "id": 29,
+            "question": "क्रीमिया युद्ध में किसकी पराजय हुई ? (Who was defeated in the Crimean war?)",
+            "options": [
+                "फ्रांस (France)",
+                "ब्रिटेन (Britain)",
+                "रूस (Russia)",
+                "सार्डिनिया (Sardinia)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "रूस (Russia)"
+        },
+        {
+            "id": 30,
+            "question": "गुटेनबर्ग प्रेस में छपी पहली किताब कौन थी ? (What was the first book printed in the Gutenberg press ?)",
+            "options": [
+                "पंचानवे थीसिस (Ninety-five theses)",
+                "अप्रैल थीसिस (April Theses)",
+                "बाइबिल (Bible)",
+                "दास कैपिटल (Das Kapital)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बाइबिल (Bible)"
+        },
+        {
+            "id": 31,
+            "question": "निम्न में से किस शहर को 'फिनिशिंग सेंटर' के रूप में जाना जाता था ? (Which of the following cities was known as the 'finishing centre'?)",
+            "options": [
+                "मुम्बई (Mumbai)",
+                "मद्रास (Madras)",
+                "लंदन (London)",
+                "बर्लिन (Berlin)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "लंदन (London)"
+        },
+        {
+            "id": 32,
+            "question": "कार्ल मार्क्स के अनुसार इतिहास का छठा चरण क्या है? (What is the sixth historical stage according to Karl Marx ?)",
+            "options": [
+                "सामन्ती युग (Feudal age)",
+                "पूँजीवादी युग (Capitalist age)",
+                "समाजवादी युग (Socialist age)",
+                "साम्यवादी युग (Communist age)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "साम्यवादी युग (Communist age)"
+        },
+        {
+            "id": 33,
+            "question": "भारतीय समाचार पत्र के जनक कौन हैं ? (Who is the father of Indian newspaper ?)",
+            "options": [
+                "गंगाधर भट्टाचार्य (Gangadhar Bhattacharya)",
+                "जेम्स ऑगस्टस हिक्की (James Augustus Hicky)",
+                "राममोहन राय (Rammohan Roy)",
+                "मार्गरेटा मोम्मा (Margareta Momma)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जेम्स ऑगस्टस हिक्की (James Augustus Hicky)"
+        },
+        {
+            "id": 34,
+            "question": "पटना नगर निगम की स्थापना कब हुई ? (When was Patna Municipal Corporation established ?)",
+            "options": [
+                "1952",
+                "1954",
+                "1955",
+                "1958"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "1952"
+        },
+        {
+            "id": 35,
+            "question": "भारत में पहला सीमेंट कारखाना कहाँ स्थापित हुआ ? (Where was the first cement factory established in India?)",
+            "options": [
+                "तमिलनाडु (Tamil Nadu)",
+                "महाराष्ट्र (Maharashtra)",
+                "ओडिशा (Odisha)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "तमिलनाडु (Tamil Nadu)"
+        },
+        {
+            "id": 36,
+            "question": "नेताजी सुभाष चन्द्र बोस अंतरराष्ट्रीय हवाई अड्डा किस नगर में है ? (In which city is the Netaji Subhash Chandra Bose International Airport located?)",
+            "options": [
+                "अहमदाबाद (Ahmedabad)",
+                "मुम्बई (Mumbai)",
+                "कोलकाता (Kolkata)",
+                "दिल्ली (Delhi)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कोलकाता (Kolkata)"
+        },
+        {
+            "id": 37,
+            "question": "धीमी ढाल प्रदर्शित करने वाले समोच्च रेखाएँ कैसे खींची जाती हैं ? (How are contour lines drawn to show a gentle slope ?)",
+            "options": [
+                "दूर-दूर (Far apart)",
+                "पास-पास (Close together)",
+                "तिरछी (Diagonally)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "दूर-दूर (Far apart)"
+        },
+        {
+            "id": 38,
+            "question": "'सुनामी' किस भाषा का शब्द है ? (The word \"Tsunami' belongs to which language?)",
+            "options": [
+                "ग्रीक (Greek)",
+                "लैटिन (Latin)",
+                "जापानी (Japanese)",
+                "हिन्दी (Hindi)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "जापानी (Japanese)"
+        },
+        {
+            "id": 39,
+            "question": "बागमती परियोजना का संबंध किस राज्य से है ? (Bagmati Project is related to which state?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "बिहार (Bihar)",
+                "छत्तीसगढ़ (Chhattisgarh)",
+                "झारखण्ड (Jharkhand)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 40,
+            "question": "जम्मू-कश्मीर किस भूकंपीय जोन में है ? (Jammu-Kashmir is in which seismic zone ?)",
+            "options": [
+                "जोन-2 (Zone-2)",
+                "जोन-3 (Zone-3)",
+                "जोन-4 (Zone-4)",
+                "जोन-5 (Zone-5)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "जोन-5 (Zone-5)"
+        },
+        {
+            "id": 41,
+            "question": "संसाधनों की खोज एवं प्रबंधन के लिए निम्न में से किसका प्रयोग किया जाता है ? (Which of the following is used to find and manage resources ?)",
+            "options": [
+                "संचार उपग्रह (Communication satellite)",
+                "सुदूर संवेदी उपग्रह (Remote sensing satellite)",
+                "हेम रेडियो (Ham Radio)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सुदूर संवेदी उपग्रह (Remote sensing satellite)"
+        },
+        {
+            "id": 42,
+            "question": "मोपला विद्रोह कहाँ हुआ ? (Where did the Mopla rebellion take place ?)",
+            "options": [
+                "पंजाब (Punjab)",
+                "केरल (Kerala)",
+                "बिहार (Bihar)",
+                "आंध्र प्रदेश (Andhra Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 43,
+            "question": "कांग्रेस के प्रथम अधिवेशन में कितने प्रतिनिधियों ने भाग लिया ? (How many delegates participated in the first session of Congress ?)",
+            "options": [
+                "50",
+                "65",
+                "72",
+                "125"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "72"
+        },
+        {
+            "id": 44,
+            "question": "तुर्की के खलीफा का पद किस वर्ष समाप्त किया गया ? (In which year was the post of Khalifa of Turkey abolished?)",
+            "options": [
+                "1920",
+                "1924",
+                "1930",
+                "1922"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1924"
+        },
+        {
+            "id": 45,
+            "question": "रेशम मार्ग कहाँ से प्रारंभ होता था ? (Where used to start the silk route?)",
+            "options": [
+                "भारत (India)",
+                "अफगानिस्तान (Afghanistan)",
+                "चीन (China)",
+                "रूस (Russia)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 46,
+            "question": "आर्थिक महामंदी का आरंभ किस देश में हुआ ? (From which country was the great depression started ?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "अमेरिका (America)",
+                "रूस (Russia)",
+                "जर्मनी (Germany)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "अमेरिका (America)"
+        },
+        {
+            "id": 47,
+            "question": "छापाखाना का आविष्कार किस देश में हुआ ? (In which country was the printing press invented ?)",
+            "options": [
+                "इंग्लैण्ड (England)",
+                "जर्मनी (Germany)",
+                "फ्रांस (France)",
+                "भारत (India)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 48,
+            "question": "अशोक के अभिलेख किस लिपि में लिखे गये हैं ? (In which script were the inscriptions of Ashoka written ?)",
+            "options": [
+                "फारसी (Persian)",
+                "प्राकृत (Prakrit)",
+                "रोमन (Roman)",
+                "ब्राह्मी (Brahmi)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "ब्राह्मी (Brahmi)"
+        },
+        {
+            "id": 49,
+            "question": "व्यावसायिक बैंकों का राष्ट्रीयकरण सर्वप्रथम कब हुआ ? (When were the commercial banks nationalized for the first time ?)",
+            "options": [
+                "1965",
+                "1969",
+                "1972",
+                "1975"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1969"
+        },
+        {
+            "id": 50,
+            "question": "निम्न में से कौन-सा क्षेत्र सेवा क्षेत्र के नाम से जाना जाता है ? (Which of the following sectors is known as service sector?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "तृतीयक क्षेत्र (Tertiary sector)"
+        }
+    ]
+}

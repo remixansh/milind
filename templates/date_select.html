@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+
+{% block title %}Select Date - {{ subject.name }}{% endblock %}
+
+{% block content %}
+<div class="min-h-screen bg-gradient-to-br from-emerald-50 via-white to-emerald-50/50 pb-6">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 backdrop-blur-lg bg-white/80 border-b border-gray-100">
+        <div class="max-w-lg mx-auto px-4 py-4">
+            <div class="flex items-center gap-3">
+                <a href="/" class="p-2 -ml-2 rounded-lg hover:bg-gray-100 transition-colors">
+                    <svg class="w-5 h-5 text-gray-600" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <polyline points="15 18 9 12 15 6" />
+                    </svg>
+                </a>
+                <div>
+                    <h1 class="text-lg font-bold text-gray-900">{{ subject.name }}</h1>
+                    <p class="text-xs text-gray-500">Select a date to practice</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-lg mx-auto px-4 py-6">
+
+        <!-- Info Card -->
+        <div
+            class="bg-gradient-to-r from-emerald-500 to-emerald-600 rounded-2xl p-5 mb-6 text-white shadow-xl shadow-emerald-500/20">
+            <div class="flex items-center gap-3 mb-2">
+                <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+                    <line x1="16" y1="2" x2="16" y2="6" />
+                    <line x1="8" y1="2" x2="8" y2="6" />
+                    <line x1="3" y1="10" x2="21" y2="10" />
+                </svg>
+                <h2 class="text-lg font-bold">Super 50 Daily Practice</h2>
+            </div>
+            <p class="text-emerald-100 text-sm">Jan 25 - Feb 15, 2026</p>
+        </div>
+
+        <!-- Date Grid -->
+        <section>
+            <h2 class="text-sm font-semibold uppercase tracking-wider text-gray-400 mb-4">Available Dates</h2>
+
+            <div class="grid grid-cols-3 gap-3">
+                {% for date in dates %}
+                {# Extract day and month from date code MMDD #}
+                {% set month = date.code[:2]|int %}
+                {% set day = date.code[2:]|int %}
+
+                {# Check if this date is in the future #}
+                {% if month > today_month %}
+                {% set is_future = true %}
+                {% elif month == today_month and day > today_day %}
+                {% set is_future = true %}
+                {% else %}
+                {% set is_future = false %}
+                {% endif %}
+
+                {# Check if this is today #}
+                {% set is_today = (month == today_month and day == today_day) %}
+
+                {% if is_future %}
+                <!-- Future date - disabled -->
+                <div class="bg-gray-100 rounded-xl p-4 text-center opacity-50 cursor-not-allowed">
+                    <p class="text-xs text-gray-400 mb-1">
+                        {% if month == 1 %}Jan{% else %}Feb{% endif %}
+                    </p>
+                    <p class="text-2xl font-bold text-gray-400">{{ '%02d'|format(day) }}</p>
+                    <p class="text-xs text-gray-400 mt-1">Upcoming</p>
+                </div>
+                {% else %}
+                <!-- Past/Today - selectable -->
+                <a href="/daily/{{ subject.id }}/{{ date.code }}"
+                    class="bg-white rounded-xl p-4 text-center shadow-sm hover:shadow-lg transition-all duration-300 border-2 border-transparent hover:border-emerald-400 hover:-translate-y-0.5 active:scale-95 {% if is_today %}ring-2 ring-emerald-500 ring-offset-2{% endif %}">
+                    <p class="text-xs text-gray-500 mb-1">
+                        {% if month == 1 %}Jan{% else %}Feb{% endif %}
+                    </p>
+                    <p class="text-2xl font-bold text-gray-800">{{ '%02d'|format(day) }}</p>
+                    {% if is_today %}
+                    <p class="text-xs text-emerald-600 font-semibold mt-1">Today</p>
+                    {% else %}
+                    <p class="text-xs text-gray-400 mt-1">{{ date.questionCount }} Qs</p>
+                    {% endif %}
+                </a>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- Legend -->
+        <div class="mt-6 flex items-center justify-center gap-6 text-xs text-gray-500">
+            <div class="flex items-center gap-2">
+                <div class="w-4 h-4 bg-white border-2 border-emerald-400 rounded"></div>
+                <span>Available</span>
+            </div>
+            <div class="flex items-center gap-2">
+                <div class="w-4 h-4 bg-gray-200 rounded opacity-50"></div>
+                <span>Upcoming</span>
+            </div>
+        </div>
+
+    </main>
+</div>
+{% endblock %}

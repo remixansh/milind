@@ -1,0 +1,658 @@
+{
+    "date": "0127",
+    "dateDisplay": "27 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "सुनामी का प्रमुख कारण क्या है? (What is the main cause of Tsunami?)",
+            "options": [
+                "समुद्र में भूकंप (Earthquake in the sea)",
+                "मैदानी क्षेत्र में भूकंप (Earthquake in the plains)",
+                "पर्वत पर भूकंप (Earthquake on the mountain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "समुद्र में भूकंप (Earthquake in the sea)"
+        },
+        {
+            "id": 2,
+            "question": "जवाहर रोजगार योजना लागू हुई (Jawahar Rozgar Yojana was implemented in)",
+            "options": [
+                "1988",
+                "1989",
+                "1990",
+                "1991"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "1989"
+        },
+        {
+            "id": 3,
+            "question": "भारत में कितने राष्ट्रीयकृत बैंक हैं? (How many nationalized banks are there in India?)",
+            "options": [
+                "14",
+                "19",
+                "20",
+                "27"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "19"
+        },
+        {
+            "id": 4,
+            "question": "भारत में उपभोक्ता संरक्षण अधिनियम की घोषणा कब हुई ? (When was the Consumer Protection Act announced in India?)",
+            "options": [
+                "1986",
+                "1980",
+                "1987",
+                "1988"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "1986"
+        },
+        {
+            "id": 5,
+            "question": "ब्रेस्ट-लिटोवस्क की संधि किन देशों के बीच हुई थी ? (Between which countries was the treaty of Brest-Litovsk signed ?)",
+            "options": [
+                "रूस और इटली (Russia and Italy)",
+                "रूस और फ्रांस (Russia and France)",
+                "रूस और इंग्लैण्ड (Russia and England)",
+                "रूस और जर्मनी (Russia and Germany)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "रूस और जर्मनी (Russia and Germany)"
+        },
+        {
+            "id": 6,
+            "question": "बिहार की अधिकतर जनसंख्या जीविका के लिए किस क्षेत्र पर निर्भर है ? (Most of the population of Bihar is dependent on which sector for livelihood?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "उद्योग (Industry)",
+                "सेवा (Service)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "कृषि (Agriculture)"
+        },
+        {
+            "id": 7,
+            "question": "बैंक का एजेन्सी कार्य है (The agency function of banks is)",
+            "options": [
+                "ऋण देना (to give loan)",
+                "जमा स्वीकार करना (to accept deposits)",
+                "बीमे की किस्त का भुगतान (insurance premium payment)",
+                "लॉकर सुविधा देना (to give locker facility)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "बीमे की किस्त का भुगतान (insurance premium payment)"
+        },
+        {
+            "id": 8,
+            "question": "भारत में नई आर्थिक नीति कब लागू की गई ? (When was the New Economic Policy implemented in India?)",
+            "options": [
+                "1950",
+                "1980",
+                "1991",
+                "1995"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "1991"
+        },
+        {
+            "id": 9,
+            "question": "किसने कहा, \"मुद्रा वह है जो मुद्रा का कार्य करती है\" ? (Who said, \"Money is what money does\"?)",
+            "options": [
+                "नैप (Knapp)",
+                "कोलबर्न (Coulbourn)",
+                "हार्टले विदर्स (Hartley Withers)",
+                "सेलिगमैन (Saligman)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "हार्टले विदर्स (Hartley Withers)"
+        },
+        {
+            "id": 10,
+            "question": "विश्व का सर्वाधिक रोजगार प्रदान करने वाला कार्यक्रम है (The maximum employment providing programme of the world is)",
+            "options": [
+                "जवाहर रोजगार योजना (Jawahar Rojgar Yojana)",
+                "मनरेगा (MNREGA)",
+                "काम के बदले अनाज (Food for Work)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "मनरेगा (MNREGA)"
+        },
+        {
+            "id": 11,
+            "question": "सरकार द्वारा लगाए अनावश्यक नियंत्रणों तथा प्रतिबंधों को हटाना कहलाता है (Removal of unnecessary controls and restrictions imposed by the government is called)",
+            "options": [
+                "निजीकरण (Privatization)",
+                "वैश्वीकरण (Globalization)",
+                "उदारीकरण (Liberalization)",
+                "राष्ट्रीयकरण (Nationalization)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "उदारीकरण (Liberalization)"
+        },
+        {
+            "id": 12,
+            "question": "रूस में ड्यूमा का गठन कब हुआ ? (When was Duma formed in Russia?)",
+            "options": [
+                "1830",
+                "1905",
+                "1910",
+                "1920"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1905"
+        },
+        {
+            "id": 13,
+            "question": "वियतनाम की राजधानी कहाँ है ? (Where is the capital of Vietnam?)",
+            "options": [
+                "हनोई (Hanoi)",
+                "विनतिएन (Vientiane)",
+                "बैंकॉक (Bangkok)",
+                "प्योंगयांग (Pyongyang)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "हनोई (Hanoi)"
+        },
+        {
+            "id": 14,
+            "question": "यूरोपीयन सभ्यता का पालना किसे कहा जाता है ? (Which is called the Cradle of European Civilization?)",
+            "options": [
+                "युनान (Greece)",
+                "पुर्तगाल (Portugal)",
+                "इंग्लैण्ड (England)",
+                "पोलैंड (Poland)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "युनान (Greece)"
+        },
+        {
+            "id": 15,
+            "question": "रूस की संसद को कहते हैं (The Parliament of Russia is called)",
+            "options": [
+                "डायट (Diet)",
+                "संसद (Parliament)",
+                "ड्यूमा (Duma)",
+                "सीनेट (Senate)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ड्यूमा (Duma)"
+        },
+        {
+            "id": 16,
+            "question": "ताँकिन फ्री स्कूल कहाँ स्थापित किया गया ? (Where was Tonkin free school established?)",
+            "options": [
+                "कम्बोडिया (Cambodia)",
+                "फ्रांस (France)",
+                "लाओस (Laos)",
+                "वियतनाम (Vietnam)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "वियतनाम (Vietnam)"
+        },
+        {
+            "id": 17,
+            "question": "मुद्रण का प्रारंभ किस देश में हुआ ? (In which country did printing start?)",
+            "options": [
+                "भारत (India)",
+                "इंग्लैण्ड (England)",
+                "चीन (China)",
+                "जर्मनी (Germany)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 18,
+            "question": "'इंडिपेंडेंस' का प्रकाशन किसने किया ? (Who published 'Independence'?)",
+            "options": [
+                "ऐनी बेसेंट (Annie Besant)",
+                "मोतीलाल नेहरू (Motilal Nehru)",
+                "गाँधीजी (Gandhiji)",
+                "मार्टिन लूथर (Martin Luther)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "मोतीलाल नेहरू (Motilal Nehru)"
+        },
+        {
+            "id": 19,
+            "question": "दक्षिण वियतनाम में किसकी प्रथम सरकार थी ? (Who had the first government in South Vietnam?)",
+            "options": [
+                "हो ची मिन्ह (Ho Chi Minh)",
+                "बाओ दाई (Bao Dai)",
+                "न्यो दिन्ह दियम (Ngo Dinh Diem)",
+                "सिहानुक (Sihanouk)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "न्यो दिन्ह दियम (Ngo Dinh Diem)"
+        },
+        {
+            "id": 20,
+            "question": "प्रथम जेनेवा कन्वेंशन कब हुआ था ? (When was the first Geneva Convention held?)",
+            "options": [
+                "1854",
+                "1864",
+                "1874",
+                "1884"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1864"
+        },
+        {
+            "id": 21,
+            "question": "लुई फिलिप किस देश का शासक था ? (Louis Philippe was the ruler of which country?)",
+            "options": [
+                "जर्मनी (Germany)",
+                "फ्रांस (France)",
+                "ऑस्ट्रिया (Austria)",
+                "इटली (Italy)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 22,
+            "question": "ब्रिटिश सरकार ने गाँधीजी को क्या उपाधि दी ? (What title did the British government give to Gandhiji?)",
+            "options": [
+                "नाइट (Knight)",
+                "कैसर-ए-हिंद (Kaiser-e-Hind)",
+                "महात्मा (Mahatma)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "कैसर-ए-हिंद (Kaiser-e-Hind)"
+        },
+        {
+            "id": 23,
+            "question": "निम्न में से किस बैंक की स्थापना पहले हुई ? (Which of the following banks was established first?)",
+            "options": [
+                "पंजाब नेशनल बैंक (Punjab National Bank)",
+                "सेन्ट्रल बैंक ऑफ इण्डिया (Central Bank of India)",
+                "बैंक ऑफ इण्डिया (Bank of India)",
+                "इंडियन बैंक (Indian Bank)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सेन्ट्रल बैंक ऑफ इण्डिया (Central Bank of India)"
+        },
+        {
+            "id": 24,
+            "question": "ऑस प्रकार है (Aus is a type of)",
+            "options": [
+                "गेहूँ का (Wheat)",
+                "धान का (Rice)",
+                "मक्का का (Maize)",
+                "बाजरा का (Millet)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "धान का (Rice)"
+        },
+        {
+            "id": 25,
+            "question": "भारत में रेडियो का प्रसारण किसके द्वारा शुरू किया गया ? (Who started Radio broadcasting in India?)",
+            "options": [
+                "रेडियो क्लब ऑफ दिल्ली (Radio Club of Delhi)",
+                "रेडियो क्लब ऑफ कलकत्ता (Radio Club of Calcutta)",
+                "आकाशवाणी (Akashvani)",
+                "रेडियो क्लब ऑफ बॉम्बे (Radio Club of Bombay)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "रेडियो क्लब ऑफ बॉम्बे (Radio Club of Bombay)"
+        },
+        {
+            "id": 26,
+            "question": "काली मिट्टी कहाँ पाई जाती है ? (Where is black soil found?)",
+            "options": [
+                "झारखण्ड (Jharkhand)",
+                "महाराष्ट्र (Maharashtra)",
+                "पश्चिम बंगाल (West Bengal)",
+                "अरुणाचल प्रदेश (Arunachal Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 27,
+            "question": "अधिकांश लौह इस्पात केन्द्र भारत के किस क्षेत्र में स्थापित हुए ? (Most of the iron and steel plants were established in which region of India?)",
+            "options": [
+                "दक्कन का पठार (Deccan Plateau)",
+                "पश्चिमी तट (Western Coast)",
+                "हिमालय क्षेत्र (Himalayan Region)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "दक्कन का पठार (Deccan Plateau)"
+        },
+        {
+            "id": 28,
+            "question": "किस भाग में मैंग्रोव वन सबसे अधिक पाया जाता है ? (In which part is mangrove forest mostly found?)",
+            "options": [
+                "पूर्वोत्तर राज्य (North-eastern states)",
+                "सुंदरवन (Sundarban)",
+                "पश्चिमी तट (Western coast)",
+                "अंडमान-निकोबार द्वीप समूह (Andaman-Nicobar islands)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सुंदरवन (Sundarban)"
+        },
+        {
+            "id": 29,
+            "question": "निम्न में से कौन भारत में सर्वाधिक चाय निर्यातक पत्तन है ? (Which of the following is the largest tea exporting port in India?)",
+            "options": [
+                "कोच्चि (Kochi)",
+                "कोलकाता (Kolkata)",
+                "पारादीप (Paradip)",
+                "मुम्बई (Mumbai)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "कोलकाता (Kolkata)"
+        },
+        {
+            "id": 30,
+            "question": "बिहार का कौन-सा भाग सर्वाधिक बाढ़ प्रवण है ? (Which part of Bihar is the most prone to flood ?)",
+            "options": [
+                "पूर्वी (Eastern)",
+                "उत्तरी (Northern)",
+                "दक्षिणी (Southern)",
+                "पश्चिमी (Western)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "उत्तरी (Northern)"
+        },
+        {
+            "id": 31,
+            "question": "गुजरात में भयंकर भूकंप कब आया ? (When did the severe earthquake occur in Gujarat ?)",
+            "options": [
+                "1998",
+                "2001",
+                "2002",
+                "2005"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "2001"
+        },
+        {
+            "id": 32,
+            "question": "भूमिगत जल स्तर की गिरावट रोकने के लिए कौन योजना चलाई गई है ? (Which scheme has been launched to prevent the decline of underground water level ?)",
+            "options": [
+                "वर्षा जल संग्रहण (Rainwater harvesting)",
+                "वाटर शेड मैनेजमेंट (Watershed management)",
+                "ड्रिप सिंचाई (Drip irrigation)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 33,
+            "question": "निम्न में से कौन दक्षिण बिहार की नदी है ? (Which of the following is a river of south Bihar?)",
+            "options": [
+                "गण्डक (Gandak)",
+                "सोन (Son)",
+                "कोसी (Kosi)",
+                "कमला (Kamala)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सोन (Son)"
+        },
+        {
+            "id": 34,
+            "question": "रिक्टर पैमाने की प्रत्येक इकाई के बाद भूकंप की गहनता में कितनी वृद्धि होती है ? (How much does the intensity of earthquake increase after each unit of the Richter scale?)",
+            "options": [
+                "पाँच गुना (Five times)",
+                "सात गुना (Seven times)",
+                "दस गुना (Ten times)",
+                "पंद्रह गुना (Fifteen times)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "दस गुना (Ten times)"
+        },
+        {
+            "id": 35,
+            "question": "भारत का वाइसवाँ राज्य कौन है ? (Which is the 22nd State of India?)",
+            "options": [
+                "गोवा (Goa)",
+                "मिजोरम (Mizoram)",
+                "सिक्किम (Sikkim)",
+                "मणिपुर (Manipur)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सिक्किम (Sikkim)"
+        },
+        {
+            "id": 36,
+            "question": "1974 के जन संघर्ष को किस नाम से जाना जाता है ? (By what name is the mass struggle of 1974 known?)",
+            "options": [
+                "हरित क्रांति (Green Revolution)",
+                "संपूर्ण क्रांति (Total Revolution)",
+                "इंद्रधनुषीय क्रांति (Rainbow Revolution)",
+                "श्वेत क्रांति (White Revolution)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "संपूर्ण क्रांति (Total Revolution)"
+        },
+        {
+            "id": 37,
+            "question": "मुद्रा, बैंकिंग, संचार जैसे मामले किस सूची में रखे गए हैं ? (Money, banking, communications like matters are kept in which list?)",
+            "options": [
+                "संघ सूची (Union List)",
+                "राज्य सूची (State List)",
+                "समवर्ती सूची (Concurrent List)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "संघ सूची (Union List)"
+        },
+        {
+            "id": 38,
+            "question": "यूनान को स्वतंत्रता कब मिली ? (When did Greece get independence?)",
+            "options": [
+                "1821",
+                "1832",
+                "1841",
+                "1851"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1832"
+        },
+        {
+            "id": 39,
+            "question": "निम्न में से क्या आर्थिक गतिविधि नहीं है ? (Which of the following is not an economic activity ?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "संचार (Communication)",
+                "गरीबी (Poverty)",
+                "परिवहन (Transportation)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "गरीबी (Poverty)"
+        },
+        {
+            "id": 40,
+            "question": "मुद्रा का प्राथमिक कार्य क्या है ? (What is the primary function of money?)",
+            "options": [
+                "मूल्य का संचय (Store of value)",
+                "मूल्य का हस्तांतरण (Transfer of value)",
+                "विनिमय का माध्यम (Medium of exchange)",
+                "(A) और (C) दोनों (Both (A) and (C))"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "(A) और (C) दोनों (Both (A) and (C))"
+        },
+        {
+            "id": 41,
+            "question": "निम्न में कौन दीर्घकालीन ऋण प्रदान करता है ? (Which of the following provides long term loans ?)",
+            "options": [
+                "प्राथमिक कृषि साख समिति (Primary Agricultural Credit Society)",
+                "भूमि विकास बैंक (Land Development Bank)",
+                "वाणिज्यिक बैंक (Commercial Bank)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "भूमि विकास बैंक (Land Development Bank)"
+        },
+        {
+            "id": 42,
+            "question": "निम्न में से क्या गैर-आर्थिक आधारभूत संरचना का अंग है ? (Which of the following is a part of non-economic infrastructure ?)",
+            "options": [
+                "वित्त (Finance)",
+                "शिक्षा (Education)",
+                "ऊर्जा (Energy)",
+                "संचार (Communication)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "शिक्षा (Education)"
+        },
+        {
+            "id": 43,
+            "question": "सरकार द्वारा आर्थिक क्रियाओं पर अनावश्यक नियंत्रणों एवं प्रतिबंधों को हटाना क्या कहलाता है ? (What is the removal of unnecessary controls and restrictions on economic activities by the government called ?)",
+            "options": [
+                "निजीकरण (Privatization)",
+                "उदारीकरण (Liberalization)",
+                "विनिवेश (Disinvestment)",
+                "वैश्वीकरण (Globalization)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "उदारीकरण (Liberalization)"
+        },
+        {
+            "id": 44,
+            "question": "वस्तु या सेवा का मूल्य या क्षतिपूर्ति राशि 1 करोड़ से अधिक होने पर उपभोक्ता कहाँ शिकायत कर सकता है ? (Where can a consumer complain if the value of the goods or service or the compensation amount exceeds Rs. 1 crore ?)",
+            "options": [
+                "जिला फोरम (District Forum)",
+                "राज्य आयोग (State Commission)",
+                "राष्ट्रीय आयोग (National Commission)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "राष्ट्रीय आयोग (National Commission)"
+        },
+        {
+            "id": 45,
+            "question": "सकल घरेलू उत्पाद में किस क्षेत्र का योगदान सर्वाधिक है ? (Which sector contributes the most to Gross Domestic Product?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "तृतीयक क्षेत्र (Tertiary sector)"
+        },
+        {
+            "id": 46,
+            "question": "निम्न में किसका त्रिस्तरीय ढाँचा है ? (Which of the following has a three-tier structure ?)",
+            "options": [
+                "सहकारी साख समिति (Co-operative credit society)",
+                "उपभोक्ता संरक्षण अधिनियम (Consumer Protection Act)",
+                "पंचायती राज (Panchayati Raj)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पंचायती राज (Panchayati Raj)"
+        },
+        {
+            "id": 47,
+            "question": "निम्नलिखित में किसमें मूल्यह्रास का मान शामिल नहीं है ? (Which of the following does not include the value of depreciation?)",
+            "options": [
+                "GDP",
+                "GNP",
+                "NNP",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "NNP"
+        },
+        {
+            "id": 48,
+            "question": "पूँजी का पारिश्रमिक क्या है ? (What is the remuneration of capital ?)",
+            "options": [
+                "लगान (Rent)",
+                "मजदूरी (Wages)",
+                "ब्याज (Interest)",
+                "मिश्रित आय (Mixed income)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "ब्याज (Interest)"
+        },
+        {
+            "id": 49,
+            "question": "निम्नलिखित में से किस संपत्ति की तरलता सबसे कम है ? (Which of the following assets has the least liquidity ?)",
+            "options": [
+                "मुद्रा (Currency)",
+                "बॉण्ड (Bond)",
+                "अचल संपत्ति (Real estate)",
+                "बैंक जमा (Bank deposit)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अचल संपत्ति (Real estate)"
+        },
+        {
+            "id": 50,
+            "question": "जवाहर रोजगार योजना कब शुरू हुई ? (When did Jawahar Rojar Yojana start ?)",
+            "options": [
+                "1988",
+                "1989",
+                "1990",
+                "1991"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1989"
+        }
+    ]
+}

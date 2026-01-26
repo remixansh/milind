@@ -1,0 +1,658 @@
+{
+    "date": "0201",
+    "dateDisplay": "01 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "कलकत्ता कॉरपोरेशन एक्ट किसके शासनकाल में पारित हुआ ? (During whose reign was the Calcutta Corporation Act passed ?)",
+            "options": [
+                "लॉर्ड डलहौजी (Lord Dalhousie)",
+                "लॉर्ड कर्जन (Lord Curzon)",
+                "लॉर्ड रिपन (Lord Ripon)",
+                "लॉर्ड लिटन (Lord Lytton)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लॉर्ड कर्जन (Lord Curzon)"
+        },
+        {
+            "id": 2,
+            "question": "पेरेस्त्रोइका तथा ग्लासनोस्ट की अवधारणा किसने दी ? (Who gave the concept of Perestroika and Glasnost?)",
+            "options": [
+                "मिखाइल गोर्वाचोव (Mikhail Gorbachev)",
+                "पुतिन (Putin)",
+                "स्टालिन (Stalin)",
+                "लेनिन (Lenin)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "मिखाइल गोर्वाचोव (Mikhail Gorbachev)"
+        },
+        {
+            "id": 3,
+            "question": "ग्रेगोरियन कैलेंडर जूलियन कैलेंडर से कितने दिन आगे चलता है ? (By how many days is the Gregorian Calendar ahead of the Julian Calendar ?)",
+            "options": [
+                "10 दिन (10 days)",
+                "12 दिन (12 days)",
+                "13 दिन (13 days)",
+                "15 दिन (15 days)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "13 दिन (13 days)"
+        },
+        {
+            "id": 4,
+            "question": "1853-54 के क्रिमिया युद्ध में कावूर ने किस देश की ओर से युद्ध में सम्मिलित होने की घोषणा की ? (In the Crimean War of 1853-54, on behalf of which country did Cavour announce his participation in the war?)",
+            "options": [
+                "फ्रांस (France)",
+                "ऑस्ट्रिया (Austria)",
+                "जर्मनी (Germany)",
+                "पोलैण्ड (Poland)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 5,
+            "question": "विश्व का पहला समाजवादी शासन स्थापित करने वाला देश कौन है ? (Which country was the first to establish socialist rule in the world ?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "रूस (Russia)",
+                "चीन (China)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "रूस (Russia)"
+        },
+        {
+            "id": 6,
+            "question": "यूनानी स्वतंत्रता संग्राम के दौरान तुर्की के समर्थन में कौन था ? (Who supported Turkey during the Greek War of Independence ?)",
+            "options": [
+                "इंग्लैण्ड (England)",
+                "फ्रांस (France)",
+                "मिस्र (Egypt)",
+                "रूस (Russia)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "मिस्र (Egypt)"
+        },
+        {
+            "id": 7,
+            "question": "अन्तरराष्ट्रीय महिला दिवस की घोषणा किस वर्ष में की गई थी ? (In which year was the International Women's Day announced?)",
+            "options": [
+                "1975",
+                "1978",
+                "1980",
+                "1985"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 8,
+            "question": "भारत विश्व व्यापार संगठन का सदस्य कब बना ? (When did India become a member of the World Trade Organization?)",
+            "options": [
+                "1995",
+                "1996",
+                "1998",
+                "1999"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1995"
+        },
+        {
+            "id": 9,
+            "question": "दांडी यात्रा से किस आंदोलन की शुरुआत हुई ? (Which movement started with the Dandi March?)",
+            "options": [
+                "असहयोग आंदोलन (Non-cooperation Movement)",
+                "भारत छोड़ो आंदोलन (Quit India Movement)",
+                "सविनय अवज्ञा आंदोलन (Civil Disobedience Movement)",
+                "चम्पारण सत्याग्रह (Champaran Satyagraha)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सविनय अवज्ञा आंदोलन (Civil Disobedience Movement)"
+        },
+        {
+            "id": 10,
+            "question": "अखिल भारतीय ट्रेड यूनियन कांग्रेस के प्रथम अध्यक्ष कौन थे ? (Who was the first President of the All India Trade Union Congress?)",
+            "options": [
+                "बाल गंगाधर तिलक (Bal Gangadhar Tilak)",
+                "लाला लाजपत राय (Lala Lajpat Rai)",
+                "गोपाल कृष्ण गोखले (Gopal Krishna Gokhale)",
+                "सुभाष चन्द्र बोस (Subhash Chandra Bose)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लाला लाजपत राय (Lala Lajpat Rai)"
+        },
+        {
+            "id": 11,
+            "question": "ऑल इण्डिया मुस्लिम लीग की स्थापना कब हुई ? (When was the All India Muslim League established?)",
+            "options": [
+                "1902",
+                "1906",
+                "1911",
+                "1912"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1906"
+        },
+        {
+            "id": 12,
+            "question": "सिमलीपाल राष्ट्रीय उद्यान कहाँ स्थित है ? (Where is Simlipal National Park located?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "ओडिशा (Odisha)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 13,
+            "question": "कल्पक्कम परमाणु विद्युत संयंत्र कहाँ स्थित है ? (Where is Kalpakkam Nuclear Power Plant situated?)",
+            "options": [
+                "तमिलनाडु (Tamil Nadu)",
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "पश्चिम बंगाल (West Bengal)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "तमिलनाडु (Tamil Nadu)"
+        },
+        {
+            "id": 14,
+            "question": "निम्न में से कौन पत्तन पूर्वी तट पर स्थित नहीं है ? (Which of the following ports is not located on the eastern coast?)",
+            "options": [
+                "तूतीकोरिन (Tuticorin)",
+                "मार्मागाओ (Marmagao)",
+                "पारादीप (Paradip)",
+                "विशाखापटनम (Vishakhapatnam)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "मार्मागाओ (Marmagao)"
+        },
+        {
+            "id": 15,
+            "question": "निम्न में से कौन मृदा निर्माण का कारक है ? (Which of the following is a factor of soil formation?)",
+            "options": [
+                "जलवायु (Climate)",
+                "वनस्पति (Vegetation)",
+                "चट्टान (Rocks)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 16,
+            "question": "निम्न में से कौन किसी रेल मंडल का मुख्यालय नहीं है ? (Which of the following is not the headquarters of any railway zone?)",
+            "options": [
+                "बिलासपुर (Bilaspur)",
+                "हाजीपुर (Hajipur)",
+                "इंदौर (Indore)",
+                "कोलकाता (Kolkata)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "इंदौर (Indore)"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में से कौन विशेष आर्थिक क्षेत्र पश्चिम बंगाल में है ? (Which of the following special economic zones is in West Bengal?)",
+            "options": [
+                "सूरत (Surat)",
+                "सांताक्रूज (Santa Cruz)",
+                "कांडला (Kandla)",
+                "फाल्टा (Falta)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "फाल्टा (Falta)"
+        },
+        {
+            "id": 18,
+            "question": "दक्षिण भारत की सबसे बड़ी नदी घाटी परियोजना कौन-सी है ? (Which is the biggest river valley project of South India?)",
+            "options": [
+                "तुंगभद्रा (Tungabhadra)",
+                "शारावती (Sharavati)",
+                "चंबल (Chambal)",
+                "हीराकुंड (Hirakud)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "तुंगभद्रा (Tungabhadra)"
+        },
+        {
+            "id": 19,
+            "question": "पर्यावरण संरक्षण हेतु पहला विश्व शिखर सम्मेलन कब आयोजित हुआ ? (When was the first World Summit held for environmental protection?)",
+            "options": [
+                "1972",
+                "1985",
+                "1992",
+                "1995"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1972"
+        },
+        {
+            "id": 20,
+            "question": "बिहार का कौन जिला जूट का सबसे बड़ा उत्पादक है ? (Which district of Bihar is the largest producer of jute?)",
+            "options": [
+                "गया (Gaya)",
+                "भोजपुर (Bhojpur)",
+                "पूर्णिया (Purnea)",
+                "कैमूर (Kaimur)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पूर्णिया (Purnea)"
+        },
+        {
+            "id": 21,
+            "question": "निम्न में से किसे 'बिहार का शोक' कहा जाता है ? (Which of the following is called 'Sorrow of Bihar'?)",
+            "options": [
+                "सोन (Son)",
+                "गंडक (Gandak)",
+                "कोसी (Kosi)",
+                "पुनपुन (Punpun)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "कोसी (Kosi)"
+        },
+        {
+            "id": 22,
+            "question": "बॉक्साइट के उत्पादन में कौन राज्य अग्रणी है ? (Which state is leading in the production of bauxite?)",
+            "options": [
+                "गुजरात (Gujarat)",
+                "ओडिशा (Odisha)",
+                "झारखंड (Jharkhand)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 23,
+            "question": "बोकारो स्टील प्लांट किस पंचवर्षीय योजना में बना ? (Bokaro Steel Plant was built in which Five-Year Plan?)",
+            "options": [
+                "दूसरी (Second)",
+                "तीसरी (Third)",
+                "चौथी (Fourth)",
+                "पाँचवीं (Fifth)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "तीसरी (Third)"
+        },
+        {
+            "id": 24,
+            "question": "निम्न में से किसे नवीन जलोढ़ मिट्टी कहा जाता है ? (Which of the following is called new alluvial soil?)",
+            "options": [
+                "खादर (Khadar)",
+                "बांगर (Bangar)",
+                "रेगूर (Regur)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "खादर (Khadar)"
+        },
+        {
+            "id": 25,
+            "question": "निम्न में से कौन सूती वस्त्र उत्पादन में अग्रणी है ? (Which of the following is leading in the production of cotton textile?)",
+            "options": [
+                "कोलकाता (Kolkata)",
+                "नागपुर (Nagpur)",
+                "मुम्बई (Mumbai)",
+                "सूरत (Surat)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "मुम्बई (Mumbai)"
+        },
+        {
+            "id": 26,
+            "question": "भारतीय कम्युनिस्ट पार्टी की स्थापना कहाँ हुई ? (Where was the Communist Party of India established?)",
+            "options": [
+                "लखनऊ (Lucknow)",
+                "बर्लिन (Berlin)",
+                "दिल्ली (Delhi)",
+                "ताशकंद (Tashkent)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "ताशकंद (Tashkent)"
+        },
+        {
+            "id": 27,
+            "question": "इलवर्ट बिल किसके शासनकाल में पारित हुआ ? (During whose reign was the Ilbert Bill passed?)",
+            "options": [
+                "लॉर्ड लिटन (Lord Lytton)",
+                "लॉर्ड रिपन (Lord Ripon)",
+                "लॉर्ड डलहौजी (Lord Dalhousie)",
+                "लॉर्ड कर्जन (Lord Curzon)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लॉर्ड रिपन (Lord Ripon)"
+        },
+        {
+            "id": 28,
+            "question": "असहयोग आंदोलन का प्रस्ताव किस कांग्रेस अधिवेशन में स्वीकार किया गया ? (In which Congress session was the proposal of the Non-cooperation Movement adopted?)",
+            "options": [
+                "नागपुर (Nagpur)",
+                "लाहौर (Lahore)",
+                "लखनऊ (Lucknow)",
+                "कराची (Karachi)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "नागपुर (Nagpur)"
+        },
+        {
+            "id": 29,
+            "question": "किस कानून के बिरोध में जालियाँवाला बाग में सभा का आयोजन हुआ ? (Against which law was a meeting organized in Jallianwala Bagh?)",
+            "options": [
+                "इलबर्ट बिल (Ilbert Bill)",
+                "रॉलेट एक्ट (Rowlatt Act)",
+                "साइमन कमीशन (Simon Commission)",
+                "वर्नाक्यूलर प्रेस एक्ट (Vernacular Press Act)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "रॉलेट एक्ट (Rowlatt Act)"
+        },
+        {
+            "id": 30,
+            "question": "इटली का एकीकरण कब पूर्ण हुआ ? (When was the unification of Italy completed?)",
+            "options": [
+                "1861",
+                "1871",
+                "1720",
+                "1817"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1871"
+        },
+        {
+            "id": 31,
+            "question": "निम्न में से किसका योगदान सकल घरेलू उत्पाद में सर्वाधिक है ? (Which of the following has the largest share in Gross Domestic Product?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "तृतीयक क्षेत्र (Tertiary sector)"
+        },
+        {
+            "id": 32,
+            "question": "निम्न में से कौन पूँजीवादी अर्थव्यवस्था का गुण नहीं है ? (Which of the following is not a characteristic of capitalist economy?)",
+            "options": [
+                "साधनों का निजी स्वामित्व (Private ownership of resources)",
+                "निजी लाभ (Private profit)",
+                "कीमत यंत्र (Price mechanism)",
+                "सामाजिक कल्याण (Social welfare)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "सामाजिक कल्याण (Social welfare)"
+        },
+        {
+            "id": 33,
+            "question": "भारत के किस राज्य में प्रति व्यक्ति आय सर्वाधिक है ? (Which state of India has the highest per capita income?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "पंजाब (Punjab)",
+                "हरियाणा (Haryana)",
+                "गोवा (Goa)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "गोवा (Goa)"
+        },
+        {
+            "id": 34,
+            "question": "राष्ट्रीय मानव विकास में किस राज्य का स्थान सर्वोच्च है ? (Which state has the highest rank in the National Human Development?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "केरल (Kerala)",
+                "दिल्ली (Delhi)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 35,
+            "question": "सिंगापुर की मुद्रा क्या है ? (What is the currency of Singapore?)",
+            "options": [
+                "क्रोना (Krona)",
+                "डॉलर (Dollar)",
+                "रुबल (Ruble)",
+                "रियाल (Rial)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "डॉलर (Dollar)"
+        },
+        {
+            "id": 36,
+            "question": "किस वित्तीय संस्थान द्वारा साख सृजन किया जाता है ? (Credit creation is done by which financial institution?)",
+            "options": [
+                "नाबार्ड (NABARD)",
+                "भारतीय रिजर्व बैंक (Reserve Bank of India)",
+                "व्यापारिक बैंक (Commercial bank)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "व्यापारिक बैंक (Commercial bank)"
+        },
+        {
+            "id": 37,
+            "question": "भारत में सर्वाधिक रोजगार के अवसर उपलब्ध कराने वाला क्षेत्र कौन है ? (Which sector provides maximum employment opportunity in India?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "प्राथमिक क्षेत्र (Primary sector)"
+        },
+        {
+            "id": 38,
+            "question": "भारत विश्व व्यापार संगठन (WTO) का सदस्य कब बना ? (When did India become a member of the World Trade Organization?)",
+            "options": [
+                "1995",
+                "1996",
+                "1997",
+                "1998"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1995"
+        },
+        {
+            "id": 39,
+            "question": "योजना आयोग के प्रथम अध्यक्ष कौन थे ? (Who was the first Chairman of the Planning Commission?)",
+            "options": [
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "सरदार वल्लभ भाई पटेल (Sardar Vallabh Bhai Patel)",
+                "डॉ० राजेन्द्र प्रसाद (Dr. Rajendra Prasad)",
+                "पण्डित जवाहरलाल नेहरू (Pandit Jawaharlal Nehru)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "पण्डित जवाहरलाल नेहरू (Pandit Jawaharlal Nehru)"
+        },
+        {
+            "id": 40,
+            "question": "भारत में किस प्रकार की अर्थव्यवस्था पाई जाती है ? (What type of economy is found in India?)",
+            "options": [
+                "पूँजीवादी (Capitalist)",
+                "समाजवादी (Socialist)",
+                "मिश्रित (Mixed)",
+                "साम्यवादी (Communist)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "मिश्रित (Mixed)"
+        },
+        {
+            "id": 41,
+            "question": "'पॉवर्टी एण्ड अन-ब्रिटिश रुल इन इण्डिया' पुस्तक किसने लिखी ? (Who wrote the book, 'Poverty and Un-British Rule in India'?)",
+            "options": [
+                "प्रो० रेगनर नर्क्स (Prof. Ragnar Nurkse)",
+                "प्रो० एडम स्मिथ (Prof. Adam Smith)",
+                "डॉ० वी.के.आर.वी. राव (Dr. V. K. R. V. Rao)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "दादाभाई नौरोजी (Dadabhai Naoroji)"
+        },
+        {
+            "id": 42,
+            "question": "बंगाल विभाजन हुआ (Partition of Bengal happened in)",
+            "options": [
+                "1902 में (1902)",
+                "1905 में (1905)",
+                "1907 में (1907)",
+                "1911 में (1911)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1905 में (1905)"
+        },
+        {
+            "id": 43,
+            "question": "मेजिनी का सम्बन्ध किस संगठन से था ? (Mazzini was associated with which organisation?)",
+            "options": [
+                "लाल सेना (Red Army)",
+                "कार्बोनरी (Carbonari)",
+                "डायट (Diet)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "कार्बोनरी (Carbonari)"
+        },
+        {
+            "id": 44,
+            "question": "सेडॉन के युद्ध में किसकी पराजय हुई ? (Which country was defeated in the battle of Sedan?)",
+            "options": [
+                "फ्रांस (France)",
+                "प्रशिया (Prussia)",
+                "रूस (Russia)",
+                "जर्मनी (Germany)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 45,
+            "question": "अप्रैल थीसिस किसने पेश की ? (Who introduced April Theses?)",
+            "options": [
+                "बिस्मार्क (Bismarck)",
+                "मेटरनिख (Metternich)",
+                "मेजिनी (Mazzini)",
+                "लेनिन (Lenin)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 46,
+            "question": "विश्व का पहला समाजवादी देश कौन है ? (Which is the first socialist country of the world?)",
+            "options": [
+                "रूस (Russia)",
+                "चीन (China)",
+                "वियतनाम (Vietnam)",
+                "क्यूबा (Cuba)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "रूस (Russia)"
+        },
+        {
+            "id": 47,
+            "question": "किस समझौते के तहत वियतनाम को दो भागों (उत्तरी वियतनाम और दक्षिणं वियतनाम) में बाँटा गया ? (Under which agreement was Vietnam divided into two parts (North Vietnam and South Vietnam)?)",
+            "options": [
+                "पेरिस समझौता (Paris Agreement)",
+                "हनोई समझौता (Hanoi Agreement)",
+                "जेनेवा समझौता (Geneva Agreement)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "जेनेवा समझौता (Geneva Agreement)"
+        },
+        {
+            "id": 48,
+            "question": "कांग्रेस के किस अधिवेशन में पूर्ण स्वराज की घोषणा की गई थी ? (In which session of Congress was Purna Swaraj announced?)",
+            "options": [
+                "लाहौर अधिवेशन (Lahore Session)",
+                "बम्बई अधिवेशन (Bombay Session)",
+                "नागपुर अधिवेशन (Nagpur Session)",
+                "गया अधिवेशन (Gaya Session)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "लाहौर अधिवेशन (Lahore Session)"
+        },
+        {
+            "id": 49,
+            "question": "धरासना में किनके नेतृत्व में नमक सत्याग्रह हुआ ? (Under whose leadership Salt Satyagraha was held in Dharasana?)",
+            "options": [
+                "सी. राजगोपालाचारी (C. Rajagopalachari)",
+                "के. केलप्पन (K. Kelappan)",
+                "सरोजिनी नायडू (Sarojini Naidu)",
+                "खान अब्दुल गफ्फार खान (Khan Abdul Ghaffar Khan)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सरोजिनी नायडू (Sarojini Naidu)"
+        },
+        {
+            "id": 50,
+            "question": "इस्ट इंडिया एसोसिएशन की स्थापना कब हुई ? (When was the East India Association formed?)",
+            "options": [
+                "1838",
+                "1876",
+                "1943",
+                "1866"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "1866"
+        }
+    ]
+}

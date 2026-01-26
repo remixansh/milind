@@ -1,0 +1,658 @@
+{
+    "date": "0215",
+    "dateDisplay": "15 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "सामान्य नेत्र के लिए दूर-बिंदु है - (The far-point for the normal vision is -)",
+            "options": [
+                "25 मी. (25 m)",
+                "25 से.मी. (25 cm)",
+                "25 मि.मी. (25 mm)",
+                "अनंत (Infinity)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "अनंत (Infinity)"
+        },
+        {
+            "id": 2,
+            "question": "समजात अंगों का उदाहरण है (An example of homologous organs are -)",
+            "options": [
+                "हमारा हाथ और कुत्ते के अग्रपाद (Our arm and dog's foreleg)",
+                "हमारे दाँत और हाथी के दाँत (Our teeth and elephant's tusks)",
+                "आलू और घास के ऊपरी भूस्तारी (Potato and runners of grass)",
+                "उपरोक्त सभी (All of the above)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "उपरोक्त सभी (All of the above)"
+        },
+        {
+            "id": 3,
+            "question": "विद्युत ऊर्जा का व्यापारिक मात्रक क्या है? (What is the commercial unit of electric energy?)",
+            "options": [
+                "वॉट (Watt)",
+                "वॉट/घंटा (Watt/hour)",
+                "यूनिट (Unit)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "यूनिट (Unit)"
+        },
+        {
+            "id": 4,
+            "question": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का ह्रास कहलाता है (The loss of oxygen from a substance during chemical reaction is called -)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "अपचयन (Reduction)",
+                "संक्षारण (Corrosion)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "अपचयन (Reduction)"
+        },
+        {
+            "id": 5,
+            "question": "निम्न में से कौन सा अंग संवेदीग्राही नहीं है? (Which of the following is not a receptor organ?)",
+            "options": [
+                "कान (Ear)",
+                "आँख (Eye)",
+                "नाक (Nose)",
+                "दिमाग (Brain)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "दिमाग (Brain)"
+        },
+        {
+            "id": 6,
+            "question": "कौन अंतः स्त्रावी और बाह्य स्त्रावी ग्रंथि जैसा कार्य नहीं करता है? (Which among these do not act as an endocrine gland as well as an exocrine gland?)",
+            "options": [
+                "अग्नाशय (Pancreas)",
+                "पीयूष ग्रंथि (Pituitary gland)",
+                "अंडाशय (Ovary)",
+                "वृषण (Testes)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "पीयूष ग्रंथि (Pituitary gland)"
+        },
+        {
+            "id": 7,
+            "question": "निम्न में से कौन सा असंतृप्त हाइड्रोकार्बन है? (Which of the following is unsaturated hydrocarbon?)",
+            "options": [
+                "CH₄",
+                "C₂H₆",
+                "C₂H₄",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "C₂H₄"
+        },
+        {
+            "id": 8,
+            "question": "पुष्प का नर जननांग कहलाता है (Male reproductive part of flower is -)",
+            "options": [
+                "पुंकेसर (Stamen)",
+                "जायांग (Pistil)",
+                "पंखुड़ी (Petal)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "पुंकेसर (Stamen)"
+        },
+        {
+            "id": 9,
+            "question": "नयी कार्तीय चिन्ह परिपाटी के अनुसार दर्पण के सामने रखे गये बिंब की बिंब दूरी ली जाती है- (According to New Cartesian sign convention, the object distance of an object placed before a mirror is taken -)",
+            "options": [
+                "धनात्मक (Positive)",
+                "ऋणात्मक (Negative)",
+                "कभी धनात्मक कभी ऋणात्मक (Sometimes positive sometimes negative)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "ऋणात्मक (Negative)"
+        },
+        {
+            "id": 10,
+            "question": "निम्न में से कौन सा यौगिक इंधन के रूप में इस्तेमाल किया जा सकता है? (Which of the following compounds can be used as a fuel?)",
+            "options": [
+                "इथेनॉल (Ethanol)",
+                "प्रोपेनॉल (Propanol)",
+                "इथेनॉइक अम्ल (Ethanoic acid)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "इथेनॉल (Ethanol)"
+        },
+        {
+            "id": 11,
+            "question": "कवक में पोषण की कौन-सी विधि पाई जाती है? (Which type of mode of nutrition is found in fungi?)",
+            "options": [
+                "मृतजीवी (Saprophytic)",
+                "समभोजी (Holozoic)",
+                "स्वपोषी (Autotrophic)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "मृतजीवी (Saprophytic)"
+        },
+        {
+            "id": 12,
+            "question": "ग्लूकोज के एक अणु में ऑक्सीजन के कितने परमाणु होते हैं? (How many atoms of oxygen are there in one molecule of Glucose?)",
+            "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "6"
+        },
+        {
+            "id": 13,
+            "question": "निम्न में कौन गंगा-प्रदूषण के लिए उत्तरदायी नहीं है? (Which is not responsible for Ganga's pollution?)",
+            "options": [
+                "गंगा में मछली पालना (Fish farming in Ganga)",
+                "गंगा में कपड़ों का धोना (Washing of clothes in Ganga)",
+                "गंगा में अधजले शव को बहाना (Immersion of unburnt corpse in Ganga)",
+                "गंगा में रासायनिक अपशिष्ट उत्सर्जन (Emission of chemical effluents in Ganga)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "गंगा में मछली पालना (Fish farming in Ganga)"
+        },
+        {
+            "id": 14,
+            "question": "किस दर्पण का उपयोग सामान्यतः वाहनों का पश्च दृश्य दर्पणों के रूप में किया जाता है? (Which mirror is commonly used as rear-view mirror in vehicles?)",
+            "options": [
+                "समतल दर्पण (Plane mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "उत्तल दर्पण (Convex mirror)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "उत्तल दर्पण (Convex mirror)"
+        },
+        {
+            "id": 15,
+            "question": "पित्त रस कहाँ से स्त्रावित होता है (Bile juice is secreted from -)",
+            "options": [
+                "अग्नाशय से (Pancreas)",
+                "यकृत से (Liver)",
+                "छोटी आँत से (Small intestine)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "यकृत से (Liver)"
+        },
+        {
+            "id": 16,
+            "question": "कौन सा कार्बन यौगिक सबसे अधिक अभिक्रियाशील है? (Which of the following carbon compound is the most reactive?)",
+            "options": [
+                "CH₄",
+                "C₂H₆",
+                "C₂H₄",
+                "C₃H₈"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "C₂H₄"
+        },
+        {
+            "id": 17,
+            "question": "सल्फर परमाणु की बाह्यतम कक्षा में इलेक्ट्रॉनों की संख्या कितनी होती है? (How many electrons are there in the outer orbit of an atom of sulphur?)",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "6"
+        },
+        {
+            "id": 18,
+            "question": "ऐलुमिनियम पर मोटी ऑक्साइड की परत बनाने की प्रक्रिया कहलाती है (The process of forming a thick oxide layer on aluminium is called -)",
+            "options": [
+                "जस्तीकरण (Galvanisation)",
+                "एनोडीकरण (Anodising)",
+                "समृद्धिकरण (Enrichment)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "एनोडीकरण (Anodising)"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में से उत्तम ऊर्जा स्त्रोत कौन सा है? (Which of the following is an ideal source of energy?)",
+            "options": [
+                "कोयला (Coal)",
+                "लकडी (Wood)",
+                "पेट्रोलियम (Petroleum)",
+                "बायो-मास (Bio-mass)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "बायो-मास (Bio-mass)"
+        },
+        {
+            "id": 20,
+            "question": "विरंजक चूर्ण का रासायनिक सूत्र है (The chemical formula for bleaching power is -)",
+            "options": [
+                "Ca(OH)₂",
+                "CaOCl₂",
+                "CaCO₃",
+                "Ca(HCO₃)₂"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "CaOCl₂"
+        },
+        {
+            "id": 21,
+            "question": "निम्नांकित में से कौन मलेरिया परजीवी है? (Which of the following is a malarial parasite?)",
+            "options": [
+                "प्लाज्मोडियम (Plasmodium)",
+                "लीशमैनिया (Leishmania)",
+                "प्रोटोजोआ (Protozoa)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "प्लाज्मोडियम (Plasmodium)"
+        },
+        {
+            "id": 22,
+            "question": "शुद्ध जल का pH मान होता है (The pH value of pure water is -)",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 23,
+            "question": "कौन सा पदार्थ लाल लिटमस को, नीला कर देता है? (Which substance changes colour of Red litmus into Blue?)",
+            "options": [
+                "अम्ल (Acid)",
+                "क्षार (Base)",
+                "लवण (Salt)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "क्षार (Base)"
+        },
+        {
+            "id": 24,
+            "question": "समान्तर क्रम में संयोजित प्रतिरोधों की सख्या घटने के उपरांत संयोजित प्रतिरोधो का कुल प्रतिरोध (On decreasing the number of resistors from a parallel combination of resistors, the total resistance of the new combination of resistors in parallel-)",
+            "options": [
+                "बढ़ता है (Increases)",
+                "घटता है (Decreases)",
+                "अपरिवर्तित रहता है (Remains the same)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "बढ़ता है (Increases)"
+        },
+        {
+            "id": 25,
+            "question": "खाद्य पदार्थ के डिब्बों पर जिंक के बजाय टिन का लेप होता है, क्योंकि (Food cans are coated with tin, not with zinc because -)",
+            "options": [
+                "टिन की अपेक्षा जिंक मेंहगा होता है (Zinc is costlier than Tin)",
+                "टिन की अपेक्षा जिंक का गलनांक अधिक है (Zinc has a higher melting point than Tin)",
+                "टिन की अपेक्षा जिंक अधिक अभिक्रियाशील है (Zinc is more reactive than Tin)",
+                "टिन की अपेक्षा जिंक कम अभिक्रियाशील है (Zinc is less reactive than Tin)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "टिन की अपेक्षा जिंक अधिक अभिक्रियाशील है (Zinc is more reactive than Tin)"
+        },
+        {
+            "id": 26,
+            "question": "कौन सा अजैव निम्नीकरणीय कचरा है? (Which is a non-biodegradable waste?)",
+            "options": [
+                "टिशू पेपर (Tissue paper)",
+                "केले का चिल्का (Peel of banana)",
+                "थर्मोकोल (Thermocol)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "थर्मोकोल (Thermocol)"
+        },
+        {
+            "id": 27,
+            "question": "अतिभारण के समय विद्युत परिपथ में विद्युत धारा का मान (At the time of overloading, the electric current in the circuit -)",
+            "options": [
+                "बहुत कम हो जाता है। (reduces substantially)",
+                "परिवर्तित नहीं होता है। (does not change)",
+                "बहुत अधिक बढ़ जाता है। (increases heavily)",
+                "इनमें से कोई नहीं। (none of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "बहुत अधिक बढ़ जाता है। (increases heavily)"
+        },
+        {
+            "id": 28,
+            "question": "कौन सा परपरागत ऊर्जा स्त्रोत है? (Which is the conventional source of energy?)",
+            "options": [
+                "जैव मात्रा (बायां-मास) (Bio - Mass)",
+                "नाभिकीय ऊर्जा स्त्रोत (Nuclear energy source)",
+                "भूतापीय ऊर्जा स्त्रोत (Geo-thermal energy source)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "जैव मात्रा (बायां-मास) (Bio - Mass)"
+        },
+        {
+            "id": 29,
+            "question": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का योग कहलाता है? (The gain of oxygen by a substance during chemical reaction is called -)",
+            "options": [
+                "अपचयन (Reduction)",
+                "उपचयन (Oxidation)",
+                "संक्षारण (Corrosion)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "उपचयन (Oxidation)"
+        },
+        {
+            "id": 30,
+            "question": "पादपों में पाया जाने वाला वृद्धि हार्मोन निम्न में से कौन सा है? (Which one of the following is the growth hormone found in plants?)",
+            "options": [
+                "जिब्बरेलिन (Gibberellin)",
+                "एड्रीनेलिन (Adrenaline)",
+                "इंसुलिन (Insulin)",
+                "थाइरॉक्सिन (Thyroxine)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "जिब्बरेलिन (Gibberellin)"
+        },
+        {
+            "id": 31,
+            "question": "चालक का प्रतिरोध निर्भर नहीं करता है - (The resistance of a conductor does not depend on -)",
+            "options": [
+                "चालक की लम्बाई पर (length of a conductor)",
+                "चालक के अनुप्रस्थ काट क्षेत्रफल पर (cross sectional area of a conductor)",
+                "चालक के तापमान पर (Temperature of a conductor)",
+                "चालक में प्रवाहित विद्युत धारा पर (Electric current flowing through conductor)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "चालक में प्रवाहित विद्युत धारा पर (Electric current flowing through conductor)"
+        },
+        {
+            "id": 32,
+            "question": "सुरंगम किस राज्य की जल संग्रहण व्यवस्था है? (Which state has 'Surangam' water harvesting system?)",
+            "options": [
+                "हिमाचल प्रदेश (Himachal Pradesh)",
+                "तमिलनाडु (Tamil Nadu)",
+                "केरल (Kerala)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 33,
+            "question": "इनमें से कौन पादप हार्मोन है? (Which is a plant hormone?)",
+            "options": [
+                "इंसुलिन (Insulin)",
+                "थाइरॉक्सिन (Thyroxin)",
+                "एस्ट्रोजन (Oestrogen)",
+                "साइटोकाइनिन (Cytokinin)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "साइटोकाइनिन (Cytokinin)"
+        },
+        {
+            "id": 34,
+            "question": "किसी कोश में इलेक्ट्रॉनों की अधिकतम संख्या होती है- (The maximum number of electrons in a shell is -)",
+            "options": [
+                "n²",
+                "2n²",
+                "3n²",
+                "4n²"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "2n²"
+        },
+        {
+            "id": 35,
+            "question": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन कहाँ होता है? (Where does, the most of refraction for light rays entering the eye, occurs?)",
+            "options": [
+                "कॉर्निया के बाहरी पृष्ठ पर (on the outer surface of cornea)",
+                "अभिनेत्र लेंस पर (on the eye-lens)",
+                "नेत्रोद में (in aqueous humour)",
+                "दृष्टि पटल पर (on the retina)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "कॉर्निया के बाहरी पृष्ठ पर (on the outer surface of cornea)"
+        },
+        {
+            "id": 36,
+            "question": "वायुमंडल में प्रकाश का कौन सा रंग (वर्ण) अधिक प्रकीर्णन करता है? (Which colour of light scatters more in atmosphere?)",
+            "options": [
+                "लाल (Red)",
+                "नीला (Blue)",
+                "पीला (Yellow)",
+                "नारंगी (Orange)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "नीला (Blue)"
+        },
+        {
+            "id": 37,
+            "question": "निम्न में से कौन जैव अनिम्नीकरणीय कचरा है? (Which of the following is non-biodegradable waste?)",
+            "options": [
+                "केले का छिलका (Banana peel)",
+                "पुराने फटे कपड़े (Old torn clothes)",
+                "थर्मोकोल (Thermocol)",
+                "कागज (Paper)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "थर्मोकोल (Thermocol)"
+        },
+        {
+            "id": 38,
+            "question": "निम्न में से कौन एक जीवाणु जनित रोग नहीं है? (Which one of the following is not a bacterial disease?)",
+            "options": [
+                "गोनोरिया (Gonorrhea)",
+                "सिफलिस (Syphilis)",
+                "मस्सा (Warts)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "मस्सा (Warts)"
+        },
+        {
+            "id": 39,
+            "question": "रुधिर का कौन सा अवयव रक्त स्राव को रोकने में मदद करता है? (Which component of the blood helps in stopping blood leakage?)",
+            "options": [
+                "लसीका (Lymph)",
+                "प्लाज्मा (Plasma)",
+                "प्लेटलेट्स (Platelets)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "प्लेटलेट्स (Platelets)"
+        },
+        {
+            "id": 40,
+            "question": "निम्न में से कौन बौने पौधे को दर्शाता है? (Which one of the following represents dwarf plant?)",
+            "options": [
+                "tT",
+                "Tt",
+                "tt",
+                "TT"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "tt"
+        },
+        {
+            "id": 41,
+            "question": "निम्न में से कौन एक उभयलिंगी जन्तु है? (Which one of the following is a bisexual / hermaphrodite animal?)",
+            "options": [
+                "केंचुआ (Earthworm)",
+                "कुत्ता (Dog)",
+                "बिल्ली (Cat)",
+                "बकरी (Goat)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "केंचुआ (Earthworm)"
+        },
+        {
+            "id": 42,
+            "question": "निम्न में से किस माध्यम में प्रकाश की चाल अधिकतम है? (Which of the following media has maximum speed of light?)",
+            "options": [
+                "हवा (Air)",
+                "जल (Water)",
+                "शीशा (Glass)",
+                "हीरा (Diamond)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "हवा (Air)"
+        },
+        {
+            "id": 43,
+            "question": "विद्युत आवेश का SI मात्रक है (The SI unit of electric charge is -)",
+            "options": [
+                "वोल्ट (Volt)",
+                "ओम (Ohm)",
+                "एम्पियर (Ampere)",
+                "कूलॉम (Coulomb)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "कूलॉम (Coulomb)"
+        },
+        {
+            "id": 44,
+            "question": "निम्न में से कौन सा संबंध सत्य है? (Which relation of the following is true?)",
+            "options": [
+                "V = 1/R",
+                "V = R/I",
+                "V = IR",
+                "V = IR²"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "V = IR"
+        },
+        {
+            "id": 45,
+            "question": "मेरुरज्जू निकलता है - (The spinal cord originates from -)",
+            "options": [
+                "प्रमस्तिष्क से (Cerebrum)",
+                "अनुमस्तिष्क से (Cerebellum)",
+                "पोन्स से (Pons)",
+                "मेडुला से (Medulla)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "मेडुला से (Medulla)"
+        },
+        {
+            "id": 46,
+            "question": "किसी लेंस द्वारा उत्पन्न आवर्धन का SI मात्रक क्या है? (What is SI unit of magnification produced by a lens?)",
+            "options": [
+                "मी (m)",
+                "से.मी. (cm)",
+                "मि.मी. (mm)",
+                "मात्रक विहीन (Unit less)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "मात्रक विहीन (Unit less)"
+        },
+        {
+            "id": 47,
+            "question": "सामान्य अनुशिथिलन रक्त दाब होता है - (The normal diastolic blood pressure is -)",
+            "options": [
+                "80 mm",
+                "100 mm",
+                "120 mm",
+                "130 mm"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "80 mm"
+        },
+        {
+            "id": 48,
+            "question": "निम्न में से किस धातु का गलनांक सबसे कम है? (Which metal of the following has the lowest melting point?)",
+            "options": [
+                "Al",
+                "Na",
+                "Cu",
+                "Fe"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "Na"
+        },
+        {
+            "id": 49,
+            "question": "संगमरमर का रासायनिक सूत्र क्या है? (What is the chemical formula for marble?)",
+            "options": [
+                "CaO",
+                "Ca(OH)₂",
+                "CaCO₃",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "CaCO₃"
+        },
+        {
+            "id": 50,
+            "question": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है? (The earth is shielded by ozone layer from which harmful radiation?)",
+            "options": [
+                "अवरक्त विकिरण (Infra - red)",
+                "पराबैंगनी विकिरण (Ultra - violet)",
+                "तापीय विकिरण (Thermal)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "पराबैंगनी विकिरण (Ultra - violet)"
+        }
+    ]
+}

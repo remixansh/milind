@@ -1,0 +1,658 @@
+{
+    "date": "0212",
+    "dateDisplay": "12 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "स्पिनिंग म्यूल का आविष्कार किसने किया ? (Who invented the Spinning Mule ?)",
+            "options": [
+                "जेम्स हारग्रीब्ज (James Hargreaves)",
+                "सैमुएल क्रॉम्पटन (Samuel Crompton)",
+                "जॉन के (John Kay)",
+                "एडमण्ड कार्टराईट (Edmund Cartwright)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सैमुएल क्रॉम्पटन (Samuel Crompton)"
+        },
+        {
+            "id": 2,
+            "question": "सामंती व्यवस्था के स्थान पर किस प्रकार की शहरी व्यवस्था की प्रवृत्ति बढ़ी ? (Which type of urban system tended to grow in place of Feudal system ?)",
+            "options": [
+                "प्रगतिशील (Progressive)",
+                "आक्रामक (Aggressive)",
+                "रूढ़िवादी (Conservative)",
+                "शोषणकारी (Exploitative)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "प्रगतिशील (Progressive)"
+        },
+        {
+            "id": 3,
+            "question": "1929 की मंदी का सबसे बुरा प्रभाव किस देश पर पड़ा ? (Which country was worst affected by the great depression of 1929 ?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "फ्रांस (France)",
+                "संयुक्त राज्य अमेरिका (United States of America)",
+                "जापान (Japan)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "संयुक्त राज्य अमेरिका (United States of America)"
+        },
+        {
+            "id": 4,
+            "question": "'न्यू डील' का सम्बन्ध निम्न में से किससे था ? (Which of the following was related to the 'New Deal' ?)",
+            "options": [
+                "राजनीतिक नीति (Political Policy)",
+                "सामाजिक नीति (Social Policy)",
+                "धार्मिक नीति (Religious Policy)",
+                "आर्थिक नीति (Economic Policy)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "आर्थिक नीति (Economic Policy)"
+        },
+        {
+            "id": 5,
+            "question": "अन्तरराष्ट्रीय मुद्रा कोष की स्थापना कब हुई ? (When was International Monetary Fund established ?)",
+            "options": [
+                "1945",
+                "1946",
+                "1947",
+                "1948"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1945"
+        },
+        {
+            "id": 6,
+            "question": "मुद्रण कला का आविष्कार कहाँ हुआ ? (Where was the art of printing invented ?)",
+            "options": [
+                "जापान (Japan)",
+                "उत्तरी कोरिया (North Korea)",
+                "चीन (China)",
+                "ब्रिटेन (Britain)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 7,
+            "question": "प्रथम पेपर मिल की स्थापना किस देश में हुई ? (The first paper mill was established in which country?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "इटली (Italy)",
+                "चीन (China)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 8,
+            "question": "'नाइन्टी-फाइव थेसेस' के लेखक कौन हैं ? (Who is the author of 'Ninety-five Theses'?)",
+            "options": [
+                "हिगल (Hegel)",
+                "टॉल्सटाय (Tolstoy)",
+                "माण्टेस्क्यू (Montesquieu)",
+                "मार्टिन लूथर (Martin Luther)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "मार्टिन लूथर (Martin Luther)"
+        },
+        {
+            "id": 9,
+            "question": "'संवाद-कौमुदी' किस भाषा का समाचार पत्र था ? ('Sambad Kaumudi' newspaper was of which language?)",
+            "options": [
+                "बंगला (Bengali)",
+                "हिन्दी (Hindi)",
+                "मराठी (Marathi)",
+                "अंग्रेजी (English)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "बंगला (Bengali)"
+        },
+        {
+            "id": 10,
+            "question": "रूसो कहाँ का दार्शनिक था ? (Rousseau was a philosopher of which country?)",
+            "options": [
+                "फ्रांस (France)",
+                "अमेरिका (America)",
+                "रूस (Russia)",
+                "चीन (China)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 11,
+            "question": "असहयोग आन्दोलन कां प्रस्ताव काँग्रेस के किस अधिवेशन में पारित हुआ था ? (In which session of Congress was the resolution of Non-cooperation Movement passed ?)",
+            "options": [
+                "सितम्बर 1920, कलकत्ता (September 1920, Calcutta)",
+                "अक्टूबर 1920, अहमदाबाद (October 1920, Ahmadabad)",
+                "नवम्बर 1920, फैजपुर (November 1920, Faizpur)",
+                "दिसम्बर 1920, नागपुर (December 1920, Nagpur)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "सितम्बर 1920, कलकत्ता (September 1920, Calcutta)"
+        },
+        {
+            "id": 12,
+            "question": "ताशकंद में भारतीय कम्युनिस्ट पार्टी की स्थापना किसने की ? (Who founded the Communist Party of India in Tashkent ?)",
+            "options": [
+                "व्योमेशचन्द्र बनर्जी (Womesh Chandra Banerjee)",
+                "एम. एन. राय (M. N. Roy)",
+                "सत्यभक्त (Satyabhakta)",
+                "एस. ए. डांगे (S. A. Dange)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "एम. एन. राय (M. N. Roy)"
+        },
+        {
+            "id": 13,
+            "question": "'यंग इटली' की स्थापना किसने की थी ? (Who founded the 'Young Italy'.?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "लेनिन (Lenin)",
+                "स्टालिन (Stalin)",
+                "गैरीबाल्डी (Garibaldi)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "मेजिनी (Mazzini)"
+        },
+        {
+            "id": 14,
+            "question": "भारतीय संविधान सभा का गठन कब हुआ था ? (When was the Constituent Assembly of India constituted ?)",
+            "options": [
+                "1946",
+                "1947",
+                "1948",
+                "1949"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1946"
+        },
+        {
+            "id": 15,
+            "question": "निम्न में से कौन संघ सूची में है ? (Which of the following is in the Union List ?)",
+            "options": [
+                "शिक्षा (Education)",
+                "संचार (Communication)",
+                "स्वास्थ्य (Health)",
+                "पुलिस (Police)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "संचार (Communication)"
+        },
+        {
+            "id": 16,
+            "question": "संविधान संशोधन हेतु संसद के दोनों सदनों में कितना बहुमत आवश्यक है ? (How much majority is required in both the Houses of Parliament for the amendment of the constitution ?)",
+            "options": [
+                "एक-तिहाई (One-third)",
+                "एक-चौथाई (One-fourth)",
+                "दो-तिहाई (Two-third)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "दो-तिहाई (Two-third)"
+        },
+        {
+            "id": 17,
+            "question": "राष्ट्रीय स्तर पर पंचायती राज प्रणाली की शुरुआत किस समिति की अनुशंसा पर हुई ? (On the recommendation of which committee was the Panchayati Raj system started at the national level ?)",
+            "options": [
+                "अशोक मेहता समिति (Ashok Mehta Committee)",
+                "वर्मा समिति (Verma Committee)",
+                "केलकर समिति (Kelkar Committee)",
+                "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)"
+        },
+        {
+            "id": 18,
+            "question": "संविधान का कौन-सा संशोधन विधेयक पंचायती राज प्रणाली से सम्र्बाधत है ? (Which amendment bill of constitution is related to Panchayati Raj system ?)",
+            "options": [
+                "72 वां (72nd)",
+                "73 वां (73rd)",
+                "74 वां (74th)",
+                "75 वां (75th)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "73 वां (73rd)"
+        },
+        {
+            "id": 19,
+            "question": "पंचायती राज व्यवस्था का दूसरा स्तर निम्न में से कौन है ? (Which of the following is the second level of Panchayati Raj system ?)",
+            "options": [
+                "जिला परिषद (Zilla Parishad)",
+                "ग्राम पंचायत (Gram Panchayat)",
+                "पंचायत समिति (Panchayat Samiti)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "पंचायत समिति (Panchayat Samiti)"
+        },
+        {
+            "id": 20,
+            "question": "1975 के आपातकाल के समय प्रधानमंत्री कौन थे ? (Who was the Prime Minister during the emergency of 1975 ?)",
+            "options": [
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "राजीव गाँधी (Rajeev Gandhi)",
+                "नरसिम्हा राव (Narasimha Rao)",
+                "एच. डी. देवगौड़ा (H. D. Deve Gowda)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "इंदिरा गाँधी (Indira Gandhi)"
+        },
+        {
+            "id": 21,
+            "question": "चिपको आंदोलन का प्रारंभ किस राज्य से हुआ ? (Chipko Movement originated in which state ?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "उत्तराखंड (Uttarakhand)",
+                "बिहार (Bihar)",
+                "असम (Assam)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 22,
+            "question": "निम्न में से कौन राष्ट्रीय राजनीतिक दल है ? (Which of the following is a national political party ?)",
+            "options": [
+                "लोक जनशक्ति पार्टी (Lok Janshakti Party)",
+                "जनता दल यूनाइटेड (Janta Dal United)",
+                "राष्ट्रीय जनता दल (Rashtriya Janta Dal)",
+                "भारतीय कम्युनिस्ट पार्टी (Communist Party of India)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "भारतीय कम्युनिस्ट पार्टी (Communist Party of India)"
+        },
+        {
+            "id": 23,
+            "question": "सूचना का अधिकार आंदोलन कहाँ शुरू हुआ ? (Where did the Right to Information Movement start?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "दिल्ली (Delhi)",
+                "बिहार (Bihar)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 24,
+            "question": "महापौर का कार्यकाल कितने वर्ष का होता है ? (How long is the tenure of Mayor ?)",
+            "options": [
+                "4 वर्ष (4 years)",
+                "5 वर्ष (5 years)",
+                "6 वर्ष (6 years)",
+                "7 वर्ष (7 years)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "5 वर्ष (5 years)"
+        },
+        {
+            "id": 25,
+            "question": "हरित क्रांति से किस राज्य को आर्थिक लाभ हुआ ? (Which state got economic benefit from the Green Revolution ?)",
+            "options": [
+                "हरियाणा (Haryana)",
+                "पंजाब (Punjab)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 26,
+            "question": "पानी के निजीकरण के विरुद्ध कहाँ संघर्ष हुआ ? (Where did the struggle against privatization of water take place?)",
+            "options": [
+                "नेपाल (Nepal)",
+                "श्रीलंका (Sri Lanka)",
+                "बांग्लादेश (Bangladesh)",
+                "बोलिविया (Bolivia)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "बोलिविया (Bolivia)"
+        },
+        {
+            "id": 27,
+            "question": "भारत में किस प्रकार की दलीय व्यवस्था है ? (What type of party system is there in India?)",
+            "options": [
+                "एक-दलीय व्यवस्था (One-Party system)",
+                "द्विदलीय व्यवस्था (Two-Party system)",
+                "बहुदलीय व्यवस्था (Multi-Party system)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "बहुदलीय व्यवस्था (Multi-Party system)"
+        },
+        {
+            "id": 28,
+            "question": "माधव कुमार किस देश के पूर्व प्रधानमंत्री हैं ? (Madhav Kumar is the former Prime Minister of which country?)",
+            "options": [
+                "श्रीलंका (Sri Lanka)",
+                "नेपाल (Nepal)",
+                "भूटान (Bhutan)",
+                "बांग्लादेश (Bangladesh)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "नेपाल (Nepal)"
+        },
+        {
+            "id": 29,
+            "question": "भारत में प्रथम चीनी मिल की स्थापना किस राज्य में की गई थी ? (In which state was the first sugar mill established in India ?)",
+            "options": [
+                "बिहार (Bihar)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "महाराष्ट्र (Maharashtra)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 30,
+            "question": "चरक का सम्बन्ध किस देश से था ? (Charak was related to which country?)",
+            "options": [
+                "म्यांमार (Myanmar)",
+                "श्रीलंका (Sri Lanka)",
+                "भारत (India)",
+                "नेपाल (Nepal)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "भारत (India)"
+        },
+        {
+            "id": 31,
+            "question": "कान्हा राष्ट्रीय उद्यान कहाँ है ? (Where is Kanha National Park ?)",
+            "options": [
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "महाराष्ट्र (Maharashtra)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "मध्य प्रदेश (Madhya Pradesh)"
+        },
+        {
+            "id": 32,
+            "question": "महासागरीय संसाधनों पर देश का आधिपत्य होता है (A country has control over the marine resources up to)",
+            "options": [
+                "200 किमी तक (200 km)",
+                "250 किमी तक (250 km)",
+                "150 किमी तक (150 km)",
+                "300 किमी तक (300 km)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "200 किमी तक (200 km)"
+        },
+        {
+            "id": 33,
+            "question": "निम्न में से कौन स्वामित्व के आधार पर संसाधनों के वर्गीकरण का प्रकार नहीं है ? (Which of the following is not a type of classification of resources on the basis of ownership?)",
+            "options": [
+                "व्यक्तिगत (Individual)",
+                "सामुदायिक (Community)",
+                "नवीकरणीय (Renewable)",
+                "राष्ट्रीय (National)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "नवीकरणीय (Renewable)"
+        },
+        {
+            "id": 34,
+            "question": "किस नदी की उत्पत्ति अमरकंटक से हुई है ? (Which river has originated from Amarkantak ?)",
+            "options": [
+                "गण्डक (Gandak)",
+                "पुनपुन (Punpun)",
+                "सोन (Sone)",
+                "कोसी (Kosi)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सोन (Sone)"
+        },
+        {
+            "id": 35,
+            "question": "बिहार में कितना प्रतिशत कृषि क्षेत्र है ? (What is the percentage of agricultural area in Bihar ?)",
+            "options": [
+                "60",
+                "50",
+                "55",
+                "65"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "60"
+        },
+        {
+            "id": 36,
+            "question": "श्वेत क्रांति सम्बन्धित है (White revolution is related to)",
+            "options": [
+                "मशरुम से (Mushroom)",
+                "अंडा से (Egg)",
+                "दूध से (Milk)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "दूध से (Milk)"
+        },
+        {
+            "id": 37,
+            "question": "रबड़ की खेती के लिए कैसी जलवायु चाहिए ? (Which climate is needed for the cultivation of rubber ?)",
+            "options": [
+                "समशीतोष्ण जलवायु (Temperate climate)",
+                "भूमध्यरेखीय जलवायु (Equatorial climate)",
+                "शुष्क जलवायु (Dry climate)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "भूमध्यरेखीय जलवायु (Equatorial climate)"
+        },
+        {
+            "id": 38,
+            "question": "कौन-सी फसल रबी और खरीफ दोनों के रूप में उगायी जाती है ? (Which crop is grown as rabi and kharif both ?)",
+            "options": [
+                "गेहूँ (Wheat)",
+                "चावल (Rice)",
+                "मूँगफली (Groundnut)",
+                "अरंडी (Castor seed)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "अरंडी (Castor seed)"
+        },
+        {
+            "id": 39,
+            "question": "दामोदर घाटी परियोजना का लाभ किन राज्यों को मिलता है ? (Which states get the benefit of Damodar Valley Project ?)",
+            "options": [
+                "राजस्थान और हिमाचल प्रदेश (Rajasthan and Himachal Pradesh)",
+                "ओडिशा और पश्चिम बंगाल (Odisha and West Bengal)",
+                "झारखण्ड और पश्चिम बंगाल (Jharkhand and West Bengal)",
+                "झारखण्ड और छत्तीसगढ़ (Jharkhand and Chhattisgarh)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "झारखण्ड और पश्चिम बंगाल (Jharkhand and West Bengal)"
+        },
+        {
+            "id": 40,
+            "question": "बिहार का कौन क्षेत्र सूखा प्रवण है ? (Which part of Bihar is drought prone ?)",
+            "options": [
+                "उत्तर बिहार (North Bihar)",
+                "दक्षिण बिहार (South Bihar)",
+                "पूर्वी बिहार (East Bihar)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "दक्षिण बिहार (South Bihar)"
+        },
+        {
+            "id": 41,
+            "question": "भूकंप केन्द्र के ऊर्ध्वाधर पृथ्वी सतह पर स्थित केन्द्र को कहते हैं (The centre on the earth's surface vertically above the focus of an earthquake is called)",
+            "options": [
+                "उपकेन्द्र (Sub-centre)",
+                "भूकंप केन्द्र (Earthquake centre)",
+                "अधिकेन्द्र (Epicentre)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "अधिकेन्द्र (Epicentre)"
+        },
+        {
+            "id": 42,
+            "question": "निम्न में से किसे सर्वाधिक खरतनाक सुखाड़ माना जाता है ? (Which of the following is considered as the most dangerous drought?)",
+            "options": [
+                "सामान्य सुखाड़ (Normal drought)",
+                "कृषि सुखाड़ (Agricultural drought)",
+                "मौसमी सुखाड़ (Seasonal drought)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कृषि सुखाड़ (Agricultural drought)"
+        },
+        {
+            "id": 43,
+            "question": "बाढ़ से हानि होती है (Flood causes damage to)",
+            "options": [
+                "फसलों को (Crops)",
+                "पशुओं को (Animals)",
+                "भवनों को (Buildings)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 44,
+            "question": "निम्न में से कौन प्राकृतिक आपदा है ? (Which of the following is a natural disaster ?)",
+            "options": [
+                "साम्प्रदायिक दंगे (Communal riots)",
+                "आतंकवाद (Terrorism)",
+                "सुनामी (Tsunami)",
+                "परमाणु विस्फोट (Nuclear blast)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सुनामी (Tsunami)"
+        },
+        {
+            "id": 45,
+            "question": "दक्षिण अफ्रीका के प्रथम अश्वेत राष्ट्रपति कौन थे ? (Who was the first black president of South Africa ?)",
+            "options": [
+                "एनक्रूमा (Nkrumah)",
+                "जनरल पिनोशे (General Pinochet)",
+                "नेल्सन मंडेला (Nelson Mandela)",
+                "अब्राहम लिंकन (Abraham Lincoln)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "नेल्सन मंडेला (Nelson Mandela)"
+        },
+        {
+            "id": 46,
+            "question": "श्रीलंका कब आजाद हुआ ? (When did Sri Lanka become independent ?)",
+            "options": [
+                "1947",
+                "1948",
+                "1949",
+                "1950"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1948"
+        },
+        {
+            "id": 47,
+            "question": "समता पार्टी का विलय किस राजनीतिक दल में हुआ ? (In which political party did Samata Party merge ?)",
+            "options": [
+                "राष्ट्रीय जनता दल (Rashtriya Janata Dal)",
+                "बहुजन समाज पार्टी (Bahujan Samaj Party)",
+                "जनता दल (यूनाइटेड) (Janata Dal (United))",
+                "भारतीय जनता पार्टी (Bharatiya Janata Party)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "जनता दल (यूनाइटेड) (Janata Dal (United))"
+        },
+        {
+            "id": 48,
+            "question": "निम्न में से कौन नगर निगम के आय का स्रोत नहीं है ? (Which of the following is not a source of income for Municipal Corporation ?)",
+            "options": [
+                "मकान कर (House Tax)",
+                "आयकर (Income Tax)",
+                "जल कर (Water Tax)",
+                "शौचालय कर (Toilet Tax)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "आयकर (Income Tax)"
+        },
+        {
+            "id": 49,
+            "question": "निम्न में से कौन पंचायत की व्यवस्थापिका सभा है ? (Which of the following is the legislative assembly of Panchayat ?)",
+            "options": [
+                "ग्राम सभा (Gram Sabha)",
+                "ग्राम रक्षा दल (Village Defence Force)",
+                "ग्राम कचहरी (Gram Kachhari)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "ग्राम सभा (Gram Sabha)"
+        },
+        {
+            "id": 50,
+            "question": "स्थानीय स्वशासन राज्य के नीति निदेशक सिद्धान्तों के किस अनुच्छेद में है ? (Local self-government is in which article of the Directive Principles of State Policy ?)",
+            "options": [
+                "अनुच्छेद 34 (Article 34)",
+                "अनुच्छेद 40 (Article 40)",
+                "अनुच्छेद 42 (Article 42)",
+                "अनुच्छेद 51 (Article 51)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अनुच्छेद 40 (Article 40)"
+        }
+    ]
+}

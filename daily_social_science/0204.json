@@ -1,0 +1,658 @@
+{
+    "date": "0204",
+    "dateDisplay": "04 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "भारत किस खनिज के उत्पादन में विश्व में अग्रणी है ? (India is the leading producer of which mineral in the world?)",
+            "options": [
+                "मैंगनीज (Manganese)",
+                "ताँबा (Copper)",
+                "बॉक्साइट (Bauxite)",
+                "अभ्रक (Mica)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "अभ्रक (Mica)"
+        },
+        {
+            "id": 2,
+            "question": "एल्युमिनियम बनाने के लिए किस खनिज की आवश्यकता होती है ? (Which mineral is needed to make aluminium?)",
+            "options": [
+                "टिन (Tin)",
+                "मैंगनीज (Manganese)",
+                "बॉक्साइट (Bauxite)",
+                "लोहा (Iron)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बॉक्साइट (Bauxite)"
+        },
+        {
+            "id": 3,
+            "question": "दामोदर घाटी परियोजना किस राज्य में स्थित है ? (In which state is Damodar Valley Project located ?)",
+            "options": [
+                "झारखंड (Jharkhand)",
+                "पश्चिम बंगाल (West Bengal)",
+                "बिहार (Bihar)",
+                "ओडिशा (Odisha)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "पश्चिम बंगाल (West Bengal)"
+        },
+        {
+            "id": 4,
+            "question": "दक्षिण भारत में सर्वाधिक गन्त्रा उत्पादक राज्य कौन है ? (Which is the largest sugarcane producing state in South India ?)",
+            "options": [
+                "आंध्र प्रदेश (Andhra Pradesh)",
+                "ओडिशा (Odisha)",
+                "तमिलनाडु (Tamil Nadu)",
+                "महाराष्ट्र (Maharashtra)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 5,
+            "question": "विश्वेश्वरैया आयरन एण्ड स्टील लिमिटेड कहाँ स्थित है ? (Where is Visvesvaraya Iron and Steel Limited located?)",
+            "options": [
+                "सलेम (Salem)",
+                "भद्रावती (Bhadravati)",
+                "विजयनगर (Vijaynagar)",
+                "दुर्गापुर (Durgapur)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "भद्रावती (Bhadravati)"
+        },
+        {
+            "id": 6,
+            "question": "कौन-सा शिपयार्ड भारत के लिए युद्धपोत बनाता है ? (Which shipyard makes warships for India?)",
+            "options": [
+                "माझगाँव (Mazagaon)",
+                "कोलकाता (Kolkata)",
+                "चेन्नई (Chennai)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "माझगाँव (Mazagaon)"
+        },
+        {
+            "id": 7,
+            "question": "उत्तर मध्य रेलवे का मुख्यालय निम्न में से कौन है ? (Which of the following is the headquarters of North Central Railways ?)",
+            "options": [
+                "इलाहाबाद (Allahabad)",
+                "हाजीपुर (Hajipur)",
+                "जबलपुर (Jabalpur)",
+                "मुंबई सेंट्रल (Mumbai Central)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "इलाहाबाद (Allahabad)"
+        },
+        {
+            "id": 8,
+            "question": "ऑल इंडिया रेडियो की शुरुआत कब हुई ? (When did All India Radio start?)",
+            "options": [
+                "1930",
+                "1936",
+                "1957",
+                "1965"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1936"
+        },
+        {
+            "id": 9,
+            "question": "भारत में सड़कों की लम्बाई की दृष्टि से प्रथम स्थान किस राज्य का है ? (Which state has the first position in terms of length of roads in India ?)",
+            "options": [
+                "गुजरात (Gujarat)",
+                "कर्नाटक (Karnataka)",
+                "महाराष्ट्र (Maharashtra)",
+                "राजस्थान (Rajasthan)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 10,
+            "question": "निम्नलिखित में से कौन राज्य चक्रवातीय तूफान से सर्वाधिक प्रभावित है ? (Which of the following states is most affected by cyclonic storms ?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "बिहार (Bihar)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "झारखंड (Jharkhand)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 11,
+            "question": "निम्न में से कौन प्राथमिक उपचार का उपकरण है ? (Which of the following is a first-aid equipment ?)",
+            "options": [
+                "लाइफ जैकेट (Life jacket)",
+                "अग्निशामक यंत्र (Fire extinguisher)",
+                "रस्सी (Rope)",
+                "बैंडेज और टेप (Bandage and Tape)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "बैंडेज और टेप (Bandage and Tape)"
+        },
+        {
+            "id": 12,
+            "question": "आस्वान बाँध किस नदी पर बना है? (Aswan Dam is built on which river?)",
+            "options": [
+                "नील (Nile)",
+                "आमेजन (Amazon)",
+                "कृष्णा (Krishna)",
+                "गोदावरी (Godavari)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "नील (Nile)"
+        },
+        {
+            "id": 13,
+            "question": "रिक्टर पैमाना का उपयोग किस आपदा में होता है ? (Richter scale is used in which disaster ?)",
+            "options": [
+                "बाढ़ (Flood)",
+                "चक्रवात (Cyclone)",
+                "भूकंप (Earthquake)",
+                "सूखा (Drought)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "भूकंप (Earthquake)"
+        },
+        {
+            "id": 14,
+            "question": "पूर्वी बिहार प्रायः किस आपदा से ग्रसित रहता है ? (Eastern Bihar is prone to which calamity?)",
+            "options": [
+                "भूकंप (Earthquake)",
+                "बाढ़ (Flood)",
+                "सूखा (Drought)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "बाढ़ (Flood)"
+        },
+        {
+            "id": 15,
+            "question": "लोकतांत्रिक विकेन्द्रीकरण का सुझाव निम्न में से किसने दिया ? (Who among the following suggested democratic decentralization ?)",
+            "options": [
+                "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)",
+                "तेंदुलकर समिति (Tendulkar Committee)",
+                "नरसिंहम समिति (Narsimham Committee)",
+                "चेलैया समिति (Chelliah Committce)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)"
+        },
+        {
+            "id": 16,
+            "question": "कौन-सा संवैधानिक संशोधन नगरीय स्थानीय स्वशासन से संबंधित है ? (Which constitutional amendment is related to urban local seif government ?)",
+            "options": [
+                "75 र्वां (75th)",
+                "74 वाँ (74th)",
+                "73 बाँ (73rd)",
+                "72 वाँ (72nd)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "74 वाँ (74th)"
+        },
+        {
+            "id": 17,
+            "question": "चिपको आंदोलन का प्रारंभ किस राज्य से हुआ ? (Chipko movement was started from which state?)",
+            "options": [
+                "उत्तराखंड (Uttarakhand)",
+                "हिमाचल प्रदेश (Himachal Pradesh)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "केरल (Kerala)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 18,
+            "question": "आपातकाल की घोषणा कौन करता है ? (Who declares emergency?)",
+            "options": [
+                "राष्ट्रपति (President)",
+                "प्रधानमंत्री (Prime Minister)",
+                "मुख्य न्यायाधीश (Chief Justice)",
+                "इनमें से कोई नहीं (None of them)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "राष्ट्रपति (President)"
+        },
+        {
+            "id": 19,
+            "question": "किस देश में संघात्मक शासन व्यवस्था नहीं है ? (Which country does not have a federal system of governance ?)",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "बेल्जियम (Belgium)",
+                "स्विट्जरलैंड (Switzerland)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 20,
+            "question": "भारत का सबसे पुराना राजनीतिक दल कौन-सा है ? (Which is the oldest political party in India ?)",
+            "options": [
+                "जनता दल (Janata Dal)",
+                "भारतीय जनता पार्टी (Bharatiya Janata Party)",
+                "भारतीय राष्ट्रीय काँग्रेस (Indian National Congress)",
+                "राष्ट्रवादी काँग्रेस पार्टी (Nationalist Congress Party)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "भारतीय राष्ट्रीय काँग्रेस (Indian National Congress)"
+        },
+        {
+            "id": 21,
+            "question": "निम्न में से किस देश में प्रत्यक्ष लोकतंत्र पाया जाता है ? (In which of the following countries is direct democracy found ?)",
+            "options": [
+                "स्विट्जरलैंड (Switzerland)",
+                "भारत (India)",
+                "अमेरिका (America)",
+                "बेल्जियम (Belgium)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "स्विट्जरलैंड (Switzerland)"
+        },
+        {
+            "id": 22,
+            "question": "किस गुण के कारण लोकतंत्र को अन्य शासन प्रणालियों से बेहतर माना जाता है ? (Due to which quality democracy is considered better than other forms of government?)",
+            "options": [
+                "समानता और स्वतंत्रता का पोषक (Nurturer of equality and liberty)",
+                "जनमत (Public opinion)",
+                "मतभेदों में सामंजस्य (Reconciliation of differences)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 23,
+            "question": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान कब लगाया गया? (When was the national income estimated for the first time in India?)",
+            "options": [
+                "1798",
+                "1848",
+                "1868",
+                "1911"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "1868"
+        },
+        {
+            "id": 24,
+            "question": "चक्रीय प्रवाह का संबंध निम्न में से किससे है? (Circular flow is related to which of the following ?)",
+            "options": [
+                "उत्पादन (Production)",
+                "आय (Income)",
+                "व्यय (Expenditure)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 25,
+            "question": "आय और उपभोग का अंतर क्या कहलाता है ? (What is the difference between income and consumption called ?)",
+            "options": [
+                "उत्पादन (Production)",
+                "बचत (Saving)",
+                "विनिमय (Exchange)",
+                "वितरण (Distribution)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "बचत (Saving)"
+        },
+        {
+            "id": 26,
+            "question": "सूक्ष्म वित्तीय संस्थाओं की शुरुआत किस देश से हुई ? (Micro-financial institutions started from which country?)",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "बांग्लादेश (Bangladesh)",
+                "म्यांमार (Myanmar)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बांग्लादेश (Bangladesh)"
+        },
+        {
+            "id": 27,
+            "question": "सकल घरेलू उत्पाद (GDP) में सबसे कम योगदान किस क्षेत्र का है ? (Which sector has the least contribution to Gross Domestic Product (GDP) ?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "प्राथमिक क्षेत्र (Primary sector)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में से क्या आर्थिक आधारभूत संरचना का अंग है ? (Which of the following is a part of economic infrastructure ?)",
+            "options": [
+                "शिक्षा (Education)",
+                "स्वास्थ्य (Health)",
+                "नागरिक सेवाएँ (Civil Services)",
+                "यातायात (Transportation)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "यातायात (Transportation)"
+        },
+        {
+            "id": 29,
+            "question": "विश्व व्यापार संगठन का मुख्यालय कहाँ स्थित है ? (Where is the headquarters of World Trade Organization situated ?)",
+            "options": [
+                "न्यूयार्क (New York)",
+                "जेनेवा (Geneva)",
+                "हनोई (Hanoi)",
+                "पेरिस (Paris)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जेनेवा (Geneva)"
+        },
+        {
+            "id": 30,
+            "question": "राष्ट्रीय आय का अर्थ है (The meaning of National income is)",
+            "options": [
+                "पारिवारिक आय (Family income)",
+                "सार्वजनिक उपक्रमों की आय (Income of Public enterprises)",
+                "सरकार की आय (Government income)",
+                "किसी अर्थव्यवस्था की सभी अंतिम वस्तुओं और सेवाओं का मौद्रिक मूल्य (Monetary value of all final goods and services of an economy)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "किसी अर्थव्यवस्था की सभी अंतिम वस्तुओं और सेवाओं का मौद्रिक मूल्य (Monetary value of all final goods and services of an economy)"
+        },
+        {
+            "id": 31,
+            "question": "गाँधीजी के राजनीतिक गुरु कौन थे ? (Who was the political guru of Gandhiji ?)",
+            "options": [
+                "गोपालकृष्ण गोखले (Gopal Krishna Gokhale)",
+                "रबीन्द्रनाथ टैगोर (Rabindranath Tagore)",
+                "विपिन चंद्र पाल (Vipin Chandra Pal)",
+                "व्योमकेश बनर्जी (Vyomkesh Banerjee)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "गोपालकृष्ण गोखले (Gopal Krishna Gokhale)"
+        },
+        {
+            "id": 32,
+            "question": "निम्न में से कौन मित्र राष्ट्रों के गुट में शामिल नहीं था ? (Which of the following was not a part of allied powers ?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "जर्मनी (Germany)",
+                "फ्रांस (France)",
+                "रूस (Russia)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 33,
+            "question": "'संवाद कौमुदी' का प्रकाशन किस भाषा में हुआ ? (In which language was 'Samvad Kaumudi' published ?)",
+            "options": [
+                "बंगला (Bangla)",
+                "हिन्दी (Hindi)",
+                "मराठी (Marathi)",
+                "अंग्रेजी (English)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "बंगला (Bangla)"
+        },
+        {
+            "id": 34,
+            "question": "भारतीय समाचारपत्रों के मुक्तिदाता के रूप में कौन विख्यात है ? (Who is famous as the liberator of Indian newspapers ?)",
+            "options": [
+                "वारेन हेस्टिंग्स (Warren Hastings)",
+                "चार्ल्स मेटकॉफ (Charles Metcalfe)",
+                "लॉर्ड लिटन (Lord Lytton)",
+                "लॉर्ड रिपन (Lord Ripon)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "चार्ल्स मेटकॉफ (Charles Metcalfe)"
+        },
+        {
+            "id": 35,
+            "question": "'रक्त और लौह' की नीति का संबंध किनसे है? (With whom is the policy of 'Blood and Iron' related ?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "स्टालिन (Stalin)",
+                "बिस्मार्क (Bismarck)",
+                "गैरीबाल्डी (Garibaldi)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बिस्मार्क (Bismarck)"
+        },
+        {
+            "id": 36,
+            "question": "बोहेमिया निम्न में से किस देश के अधीन था ? (Bohemia was under which of the following countries ?)",
+            "options": [
+                "ऑस्ट्रिया (Austria)",
+                "यूनान (Greece)",
+                "तुर्की (Turkcу)",
+                "पोलैंड (Poland)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ऑस्ट्रिया (Austria)"
+        },
+        {
+            "id": 37,
+            "question": "1871 में विलियम प्रथम कहाँ का सम्राट बना ? (Where did William I become the emperor in 1871 ?)",
+            "options": [
+                "इटली (Italy)",
+                "इंग्लैण्ड (England)",
+                "जर्मनी (Germany)",
+                "पोलैंड (Poland)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 38,
+            "question": "भारतीय कम्युनिस्ट पार्टी की स्थापना कहाँ हुई ? (Where was the Communist Party of India established ?)",
+            "options": [
+                "लखनऊ (Lucknow)",
+                "बर्लिन (Berlin)",
+                "दिल्ली (Delhi)",
+                "ताशकंद (Tashkent)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "ताशकंद (Tashkent)"
+        },
+        {
+            "id": 39,
+            "question": "इलवर्ट बिल किसके शासनकाल में पारित हुआ ? (During whose reign was the Ilbert bill passed ?)",
+            "options": [
+                "लॉर्ड लिटन (Lord Lytton)",
+                "लॉर्ड रिपन (Lord Ripon)",
+                "लॉर्ड डलहौजी (Lord Dalhousie)",
+                "लॉर्ड कर्जन (Lord Curzon)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "लॉर्ड रिपन (Lord Ripon)"
+        },
+        {
+            "id": 40,
+            "question": "असहयोग आंदोलन का प्रस्ताव किस कांग्रेस अधिवेशन में स्वीकार किया गया ? (In which Congress session was the proposal of non-cooperation movement adopted ?)",
+            "options": [
+                "नागपुर (Nagpur)",
+                "लाहौर (Lahore)",
+                "लखनऊ (Lucknow)",
+                "कराची (Karachi)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "नागपुर (Nagpur)"
+        },
+        {
+            "id": 41,
+            "question": "किस कानून के बिरोध में जालियाँवाला बाग में सभा का आयोजन हुआ ? (Against which law was a meeting organised in Jallianwala Bagh?)",
+            "options": [
+                "इलबर्ट बिल (Ilbert Bill)",
+                "रॉलेट एक्ट (Rowlatt Act)",
+                "साइमन कमीशन (Simon Commission)",
+                "वर्नाक्यूलर प्रेस एक्ट (Vernacular Press Act)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "रॉलेट एक्ट (Rowlatt Act)"
+        },
+        {
+            "id": 42,
+            "question": "इटली का एकीकरण कब पूर्ण हुआ ? (When was the unification of Italy completed ?)",
+            "options": [
+                "1861",
+                "1871",
+                "1720",
+                "1817"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1871"
+        },
+        {
+            "id": 43,
+            "question": "अन्तरराष्ट्रीय महिला दिवस की घोषणा किस वर्ष में की गई थी ? (In which year was the International Women's Day announced ?)",
+            "options": [
+                "1975",
+                "1978",
+                "1980",
+                "1985"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 44,
+            "question": "भारत विश्व व्यापार संगठन का सदस्य कब बना ? (When did India become member of the World Trade Organization?)",
+            "options": [
+                "1995",
+                "1996",
+                "1998",
+                "1999"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "1995"
+        },
+        {
+            "id": 45,
+            "question": "दांडी यात्रा से किस आंदोलन की शुरुआत हुई ? (Which movement was started with Dandi March ?)",
+            "options": [
+                "असहयोग आंदोलन (Non-cooperation Movement)",
+                "भारत छोड़ो आंदोलन (Quit India Movement)",
+                "सविनय अवज्ञा आंदोलन (Civil disobedience Movement)",
+                "चम्पारण सत्याग्रह (Champaran Satyagraha)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सविनय अवज्ञा आंदोलन (Civil disobedience Movement)"
+        },
+        {
+            "id": 46,
+            "question": "अखिल भारतीय ट्रेड यूनियन कांग्रेस के प्रथम अध्यक्ष कौन थे ? (Who was the first President of All India Trade Union Congress ?)",
+            "options": [
+                "बाल गंगाधर तिलक (Bal Gangadhar Tilak)",
+                "लाला लाजपत राय (Lala Lajpat Rai)",
+                "गोपाल कृष्ण गोखले (Gopal Krishna Gokhale)",
+                "सुभाष चन्द्र बोस (Subhash Chandra Bose)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "लाला लाजपत राय (Lala Lajpat Rai)"
+        },
+        {
+            "id": 47,
+            "question": "ऑल इण्डिया मुस्लिम लीग की स्थापना कब हुई (When was the All India Muslim League established?)",
+            "options": [
+                "1902",
+                "1906",
+                "1911",
+                "1912"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1906"
+        },
+        {
+            "id": 48,
+            "question": "सिमलीपाल राष्ट्रीय उद्यान कहाँ स्थित है? (Where is Simlipal National Park located?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "ओडिशा (Odisha)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 49,
+            "question": "कल्पक्कम परमाणु विद्युत संयंत्र कहाँ स्थित है ? (Where is Kalpakkam Nuclear Power Plant situated ?)",
+            "options": [
+                "तमिलनाडु (Tamil Nadu)",
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "पश्चिम बंगाल (West Bengal)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "तमिलनाडु (Tamil Nadu)"
+        },
+        {
+            "id": 50,
+            "question": "निम्न में से कौन पत्तन पूर्वी तट पर स्थित नहीं है ? (Which of the following ports is not located on the eastern coast ?)",
+            "options": [
+                "तूतीकोरिन (Tuticorin)",
+                "मार्मागाओ (Marmagao)",
+                "पारादीप (Paradip)",
+                "विशाखापटनम (Vishakhapatnam)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "मार्मागाओ (Marmagao)"
+        }
+    ]
+}

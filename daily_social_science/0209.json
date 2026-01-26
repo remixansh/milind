@@ -1,0 +1,658 @@
+{
+    "date": "0209",
+    "dateDisplay": "09 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "भारत का सबसे छोटा रेलवे क्षेत्र कौन है ? (Which is the smallest railway zone in India?)",
+            "options": [
+                "उत्तर रेलवे (Northern Railway)",
+                "पूर्व रेलवे (Eastern Railway)",
+                "मध्य रेलवे (Central Railway)",
+                "उत्तर-पूर्वी रेलवे (North-Eastern Railway)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "उत्तर-पूर्वी रेलवे (North-Eastern Railway)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से कौन लोकतंत्र का प्राण है ? (Which of the following is the lifeblood of democracy?)",
+            "options": [
+                "सरकार (Government)",
+                "न्यायपालिका (Judiciary)",
+                "राजनीतिक दल (Political Party)",
+                "संविधान (Constitution)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "राजनीतिक दल (Political Party)"
+        },
+        {
+            "id": 3,
+            "question": "भारतीय कम्युनिस्ट पार्टी की स्थापना कब हुई ? (When was the Communist Party of India established?)",
+            "options": [
+                "1925",
+                "1964",
+                "1984",
+                "1999"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1925"
+        },
+        {
+            "id": 4,
+            "question": "किसने कहा “लोकतंत्र जनता का, जनता के लिए तथा जनता के द्वारा शासन है\"? (Who said \"Democracy is government of the people, for the people and by the people\"?)",
+            "options": [
+                "अरस्तू (Aristotle)",
+                "अब्राहम लिंकन (Abraham Lincoln)",
+                "रूसो (Rousseau)",
+                "हीगल (Hegel)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अब्राहम लिंकन (Abraham Lincoln)"
+        },
+        {
+            "id": 5,
+            "question": "भारत में कौन शासन प्रणाली है ? (What is the system of governance in India?)",
+            "options": [
+                "अध्यक्षीय व्यवस्था' (Presidential System)",
+                "राजशाही व्यवस्था (Monarchy System)",
+                "तानाशाही व्यवस्था (Dictatorship System)",
+                "संसदीय व्यवस्था (Parliamentary System)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "संसदीय व्यवस्था (Parliamentary System)"
+        },
+        {
+            "id": 6,
+            "question": "भारत में वोट देने के लिए न्यूनतम आयु क्या है? (What is the minimum age to vote in India?)",
+            "options": [
+                "16 वर्ष (16 years)",
+                "18 वर्ष (18 years)",
+                "21 वर्ष (21 years)",
+                "25 वर्ष (25 years)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "18 वर्ष (18 years)"
+        },
+        {
+            "id": 7,
+            "question": "लोकतंत्र की सफलता की चुनौती है। (The challenge to the success of democracy is.)",
+            "options": [
+                "अफसरशाही (Bureaucracy)",
+                "अशिक्षा (Illiteracy)",
+                "जातिवाद (Casteism)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 8,
+            "question": "भारत में राष्ट्रीय आपातकाल की घोषणा कब हुई थी ? (When was the national emergency declared in India?)",
+            "options": [
+                "1975",
+                "1980",
+                "1985",
+                "1990"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 9,
+            "question": "सुनामी प्रभावित क्षेत्र में मकानों का निर्माण कहाँ करना चाहिए? (Where should houses be constructed in tsunami affected areas?)",
+            "options": [
+                "सागर तट के निकट (Near the sea coast)",
+                "सागर तट से दूर (Away from the sea coast)",
+                "मैंग्रोव वन में (In mangrove forest)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सागर तट से दूर (Away from the sea coast)"
+        },
+        {
+            "id": 10,
+            "question": "समाजवादी अर्थव्यवस्था का गुण है। (The merit of socialist economy is.)",
+            "options": [
+                "निजी लाभ (Private profit)",
+                "मूल्य तंत्र (Price mechanism)",
+                "सामाजिक कल्याण (Social welfare)",
+                "साधनों का निजी स्वामित्व (Private ownership of resources)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सामाजिक कल्याण (Social welfare)"
+        },
+        {
+            "id": 11,
+            "question": "विकसित देशों की आय में वृद्धि के लिए किस पद का प्रयोग होता है ? (Which term is used for the increase in income of developed countries?)",
+            "options": [
+                "आर्थिक विकास (Economic Development)",
+                "आर्थिक वृद्धि (Economic Growth)",
+                "समावेशी विकास (Inclusive Development)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "आर्थिक वृद्धि (Economic Growth)"
+        },
+        {
+            "id": 12,
+            "question": "निम्न में से कौन प्लास्टिक मुद्रा है ? (Which of the following is plastic money?)",
+            "options": [
+                "चेक (Cheque)",
+                "बैंक ड्राफ्ट (Bank Draft)",
+                "डेबिट कार्ड (Debit Card)",
+                "करेंसी नोट (Currency Note)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "डेबिट कार्ड (Debit Card)"
+        },
+        {
+            "id": 13,
+            "question": "भारत में सकल घरेलू उत्पाद में किस क्षेत्र का योगदान सर्वाधिक है ? (Which sector contributes the most to the Gross Domestic Product in India?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture Sector)",
+                "औ‌द्योगिक क्षेत्र (Industrial Sector)",
+                "सेवा क्षेत्र (Service Sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सेवा क्षेत्र (Service Sector)"
+        },
+        {
+            "id": 14,
+            "question": "छिपी बेरोजगारी पाई जाती है। (Disguised unemployment is found in.)",
+            "options": [
+                "सेवा क्षेत्र में (In Service Sector)",
+                "कृषि क्षेत्र में (In Agriculture Sector)",
+                "औ‌द्योगिक क्षेत्र में (In Industrial Sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कृषि क्षेत्र में (In Agriculture Sector)"
+        },
+        {
+            "id": 15,
+            "question": "रूस की मुद्रा क्या है ? (What is the currency of Russia?)",
+            "options": [
+                "दीनार (Dinar)",
+                "रियाल (Riyal)",
+                "रूबल (Ruble)",
+                "टका (Taka)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "रूबल (Ruble)"
+        },
+        {
+            "id": 16,
+            "question": "साख का आधार क्या है ? (What is the basis of credit?)",
+            "options": [
+                "विश्वास (Trust)",
+                "बचत (Savings)",
+                "निवेश (Investment)",
+                "उपभोग (Consumption)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "विश्वास (Trust)"
+        },
+        {
+            "id": 17,
+            "question": "वस्तुओं और सेवाओं को अपने उपयोग के लिए कौन खरीदता है ? (Who buys goods and services for his own use?)",
+            "options": [
+                "सेवा प्रदाता (Service Provider)",
+                "उत्पादक (Producer)",
+                "उपभोक्ता (Consumer)",
+                "दुकानदार (Shopkeeper)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "उपभोक्ता (Consumer)"
+        },
+        {
+            "id": 18,
+            "question": "वायु परिवहन का राष्ट्रीयकरण कब किया गया ? (When was air transport nationalized?)",
+            "options": [
+                "1933",
+                "1947",
+                "1950",
+                "1953"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "1953"
+        },
+        {
+            "id": 19,
+            "question": "विश्व का प्राचीनतम परिवहन साधन क्या है? (What is the oldest means of transport in the world?)",
+            "options": [
+                "जल परिवहन (Water transport)",
+                "रेल परिवहन (Rail transport)",
+                "हवाई परिवहन (Air transport)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "जल परिवहन (Water transport)"
+        },
+        {
+            "id": 20,
+            "question": "मोरमुगाओ बंदरगाह कहाँ है? (Where is Mormugao Port?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "गोवा (Goa)",
+                "तमिलनाडु (Tamil Nadu)",
+                "आंध्र प्रदेश (Andhra Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "गोवा (Goa)"
+        },
+        {
+            "id": 21,
+            "question": "कांडला विशेष आर्थिक क्षेत्र कहाँ है ? (Where is Kandla Special Economic Zone?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "केरल (Kerala)",
+                "पश्चिम बंगाल (West Bengal)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "गुजरात (Gujarat)"
+        },
+        {
+            "id": 22,
+            "question": "कहलगाँव तापीय विद्युत परियोजना कहाँ है ? (Where is Kahalgaon Thermal Power Project?)",
+            "options": [
+                "भागलपुर (Bhagalpur)",
+                "मुंगेर (Munger)",
+                "जमुई (Jamui)",
+                "औरंगाबाद (Aurangabad)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "भागलपुर (Bhagalpur)"
+        },
+        {
+            "id": 23,
+            "question": "जर्मन राईन राज्य का निर्माण किसने किया था ? (Who created the German Rhine State?)",
+            "options": [
+                "लुई 18वाँ (Louis XVIII)",
+                "नेपोलियन बोनापार्ट (Napoleon Bonaparte)",
+                "नेपोलियन III (Napoleon III)",
+                "बिस्मार्क (Bismarck)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "नेपोलियन बोनापार्ट (Napoleon Bonaparte)"
+        },
+        {
+            "id": 24,
+            "question": "भारत का प्रथम परमाणु विद्युत गृह कहाँ है ? (Where is India's first nuclear power plant?)",
+            "options": [
+                "कल्पाक्कम (Kalpakkam)",
+                "कैगा (Kaiga)",
+                "नरौरा (Narora)",
+                "तारापुर (Tarapur)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "तारापुर (Tarapur)"
+        },
+        {
+            "id": 25,
+            "question": "मनीकरण भूतापीय ऊर्जा संयंत्र किस राज्य में है? (In which state is Manikaran Geothermal Energy Plant located?)",
+            "options": [
+                "पंजाब (Punjab)",
+                "उत्तराखण्ड (Uttarakhand)",
+                "हिमाचल प्रदेश (Himachal Pradesh)",
+                "मणिपुर (Manipur)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "हिमाचल प्रदेश (Himachal Pradesh)"
+        },
+        {
+            "id": 26,
+            "question": "सिंदरी किस उ‌द्योग के लिए जाना जाता है ? (Sindri is known for which industry?)",
+            "options": [
+                "सीमेंट उ‌द्योग (Cement Industry)",
+                "उर्वरक उद्योग (Fertilizer Industry)",
+                "लौह उ‌द्योग (Iron Industry)",
+                "सूती वस्त्र उद्योग (Cotton Textile Industry)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "उर्वरक उद्योग (Fertilizer Industry)"
+        },
+        {
+            "id": 27,
+            "question": "एशिया में सबसे पुराना रेलवे वर्कशॉप कौन है ? (Which is the oldest railway workshop in Asia?)",
+            "options": [
+                "चित्तरंजन लोकोमोटिव (Chittaranjan Locomotive)",
+                "नागपुर रेलवे वर्कशाप (Nagpur Railway Workshop)",
+                "जमालपुर रेलवे वर्कशाप (Jamalpur Railway Workshop)",
+                "अमृतसर रेलवे वर्कशाप (Amritsar Railway Workshop)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "जमालपुर रेलवे वर्कशाप (Jamalpur Railway Workshop)"
+        },
+        {
+            "id": 28,
+            "question": "'सिलिकॉन शहर' के नाम से कौन प्रसिद्ध है? (Who is famous as 'Silicon City'?)",
+            "options": [
+                "हैदराबाद (Hyderabad)",
+                "बेंगलुरु (Bengaluru)",
+                "पूना (Pune)",
+                "अहमदाबाद (Ahmedabad)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "बेंगलुरु (Bengaluru)"
+        },
+        {
+            "id": 29,
+            "question": "मन्दार पहाड़ी किस जिले में है ? (In which district is Mandar Hill located?)",
+            "options": [
+                "मुंगेर (Munger)",
+                "भागलपुर (Bhagalpur)",
+                "बांका (Banka)",
+                "बक्सर (Buxar)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "बांका (Banka)"
+        },
+        {
+            "id": 30,
+            "question": "इटली के एकीकरण में निम्न में किसने योगदान किया था ? (Who among the following contributed to the unification of Italy?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "गैरीबाल्डी (Garibaldi)",
+                "काउंट कावूर (Count Cavour)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 31,
+            "question": "भारत में एक रुपया का नोट कौन जारी करता है ? (Who issues one rupee note in India?)",
+            "options": [
+                "भारतीय रिजर्व बैंक (Reserve Bank of India)",
+                "सेन्ट्रल बैंक ऑफ इण्डिया (Central Bank of India)",
+                "वित्त विभाग (Finance Department)",
+                "स्टेट बैंक ऑफ इण्डिया (State Bank of India)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "वित्त विभाग (Finance Department)"
+        },
+        {
+            "id": 32,
+            "question": "प्राथमिक क्षेत्र में कौन-सी आर्थिक क्रिया शामिल है ? (Which economic activity is included in the primary sector?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "खनन (Mining)",
+                "पशुपालन (Animal Husbandry)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 33,
+            "question": "निम्न में से कौन साख मुद्रा का उदाहरण है ? (Which of the following is an example of credit money?)",
+            "options": [
+                "करेंसी नोट (Currency Note)",
+                "बैंक ड्राफ्ट (Bank Draft)",
+                "सिक्के (Coins)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "बैंक ड्राफ्ट (Bank Draft)"
+        },
+        {
+            "id": 34,
+            "question": "2011 की जनगणना के अनुसार भारत की आबादी थी (According to the 2011 census, the population of India was)",
+            "options": [
+                "90 करोड़ (90 Crores)",
+                "121 करोड़ (121 Crores)",
+                "140 करोड़ (140 Crores)",
+                "150 करोड़ (150 Crores)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "121 करोड़ (121 Crores)"
+        },
+        {
+            "id": 35,
+            "question": "कृषि उत्पादों की गुणवत्ता सुनिश्चित करने का मान्यता प्राप्त चिह्न है (The recognized mark to ensure the quality of agricultural products is)",
+            "options": [
+                "आई. एस. आई. मार्क (ISI Mark)",
+                "हॉल मार्क (Hallmark)",
+                "एगमार्क (Agmark)",
+                "बुलमार्क (Bullmark)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एगमार्क (Agmark)"
+        },
+        {
+            "id": 36,
+            "question": "केन्द्रीय सांख्यिकी संगठन की स्थापना कब हुई थी ? (When was the Central Statistical Organization established?)",
+            "options": [
+                "1950",
+                "1954",
+                "1956",
+                "1960"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1954"
+        },
+        {
+            "id": 37,
+            "question": "राबर्ट ओवन कहाँ का निवासी था ? (Where was Robert Owen a resident of?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "ब्रिटेन (Britain)",
+                "ऑस्ट्रिया (Austria)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "ब्रिटेन (Britain)"
+        },
+        {
+            "id": 38,
+            "question": "वोल्शेविक क्रांति का नेतृत्व किसने किया? (Who led the Bolshevik Revolution?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "लेनिन (Lenin)",
+                "बिस्मार्क (Bismarck)",
+                "गैरीबाल्टी (Garibaldi)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 39,
+            "question": "कम्बोडिया की राजधानी है। (The capital of Cambodia is.)",
+            "options": [
+                "हनोई (Hanoi)",
+                "नोमपेन्ह (Phnom Penh)",
+                "बैंकॉक (Bangkok)",
+                "ओटावा (Ottawa)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "नोमपेन्ह (Phnom Penh)"
+        },
+        {
+            "id": 40,
+            "question": "किस कानून के विरोध में जलियाँवाला बाग में सभा का आयोजन हुआ था? (Against which law was the meeting organized in Jallianwala Bagh?)",
+            "options": [
+                "वर्नाक्यूलर प्रेस एक्ट (Vernacular Press Act)",
+                "भारत सरकार अधिनियम, 1858 (Government of India Act, 1858)",
+                "रौलेट एक्ट (Rowlatt Act)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "रौलेट एक्ट (Rowlatt Act)"
+        },
+        {
+            "id": 41,
+            "question": "किनके अनुरोध पर महात्मा गाँधी चम्पारण आए थे? (At whose request did Mahatma Gandhi come to Champaran?)",
+            "options": [
+                "राजकुमार शुक्ल (Rajkumar Shukla)",
+                "अनुग्रह नारायण सिन्हा (Anugrah Narayan Sinha)",
+                "जयप्रकाश नारायण (Jayaprakash Narayan)",
+                "डॉ० राजेन्द्र प्रसाद (Dr. Rajendra Prasad)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "राजकुमार शुक्ल (Rajkumar Shukla)"
+        },
+        {
+            "id": 42,
+            "question": "वल्लभ भाई पटेल को 'सरदार' की उपाधि किस किसान आन्दोलन के दौरान दी गई थी ? (During which peasant movement was the title of 'Sardar' given to Vallabhbhai Patel?)",
+            "options": [
+                "बारदोली (Bardoli)",
+                "अहमदाबाद (Ahmedabad)",
+                "खेड़ा (Kheda)",
+                "चम्पारण (Champaran)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "बारदोली (Bardoli)"
+        },
+        {
+            "id": 43,
+            "question": "फ्लाइंग शटलं का आविष्कार किसने किया था? (Who invented the Flying Shuttle?)",
+            "options": [
+                "जेम्स वाट (James Watt)",
+                "हम्फ्री डेवी (Humphry Davy)",
+                "जॉन के (John Kay)",
+                "टॉमस बेल (Thomas Bell)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "हम्फ्री डेवी (Humphry Davy)"
+        },
+        {
+            "id": 44,
+            "question": "भारत में पहली जूट मिल कहाँ स्थापित की गई थी ? (Where was the first jute mill established in India?)",
+            "options": [
+                "कलकत्ता (Calcutta)",
+                "दिल्ली (Delhi)",
+                "बम्बई (Bombay)",
+                "पटना (Patna)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "कलकत्ता (Calcutta)"
+        },
+        {
+            "id": 45,
+            "question": "बाढ़ का प्रमुख कारण है। (The main cause of flood is.)",
+            "options": [
+                "जल की अधिकता (Excess of water)",
+                "नदी-तल पर मलवों का निक्षेपण (Deposition of debris on river bed)",
+                "वर्षा की अधिकता (Excess of rainfall)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 46,
+            "question": "भूकम्प संभावित क्षेत्रों में भवनों की आकृति कैसी होनी चाहिए? (What should be the shape of buildings in earthquake prone areas?)",
+            "options": [
+                "अण्डाकार (Oval)",
+                "त्रिभुजाकार (Triangular)",
+                "चौकोर (Square)",
+                "आयताकार (Rectangular)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "आयताकार (Rectangular)"
+        },
+        {
+            "id": 47,
+            "question": "सीमेंट उ‌द्योग का कच्चा माल क्या है ? (What is the raw material of cement industry?)",
+            "options": [
+                "चूनापत्थर (Limestone)",
+                "बॉक्साइट (Bauxite)",
+                "ग्रेनाइट (Granite)",
+                "लौह अयस्क (Iron Ore)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "चूनापत्थर (Limestone)"
+        },
+        {
+            "id": 48,
+            "question": "भारत में कितने सार्वजनिक क्षेत्र के तेल परिष्करण केन्द्र कार्य कर रहे हैं? (How many public sector oil refineries are working in India?)",
+            "options": [
+                "15",
+                "16",
+                "18",
+                "20"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "18"
+        },
+        {
+            "id": 49,
+            "question": "हीराकुंड परियोजना किस नदी पर है? (On which river is the Hirakud Project?)",
+            "options": [
+                "महानदी (Mahanadi)",
+                "गोदावरी (Godavari)",
+                "दामोदर (Damodar)",
+                "सतलज (Satluj)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "महानदी (Mahanadi)"
+        },
+        {
+            "id": 50,
+            "question": "दक्षिण अफ्रीका के प्रथम अश्वेत राष्ट्रपति कौन थे ? (Who was the first black president of South Africa?)",
+            "options": [
+                "एनक्रमा (Nkrumah)",
+                "जनरल पिनोशे (General Pinochet)",
+                "नेल्सन मंडेला (Nelson Mandela)",
+                "अब्राहम लिंकन (Abraham Lincoln)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "नेल्सन मंडेला (Nelson Mandela)"
+        }
+    ]
+}

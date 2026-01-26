@@ -1,0 +1,658 @@
+{
+    "date": "0125",
+    "dateDisplay": "25 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "गोलघर का निर्माण कब हुआ था ? (When was Golghar constructed ?)",
+            "options": [
+                "1786",
+                "1768",
+                "1832",
+                "1788"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1786"
+        },
+        {
+            "id": 2,
+            "question": "भारत में सर्वप्रथम आधुनिक सूती कपड़े की मिल कहाँ स्थापित की गई थी ? (Where was the first modern cotton mill established in India?)",
+            "options": [
+                "सूरत (Surat)",
+                "बम्बई (Bombay)",
+                "कलकत्ता (Calcutta)",
+                "अहमदाबाद (Ahmedabad)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बम्बई (Bombay)"
+        },
+        {
+            "id": 3,
+            "question": "सर्वोत्तम कोयले का प्रकार कौन है ? (Which is the best type of coal ?)",
+            "options": [
+                "पीट (Peat)",
+                "लिग्नाइट (Lignite)",
+                "एन्थ्रासाइट (Anthracite)",
+                "बिटुमिनस (Bituminous)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "एन्थ्रासाइट (Anthracite)"
+        },
+        {
+            "id": 4,
+            "question": "कुशेश्वर स्थान अभयारण्य कहाँ स्थित है ? (Where is Kusheshwar Sthan Sanctuary located?)",
+            "options": [
+                "मुरैना (Morena)",
+                "दरभंगा (Darbhanga)",
+                "भागलपुर (Bhagalpur)",
+                "नन्दन कानन (Nandan Kanan)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दरभंगा (Darbhanga)"
+        },
+        {
+            "id": 5,
+            "question": "झरिया कोयला क्षेत्र किस राज्य में स्थित है ? (In which state is Jharia coal field located?)",
+            "options": [
+                "झारखण्ड (Jharkhand)",
+                "ओडिशा (Odisha)",
+                "बिहार (Bihar)",
+                "पश्चिम बंगाल (West Bengal)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "झारखण्ड (Jharkhand)"
+        },
+        {
+            "id": 6,
+            "question": "हो-ची-मिन्ह कहाँ का शासक था ? (Ho Chi Minh was the ruler of which country?)",
+            "options": [
+                "उत्तरी वियतनाम (North Vietnam)",
+                "दक्षिणी वियतनाम (South Vietnam)",
+                "लाओस (Laos)",
+                "कम्बोडिया (Cambodia)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "उत्तरी वियतनाम (North Vietnam)"
+        },
+        {
+            "id": 7,
+            "question": "समोच्च जुताई कहाँ की जाती है ? (Where is contour ploughing done?)",
+            "options": [
+                "मैदानी क्षेत्र (Plain area)",
+                "तटीय क्षेत्र (Coastal area)",
+                "पहाड़ी क्षेत्र (Mountainous area)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पहाड़ी क्षेत्र (Mountainous area)"
+        },
+        {
+            "id": 8,
+            "question": "जोहानसबर्ग में कौन-सा पृथ्वी सम्मेलन आयोजित हुआ था ? (Which Earth Summit was held in Johannesburg?)",
+            "options": [
+                "प्रथम (First)",
+                "द्वितीय (Second)",
+                "तृतीय (Third)",
+                "चतुर्थ (Fourth)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "द्वितीय (Second)"
+        },
+        {
+            "id": 9,
+            "question": "सब्जी उत्पादन में बिहार का कौन स्थान है ? (What is the rank of Bihar in the production of vegetables ?)",
+            "options": [
+                "प्रथम (First)",
+                "द्वितीय (Second)",
+                "तृतीय (Third)",
+                "चतुर्थ (Fourth)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "तृतीय (Third)"
+        },
+        {
+            "id": 10,
+            "question": "बागमती परियोजना कहाँ स्थित है ? (Where is Bagmati project located ?)",
+            "options": [
+                "सीतामढ़ी (Sitamarhi)",
+                "दरभंगा (Darbhanga)",
+                "सारण (Saran)",
+                "रोहतास (Rohtas)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "सीतामढ़ी (Sitamarhi)"
+        },
+        {
+            "id": 11,
+            "question": "2011 की जनगणना के अनुसार बिहार के किस जिले का जनसंख्या घनत्व सबसे अधिक है ? (According to census 2011, which district of Bihar has the highest density of population?)",
+            "options": [
+                "शिवहर (Sheohar)",
+                "पटना (Patna)",
+                "कैमूर (Kaimur)",
+                "नालन्दा (Nalanda)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "शिवहर (Sheohar)"
+        },
+        {
+            "id": 12,
+            "question": "किस नदी को 'बंगाल का शोक' कहा जाता है ? (Which river is called the 'Sorrow of Bengal' ?)",
+            "options": [
+                "गंगा (Ganga)",
+                "दामोदर (Damodar)",
+                "कोसी (Kosi)",
+                "ब्रह्मपुत्र (Brahmaputra)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दामोदर (Damodar)"
+        },
+        {
+            "id": 13,
+            "question": "मूँगफली किस प्रकार की फसल है ? (What type of crop is peanut ?)",
+            "options": [
+                "रबी (Rabi)",
+                "खरीफ (Kharif)",
+                "जायद (Zaid)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "खरीफ (Kharif)"
+        },
+        {
+            "id": 14,
+            "question": "भारत में प्रथम जल विद्युत संयंत्र की स्थापना कहाँ की गई थी ? (Where was the first hydropower plant established in India ?)",
+            "options": [
+                "गंगटोक (Gangtok)",
+                "दार्जिलिंग (Darjeeling)",
+                "डिब्रुगढ़ (Dibrugarh)",
+                "कलकत्ता (Calcutta)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दार्जिलिंग (Darjeeling)"
+        },
+        {
+            "id": 15,
+            "question": "गुजरात का कच्छ प्रदेश किस भूकंपीय जोन में आता है ? (Kutch region of Gujarat falls in which seismic zone ?)",
+            "options": [
+                "जोन-II (Zone-II)",
+                "जोन-III (Zone-III)",
+                "जोन-IV (Zone-IV)",
+                "जोन-V (Zone-V)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "जोन-V (Zone-V)"
+        },
+        {
+            "id": 16,
+            "question": "भारत की सबसे बड़ी कृत्रिम झील कौन है ? (Which is the largest artificial lake in India ?)",
+            "options": [
+                "गोविंद सागर (Govind Sagar)",
+                "पंत सागर (Pant Sagar)",
+                "सरदार सरोवर (Sardar Sarovar)",
+                "कृष्णा सागर (Krishna Sagar)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "पंत सागर (Pant Sagar)"
+        },
+        {
+            "id": 17,
+            "question": "गण्डक परियोजना है (Gandak project is in)",
+            "options": [
+                "बेतिया में (In Bettiah)",
+                "वाल्मीकिनगर में (In Valmikinagar)",
+                "मोतिहारी में (In Motihari)",
+                "छपरा में (In Chapra)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "वाल्मीकिनगर में (In Valmikinagar)"
+        },
+        {
+            "id": 18,
+            "question": "कार्ल मार्क्स का जन्म कहाँ हुआ था ? (Where was Karl Marx born?)",
+            "options": [
+                "जर्मनी (Germany)",
+                "इंग्लैंड (England)",
+                "फ्रांस (France)",
+                "पोलैंड (Poland)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में किसने अपने देश में अनिवार्य सैन्य सेवा लागू की थी ? (Who among the following introduced compulsory military service in his country?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "मेटरनिख (Metternich)",
+                "बिस्मार्क (Bismarck)",
+                "लेनिन (Lenin)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 20,
+            "question": "फ्रांस में किस शासक वंश की पुनर्स्थापना वियना कांग्रेस द्वारा की गई थी ? (Which ruling dynasty in France was restored by the Congress of Vienna ?)",
+            "options": [
+                "हैब्सबर्ग (Habsburg)",
+                "रोमानोव (Romanov)",
+                "स्लाव (Slavic)",
+                "बूबों (Bourbon)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "बूबों (Bourbon)"
+        },
+        {
+            "id": 21,
+            "question": "आर्थिक नियोजन किसकी देन है ? (Whose contribution is economic planning?)",
+            "options": [
+                "फ्रांसीसी क्रांति (French Revolution)",
+                "रूसी क्रांति (Russian Revolution)",
+                "अमेरिकी क्रांति (American Revolution)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "रूसी क्रांति (Russian Revolution)"
+        },
+        {
+            "id": 22,
+            "question": "आस्वान बाँध किस नदी पर बना है ? (On which river is Aswan Dam built ?)",
+            "options": [
+                "नील नदी (Nile River)",
+                "ब्रह्मपुत्र नदी (Brahmaputra River)",
+                "अमेजन नदी (Amazon River)",
+                "गंगा नदी (Ganga River)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "नील नदी (Nile River)"
+        },
+        {
+            "id": 23,
+            "question": "2011 में जनसंख्या की दृष्टि से भारत का विश्व में कौन स्थान था ? (What was India's position in the world in terms of population in 2011?)",
+            "options": [
+                "प्रथम (First)",
+                "द्वितीय (Second)",
+                "तृतीय (Third)",
+                "चतुर्थ (Fourth)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "द्वितीय (Second)"
+        },
+        {
+            "id": 24,
+            "question": "बोल्शेविक क्रांति कब हुई ? (When did the Bolshevik Revolution take place?)",
+            "options": [
+                "फरवरी 1917 (February 1917)",
+                "नवम्बर 1917 (November 1917)",
+                "अप्रैल 1917 (April 1917)",
+                "जुलाई 1905 (July 1905)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "नवम्बर 1917 (November 1917)"
+        },
+        {
+            "id": 25,
+            "question": "सुखाड़ क्या है ? (What is drought?)",
+            "options": [
+                "प्राकृतिक आपदा (Natural disaster)",
+                "मानव जनित आपदा (Man-made disaster)",
+                "सामान्य आपदा (General disaster)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "प्राकृतिक आपदा (Natural disaster)"
+        },
+        {
+            "id": 26,
+            "question": "भूस्खलन है (Landslide is)",
+            "options": [
+                "प्राकृतिक आपदा (Natural disaster)",
+                "मानवीय आपदा (Human disaster)",
+                "सामान्य आपदा (General disaster)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "प्राकृतिक आपदा (Natural disaster)"
+        },
+        {
+            "id": 27,
+            "question": "सुनामी का सम्बन्ध है (Tsunami is related to)",
+            "options": [
+                "स्थल से (Land)",
+                "समुद्र से (Sea)",
+                "आसमान से (Sky)",
+                "इनमे से कोई नही (None of these)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "समुद्र से (Sea)"
+        },
+        {
+            "id": 28,
+            "question": "कोयला है (Coal is)",
+            "options": [
+                "अनवीकरणीय संसाधन (Non-renewable resource)",
+                "नवीकरणीय संसाधन (Renewable resource)",
+                "जैव संसाधन (Biotic resource)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "अनवीकरणीय संसाधन (Non-renewable resource)"
+        },
+        {
+            "id": 29,
+            "question": "स्वर्णिम चतुर्भुज सम्बन्धित है (Golden Quadrilateral is related to)",
+            "options": [
+                "रेलवे से (Railways)",
+                "सड़क मार्ग से (Roadways)",
+                "जल मार्ग से (Waterways)",
+                "वायु मार्ग से (Airways)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "सड़क मार्ग से (Roadways)"
+        },
+        {
+            "id": 30,
+            "question": "सविनय अवज्ञा आंदोलन कब शुरू हुआ ? (When did the Civil Disobedience Movement start?)",
+            "options": [
+                "1920",
+                "1930",
+                "1935",
+                "1942"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "1930"
+        },
+        {
+            "id": 31,
+            "question": "राउरकेला लोहा-इस्पात उद्योग है (Rourkela Iron and Steel Industry is in)",
+            "options": [
+                "ओडिशा में (In Odisha)",
+                "झारखण्ड में (In Jharkhand)",
+                "मध्य प्रदेश में (In Madhya Pradesh)",
+                "पश्चिम बंगाल में (In West Bengal)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "ओडिशा में (In Odisha)"
+        },
+        {
+            "id": 32,
+            "question": "लोकतंत्र की सफलता निर्भर करती है (Success of democracy depends on)",
+            "options": [
+                "नागरिकों की उदासीनता पर (disinterest of citizens)",
+                "नागरिकों की गैर-कानूनी कार्रवाई पर (illegal activites of citizens)",
+                "नागरिकों की विवेकपूर्ण सहभागिता पर (active participation of the citizens)",
+                "नागरिकों द्वारा अपनी जाति के हितों की रक्षा पर (secure the benefits of their caste by the citizens)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "नागरिकों की विवेकपूर्ण सहभागिता पर (active participation of the citizens)"
+        },
+        {
+            "id": 33,
+            "question": "निम्नलिखित में से कौन-सा संस्थान भारत में मुद्रा जारी करने के लिए अधिकृत है? (Which of the following institutions is authorized to issue currency in India?)",
+            "options": [
+                "रिजर्व बैंक ऑफ इण्डिया (Reserve Bank of India)",
+                "स्टेट बैंक ऑफ इण्डिया (State Bank of India)",
+                "संसद (Parliament)",
+                "राष्ट्रपति (President)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "रिजर्व बैंक ऑफ इण्डिया (Reserve Bank of India)"
+        },
+        {
+            "id": 34,
+            "question": "राज्यपाल की नियुक्ति कौन करता है ? (Who appoints the Governor ?)",
+            "options": [
+                "प्रधानमंत्री (Prime Minister)",
+                "मुख्यमंत्री (Chief Minister)",
+                "राष्ट्रपति (President)",
+                "उपराष्ट्रपति (Vice-President)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "राष्ट्रपति (President)"
+        },
+        {
+            "id": 35,
+            "question": "सेडॉन के युद्ध में किसकी पराजय हुई ? (Who was defeated in the battle of Sedan ?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "ऑस्ट्रिया (Austria)",
+                "प्रशा (Prussia)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 36,
+            "question": "भारत किस जल डमरूमध्य द्वारा श्रीलंका से पृथक होता है ? (By which strait is India separated from Sri Lanka ?)",
+            "options": [
+                "पाक जलडमरूमध्य (Palk Strait)",
+                "मलका जलडमरूमध्य (Malacca Strait)",
+                "बेरिंग जलडमरूमध्य (Bering strait)",
+                "होर्मुज़ जलडमरूमध्य (Hormuz strait)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "पाक जलडमरूमध्य (Palk Strait)"
+        },
+        {
+            "id": 37,
+            "question": "गंगा मैदान की पुरानी जलोढ़ मृदा क्या कहलाती है ? (What is the old alluvial soil of Ganga plain called ?)",
+            "options": [
+                "खादर (Khadar)",
+                "बांगर (Bhangar)",
+                "रेगुर (Regur)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बांगर (Bhangar)"
+        },
+        {
+            "id": 38,
+            "question": "भारत में राष्ट्रीय आय की गणना किसके द्वारा की जाती है ? (National income in India is calculated by which of the following ?)",
+            "options": [
+                "केन्द्रीय सांख्यिकी कार्यालय (Central statistical office)",
+                "योजना आयोग (Planning Commission)",
+                "नीति आयोग (NITI Aayog)",
+                "राष्ट्रीय विकास परिषद् (National Development Council)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "केन्द्रीय सांख्यिकी कार्यालय (Central statistical office)"
+        },
+        {
+            "id": 39,
+            "question": "लाला हरदयाल ने निम्न में से किसकी स्थापना की ? (Which of the following was founded by Lala Hardayal ?)",
+            "options": [
+                "होम रूल लीग (Home Rule League)",
+                "ग़दर पार्टी (Ghadar Party)",
+                "भारतीय कम्यूनिस्ट पार्टी (Communist Party of India)",
+                "ब्रह्म समाज (Brahmo Samaj)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "ग़दर पार्टी (Ghadar Party)"
+        },
+        {
+            "id": 40,
+            "question": "भारत सरकार अधिनियम, 1919 को किस अन्य नाम से भी जाना जाता है ? (What is the another name for Government of India Act, 1919?)",
+            "options": [
+                "मांटेग्यू-चेम्सफोर्ड सुधार (Montague-Chelmsford Reforms)",
+                "इलबर्ट बिल (Ilbert Bill)",
+                "इंडियन स्टेट्यूटरी कमीशन (Indian Statutory Commission)",
+                "नेहरू रिपोर्ट (Nehru Report)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "मांटेग्यू-चेम्सफोर्ड सुधार (Montague-Chelmsford Reforms)"
+        },
+        {
+            "id": 41,
+            "question": "अखिल भारतीय मुस्लिम लीग की स्थापना किसने की ? (Who founded the All India Muslim League ?)",
+            "options": [
+                "मोहम्मद अली जिन्ना (Mohammad Ali Jinnah)",
+                "जाकिर हुसैन (Zakir Hussain)",
+                "नवाब सलीमुल्लाह खान (Nawab Salimullah Khan)",
+                "मोहम्मद इस्माइल (Muhammad Ismail)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "नवाब सलीमुल्लाह खान (Nawab Salimullah Khan)"
+        },
+        {
+            "id": 42,
+            "question": "दक्षिण वियतनाम में बाओदाई की सरकार निम्न में से किसकी समर्थक थी ? (The government of Bao Dai in South Vietnam was a supporter of which of the following?)",
+            "options": [
+                "चीन (China)",
+                "स्पेन (Spain)",
+                "फ्रांस (France)",
+                "पुर्तगाल (Portugal)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 43,
+            "question": "सरिस्का वन्य जीव अभयारण्य कहाँ स्थित है ? (Where is Sariska Wildlife Sanctuary located ?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "महाराष्ट्र (Maharashtra)",
+                "राजस्थान (Rajasthan)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 44,
+            "question": "कैगा परमाणु विद्युत संयंत्र कहाँ स्थित है ? (Where is Kaiga Nuclear Power Plant located ?)",
+            "options": [
+                "तमिलनाडु (Tamil Nadu)",
+                "कर्नाटक (Karnataka)",
+                "केरल (Kerala)",
+                "उत्तर प्रदेश (Uttar Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "कर्नाटक (Karnataka)"
+        },
+        {
+            "id": 45,
+            "question": "ब्रह्मपुत्र नदी तिब्बत में किस नाम से जानी जाती है ? (By which name is Brahmaputra river known in Tibet ?)",
+            "options": [
+                "जमुना नदी (Jamuna river)",
+                "सांग्पो नदी (Tsangpo river)",
+                "यांग्त्ज़ी नदी (Yangtze river)",
+                "मानस नदी (Manas river)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सांग्पो नदी (Tsangpo river)"
+        },
+        {
+            "id": 46,
+            "question": "भारत की सबसे पुरानी तेल शोधन इकाई कौन है ? (Which is the oldest oil refining unit in India ?)",
+            "options": [
+                "बरौनी (Barauni)",
+                "जामनगर (Jamnagar)",
+                "डिब्रुगढ़ (Dibrugarh)",
+                "बम्बई हाई (Bombay High)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "डिब्रुगढ़ (Dibrugarh)"
+        },
+        {
+            "id": 47,
+            "question": "निम्नलिखित में से कौन रोपण फसल है ? (Which of the following is a plantation crop?)",
+            "options": [
+                "चाय (Tea)",
+                "रबड़ (Rubber)",
+                "गन्ना (Sugarcane)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 48,
+            "question": "भारत का केन्द्रीय बैंक कौन है ? (Which is the central bank of India?)",
+            "options": [
+                "रिजर्व बैंक ऑफ इंडिया (Reserve Bank of India)",
+                "क्षेत्रीय ग्रामीण बैंक (Regional Rural Bank)",
+                "स्टेट बैंक ऑफ इंडिया (State Bank of India)",
+                "पंजाब नेशनल बैंक (Punjab National Bank)"
+            ],
+            "correct": 0,
+            "year": 2017,
+            "correctAnswer": "रिजर्व बैंक ऑफ इंडिया (Reserve Bank of India)"
+        },
+        {
+            "id": 49,
+            "question": "भारत में मतदाता होने की न्यूनतम आयु क्या है ? (What is the minimum age to be a voter in India?)",
+            "options": [
+                "16 वर्ष (16 years)",
+                "17 वर्ष (17 years)",
+                "18 वर्ष (18 years)",
+                "19 वर्ष (19 years)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "18 वर्ष (18 years)"
+        },
+        {
+            "id": 50,
+            "question": "द्वितीय महायुद्ध के बाद यूरोप में कौन-सी संस्था का उदय आर्थिक दुष्प्रभावों को समाप्त करने के लिए हुआ ? (After the second great war which organisation in Europe emerged to remove the economic ill effects ?)",
+            "options": [
+                "सार्क (SAARC)",
+                "नाटो (NATO)",
+                "ओपेक (OPEC)",
+                "यूरोपीय संघ (European Union)"
+            ],
+            "correct": 3,
+            "year": 2020,
+            "correctAnswer": "यूरोपीय संघ (European Union)"
+        }
+    ]
+}

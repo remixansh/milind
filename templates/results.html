@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}Results - Student MCQ Quiz{% endblock %}
+
+{% block content %}
+<div class="min-h-screen bg-gradient-to-br from-surface-50 via-primary-50/20 to-surface-100 flex flex-col">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 backdrop-blur-lg bg-white/70 border-b border-gray-100">
+        <div class="max-w-2xl mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <a href="/" class="flex items-center gap-2 text-gray-600 hover:text-gray-900 transition-colors">
+                    <svg class="w-5 h-5">
+                        <use href="#icon-arrow-left" />
+                    </svg>
+                    <span class="text-sm font-medium">Dashboard</span>
+                </a>
+                <h1 class="text-sm font-semibold text-gray-800">Quiz Results</h1>
+                <div class="w-16"></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-1 flex items-center justify-center px-4 py-8">
+        <div class="w-full max-w-md text-center">
+            <div class="bg-white rounded-3xl shadow-xl shadow-gray-200/50 p-8">
+                <div class="w-20 h-20 mx-auto mb-6 rounded-full bg-primary-100 flex items-center justify-center">
+                    <svg class="w-10 h-10 text-primary-600">
+                        <use href="#icon-trophy" />
+                    </svg>
+                </div>
+
+                <h2 class="text-2xl font-bold text-gray-900 mb-2">Great Job!</h2>
+                <p class="text-gray-500 mb-6">Check your detailed results on the dashboard.</p>
+
+                <a href="/"
+                    class="inline-flex items-center gap-2 px-6 py-3 bg-primary-500 text-white font-semibold rounded-xl hover:bg-primary-600 transition-colors shadow-lg shadow-primary-500/25">
+                    <svg class="w-5 h-5">
+                        <use href="#icon-home" />
+                    </svg>
+                    Go to Dashboard
+                </a>
+            </div>
+        </div>
+    </main>
+</div>
+{% endblock %}

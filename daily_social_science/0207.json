@@ -1,0 +1,658 @@
+{
+    "date": "0207",
+    "dateDisplay": "07 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्न में से किस अर्थशास्त्री ने मानव विकास सूचकांक (HIDI) की शुरुआत की ? (Who among the following economists introduced Human Development Index (HDI)?)",
+            "options": [
+                "एल्फ्रेड मार्शल (Alfred Marshall)",
+                "प्रो० जे. एम. केन्स (Prof. J. M. Keynes)",
+                "महबूब-उल-हक (Mahbub-ul-Haq)",
+                "इनमें से कोई नहीं (None of them)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "महबूब-उल-हक (Mahbub-ul-Haq)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से क्या प्राथमिक क्षेत्र की आर्थिक क्रिया नहीं है ? (Which of the following is not an economic activity of primary sector?)",
+            "options": [
+                "वानिकी (Forestry)",
+                "मछली पालन (Fishing)",
+                "संचार (Communication)",
+                "खेती (Farming)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "संचार (Communication)"
+        },
+        {
+            "id": 3,
+            "question": "निम्नलिखित में से किस कारक ने वैश्वीकरण को प्रभावित नहीं किया है ? (Which of the following factors has not affected globalization ?)",
+            "options": [
+                "तकनीकी (Technology)",
+                "व्यापार का उदारीकरण (Liberalization of trade)",
+                "विश्व व्यापार संगठन (WTO) (World Trade Organization (WTO))",
+                "बैंकों का राष्ट्रीयकरण (Nationalization of Banks)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "बैंकों का राष्ट्रीयकरण (Nationalization of Banks)"
+        },
+        {
+            "id": 4,
+            "question": "राष्ट्रीय फोरम से असंतुष्ट होने पर उपभोक्ता कहाँ अपील कर सकता है ? (Where can the consumer appeal if he/she is dissatisfied with the National forum ?)",
+            "options": [
+                "दीवानी न्यायालय (Civil Court)",
+                "उच्च न्यायालय (High Court)",
+                "उच्चतम न्यायालय (Supreme Court)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "उच्चतम न्यायालय (Supreme Court)"
+        },
+        {
+            "id": 5,
+            "question": "नवीन उपभोक्ता संरक्षण अधिनियम कब बना ? (When was the New Consumer Protection Act introduced ?)",
+            "options": [
+                "1968",
+                "1986",
+                "2005",
+                "2019"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "2019"
+        },
+        {
+            "id": 6,
+            "question": "प्रति व्यक्ति आय को किस नाम से भी जाना जाता है ? (Per capita income is also known as)",
+            "options": [
+                "औसत आय (Average Income)",
+                "सीमान्त आय (Marginal Income)",
+                "राष्ट्रीय आय (National Income)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "औसत आय (Average Income)"
+        },
+        {
+            "id": 7,
+            "question": "निम्न में से कौन अलौह धातु है ? (Which of the following is a non-ferrous metal?)",
+            "options": [
+                "निकेल (Nickel)",
+                "क्रोमाइट (Chromite)",
+                "ताँबा (Copper)",
+                "पाइराइट (Pyrite)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ताँबा (Copper)"
+        },
+        {
+            "id": 8,
+            "question": "बिहार की प्रमुख खाद्यान्न फसल कौन है ? (Which is the main food crop of Bihar ?)",
+            "options": [
+                "चावल (Rice)",
+                "गेहूँ (Wheat)",
+                "बाजरा (Bajra)",
+                "रागी (Ragi)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "चावल (Rice)"
+        },
+        {
+            "id": 9,
+            "question": "बिहार की पहली नदी घाटी परियोजना की स्थापना कब हुई ? (When was the first river valley project of Bihar established ?)",
+            "options": [
+                "1870",
+                "1874",
+                "1934",
+                "1947"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1874"
+        },
+        {
+            "id": 10,
+            "question": "भारत में सड़कों की सबसे अधिक लंबाई किस राज्य में है ? (Which state has the longest road length in India?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "बिहार (Bihar)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 11,
+            "question": "देश का सबसे बड़ा रेल क्षेत्र कौन-सा है ? (Which is the largest rail zone of the country?)",
+            "options": [
+                "पूर्व रेलवे (Eastern Railway)",
+                "मध्य रेलवे (Central Railway)",
+                "उत्तर-मध्य रेलवे (North Central Railway)",
+                "उत्तर रेलवे (Northern Railway)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "उत्तर रेलवे (Northern Railway)"
+        },
+        {
+            "id": 12,
+            "question": "ज्वारीय ऊर्जा उत्पादन हेतु अनुकूल परिस्थितियाँ कहाँ पाई जाती हैं ? (Where are favourable conditions found for tidal energy production ?)",
+            "options": [
+                "मन्नार की खाड़ी (Bay of Mannar)",
+                "खम्भात की खाड़ी (Gulf of Khambhat)",
+                "बंगाल की खाड़ी (Bay of Bengal)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "खम्भात की खाड़ी (Gulf of Khambhat)"
+        },
+        {
+            "id": 13,
+            "question": "कर्नाटक एवं आन्ध्र प्रदेश सहयोग से निर्मित नदी घाटी परियोजना कौन-सी है ? (Which river valley project is constructed in collaboration of Karnataka and Andhra Pradesh ?)",
+            "options": [
+                "हीराकुड परियोजना (Hirakud Project)",
+                "शरावती परियोजना (Sharavati Project)",
+                "दामोदर परियोजना (Damodar Project)",
+                "तुंगभद्रा परियोजना (Tungabhadra Project)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "तुंगभद्रा परियोजना (Tungabhadra Project)"
+        },
+        {
+            "id": 14,
+            "question": "वल्लभ भाई पटेल को सरदार की उपाधि किस किसान आंदोलन के दौरान दी गई ? (During which peasant movement was Vallabhbhai Patel given the title of Sardar ?)",
+            "options": [
+                "बारदोली (Bardoli)",
+                "अहमदाबाद (Ahmedabad)",
+                "खेड़ा (Kheda)",
+                "चंपारण (Champaran)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "बारदोली (Bardoli)"
+        },
+        {
+            "id": 15,
+            "question": "निम्न में से किन्हें सीमांत गाँधी के नाम से भी जाना जाता है ? (Who among the following is also known as Frontier Gandhi?)",
+            "options": [
+                "सी. राजगोपालाचारी (C. Rajagopalachari)",
+                "मौलाना अबुल कलाम आजाद (Maulana Abul Kalam Azad)",
+                "खान अब्दुल गफ्फार खान (Khan Abdul Ghaffar Khan)",
+                "लाला हरदयाल (Lala Hardayal)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "खान अब्दुल गफ्फार खान (Khan Abdul Ghaffar Khan)"
+        },
+        {
+            "id": 16,
+            "question": "भारत सरकार अधिनियम, 1919 को के नाम से भी जानते हैं। (Government of India Act, 1919 is also known as)",
+            "options": [
+                "मांटेग्यू-चेम्सफोर्ड योजना (Montague-Chelmsford Plan)",
+                "साइमन कमीशन (Simon Commission)",
+                "इंडियन स्टेट्युटरी कमीशन (Indian Statutory Commission)",
+                "नेहरू रिपोर्ट (Nehru Report)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "मांटेग्यू-चेम्सफोर्ड योजना (Montague-Chelmsford Plan)"
+        },
+        {
+            "id": 17,
+            "question": "अंकोरवाट मंदिर का निर्माण किसने कराया ? (Who built Angkor Wat temple ?)",
+            "options": [
+                "चन्द्रगुप्त मौर्य (Chandragupta Maurya)",
+                "सूर्यवर्मा द्वितीय (Suryavarman II)",
+                "समुद्रगुप्त (Samudragupta)",
+                "हर्षवर्धन (Harshavardhan)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "सूर्यवर्मा द्वितीय (Suryavarman II)"
+        },
+        {
+            "id": 18,
+            "question": "बोल्शेविक दल का कार्यक्रम 'अप्रैल थीसिस' किसने लिखा ? (Who wrote the program 'April Thesis' of the Bolshevik party?)",
+            "options": [
+                "स्टालिन (Stalin)",
+                "ट्रॉटस्की (Trotsky)",
+                "लेनिन (Lenin)",
+                "गैरीबाल्डी (Garibaldi)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 19,
+            "question": "'समाजवादियों की बाइबिल' किसे कहते हैं ? (Which is called the 'Bible of Socialists'?)",
+            "options": [
+                "वार एण्ड पीस (War and Peace)",
+                "कम्यूनिस्ट मेनिफेस्टो (Communist Manifesto)",
+                "दास कैपिटल (Das Kapital)",
+                "अप्रैल थीसिस (April Thesis)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "दास कैपिटल (Das Kapital)"
+        },
+        {
+            "id": 20,
+            "question": "'रक्त और लौह' की नीति का अवलम्बन किसने किया ? (Who followed the policy of Blood and Iron' ?)",
+            "options": [
+                "गैरीबाल्डी (Garibaldi)",
+                "मेजिनी (Mazzini)",
+                "बिस्मार्क (Bismarck)",
+                "नेपोलियन (Napoleon)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "बिस्मार्क (Bismarck)"
+        },
+        {
+            "id": 21,
+            "question": "निम्न में से कौन प्राकृतिक आपदा नहीं है ? (Which of the following is not a natural disaster?)",
+            "options": [
+                "सुनामी (Tsunami)",
+                "बाढ़ (Flood)",
+                "भूकंप (Earthquake)",
+                "महामारी (Epidemic)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "महामारी (Epidemic)"
+        },
+        {
+            "id": 22,
+            "question": "वर्ष 1934 में बिहार ने किस प्राकृतिक आपदा का सामना किया था ? (Which natural disaster did Bihar face in the year 1934 ?)",
+            "options": [
+                "सुखाड़ (Drought)",
+                "बाढ़ (Flood)",
+                "भूकंप (Earthquake)",
+                "सुनामी (Tsunami)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "भूकंप (Earthquake)"
+        },
+        {
+            "id": 23,
+            "question": "कच्छ प्रदेश किस भूकंपीय पेटी से सम्बन्धित है ? (Kachchh region is related to which seismic belt?)",
+            "options": [
+                "जोन-2 (Zone-2)",
+                "जोन-3 (Zone-3)",
+                "जोन-4 (Zone-4)",
+                "जोन-5 (Zone-5)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "जोन-5 (Zone-5)"
+        },
+        {
+            "id": 24,
+            "question": "महासागर तल में कम्पन को कहते हैं (The vibration in the bottom of the ocean is called)",
+            "options": [
+                "भूकंप (Earthquake)",
+                "चक्रवात (Cyclone)",
+                "सुनामी (Tsunami)",
+                "भूस्खलन (Landslide)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "सुनामी (Tsunami)"
+        },
+        {
+            "id": 25,
+            "question": "मलबे के नीचे दबे हुए लोगों का पता लगाने के लिए किस यंत्र की मदद ली जाती है ? (Which instrument is used to locate the people buried under the rubble?)",
+            "options": [
+                "दूरबीन (Telescope)",
+                "इंफ्रारेड कैमरा (Infrared camera)",
+                "हेलीकॉप्टर (Helicopter)",
+                "सूक्ष्मदर्शी (Microscope)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "इंफ्रारेड कैमरा (Infrared camera)"
+        },
+        {
+            "id": 26,
+            "question": "भारत की संविधान सभा का गठन कब हुआ ? (When was the Constituent Assembly of India formed?)",
+            "options": [
+                "1946",
+                "1947",
+                "1948",
+                "1949"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "1946"
+        },
+        {
+            "id": 27,
+            "question": "एन्क्रूमा कहाँ के राष्ट्रपति चुने गए ? (Nkrumah was elected the President of which country?)",
+            "options": [
+                "पोलैंड (Poland)",
+                "चिली (Chile)",
+                "घाना (Ghana)",
+                "मेक्सिको (Mexico)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "घाना (Ghana)"
+        },
+        {
+            "id": 28,
+            "question": "राजनीतिक दलों की मान्यता और उसका चिह्न प्रदान किया जाता है (The recognition and symbol of political parties are given by)",
+            "options": [
+                "राष्ट्रपति द्वारा (President)",
+                "प्रधानमंत्री द्वारा (Prime Minister)",
+                "निर्वाचन आयोग द्वारा (Election Commission)",
+                "संसद द्वारा (Parliament)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "निर्वाचन आयोग द्वारा (Election Commission)"
+        },
+        {
+            "id": 29,
+            "question": "\"बिहार के विकास के बिना भारत का विकास संभव नहीं है ।\" यह कथन किसका है? (\"India's development is not possible without the development of Bihar.\" Whose statement is this?)",
+            "options": [
+                "राजेन्द्र प्रसाद (Rajendra Prasad)",
+                "ए. पी. जे. अब्दुल कलाम (A. P. J. Abdul Kalam)",
+                "महबूब-उल-हक (Mahbub-ul-Haq)",
+                "महात्मा गाँधी (Mahatma Gandhi)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "ए. पी. जे. अब्दुल कलाम (A. P. J. Abdul Kalam)"
+        },
+        {
+            "id": 30,
+            "question": "भारत में योजना आयोग का गठन कब हुआ ? (When was the Planning Commission formed in India ?)",
+            "options": [
+                "15 मार्च, 1950 (15th March, 1950)",
+                "15 मार्च, 1951 (15th March, 1951)",
+                "15 अप्रैल, 1950 (15th April, 1950)",
+                "15 अप्रैल, 1951 (15th April, 1951)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "15 मार्च, 1950 (15th March, 1950)"
+        },
+        {
+            "id": 31,
+            "question": "कृषि का विकास करना किस पंचवर्षीय योजना का मुख्य उद्देश्य था ? (Development of agriculture was the main objective of which Five-Year Plan?)",
+            "options": [
+                "पहली (First)",
+                "दूसरी (Second)",
+                "तीसरी (Third)",
+                "पाँचवीं (Fifth)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "पहली (First)"
+        },
+        {
+            "id": 32,
+            "question": "मानव विकास रिपोर्ट का प्रकाशन निम्न में से किसके द्वारा किया जाता है ? (Human Development Report is published by which of the following?)",
+            "options": [
+                "WTO",
+                "WHO",
+                "UNDP",
+                "ILO"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "UNDP"
+        },
+        {
+            "id": 33,
+            "question": "भारत का पहला मानव विकास रिपोर्ट किस प्रधानमंत्री द्वारा जारी किया गया था ? (Which Prime Minister released India's First Human Development Report ?)",
+            "options": [
+                "मनमोहन सिंह (Manmohan Singh)",
+                "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)",
+                "इन्द्र कुमार गुजराल (Inder Kumar Gujral)",
+                "जवाहरलाल नेहरू (Jawaharlal Nehru)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)"
+        },
+        {
+            "id": 34,
+            "question": "गरीबी के कुचक्र की धारणा किसने दी ? (Who gave the concept of vicious circle of poverty?)",
+            "options": [
+                "साइमन कुज्नेत्स (Simon Kuznets)",
+                "कीन्स (Keynes)",
+                "अल्फ्रेड मार्शल (Alfred Marshall)",
+                "रैगनर नर्क्स (Ragnar Nurkse)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "रैगनर नर्क्स (Ragnar Nurkse)"
+        },
+        {
+            "id": 35,
+            "question": "भारत की सर्वाधिक प्रति व्यक्ति आय वाला राज्य कौन है ? (Which state of India has the highest per capita income?)",
+            "options": [
+                "पंजाब (Punjab)",
+                "गोवा (Goa)",
+                "महाराष्ट्र (Maharashtra)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "गोवा (Goa)"
+        },
+        {
+            "id": 36,
+            "question": "वर्ष भर में किसी देश में अर्जित आय की कुल मात्रा को क्या कहते हैं ? (What is the total amount of income earned in a country during the year called?)",
+            "options": [
+                "प्रति व्यक्ति आय (Per capita income)",
+                "औसत आय (Average income)",
+                "राष्ट्रीय आय (National income)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "राष्ट्रीय आय (National income)"
+        },
+        {
+            "id": 37,
+            "question": "भारतीय वन्य जीव बोर्ड का गठन कब हुआ ? (When was the Wild-life Board of India formed?)",
+            "options": [
+                "1950",
+                "1952",
+                "1948",
+                "1954"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1952"
+        },
+        {
+            "id": 38,
+            "question": "आयुर्वेद के जनक कौन हैं ? (Who is the father of Ayurveda ?)",
+            "options": [
+                "चरक (Charak)",
+                "धन्वन्तरी (Dhanwantari)",
+                "पतंजलि (Patanjali)",
+                "सुश्रुत (Sushruta)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "चरक (Charak)"
+        },
+        {
+            "id": 39,
+            "question": "टेक्सोल का उपयोग होता है (Texol is used in)",
+            "options": [
+                "मलेरिया में (Malaria)",
+                "एड्स में (AIDS)",
+                "कैंसर में (Cancer)",
+                "टी. बी. में (T.B.)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "कैंसर में (Cancer)"
+        },
+        {
+            "id": 40,
+            "question": "निम्न में से कौन नवीकरणीय ऊर्जा का स्रोत है ? (Which of the following is the renewable source of energy?)",
+            "options": [
+                "कोयला (Coal)",
+                "सौर ऊर्जा (Solar energy)",
+                "पेट्रोलियम (Petroleum)",
+                "प्राकृतिक गैस (Natural gas)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "सौर ऊर्जा (Solar energy)"
+        },
+        {
+            "id": 41,
+            "question": "भारत का सबसे लंबा बाँध कौन-सा है ? (Which is the longest dam in India?)",
+            "options": [
+                "हीराकुड बाँध (Hirakud dam)",
+                "टिहरी बाँध (Tehri dam)",
+                "रिहन्द बाँध (Rihand dam)",
+                "भाखड़ा-नंगल बाँध (Bhakra-Nangal dam)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "हीराकुड बाँध (Hirakud dam)"
+        },
+        {
+            "id": 42,
+            "question": "कहलगाँव तापीय विद्युत परियोजना कहाँ है ? (Where is Kahalgaon thermal power plant ?)",
+            "options": [
+                "मुजफ्फरपुर (Muzaffarpur)",
+                "बरौनी (Barauni)",
+                "भागलपुर (Bhagalpur)",
+                "कटिहार (Katihar)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "भागलपुर (Bhagalpur)"
+        },
+        {
+            "id": 43,
+            "question": "भूकंप की सर्वाधिक विनाशकारी तरंग कौन है ? (Which is the most destructive wave of earthquake ?)",
+            "options": [
+                "पी-तरंग (P-wave)",
+                "एस-तरंग (S-wave)",
+                "एल-तरंग (L-wave)",
+                "टी-तरंग (T-wave)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "एल-तरंग (L-wave)"
+        },
+        {
+            "id": 44,
+            "question": "निम्न में से किस नदी को 'बिहार का शोक' कहा जाता है ? (Which of the following rivers is called the 'Sorrow of Bihar)",
+            "options": [
+                "गंगा (Ganga)",
+                "गण्डक (Gandak)",
+                "कोसी (Kosi)",
+                "सोन (Sone)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "कोसी (Kosi)"
+        },
+        {
+            "id": 45,
+            "question": "सहकारिता प्रांतीय सरकारों का हस्तांतरणयोग्य विषय कब बनी ? (When did cooperative become the transferable subject of regional governments?)",
+            "options": [
+                "1929",
+                "1919",
+                "1918",
+                "1914"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1919"
+        },
+        {
+            "id": 46,
+            "question": "मैंगनीज उत्पादन में अग्रणी राज्य कौन है ? (Which state is the largest producer of manganese ?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "महाराष्ट्र (Maharashtra)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 47,
+            "question": "भाखड़ा-नंगल परियोजना किस नदी पर बनी है ? (On which river is the Bhakra-Nangal Project built?)",
+            "options": [
+                "महानदी (Mahanadi)",
+                "सतलज (Satluj)",
+                "गोदावरी (Godavari)",
+                "कृष्णा (Krishna)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "सतलज (Satluj)"
+        },
+        {
+            "id": 48,
+            "question": "निम्न में से कौन भारत का पहला स्वदेशी प्रयास से बना परमाणु विद्युत केन्द्र है? (Which of the following is the first indegenously constructed nuclear power station of India ?)",
+            "options": [
+                "राणा प्रताप सागर परमाणु विद्युत केन्द्र (Rana Pratap Sagar Atomic Power Station)",
+                "नरौरा परमाणु विद्युत केन्द्र (Narora Atomic Power Station)",
+                "तारापुर परमाणु विद्युत केन्द्र (Tarapur Atomic Power Station)",
+                "कलपक्कम परमाणु विद्युत केन्द्र (Kalpakkam Atomic Power Station)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "कलपक्कम परमाणु विद्युत केन्द्र (Kalpakkam Atomic Power Station)"
+        },
+        {
+            "id": 49,
+            "question": "हिमाचल प्रदेश के मणिकरण में किस प्रकार का ऊर्जा संयंत्र है ? (Which type of power plant is there at Manikaran of Himachal Pradesh?)",
+            "options": [
+                "परमाणु ऊर्जा संयंत्र (Nuclear power plant)",
+                "भूतापीय ऊर्जा संयंत्र (Geothermal power plan)",
+                "ताप विद्युत ऊर्जा संयंत्र (Thermal power plant)",
+                "जल विद्युत ऊर्जा संयंत्र (Hydel power plant)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "भूतापीय ऊर्जा संयंत्र (Geothermal power plan)"
+        },
+        {
+            "id": 50,
+            "question": "ब्रिटेन के सहयोग से कहाँ लौह इस्पात उद्योग बनाया गया ? (Where was the iron and steel industry built with the help of Britain)",
+            "options": [
+                "बोकारो (Bokaro)",
+                "राउरकेला (Rourkela)",
+                "सेलम (Salem)",
+                "दुर्गापुर (Durgapur)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "दुर्गापुर (Durgapur)"
+        }
+    ]
+}

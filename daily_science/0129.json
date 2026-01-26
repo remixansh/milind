@@ -1,0 +1,658 @@
+{
+    "date": "0129",
+    "dateDisplay": "29 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्नलिखित में किस तत्व में संयोजी इलेक्ट्रॉनों की संख्या सबसे अधिक है? (Which of the following elements has the highest number of valence electrons?)",
+            "options": [
+                "Al",
+                "P",
+                "Na",
+                "Si"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "P"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से कौन-सा ऊर्जा का प्रदूषण मुक्त स्रोत है? (Which of the following is a pollution free source of energy?)",
+            "options": [
+                "सौर ऊर्जा (Solar energy)",
+                "जल-वैद्युत ऊर्जा (Hydro-electric energy)",
+                "पवन ऊर्जा (Wind energy)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 3,
+            "question": "ओजोन परत के अवक्षय के लिए निम्नांकित में कौन उत्तरदायी है? (Which of the following is responsible for the depletion of ozone layer?)",
+            "options": [
+                "सल्फर (Sulphur)",
+                "कार्बन डाइऑक्साइड (Carbon dioxide)",
+                "कार्बन (Carbon)",
+                "क्लोरोफ्लोरोकार्बन (Chlorofluorocarbon)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "क्लोरोफ्लोरोकार्बन (Chlorofluorocarbon)"
+        },
+        {
+            "id": 4,
+            "question": "'आहर और पइन' किस राज्य की जल संचयन व्यवस्था है? ('Ahar and Pyne' is the water harvesting system of which state?)",
+            "options": [
+                "बिहार (Bihar)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "महाराष्ट्र (Maharashtra)",
+                "मध्य प्रदेश (Madhya Pradesh)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 5,
+            "question": "निम्नांकित में कौन प्राकृतिक संसाधन है? (Which of the following is a natural resource?)",
+            "options": [
+                "मृदा (Soil)",
+                "जल (Water)",
+                "वायु (Air)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 6,
+            "question": "निम्नांकित में वनों पर आधारित उद्योग कौन है? (Which of the following is a forest based industry?)",
+            "options": [
+                "लाख उद्योग (Lac industry)",
+                "कागज उद्योग (Paper industry)",
+                "लकड़ी उद्योग (Timber industry)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 7,
+            "question": "हमें किससे उचित मात्रा में आयोडीन प्राप्त हो सकता है? (We can get iodine in adequate quantity from which of the following?)",
+            "options": [
+                "चावल (Rice)",
+                "नमक (Salt)",
+                "चीनी (Sugar)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "नमक (Salt)"
+        },
+        {
+            "id": 8,
+            "question": "निम्न में से कौन-सा जीवाश्म ईंधन में ऊर्जा का प्राथमिक स्रोत है? (Which of the following is the primary source of energy in fossil fuels?)",
+            "options": [
+                "चन्द्रमा (Moon)",
+                "नाभिकीय संलयन (Nuclear fusion)",
+                "सूर्य (Sun)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सूर्य (Sun)"
+        },
+        {
+            "id": 9,
+            "question": "निम्न में से किस रूप मे महासागरों में ऊर्जा उपलब्ध है? (In which of the following forms is energy available in the oceans?)",
+            "options": [
+                "ज्वारीय ऊर्जा (Tidal energy)",
+                "तरंग ऊर्जा (Wave energy)",
+                "सागरीय तापीय ऊर्जा (Oceanic thermal energy)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 10,
+            "question": "तारापुर नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है? (In which state is Tarapur Nuclear Power Plant located?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "गुजरात (Gujarat)",
+                "महाराष्ट्र (Maharashtra)",
+                "बिहार (Bihar)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 11,
+            "question": "किसी अभिक्रिया में भाग लेनेवाले पदार्थ कहलाते हैं (The substances that take part in a reaction are called):",
+            "options": [
+                "अपचायक (Reducing agents)",
+                "अभिकारक (Reactants)",
+                "उपचायक (Oxidising agents)",
+                "उत्पाद (Products)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "अभिकारक (Reactants)"
+        },
+        {
+            "id": 12,
+            "question": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है (The reaction, in which heat is also generated along with the formation of product, is called):",
+            "options": [
+                "ऊष्माशोषी (Endothermic)",
+                "उपचयन (Oxidation)",
+                "प्रकाश संश्लेषण (Photosynthesis)",
+                "ऊष्माक्षेपी (Exothermic)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "ऊष्माक्षेपी (Exothermic)"
+        },
+        {
+            "id": 13,
+            "question": "उपचयन वह अभिक्रिया है, जिसमें होता है (Oxidation is a reaction in which there is):",
+            "options": [
+                "हाइड्रोजन का वियोजन (Dissociation of hydrogen)",
+                "इलेक्ट्रॉन की हानि (Loss of electrons)",
+                "ऑक्सीजन का संकलन (Addition of oxygen)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 14,
+            "question": "निम्नलिखित में संश्लेषित सूचक कौन है? (Which of the following is a synthetic indicator?)",
+            "options": [
+                "हल्दी (Turmeric)",
+                "लिटमस पत्र (Litmus paper)",
+                "मेथिल ऑरेंज (Methyl orange)",
+                "लाल पत्तागोभी (Red cabbage)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "मेथिल ऑरेंज (Methyl orange)"
+        },
+        {
+            "id": 15,
+            "question": "कौन-सा पदार्थ जलीय विलयन में लाल लिटमस पत्र को नीला कर देता है? (Which substance turns red litmus paper blue in aqueous solution?)",
+            "options": [
+                "क्षार (Alkali)",
+                "अम्ल (Acid)",
+                "लवण (Salt)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "क्षार (Alkali)"
+        },
+        {
+            "id": 16,
+            "question": "तेल लगा कागज होता है (Oiled paper is):",
+            "options": [
+                "अपारदर्शक (Opaque)",
+                "पारदर्शक (Transparent)",
+                "पारभासी (Translucent)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पारभासी (Translucent)"
+        },
+        {
+            "id": 17,
+            "question": "सूर्य से आनेवाला प्रकाश पुंज निम्न में से कौन है? (Which of the following is the beam of light coming from the sun?)",
+            "options": [
+                "अभिसृत प्रकाश पुंज (Converged light beam)",
+                "समानांतर प्रकाश पुंज (Parallel light beam)",
+                "अपसृत प्रकाश पुंज (Diverged light beam)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "समानांतर प्रकाश पुंज (Parallel light beam)"
+        },
+        {
+            "id": 18,
+            "question": "निम्नलिखित में से कौन उत्तल दर्पण में बना काल्पनिक प्रतिबिम्ब है? (Which of the following is the imaginary image formed in a convex mirror?)",
+            "options": [
+                "उल्टा एवं आवर्धित (Inverted and magnified)",
+                "सीधा एवं छोटा (Straight and small)",
+                "सीधा एवं आवर्धित (Straight and magnified)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सीधा एवं छोटा (Straight and small)"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में से दर्पण सूत्र कौन है? (Which of the following is the mirror formula?)",
+            "options": [
+                "1/v + 1/u = 1/f",
+                "1/f + 1/u = 1/v",
+                "1/v - 1/u = 1/f",
+                "1/f + 1/v = 1/u"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1/v + 1/u = 1/f"
+        },
+        {
+            "id": 20,
+            "question": "आभाषी प्रतिबिम्ब कैसा होता है? (How does virtual image look like?)",
+            "options": [
+                "उल्टा (Inverted)",
+                "सीधा (Erect)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सीधा (Erect)"
+        },
+        {
+            "id": 21,
+            "question": "निम्न में से किस दर्पण की फोकस दूरी धनात्मक होती है? (Which of the following mirrors has a positive focal length?)",
+            "options": [
+                "उत्तल दर्पण (Convex mirror)",
+                "समतल दर्पण (Plane mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "उत्तल दर्पण (Convex mirror)"
+        },
+        {
+            "id": 22,
+            "question": "निम्नलिखित में से कौन उत्तल दर्पण की फोकस दूरी है जिसकी वक्रता त्रिज्या 32 सेमी है? (Which of the following is the focal length of a convex mirror whose radius of curvature is 32 cm?)",
+            "options": [
+                "- 8 सेमी (- 8 cm)",
+                "+ 8 सेमी (+ 8 cm)",
+                "- 16 सेमी (- 16 cm)",
+                "+ 16 सेमी (+ 16 cm)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "+ 16 सेमी (+ 16 cm)"
+        },
+        {
+            "id": 23,
+            "question": "निम्न में से आवर्धक शीशा (मैग्नीफाइंग ग्लास) कौन है? (Which of the following is a magnifying glass?)",
+            "options": [
+                "अवतल दर्पण (Concave mirror)",
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 24,
+            "question": "विरंजक चूर्ण का रासायनिक सूत्र है (The chemical formula of bleaching powder is):",
+            "options": [
+                "CaO",
+                "CaCl₂",
+                "CaOCl",
+                "CaOCl₂"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "CaOCl₂"
+        },
+        {
+            "id": 25,
+            "question": "अम्लराज में HCl और HNO₃ का अनुपात होता है (The ratio of HCl and HNO₃ in aqua regia is):",
+            "options": [
+                "2:2",
+                "1:2",
+                "1:3",
+                "3:1"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "3:1"
+        },
+        {
+            "id": 26,
+            "question": "Pb(OH)NO₃ किस प्रकार का लवण है? (What type of salt is Pb(OH)NO₃?)",
+            "options": [
+                "सामान्य लवण (Common salt)",
+                "मिश्रित लवण (Mixed salt)",
+                "अम्लीय लवण (Acidic salt)",
+                "क्षारीय लवण (Basic salt)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "क्षारीय लवण (Basic salt)"
+        },
+        {
+            "id": 27,
+            "question": "अमोनिया के एक अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं का अनुपात होता है (The ratio of nitrogen and hydrogen atoms in one molecule of ammonia is):",
+            "options": [
+                "1:3",
+                "3:1",
+                "1:2",
+                "2:1"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1:3"
+        },
+        {
+            "id": 28,
+            "question": "निम्नांकित में कौन सबसे अधिक अम्लीय ऑक्साइड है? (Which of the following is the most acidic oxide?)",
+            "options": [
+                "CaO",
+                "MgO",
+                "Na₂O",
+                "SO₂"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "SO₂"
+        },
+        {
+            "id": 29,
+            "question": "निम्नांकित संकेतों द्वारा व्यक्त तत्वों में कौन धातु है? (Which of the elements represented by the following symbols is a metal?)",
+            "options": [
+                "¹⁶₈A",
+                "¹⁹₉B",
+                "²⁴₁₂C",
+                "¹²₆D"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "²⁴₁₂C"
+        },
+        {
+            "id": 30,
+            "question": "पारा और एक अन्य धातु के मिश्रधातु को कहते हैं (An alloy of mercury and another metal is called):",
+            "options": [
+                "काँसा (Bronze)",
+                "सोल्डर (Solder)",
+                "पीतल (Brass)",
+                "अमलगम (Amalgam)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "अमलगम (Amalgam)"
+        },
+        {
+            "id": 31,
+            "question": "निम्नांकित में कौन कार्बन का अपररूप है? (Which of the following is an allotrope of carbon?)",
+            "options": [
+                "हीरा (Diamond)",
+                "फुलेरीन (Fullerene)",
+                "ग्रेफाईट (Graphite)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 32,
+            "question": "कौन-सी लेंस में वास्तविक एवं आभासी दोनों प्रकार के प्रतिबिम्ब बन सकते हैं? (In which lens can both real and virtual images be formed?)",
+            "options": [
+                "उत्तल लेंस (Convex lens)",
+                "अवतल लेंस (Concave lens)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 33,
+            "question": "श्वेत प्रकाश में कितने रंग होते हैं? (How many colours are there in white light?)",
+            "options": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "7"
+        },
+        {
+            "id": 34,
+            "question": "श्वेत प्रकाश का कौन-सा रंग (वर्ण) किसी प्रिज्म से गुजरने के पश्चात सबसे कम झुकता है? (Which colour of white light bends the least after passing through a prism?)",
+            "options": [
+                "नीला (Blue)",
+                "लाल (Red)",
+                "बैंगनी (Violet)",
+                "पीला (Yellow)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लाल (Red)"
+        },
+        {
+            "id": 35,
+            "question": "निम्न में से कौन पुतली की साइज को नियंत्रित करता है? (Which of the following controls the size of the pupil?)",
+            "options": [
+                "नेत्र लेंस (Eye lens)",
+                "रेटिना (Retina)",
+                "परितारिका (Iris)",
+                "पक्ष्माभी पेशियां (Ciliary muscles)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "परितारिका (Iris)"
+        },
+        {
+            "id": 36,
+            "question": "निकट-दृष्टिदोष में किस लेंस का प्रयोग होता है? (Which lens is used in nearsightedness?)",
+            "options": [
+                "उत्तल लेंस (Convex lens)",
+                "बेलनाकार लेंस (Cylindrical lens)",
+                "अवतल लेंस (Concave lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अवतल लेंस (Concave lens)"
+        },
+        {
+            "id": 37,
+            "question": "निम्न में से कौन किसी कुंडली का प्रतिरोध ज्ञात करने का सूत्र है? (Which of the following is the formula to find the resistance of a coil?)",
+            "options": [
+                "R = V - I",
+                "R = V/I",
+                "R = V x I",
+                "R = I/V"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "R = V/I"
+        },
+        {
+            "id": 38,
+            "question": "प्रतिरोध का SI मात्रक है (The SI unit of resistance is):",
+            "options": [
+                "कूलांब (coulomb)",
+                "जूल (joule)",
+                "एम्पियर (ampere)",
+                "ओम (ohm)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "एम्पियर (ampere)"
+        },
+        {
+            "id": 39,
+            "question": "निम्न में से कौन विद्युत ऊर्जा का व्यापारिक मात्रक है? (Which of the following is the commercial unit of electrical energy?)",
+            "options": [
+                "वाट / घंटा (watt/hour)",
+                "यूनिट (unit)",
+                "वाट (watt)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "यूनिट (unit)"
+        },
+        {
+            "id": 40,
+            "question": "निम्न में से कौन मनुष्य के आहार नाल में एक अवशोषी अंग है? (Which of the following is vestigial organ in the human alimentary canal?)",
+            "options": [
+                "एपेंडिक्स (Appendix)",
+                "कोलन (Colon)",
+                "सीकम (Caecum)",
+                "रेक्टम (Rectum)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "एपेंडिक्स (Appendix)"
+        },
+        {
+            "id": 41,
+            "question": "शाकाहारी जीवों में छोटी आँत की लंबाई होती है (The length of the small intestine in herbivorous animals is):",
+            "options": [
+                "छोटी (Small)",
+                "मध्यम (Medium)",
+                "अधिक लंबी (Longer)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अधिक लंबी (Longer)"
+        },
+        {
+            "id": 42,
+            "question": "छोटी आँत में पूर्ण रूप से पचा भोजन कहलाता है (The completely digested food in the small intestine is called):",
+            "options": [
+                "काइम (Chyme)",
+                "चाइल (Chyle)",
+                "काइलोमाइक्रॉन (Chylomicron)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "चाइल (Chyle)"
+        },
+        {
+            "id": 43,
+            "question": "मूलरोमों के द्वारा जल का अवशोषण किस विधि द्वारा होता है? (By which method, is water absorbed by root hairs?)",
+            "options": [
+                "स्थानांतरण (Transfer)",
+                "वितरण (Diffusion)",
+                "परासरण (Osmosis)",
+                "(A) और (B) दोनों (Both A and B)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "परासरण (Osmosis)"
+        },
+        {
+            "id": 44,
+            "question": "उच्च रक्त चाप की अवस्था को कहते हैं (The condition of high blood pressure is called):",
+            "options": [
+                "पक्षाघात (Paralysis)",
+                "हाइपोटेंशन (Hypotension)",
+                "हाइपरटेंशन (Hypertension)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "हाइपरटेंशन (Hypertension)"
+        },
+        {
+            "id": 45,
+            "question": "तिलचट्टा में कितने जोड़े श्वास रंध्र पाये जाते हैं? (How many pairs of respiratory pores are found in a cockroach?)",
+            "options": [
+                "2",
+                "6",
+                "8",
+                "10"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "10"
+        },
+        {
+            "id": 46,
+            "question": "हृदय में रक्त का प्रवाह होता है (The flow of blood in the heart is):",
+            "options": [
+                "बायें अलिंद से बायें निलय में (From left atrium to left ventricle)",
+                "दायें अलिंद से दायें निलय में (From right atrium to right ventricle)",
+                "दायें अलिंद से बायें निलय में (From right atrium to left ventricle)",
+                "(A) और (B) दोनों (Both (A) and (B))"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 47,
+            "question": "रुधिर है (Blood is):",
+            "options": [
+                "तंत्रिका ऊतक (Nervous tissue)",
+                "ऐपिथिलियल ऊतक (Epithelial tissue)",
+                "संयोजी ऊतक (Connective tissue)",
+                "पेशी ऊतक (Muscular tissue)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "संयोजी ऊतक (Connective tissue)"
+        },
+        {
+            "id": 48,
+            "question": "कौन-सा रक्त समूह यूनिवर्सल डोनर के रूप में जाना जाता है? (Which blood group is known as universal donor?)",
+            "options": [
+                "A",
+                "B",
+                "O",
+                "AB"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "O"
+        },
+        {
+            "id": 49,
+            "question": "डायलिसिस मशीन द्वारा रक्त का शुद्धिकरण की प्रक्रिया कहलाती है (The process of purification of blood by dialysis machine is called):",
+            "options": [
+                "डायलाइजर (Dialyzer)",
+                "हिमोडायलिसिस (Haemodialysis)",
+                "डायलाइसेट (Dialysate)",
+                "सेलोफेन (Cellophane)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "हिमोडायलिसिस (Haemodialysis)"
+        },
+        {
+            "id": 50,
+            "question": "प्रोटोजोआ उत्सर्जी पदार्थों का निष्कासन कैसे करता है? (How do protozoans expel excretory substances?)",
+            "options": [
+                "अवशोषण द्वारा (By absorption)",
+                "निष्कासन द्वारा (By expulsion)",
+                "परासरण द्वारा (By osmosis)",
+                "विसरण द्वारा (By diffusion)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "विसरण द्वारा (By diffusion)"
+        }
+    ]
+}

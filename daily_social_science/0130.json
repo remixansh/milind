@@ -1,0 +1,658 @@
+{
+    "date": "0130",
+    "dateDisplay": "30 January 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "ग्राम कचहरी का प्रधान कौन होता है? (Who is the head of the village kutchery?)",
+            "options": [
+                "पंच (Panch)",
+                "सरपंच (Sarpanch)",
+                "प्रमुख (Pramukh)",
+                "न्यायमित्र (Justice friend)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "सरपंच (Sarpanch)"
+        },
+        {
+            "id": 2,
+            "question": "भारतीय जनता पार्टी का चुनाव चिन्ह क्या है? (What is the election symbol of the Bhartiya Janta party?)",
+            "options": [
+                "हाथ का पंजा (Hand paw)",
+                "कमल का फूल (Lotus flower)",
+                "गेंदा का फूल (Marigold)",
+                "चक्र (Wheel)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "कमल का फूल (Lotus flower)"
+        },
+        {
+            "id": 3,
+            "question": "\"लोकतंत्र जनता का, जनता के द्वारा और जनता के लिए शासन है\" (\"Democracy is government of the people, for the people and by the people\" - Who said this?)",
+            "options": [
+                "अरस्तु (Aristotle)",
+                "अब्राहम लिंकन (Abraham Lincoln)",
+                "रूसो (Rousseau)",
+                "ग्रीन (Green)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "अब्राहम लिंकन (Abraham Lincoln)"
+        },
+        {
+            "id": 4,
+            "question": "लिच्छवि गणतंत्र भारत के किस राज्य में अवस्थित था? (The Lichchhavi Republic was situated in which state of India?)",
+            "options": [
+                "बिहार (Bihar)",
+                "राजस्थान (Rajasthan)",
+                "महाराष्ट्र (Maharashtra)",
+                "त्रिपुरा (Tripura)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 5,
+            "question": "नरेगा के अंतर्गत ग्रामीण मजदूरों को साल में कम से कम कितने दिनों के लिए रोजगार देने की व्यवस्था है? (Under NREGA, what is the provision of minimum number of days of employment for rural laborers in a year?)",
+            "options": [
+                "100 दिनों के लिए (For 100 days)",
+                "125 दिनों के लिए (For 125 days)",
+                "150 दिनों के लिए (For 150 days)",
+                "200 दिनों के लिए (For 200 days)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "100 दिनों के लिए (For 100 days)"
+        },
+        {
+            "id": 6,
+            "question": "भारत में योजना आयोग का गठन कब किया गया था? (When the Planning Commission was established in India?)",
+            "options": [
+                "15 मार्च 1950 (15 March 1950)",
+                "15 सितम्बर 1950 (15 September 1950)",
+                "15 अक्टूबर 1951 (15 October 1951)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "15 मार्च 1950 (15 March 1950)"
+        },
+        {
+            "id": 7,
+            "question": "नोबेल पुरस्कार से सम्मानित बांग्लादेशी अर्थशास्त्री हैं - (Bangladeshi economist honoured with Nobel Prize is-)",
+            "options": [
+                "प्रो. इकबाल युनुस (Prof. Iqbal Yunus)",
+                "मो. इकबाल युनुस (Md. Iqbal Yunus)",
+                "प्रो. मो. युनुस (Prof. Md. Yunus)",
+                "मो. शफीक युनुस (Md. Shafik Yunus)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "प्रो. मो. युनुस (Prof. Md. Yunus)"
+        },
+        {
+            "id": 8,
+            "question": "मानव पूंजी के प्रमुख घटक है- (What are the key components of human capital?)",
+            "options": [
+                "ज्ञान (Knowledge)",
+                "कौशल (Skill)",
+                "अनुभव (Experience)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 9,
+            "question": "भारत सरकार ने 'सूचना का अधिकार अधिनियम' कब पारित किया? (When the government of India passed the 'Right to Information Act'?)",
+            "options": [
+                "2004",
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "2005"
+        },
+        {
+            "id": 10,
+            "question": "इनमें से कौन सी प्राकृतिक आपदा नहीं है? (Which of these is not a natural disaster?)",
+            "options": [
+                "आतंकवाद (Terrorism)",
+                "सुनामी (Tsunami)",
+                "बाढ़ (Flood)",
+                "भूकम्प (Earthquake)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "आतंकवाद (Terrorism)"
+        },
+        {
+            "id": 11,
+            "question": "'वेदों की ओर लौटो' नारा किसने दिया था? (Who gave the slogan 'Return towards Vedas'?)",
+            "options": [
+                "राम कृष्ण परमहंस (Ramakrishna Paramahamsa)",
+                "स्वामी विवेकानन्द (Swami Vivekananda)",
+                "स्वामी दयानन्द सरस्वती (Swami Dayanand Saraswati)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "स्वामी दयानन्द सरस्वती (Swami Dayanand Saraswati)"
+        },
+        {
+            "id": 12,
+            "question": "'वार एंड पीस' किसकी रचना है? (Who wrote 'War and Peace'?)",
+            "options": [
+                "कार्ल मार्क्स (Karl Marx)",
+                "लियो टॉलस्टॉय (Leo Tolstoy)",
+                "दोस्तोयेव्स्की (Dostoevsky)",
+                "ऐंजल्स (Engels)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "लियो टॉलस्टॉय (Leo Tolstoy)"
+        },
+        {
+            "id": 13,
+            "question": "नई आर्थिक नीति में किसे सम्मिलित नहीं किया गया है? (Which is not included in the new economic policy?)",
+            "options": [
+                "नियंत्रित अर्थव्यवस्था (Controlled economy)",
+                "उदारीकरण (Liberalization)",
+                "वैश्वीकरण (Globalization)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "नियंत्रित अर्थव्यवस्था (Controlled economy)"
+        },
+        {
+            "id": 14,
+            "question": "सविनय अवज्ञा आंदोलन किस यात्रा से शुरू हुआ? (Civil Disobedience Movement started with which march?)",
+            "options": [
+                "1920, भुज (1920, Bhuj)",
+                "1930, अहमदाबाद (1930, Ahmedabad)",
+                "1930, दांडी (1930, Dandi)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "1930, दांडी (1930, Dandi)"
+        },
+        {
+            "id": 15,
+            "question": "योजना आयोग को भंग कर कौन सा आयोग बना? (Which commission has been formed after dissolution of Planning Commission?)",
+            "options": [
+                "नीति आयोग (NITI Aayog)",
+                "वित्त आयोग (Finance commission)",
+                "राज्य वित्त आयोग (State finance commission)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "नीति आयोग (NITI Aayog)"
+        },
+        {
+            "id": 16,
+            "question": "राष्ट्रीय विकास परिषद का गठन कब हुआ था? (When was National Development Council constituted?)",
+            "options": [
+                "1950",
+                "1951",
+                "1952",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "1952"
+        },
+        {
+            "id": 17,
+            "question": "अन्तर्राष्ट्रीय महिला दिवस किस तिथि को मनाया जाता है? (On which date International Women's Day is celebrated?)",
+            "options": [
+                "7 मार्च (7 March)",
+                "8 मार्च (8 March)",
+                "9 मार्च (9 March)",
+                "10 मार्च (10 March)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "8 मार्च (8 March)"
+        },
+        {
+            "id": 18,
+            "question": "भारतीय संविधान के अनुच्छेद-19 में देश के सभी नागरिकों को कौन सा मूल अधिकार दिया गया है? (In Article-19 of the Indian Constitution which of the fundamental right has been given to all citizens of India?)",
+            "options": [
+                "स्वतंत्रता का अधिकार (Right to Freedom)",
+                "समानता का अधिकार (Right to Equality)",
+                "संवैधानिक उपचार का अधिकार (Right to Constitutional remedy)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "स्वतंत्रता का अधिकार (Right to Freedom)"
+        },
+        {
+            "id": 19,
+            "question": "सुनामी कहाँ आती है? (Where does Tsunami Occur?)",
+            "options": [
+                "स्थल (Land)",
+                "समुद्र (Sea)",
+                "आसमान (Sky)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "समुद्र (Sea)"
+        },
+        {
+            "id": 20,
+            "question": "निम्न में से किसको प्राथमिक क्षेत्र कहा जाता है? (Which of the following is known as primary sector?)",
+            "options": [
+                "सेवा क्षेत्र (Service sector)",
+                "कृषि क्षेत्र (Agricultural sector)",
+                "औ‌द्योगिक क्षेत्र (Industrial sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "कृषि क्षेत्र (Agricultural sector)"
+        },
+        {
+            "id": 21,
+            "question": "भारतीय जनता पार्टी की स्थापना कब हुई? (When was the Bhartiya Janta Party (B.J.P) formed?)",
+            "options": [
+                "1979",
+                "1980",
+                "1981",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "1980"
+        },
+        {
+            "id": 22,
+            "question": "सिखों के दसवें और अंतिम गुरु श्री गोबिन्द सिंह का जन्म बिहार के किस नगर में हुआ था? (The 10th and the last Guru of Sikhs, Sri Gobind Singh, was born in which city of Bihar?)",
+            "options": [
+                "मुंगेर (Munger)",
+                "खगड़िया (Khagaria)",
+                "पटना (Patna)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "पटना (Patna)"
+        },
+        {
+            "id": 23,
+            "question": "इनमें से कौन सा संस्थागत वित्त का साधन है? (Which of the following is the source of institutional finance?)",
+            "options": [
+                "सेठ-साहूकार (Businessmen)",
+                "रिश्तेदार (Relatives)",
+                "व्यावसायिक बैंक (Commercial Bank)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "व्यावसायिक बैंक (Commercial Bank)"
+        },
+        {
+            "id": 24,
+            "question": "निम्नलिखित नदियों में से किसे 'बिहार का शोक' कहा जाता है? (Which of the following rivers is called the 'Sorrow of Bihar'?)",
+            "options": [
+                "गंगा (Ganga)",
+                "गंडक (Gandak)",
+                "कोसी (Kosi)",
+                "पुनपुन (Punpun)"
+            ],
+            "correct": 2,
+            "year": 2019,
+            "correctAnswer": "कोसी (Kosi)"
+        },
+        {
+            "id": 25,
+            "question": "पंचायती राज व्यवस्था सर्वप्रथम किस राज्य में लागू किया गया? (In which state the Panchayati Raj System was first implemented?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "बिहार (Bihar)",
+                "उत्तराखंड (Uttarakhand)",
+                "मध्यप्रदेश (Madhya Pradesh)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 26,
+            "question": "हिन्द-चीन पहुँचने वाले प्रथम व्यापारी कौन थे ? (Who were the first traders to reach Indo-China?)",
+            "options": [
+                "अंग्रेज (English)",
+                "फ्रांसीसी (French)",
+                "पुर्तगाली (Portuguese)",
+                "डच (Dutch)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "पुर्तगाली (Portuguese)"
+        },
+        {
+            "id": 27,
+            "question": "ऊर्जा के मुख्य स्रोत क्या हैं? (What are the main sources of energy?)",
+            "options": [
+                "कोयला (Coal)",
+                "पेट्रोलियम (Petroleum)",
+                "विद्युत (Electricity)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 28,
+            "question": "निम्नलिखित राष्ट्रीय जलमार्गों में किसकी लंबाई सबसे कम है ? (Which of the following National waterways has the shortest length ?)",
+            "options": [
+                "राष्ट्रीय जलमार्ग-1 (National Waterway-1)",
+                "राष्ट्रीय जलमार्ग-2 (National Waterway-2)",
+                "राष्ट्रीय जलमार्ग-3 (National Waterway-3)",
+                "राष्ट्रीय जलमार्ग-4 (National Waterway-4)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "राष्ट्रीय जलमार्ग-3 (National Waterway-3)"
+        },
+        {
+            "id": 29,
+            "question": "भारत का प्रथम उर्वरक संयंत्र कहाँ स्थापित किया गया था ? (Where was the first fertilizer plant of India established ?)",
+            "options": [
+                "चुनार (Chunar)",
+                "कोरबा (Korba)",
+                "बर्नपुर (Burnpur)",
+                "सिंदरी (Sindri)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "सिंदरी (Sindri)"
+        },
+        {
+            "id": 30,
+            "question": "इंदिरा गाँधी नहर किस राज्य में स्थित है ? (In which state is Indira Gandhi canal located?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "गुजरात (Gujarat)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "बिहार (Bihar)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 31,
+            "question": "निम्न तेल उत्पादक क्षेत्रों में कौन गुजरात में स्थित है ? (Which of the following oil producing regions is located in Gujarat ?)",
+            "options": [
+                "रुद्रसागर (Rudrasagar)",
+                "नहरकटिया (Naharkatiya)",
+                "अंकलेश्वर (Ankleshwar)",
+                "डिगबोई (Digboi)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अंकलेश्वर (Ankleshwar)"
+        },
+        {
+            "id": 32,
+            "question": "भारत के किस राज्य में मोनाजाइट प्रचुरता में पाया जाता है ? (In which state of India is Monazite found in abundance ?)",
+            "options": [
+                "ओडिशा (Odisha)",
+                "केरल (Kerala)",
+                "तमिलनाडु (Tamil Nadu)",
+                "आन्ध्र प्रदेश (Andhra Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 33,
+            "question": "यूनेस्को द्वारा भारत के कितने जैवमण्डल आरक्षित क्षेत्रों को मान्यता दी गई है ? (How many Biosphere Reserves of India have been recognized by UNESCO ?)",
+            "options": [
+                "12",
+                "18",
+                "15",
+                "20"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "12"
+        },
+        {
+            "id": 34,
+            "question": "आलू किस प्रकार की फसल है ? (What type of crop is potato?)",
+            "options": [
+                "जायद (Zaid)",
+                "खरीफ (Kharif)",
+                "रबी (Rabi)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "रबी (Rabi)"
+        },
+        {
+            "id": 35,
+            "question": "कोंकण रेलवे किन दो राज्यों को जोड़ती है ? (Konkan Railway connects which two states ?)",
+            "options": [
+                "महाराष्ट्र एवं गुजरात (Maharashtra and Gujarat)",
+                "महाराष्ट्र एवं कर्नाटक (Maharashtra and Karnataka)",
+                "कर्नाटक एवं आंध्र प्रदेश (Karnataka and Andhra Pradesh)",
+                "महाराष्ट्र एवं मध्य प्रदेश (Maharashtra and Madhya Pradesh)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "महाराष्ट्र एवं कर्नाटक (Maharashtra and Karnataka)"
+        },
+        {
+            "id": 36,
+            "question": "दलाल स्ट्रीट निम्न में से किससे संबंधित है ? (Dalal street is related to which of the following?)",
+            "options": [
+                "तेल परिशोधन (Oil refinery)",
+                "दुग्ध उत्पादन (Milk production)",
+                "पूँजी बाजार (Capital market)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पूँजी बाजार (Capital market)"
+        },
+        {
+            "id": 37,
+            "question": "निम्न में से क्या भारतीय संघीय व्यवस्था की विशेषता नहीं है ? (Which of the following is not a characteristic of the Indian Federal system?)",
+            "options": [
+                "दोहरी सरकार (Dual government)",
+                "स्वतंत्र न्यायपालिका (Independent judiciary)",
+                "लिखित संविधान (Written constitution)",
+                "दोहरी नागरिकता (Dual citizenship)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "दोहरी नागरिकता (Dual citizenship)"
+        },
+        {
+            "id": 38,
+            "question": "स्थानीय स्वशासन को राज्य के नीति निदेशक सिद्धांतों के किस अनुच्छेद में स्थान दिया गया है ? (In which article of the Directive Principles of State Policy has local self-government been given a place ?)",
+            "options": [
+                "अनुच्छेद 31 (Article 31)",
+                "अनुच्छेद 35 (Article 35)",
+                "अनुच्छेद 40 (Article 40)",
+                "अनुच्छेद 51 (Article 51)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "अनुच्छेद 40 (Article 40)"
+        },
+        {
+            "id": 39,
+            "question": "मुखिया के विरुद्ध अविश्वास प्रस्ताव पारित करने के लिए कितने बहुमत की आवश्यकता होती है ? (How much majority is required to pass a no-confidence motion against Mukhiya ?)",
+            "options": [
+                "एक-चौथाई (One-fourth)",
+                "एक-तिहाई (One-third)",
+                "दो-तिहाई (Two-third)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "दो-तिहाई (Two-third)"
+        },
+        {
+            "id": 40,
+            "question": "बिहार में एक नगर निगम में अधिकतम कितने वार्ड हो सकते हैं ? (How many maximum wards may a municipal corporation have in Bihar ?)",
+            "options": [
+                "37",
+                "51",
+                "72",
+                "75"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "75"
+        },
+        {
+            "id": 41,
+            "question": "सप्तदलीय गठबंधन कहाँ बनाया गया था ? (Where was the seven-party alliance formed ?)",
+            "options": [
+                "बांग्लादेश (Bangladesh)",
+                "भारत (India)",
+                "नेपाल (Nepal)",
+                "चीन (China)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "नेपाल (Nepal)"
+        },
+        {
+            "id": 42,
+            "question": "पंचायती राज व्यवस्था से संबंधित समिति कौन है ? (Which is the Committee related to Panchayati Raj system ?)",
+            "options": [
+                "अशोक मेहता समिति (Ashok Mehta Committee)",
+                "बलवंत राय मेहता समिति (Balwant Rai Mehta Committee)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "तेंदुलकर समिति (Tendulkar Committee)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 43,
+            "question": "नेपाल में लोकतंत्र की स्थापना कब हुई ? (When did Nepal establish democracy?)",
+            "options": [
+                "2002",
+                "2004",
+                "2006",
+                "2008"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "2006"
+        },
+        {
+            "id": 44,
+            "question": "\"मुद्रण ईश्वर की दी हुई महानतम देन है।\" यह कथन किसका है ? (Who said, \"Printing is the greatest gift given by God\" ?)",
+            "options": [
+                "मार्टिन लूथर (Martin Luther)",
+                "गुटेनबर्ग (Gutenberg)",
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "कार्ल मार्क्स (Karl Marx)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "मार्टिन लूथर (Martin Luther)"
+        },
+        {
+            "id": 45,
+            "question": "निम्न में से सबसे पुराना बैंक कौन-सा है ? (Which of the following is the oldest bank?)",
+            "options": [
+                "इंडियन बैंक (Indian Bank)",
+                "पंजाब नेशनल बैंक (Punjab National Bank)",
+                "बैंक ऑफ इण्डिया (Bank of India)",
+                "स्टेट बैंक ऑफ इण्डिया (State Bank of India)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "पंजाब नेशनल बैंक (Punjab National Bank)"
+        },
+        {
+            "id": 46,
+            "question": "भारतीय राष्ट्रीय कांग्रेस के प्रथम सत्र में कितने प्रतिनिधियों ने भाग लिया ? (How many delegates attended the first session of the Indian National Congress ?)",
+            "options": [
+                "65",
+                "72",
+                "75",
+                "78"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "72"
+        },
+        {
+            "id": 47,
+            "question": "निम्नलिखित में से कौन भारतीय राष्ट्रीय कांग्रेस का उदारवादी नेता नहीं है ? (Who among the following was not a moderate leader of the Indian National Congress ?)",
+            "options": [
+                "गोपाल कृष्ण गोखले (Gopal Krishna Gokhale)",
+                "एम. जी. रानाडे (M. G. Ranade)",
+                "बाल गंगाधर तिलक (Bal Gangadhar Tilak)",
+                "सुरेन्द्र नाथ बनर्जी (Surendra Nath Banerjee)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "बाल गंगाधर तिलक (Bal Gangadhar Tilak)"
+        },
+        {
+            "id": 48,
+            "question": "बंगाल विभाजन किसने वापस लिया ? (Who withdrew the partition of Bengal ?)",
+            "options": [
+                "लॉर्ड कर्जन (Lord Curzon)",
+                "लॉर्ड हार्डिंग (Lord Hardinge)",
+                "लॉर्ड इरवीन (Lord Irwin)",
+                "लॉर्ड मिन्टो (Lord Minto)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "लॉर्ड हार्डिंग (Lord Hardinge)"
+        },
+        {
+            "id": 49,
+            "question": "मोपला विद्रोह कहाँ हुआ ? (Where did the Moplah rebellion take place ?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "बिहार (Bihar)",
+                "केरल (Kerala)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 50,
+            "question": "किस घटना के विरोध स्वरूप रवीन्द्रनाथ टैगोर ने नाइट की उपाधि त्याग दी थी ? (Against which incident did Rabindranath Tagore give up his knighthood?)",
+            "options": [
+                "खिलाफत आन्दोलन (Khilafat Movement)",
+                "चौरी-चौरा कांड (Chauri-Chaura incident)",
+                "जलियाँवाला हत्याकांड (Jallianwala Bagh Massacre)",
+                "साइमन कमिशन (Simon Commission)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "जलियाँवाला हत्याकांड (Jallianwala Bagh Massacre)"
+        }
+    ]
+}

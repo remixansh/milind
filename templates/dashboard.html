@@ -1,0 +1,332 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - BSEB Super 50{% endblock %}
+
+{% block content %}
+<!-- Modern Glassmorphism Credits Animation -->
+<div id="dev-credits" class="fixed inset-0 z-[100] flex items-center justify-center font-sans overflow-hidden">
+
+    <!-- Background with Blur and Gradient -->
+    <div class="absolute inset-0 bg-gradient-to-br from-slate-900 via-emerald-950 to-slate-900 z-0"></div>
+    <div
+        class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] z-0 mix-blend-overlay">
+    </div>
+
+    <!-- Glass Card -->
+    <div
+        class="relative z-10 backdrop-blur-md bg-white/5 border border-white/10 rounded-2xl p-10 md:p-14 shadow-2xl text-center max-w-lg mx-4 opacity-0 animate-card-enter transform transition-all">
+
+        <!-- Glow Effect behind card -->
+        <div
+            class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3/4 h-3/4 bg-emerald-500/20 blur-[100px] -z-10 rounded-full">
+        </div>
+
+        <!-- Content Group -->
+        <div class="space-y-8">
+
+            <!-- Powered By Section -->
+            <div class="relative opacity-0 animate-slide-up"
+                style="animation-delay: 0.3s; animation-fill-mode: forwards;">
+                <div
+                    class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 mb-4 backdrop-blur-sm">
+                    <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                    <span class="text-[10px] font-bold tracking-widest text-emerald-300 uppercase">Powered By</span>
+                </div>
+                <h1 class="text-3xl md:text-5xl font-bold text-white tracking-tight drop-shadow-lg">
+                    Dhyanam Classes
+                </h1>
+            </div>
+
+            <!-- Divider -->
+            <div class="flex items-center justify-center opacity-0 animate-scale-x"
+                style="animation-delay: 0.8s; animation-fill-mode: forwards;">
+                <div class="h-px w-12 bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
+                <div class="w-1.5 h-1.5 rounded-full bg-white/20 mx-2"></div>
+                <div class="h-px w-12 bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
+            </div>
+
+            <!-- Developed By Section -->
+            <div class="opacity-0 animate-slide-up" style="animation-delay: 1.1s; animation-fill-mode: forwards;">
+                <p class="text-xs text-slate-400 font-medium mb-1 uppercase tracking-wider">Developed by</p>
+                <div
+                    class="text-xl md:text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-emerald-200 to-teal-200">
+                    Ansh Raj
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<style>
+    .animate-pulse-slow {
+        animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+
+    @keyframes cardEnter {
+        0% {
+            opacity: 0;
+            transform: scale(0.9) translateY(20px);
+            filter: blur(10px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: scale(1) translateY(0);
+            filter: blur(0);
+        }
+    }
+
+    @keyframes slideUp {
+        0% {
+            opacity: 0;
+            transform: translateY(15px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes scaleX {
+        0% {
+            opacity: 0;
+            transform: scaleX(0);
+        }
+
+        100% {
+            opacity: 1;
+            transform: scaleX(1);
+        }
+    }
+
+    @keyframes exitFade {
+        0% {
+            opacity: 1;
+            transform: scale(1);
+            filter: blur(0);
+        }
+
+        100% {
+            opacity: 0;
+            transform: scale(1.05);
+            filter: blur(20px);
+        }
+    }
+
+    .animate-card-enter {
+        animation: cardEnter 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    .animate-slide-up {
+        animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    .animate-scale-x {
+        animation: scaleX 0.8s ease-out forwards;
+    }
+
+    .animate-exit {
+        animation: exitFade 0.6s ease-in forwards !important;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const credits = document.getElementById('dev-credits');
+        setTimeout(() => {
+            credits.classList.add('animate-exit');
+            setTimeout(() => {
+                credits.remove();
+            }, 600);
+        }, 3200); // Display for ~3.2s
+    });
+</script>
+
+<div class="min-h-screen bg-gradient-to-br from-emerald-50 via-white to-emerald-50/50 pb-20">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 backdrop-blur-lg bg-white/80 border-b border-gray-100">
+        <div class="max-w-lg mx-auto px-4 py-4">
+            <div class="flex items-center gap-3">
+                <div
+                    class="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-400 to-emerald-600 flex items-center justify-center shadow-lg shadow-emerald-500/25">
+                    <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <path d="M9 3h6v7l4 7a2 2 0 0 1-1.7 3H6.7a2 2 0 0 1-1.7-3l4-7V3z" />
+                    </svg>
+                </div>
+                <div>
+                    <h1 class="text-lg font-bold text-gray-900">BSEB Super 50</h1>
+                    <p class="text-xs text-gray-500">Daily Practice Questions</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-lg mx-auto px-4 py-6">
+
+        <!-- Welcome Card -->
+        <div
+            class="bg-gradient-to-r from-emerald-500 to-emerald-600 rounded-2xl p-5 mb-6 text-white shadow-xl shadow-emerald-500/20">
+            <h2 class="text-lg font-bold mb-1">Welcome, Student! 👋</h2>
+            <p class="text-emerald-100 text-sm">Practice 50 most important questions daily</p>
+        </div>
+
+        <!-- Subjects Section -->
+        <section>
+            <h2 class="text-sm font-semibold uppercase tracking-wider text-gray-400 mb-4 flex items-center gap-2">
+                <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="3" width="7" height="7" rx="1" />
+                    <rect x="14" y="3" width="7" height="7" rx="1" />
+                    <rect x="3" y="14" width="7" height="7" rx="1" />
+                    <rect x="14" y="14" width="7" height="7" rx="1" />
+                </svg>
+                Select Subject
+            </h2>
+
+            <div class="space-y-3">
+                {% for subject in subjects %}
+                {% if subject.coming_soon %}
+                <div class="block bg-white/50 rounded-2xl p-5 shadow-sm border border-gray-100 relative overflow-hidden grayscale opacity-75">
+                    <!-- Coming Soon Badge -->
+                    <div class="absolute top-3 right-3 bg-gray-900/10 text-gray-500 text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-widest">
+                        Coming Soon
+                    </div>
+                {% else %}
+                <a href="/practice/{{ subject.id }}"
+                    class="block bg-white rounded-2xl p-5 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-{{ subject.color }}-200 hover:-translate-y-0.5 active:scale-[0.98]">
+                {% endif %}
+                    <div class="flex items-center gap-4">
+                        <!-- Icon -->
+                        <div
+                            class="w-14 h-14 rounded-xl bg-gradient-to-br from-{{ subject.color }}-100 to-{{ subject.color }}-200 flex items-center justify-center">
+                            
+                            <!-- Dynamic Icon Switching -->
+                            {% if subject.icon == 'flask' %}
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M9 3h6v7l4 7a2 2 0 0 1-1.7 3H6.7a2 2 0 0 1-1.7-3l4-7V3z" />
+                                <path d="M9 3h6" />
+                            </svg>
+                            {% elif subject.icon == 'users' %}
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                <circle cx="9" cy="7" r="4"></circle>
+                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                            </svg>
+                            {% elif subject.icon == 'calculator' %}
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
+                                <line x1="8" y1="6" x2="16" y2="6"></line>
+                                <line x1="16" y1="14" x2="16" y2="18"></line>
+                                <path d="M16 10h.01"></path>
+                                <path d="M12 10h.01"></path>
+                                <path d="M8 10h.01"></path>
+                                <path d="M12 14h.01"></path>
+                                <path d="M8 14h.01"></path>
+                                <path d="M12 18h.01"></path>
+                                <path d="M8 18h.01"></path>
+                            </svg>
+                            {% elif subject.icon == 'book' %}
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                            </svg>
+                            {% elif subject.icon == 'om' %} <!-- Hindi -->
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <path d="M9 8h6"></path>
+                                <path d="M12 8v8"></path>
+                                <path d="M9 12h6"></path>
+                            </svg>
+                            {% elif subject.icon == 'scroll' %} <!-- Sanskrit -->
+                             <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M19 4H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path>
+                                <path d="M12 11h4"></path>
+                                <path d="M12 8h4"></path>
+                            </svg>
+                            {% else %}
+                             <!-- Fallback Icon -->
+                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"></circle>
+                            </svg>
+                            {% endif %}
+                        </div>
+
+                        <!-- Text -->
+                        <div class="flex-1">
+                            <h3 class="font-bold text-gray-800 text-lg">{{ subject.name }}</h3>
+                            <p class="text-gray-500 text-sm">{{ subject.nameHindi }}</p>
+                        </div>
+
+                        <!-- Arrow -->
+                        {% if not subject.coming_soon %}
+                        <svg class="w-5 h-5 text-gray-300" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <polyline points="9 18 15 12 9 6" />
+                        </svg>
+                        {% endif %}
+                    </div>
+
+                    <!-- Progress if exists -->
+                    {% if not subject.coming_soon and progress.get(subject.id) %}
+                    <div class="mt-4 pt-4 border-t border-gray-50">
+                        <div class="flex items-center justify-between text-sm">
+                            <span class="text-gray-500">Best Score</span>
+                            <span class="font-semibold text-{{ subject.color }}-600">{{ progress[subject.id].best_score }}%</span>
+                        </div>
+                        <div class="mt-2 h-2 bg-gray-100 rounded-full overflow-hidden">
+                            <div class="h-full bg-gradient-to-r from-{{ subject.color }}-400 to-{{ subject.color }}-500 rounded-full transition-all"
+                                style="width: {{ progress[subject.id].best_score }}%"></div>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% if subject.coming_soon %}
+                </div>
+                {% else %}
+                </a>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Bottom Navigation -->
+    <nav class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-100 z-50">
+        <div class="max-w-lg mx-auto px-4">
+            <div class="flex items-center justify-around py-3">
+                <!-- Home -->
+                <a href="/" class="flex flex-col items-center gap-1 text-emerald-600">
+                    <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+                        <polyline points="9 22 9 12 15 12 15 22" />
+                    </svg>
+                    <span class="text-xs font-medium">Home</span>
+                </a>
+
+                <!-- Progress -->
+                <a href="#" onclick="showProgress()"
+                    class="flex flex-col items-center gap-1 text-gray-400 hover:text-emerald-600 transition-colors">
+                    <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="20" x2="18" y2="10" />
+                        <line x1="12" y1="20" x2="12" y2="4" />
+                        <line x1="6" y1="20" x2="6" y2="14" />
+                    </svg>
+                    <span class="text-xs font-medium">Progress</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+</div>
+
+<script>
+    function showProgress() {
+        alert('Progress feature coming soon!');
+    }
+</script>
+{% endblock %}

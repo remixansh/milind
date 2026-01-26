@@ -1,0 +1,658 @@
+{
+    "date": "0202",
+    "dateDisplay": "02 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "गदर पार्टी की स्थापना किसने की थी ? (Who founded the Gadar Party?)",
+            "options": [
+                "गुरदयाल सिंह (Gurdayal Singh)",
+                "चन्द्रशेखर आजाद (Chandra Shekhar Azad)",
+                "सोहन सिंह भकना (Sohan Singh Bhakna)",
+                "बाल गंगाधर तिलक (Bal Gangadhar Tilak)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "सोहन सिंह भकना (Sohan Singh Bhakna)"
+        },
+        {
+            "id": 2,
+            "question": "टाटा आयरन एण्ड स्टील कम्पनी की स्थापना कब हुई थी ? (When was the Tata Iron and Steel Company established?)",
+            "options": [
+                "1907",
+                "1915",
+                "1923",
+                "1916"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1907"
+        },
+        {
+            "id": 3,
+            "question": "स्पिनिंग म्यूल का आविष्कार किसने किया ? (Who invented the Spinning Mule?)",
+            "options": [
+                "जेम्स हारग्रीब्ज (James Hargreaves)",
+                "सैमुएल क्रॉम्पटन (Samuel Crompton)",
+                "जॉन के (John Kay)",
+                "एडमण्ड कार्टराईट (Edmund Cartwright)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सैमुएल क्रॉम्पटन (Samuel Crompton)"
+        },
+        {
+            "id": 4,
+            "question": "सामंती व्यवस्था के स्थान पर किस प्रकार की शहरी व्यवस्था की प्रवृत्ति बढ़ी ? (Which type of urban system tended to grow in place of Feudal system?)",
+            "options": [
+                "प्रगतिशील (Progressive)",
+                "आक्रामक (Aggressive)",
+                "रूढ़िवादी (Conservative)",
+                "शोषणकारी (Exploitative)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "प्रगतिशील (Progressive)"
+        },
+        {
+            "id": 5,
+            "question": "1929 की मंदी का सबसे बुरा प्रभाव किस देश पर पड़ा ? (Which country was worst affected by the great depression of 1929?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "फ्रांस (France)",
+                "संयुक्त राज्य अमेरिका (United States of America)",
+                "जापान (Japan)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "संयुक्त राज्य अमेरिका (United States of America)"
+        },
+        {
+            "id": 6,
+            "question": "'न्यू डील' का सम्बन्ध निम्न में से किससे था ? (Which of the following was related to the 'New Deal'?)",
+            "options": [
+                "राजनीतिक नीति (Political Policy)",
+                "सामाजिक नीति (Social Policy)",
+                "धार्मिक नीति (Religious Policy)",
+                "आर्थिक नीति (Economic Policy)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "आर्थिक नीति (Economic Policy)"
+        },
+        {
+            "id": 7,
+            "question": "अन्तरराष्ट्रीय मुद्रा कोष की स्थापना कब हुई ? (When was the International Monetary Fund established?)",
+            "options": [
+                "1945",
+                "1946",
+                "1947",
+                "1948"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "1945"
+        },
+        {
+            "id": 8,
+            "question": "मुद्रण कला का आविष्कार कहाँ हुआ ? (Where was the art of printing invented?)",
+            "options": [
+                "जापान (Japan)",
+                "उत्तरी कोरिया (North Korea)",
+                "चीन (China)",
+                "ब्रिटेन (Britain)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 9,
+            "question": "प्रथम पेपर मिल की स्थापना किस देश में हुई ? (In which country was the first paper mill established?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "इटली (Italy)",
+                "चीन (China)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "जर्मनी (Germany)"
+        },
+        {
+            "id": 10,
+            "question": "बिहार मे जीवनयापन का मुख्य स्रोत क्या है ? (What is the main source of livelihood in Bihar?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "उद्योग (Industry)",
+                "व्यापार (Trade)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "कृषि (Agriculture)"
+        },
+        {
+            "id": 11,
+            "question": "वैश्वीकरण के परिणामस्वरूप विभिन्न देशों के बीच, निम्न में से किसका निर्वाध प्रवाह होता है ? (As a result of globalization, which of the following has uninterrupted flow among different countries ?)",
+            "options": [
+                "पूँजी (Capital)",
+                "प्रौद्योगिकी (Technology)",
+                "श्रम (Labour)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 12,
+            "question": "भारतीय आर्थिक सुधारों में किसे शामिल किया गया है ? (Which of the following is included in Indian economic reforms?)",
+            "options": [
+                "उदारीकरण (Liberalization)",
+                "निजीकरण (Privatization)",
+                "वैश्वीकरण (Globalization)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 13,
+            "question": "निम्नलिखित में से कौन जर्मन चांसलर था ? (Who among the following was the German Chancellor?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "हीगेल (Hegel)",
+                "बिस्मार्क (Bismarck)",
+                "विक्टर इमैनुएल (Victor Emmanuel)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "बिस्मार्क (Bismarck)"
+        },
+        {
+            "id": 14,
+            "question": "नेपल्स की क्रांति कब हुई थी ? (When did the Naples Revolution happen?)",
+            "options": [
+                "1789",
+                "1821",
+                "1839",
+                "1917"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1821"
+        },
+        {
+            "id": 15,
+            "question": "वैज्ञानिक समाजवाद का जनक किसे माना जाता है ? (Who is considered the father of scientific socialism ?)",
+            "options": [
+                "हीगेल (Hegel)",
+                "कार्ल मार्क्स (Karl Marx)",
+                "सेंट साइमन (Saint Simon)",
+                "मार्टिन लूथर (Martin Luther)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "कार्ल मार्क्स (Karl Marx)"
+        },
+        {
+            "id": 16,
+            "question": "निम्न में से किन्हें कैसर-ए-हिंद की उपाधि दी गई थी ? (Who among the following was given the title of Kaiser-i-Hind?)",
+            "options": [
+                "रवीन्द्रनाथ टैगोर (Rabindra Nath Tagore)",
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "शकरन नायर (Shankaran Nair)",
+                "सुरेन्द्रनाथ बनर्जी (Surendra Nath Banerjee)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "महात्मा गाँधी (Mahatma Gandhi)"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में से किस आंदोलन की शुरुआत 'दांडी मार्च' से हुई थी ? (Which of the following movements started with 'Dandi March ?)",
+            "options": [
+                "सविनय अवज्ञा आन्दोलन (Civil Disobedience Movement)",
+                "असहयोग आन्दोलन (Non-Cooperation Movement)",
+                "भारत छोड़ो आन्दोलन (Quit India Movement)",
+                "खिलाफत आन्दोलन (Khilafat Movement)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "सविनय अवज्ञा आन्दोलन (Civil Disobedience Movement)"
+        },
+        {
+            "id": 18,
+            "question": "अमृत बाजार पत्रिका किस भाषा का समाचार पत्र था ? (Amrit Bazar Patrika was the newspaper of which language ?)",
+            "options": [
+                "हिन्दी (Hindi)",
+                "बगला (Bengali)",
+                "मराठी (Marathi)",
+                "गुजराती (Gujarati)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बगला (Bengali)"
+        },
+        {
+            "id": 19,
+            "question": "'अखिल भारतीय ट्रेड यूनियन कांग्रेस' की स्थापना कब हुई ? (When was All India Trade Union Congress established ?)",
+            "options": [
+                "1848",
+                "1881",
+                "1885",
+                "1920"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "1920"
+        },
+        {
+            "id": 20,
+            "question": "सोवियत संघ का विघटन कब हुआ ? (When did the Soviet Union disintegrate ?)",
+            "options": [
+                "1985",
+                "1991",
+                "1968",
+                "1990"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1991"
+        },
+        {
+            "id": 21,
+            "question": "73 वां संवैधानिक संशोधन निम्न में से किससे संबंधित है ? (73rd Constitutional Amendment is related to which of following?)",
+            "options": [
+                "पंचायती राज (Panchayati Raj)",
+                "नगरपालिका (Municipality)",
+                "सर्वोच्च न्यायालय (Supreme Court)",
+                "राष्ट्रपति चुनाव (Election of President)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "पंचायती राज (Panchayati Raj)"
+        },
+        {
+            "id": 22,
+            "question": "राज्य पुनर्गठन आयोग, 1953 का गठन किसकी अध्यक्षता में हुआ ? (Under whose Chairmanship was the State Reorgamzation Commission formed in 1953 ?)",
+            "options": [
+                "फ़जल अली (Fazal Ali)",
+                "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+                "मोरारजी देसाई (Morarji Desai)",
+                "लाल बहादुर शास्त्री (Lal Bahadur Shastri)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ़जल अली (Fazal Ali)"
+        },
+        {
+            "id": 23,
+            "question": "निम्न में से किस शहर में नगर निगम की स्थापना हो चुकी है ? (In which of the following cities has municipal corporation been already established?)",
+            "options": [
+                "भागलपुर (Bhagalpur)",
+                "गोपालगंज (Gopalganj)",
+                "सीतामढी (Sitamarhi)",
+                "रोहतास (Rohtas)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "भागलपुर (Bhagalpur)"
+        },
+        {
+            "id": 24,
+            "question": "भारतीय संविधान की 8 वीं अनुसूची में कितनी भाषाएँ शामिल हैं ? (How many languages are included in the Eighth Schedule of Constitution of India?)",
+            "options": [
+                "15",
+                "22",
+                "25",
+                "21"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "22"
+        },
+        {
+            "id": 25,
+            "question": "पंचायती राज संस्थानों के विघटन की स्थिति में कितने समय अंतराल में चुनाव करवाना अनिवार्य है ? (In case of dissolution of Panchayati Raj institutions, at what time interval is it mandatory to hold elections?)",
+            "options": [
+                "2 माह (2 months)",
+                "6 माह (6 months)",
+                "1 वर्ष (1 year)",
+                "1 माह (1 month)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "6 माह (6 months)"
+        },
+        {
+            "id": 26,
+            "question": "ग्राम कचहरी का प्रधान कौन होता है ? (Who is the head of the village court ?)",
+            "options": [
+                "सरपंच (Sarpanch)",
+                "जिला मजिस्ट्रेट (District Magistrate)",
+                "न्याय मित्र (Nyaya Mitra)",
+                "मुखिया (Mukhiya)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "सरपंच (Sarpanch)"
+        },
+        {
+            "id": 27,
+            "question": "निम्न में  किस देश में एकात्मक शामन व्यवस्था है ? (Which of the following countries has a Unitary Government system ?)",
+            "options": [
+                "ग्रेट ब्रिटेन (Great Britain)",
+                "फ्राम (France)",
+                "चीन (China)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में से कौन दबाव समूह नहीं है ? (Which of the following is not a pressure group?)",
+            "options": [
+                "अखिल भारतीय विद्यार्थी परिषद् (Akhil Bharatiya Vidyarthi Parishad (ABVP))",
+                "ऑल इण्डिया ट्रेड यूनियन कांग्रेस (All India Trade Union Congress)",
+                "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
+                "राष्ट्रीय स्वयं सेवक संघ (Rashtriya Swayamsevak Sangh)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)"
+        },
+        {
+            "id": 29,
+            "question": "बिजू जनता दल किस राज्य से संबंधित है ? (Biju Janata Dal belongs to which state ?)",
+            "options": [
+                "बिहार (Bihar)",
+                "झारखण्ड (Jharkhand)",
+                "ओडिशा (Odisha)",
+                "छत्तीसगढ (Chattisgarh)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 30,
+            "question": "73 वां संवैधानिक संशोधन निम्न में से किससे संबंधित है ? (73rd Constitutional Amendment is related to which of the following?)",
+            "options": [
+                "पंचायती राज (Panchayati Raj)",
+                "नगरपालिका (Municipality)",
+                "सर्वोच्च न्यायालय (Supreme Court)",
+                "राष्ट्रपति चुनाव (Election of President)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "पंचायती राज (Panchayati Raj)"
+        },
+        {
+            "id": 31,
+            "question": "राज्य पुनर्गठन आयोग, 1953 का गठन किसकी अध्यक्षता में हुआ ? (Under whose Chairmanship was the State Reorganization Commission formed in 1953?)",
+            "options": [
+                "फ़जल अली (Fazal Ali)",
+                "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+                "मोरारजी देसाई (Morarji Desai)",
+                "लाल बहादुर शास्त्री (Lal Bahadur Shastri)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ़जल अली (Fazal Ali)"
+        },
+        {
+            "id": 32,
+            "question": "निम्न में से किस शहर में नगर निगम की स्थापना हो चुकी है ? (In which of the following cities has municipal corporation been already established ?)",
+            "options": [
+                "भागलपुर (Bhagalpur)",
+                "गोपालगंज (Gopalganj)",
+                "सीतामढ़ी (Sitamarhi)",
+                "रोहतास (Rohtas)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "भागलपुर (Bhagalpur)"
+        },
+        {
+            "id": 33,
+            "question": "भारतीय संविधान की 8 वीं अनुसूची में कितनी भाषाएँ शामिल हैं ? (How many languages are included in the Eighth Schedule of the Constitution of India ?)",
+            "options": [
+                "15",
+                "22",
+                "25",
+                "21"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "22"
+        },
+        {
+            "id": 34,
+            "question": "भारतीय आर्थिक सुधारों में किसे शामिल किया गया है ? (Which of the following is included in Indian economic reforms ?)",
+            "options": [
+                "उदारीकरण (Liberalization)",
+                "निजीकरण (Privatization)",
+                "वैश्वीकरण (Globalization)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 35,
+            "question": "समोच्च जुताई कहाँ की जाती है ? (Where is contour ploughing done ?)",
+            "options": [
+                "मैदानी क्षेत्र (Plain area)",
+                "तटीय क्षेत्र (Coastal area)",
+                "पहाड़ी क्षेत्र (Mountainous area)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पहाड़ी क्षेत्र (Mountainous area)"
+        },
+        {
+            "id": 36,
+            "question": "जोहानसबर्ग में कौन-सा पृथ्वी सम्मेलन आयोजित हुआ था ? (Which Earth Summit was held in Johannesburg ?)",
+            "options": [
+                "प्रथम (First)",
+                "द्वितीय (Second)",
+                "तृतीय (Third)",
+                "चतुर्थ (Fourth)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "तृतीय (Third)"
+        },
+        {
+            "id": 37,
+            "question": "मूँगफली किस प्रकार की फसल है ? (What type of crop is peanut?)",
+            "options": [
+                "रबी (Rabi)",
+                "खरीफ (Kharif)",
+                "जायद (Zaid)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "खरीफ (Kharif)"
+        },
+        {
+            "id": 38,
+            "question": "बिहार में जीवनयापन का मुख्य स्रोत क्या है ? (What is the main source of livelihood in Bihar?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "उद्योग (Industry)",
+                "व्यापार (Trade)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "कृषि (Agriculture)"
+        },
+        {
+            "id": 39,
+            "question": "वैश्वीकरण के परिणामस्वरूप विभिन्न देशों के बीच, निम्न में से किसका निर्बाध प्रवाह होता है ? (As a result of globalization, which of the following has uninterrupted flow among different countries ?)",
+            "options": [
+                "पूँजी (Capital)",
+                "प्रौद्योगिकी (Technology)",
+                "श्रम (Labour)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 40,
+            "question": "सबसे लंबा राष्ट्रीय जलमार्ग कौन है ? (Which is the longest National waterway?)",
+            "options": [
+                "राष्ट्रीय जलमार्ग-1 (National Waterway-1)",
+                "राष्ट्रीय जलमार्ग-2 (National Waterway-2)",
+                "राष्ट्रीय जलमार्ग-3 (National Waterway-3)",
+                "राष्ट्रीय जलमार्ग-4 (National Waterway-4)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "राष्ट्रीय जलमार्ग-1 (National Waterway-1)"
+        },
+        {
+            "id": 41,
+            "question": "भारत में सार्वजनिक क्षेत्र के कितने तेल परिष्करण केन्द्र कार्य कर रहे हैं ? (How many public sector oil refineries are functioning in India?)",
+            "options": [
+                "18",
+                "20",
+                "23",
+                "25"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "18"
+        },
+        {
+            "id": 42,
+            "question": "पेरिस की प्रधान सड़कों की योजना किसने बनाई थी ? (Who planned the main streets of Paris ?)",
+            "options": [
+                "बैरॉन हॉसमान (Baron Haussmann)",
+                "एवेनेजर हावर्ड (Ebenezer Howard)",
+                "ले कार्बुसीयर (Le Corbusier)",
+                "सैम्यूल क्राम्पटन (Samuel Crompton)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "बैरॉन हॉसमान (Baron Haussmann)"
+        },
+        {
+            "id": 43,
+            "question": "गाँधीजी ने साबरमती आश्रम की स्थापना कहाँ की ? (Where did Gandhiji establish Sabarmati Ashram ?)",
+            "options": [
+                "गाँधीनगर (Gandhinagar)",
+                "अहमदाबाद (Ahmedabad)",
+                "सूरत (Surat)",
+                "वडोदरा (Vadodara)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "अहमदाबाद (Ahmedabad)"
+        },
+        {
+            "id": 44,
+            "question": "सेडॉन के युद्ध में किसकी पराजय हुई थी ? (Who was defeated in the battle of Sedan ?)",
+            "options": [
+                "फ्रांस (France)",
+                "जर्मनी (Germany)",
+                "ऑस्ट्रिया (Austria)",
+                "प्रशा (Prussia)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "फ्रांस (France)"
+        },
+        {
+            "id": 45,
+            "question": "हो ची मिन्ह कहाँ का शासक था ? (Ho Chi Minh was the ruler of which country?)",
+            "options": [
+                "उत्तरी वियतनाम (North Vietnam)",
+                "दक्षिणी वियतनाम (South Vietnam)",
+                "लाओस (Laos)",
+                "कम्बोडिया (Cambodia)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "उत्तरी वियतनाम (North Vietnam)"
+        },
+        {
+            "id": 46,
+            "question": "भारत में राष्ट्रीय आय की गणना किसके द्वारा की जाती है ? (National income in India is calculated by which of the following?)",
+            "options": [
+                "केन्द्रीय सांख्यिकी कार्यालय (Central statistical office)",
+                "योजना आयोग (Planning Commission)",
+                "नीति आयोग (NITI Aayog)",
+                "राष्ट्रीय विकास परिषद् (National Development Council)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "केन्द्रीय सांख्यिकी कार्यालय (Central statistical office)"
+        },
+        {
+            "id": 47,
+            "question": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया ? (Who changed the name of Bolshevik Party to Communist Party ?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "ट्रॉटस्की (Trotsky)",
+                "स्टालिन (Stalin)",
+                "बिस्मार्क (Bismarck)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 48,
+            "question": "बंगाल विभाजन को कब रद्द किया गया था ?, (When was the partition of Bengal annulled ?)",
+            "options": [
+                "1904",
+                "1905",
+                "1907",
+                "1911"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "1911"
+        },
+        {
+            "id": 49,
+            "question": "रूस में कृषि दासता को किसने समाप्त किया ? (Who abolished Serfdom in Russia ?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "जार एलेक्जेंडर द्वितीय (Czar Alexander II)",
+                "स्टालिन (Stalin)",
+                "ट्रॉटस्की (Trotsky)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "जार एलेक्जेंडर द्वितीय (Czar Alexander II)"
+        },
+        {
+            "id": 50,
+            "question": "पंचायती राज संस्थानों के विघटन की स्थिति में कितने समय अंतराल में चुनाव करवान अनिवार्य है ? (In case of dissolution of Panchayati Raj institutions, at what time interval is it mandatory to hold elections?)",
+            "options": [
+                "2 माह (2 months)",
+                "6 माह (6 months)",
+                "1 वर्ष (1 year)",
+                "1 माह (1 month)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "6 माह (6 months)"
+        }
+    ]
+}

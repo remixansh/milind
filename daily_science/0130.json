@@ -1,0 +1,658 @@
+{
+    "date": "0130",
+    "dateDisplay": "30 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "बबूल के पौधे में मुख्यतः कौन-सा उत्सर्जी पदार्थ निकलता है? (Which excretory substance is mainly released from acacia plants?)",
+            "options": [
+                "रेजीन (Resin)",
+                "टैनिन (Tanin)",
+                "लैटेक्स (Latex)",
+                "गोंद (Gum)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "गोंद (Gum)"
+        },
+        {
+            "id": 2,
+            "question": "मस्तिष्क का सबसे बड़ा भाग है (The largest part of the brain is):",
+            "options": [
+                "सेरीबेलम (Cerebellum)",
+                "सेरीब्रम (Cerebrum)",
+                "मध्य मस्तिष्क (Mid-brain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "सेरीब्रम (Cerebrum)"
+        },
+        {
+            "id": 3,
+            "question": "टेस्टोस्टेरॉन स्रावित होता है (Testosterone is secreted by):",
+            "options": [
+                "अंडाशय से (Ovary)",
+                "वृषण से (Testis)",
+                "वृक्क से (Kidney)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "वृषण से (Testis)"
+        },
+        {
+            "id": 4,
+            "question": "वह हॉर्मोन जो पौधों में कोशिका विभाजन को रोकता है, कहलाता है (Hormone that stops cell division in plants is called):",
+            "options": [
+                "ऑक्जीन (Auxin)",
+                "एथिलीन (Ethylene)",
+                "साइटोकाइनिन (Cytokinin)",
+                "ऐबसिसिक एसिड (Abscisic acid)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "ऐबसिसिक एसिड (Abscisic acid)"
+        },
+        {
+            "id": 5,
+            "question": "पुष्प का नर जननांग कहलाता है (The male reproductive organ of a flower is called):",
+            "options": [
+                "जायांग (Gynoecium)",
+                "पंखुड़ी (Petal)",
+                "पुंकेसर (Stamens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "पुंकेसर (Stamens)"
+        },
+        {
+            "id": 6,
+            "question": "फोकस दूरी 10 cm के अवतल दर्पण द्वारा उत्पन्न आवर्धन धनात्मक होगा यदि वस्तु दूरी का मान है (The magnification produced by a concave mirror of focal length 10 cm is positive, if the value of object distance is):",
+            "options": [
+                "10 cm से अधिक (more than 10 cm)",
+                "20 cm से अधिक (more than 20 cm)",
+                "10 cm से कम (less than 10 cm)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "10 cm से कम (less than 10 cm)"
+        },
+        {
+            "id": 7,
+            "question": "फोकस से ध्रुव की ओर आने पर अवतल दर्पण में आवर्धन का मान (On moving from focus towards the pole, the magnification in a concave mirror):",
+            "options": [
+                "बढ़ता है (increases)",
+                "घटता है (decreases)",
+                "अचर रहता है (remains constant)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "घटता है (decreases)"
+        },
+        {
+            "id": 8,
+            "question": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत ऊर्जा में रूपांतरित करता है? (Which energy does a hydro-electric power plant convert into electric energy?)",
+            "options": [
+                "नाभिकीय ऊर्जा (Nuclear energy)",
+                "सौर ऊर्जा (Solar energy)",
+                "स्थितिज ऊर्जा (Potential energy)",
+                "तापीय ऊर्जा (Thermal energy)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "स्थितिज ऊर्जा (Potential energy)"
+        },
+        {
+            "id": 9,
+            "question": "ताँबे की तार की एक आयताकार कुंडली किसी चुम्बकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात परिवर्तन होता है? (A rectangular coil of a copper wire is rotated in a magnetic field. The direction of the induced current in the coil changes after):",
+            "options": [
+                "एक-चौथाई (every one-fourth rotation)",
+                "आधा (every half rotation)",
+                "एक (every one rotation)",
+                "दो (every two rotations)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "आधा (every half rotation)"
+        },
+        {
+            "id": 10,
+            "question": "एक अवतल दर्पण के प्रधान अक्ष पर चलती चींटी का प्रतिबिम्ब सीधा है तथा बढ़ता जा रहा है। चींटी की गति की दिशा है (The image of an ant in a concave mirror is erect and goes on increasing as the ant moves along the principal axis. The direction of motion of the ant is):",
+            "options": [
+                "फोकस से वक्रता केन्द्र की ओर (from focus to centre of curvature)",
+                "फोकस से ध्रुव की ओर (from focus to pole)",
+                "ध्रुव से फोकस की ओर (from pole to focus)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ध्रुव से फोकस की ओर (from pole to focus)"
+        },
+        {
+            "id": 11,
+            "question": "आँख के लेंस की वक्रता त्रिज्या को नियंत्रित करती है (The radius of curvature of the lens of an eye is controlled by):",
+            "options": [
+                "दृष्टि पटल (retina)",
+                "परितारिका (iris)",
+                "पुतली (pupil)",
+                "पक्ष्माभी मांसपेशियाँ (ciliary muscles)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "पक्ष्माभी मांसपेशियाँ (ciliary muscles)"
+        },
+        {
+            "id": 12,
+            "question": "कुछ बादलों का रंग उजला क्यों होता है? (Why is the colour of some clouds white?)",
+            "options": [
+                "परावर्तन के कारण (Due to reflection)",
+                "प्रकीर्णन के कारण (Due to scattering)",
+                "अवशोषण के कारण (Due to absorption)",
+                "अपवर्तन के कारण (Due to refraction)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "प्रकीर्णन के कारण (Due to scattering)"
+        },
+        {
+            "id": 13,
+            "question": "प्रतिरोध का SI मात्रक होता है (The SI unit of resistance is):",
+            "options": [
+                "ऐम्पियर (ampere)",
+                "वाट (watt)",
+                "ओम (ohm)",
+                "वोल्ट (volt)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ओम (ohm)"
+        },
+        {
+            "id": 14,
+            "question": "ओजोन परत का अवक्षय करता है (Depletion of ozone layer is due to):",
+            "options": [
+                "ATP",
+                "CFC",
+                "NADP",
+                "DDT"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "CFC"
+        },
+        {
+            "id": 15,
+            "question": "निम्नलिखित जीवों में किसमें अलैंगिक जनन मुकुलन द्वारा होता है? (In which of the following organisms does asexual reproduction occur through budding?)",
+            "options": [
+                "प्लाज्मोडियम (Plasmodium)",
+                "लेस्मानिया (Leishmania)",
+                "अमीबा (Amoeba)",
+                "यीस्ट (Yeast)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "यीस्ट (Yeast)"
+        },
+        {
+            "id": 16,
+            "question": "पादप हॉर्मोन का एक उदाहरण है (An example of plant hormone is):",
+            "options": [
+                "IAA",
+                "TSH",
+                "ACH",
+                "ACTH"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "IAA"
+        },
+        {
+            "id": 17,
+            "question": "आलू में कायिक प्रवर्धन होता है (Vegetative propagation in potato takes place by):",
+            "options": [
+                "जड़ द्वारा (root)",
+                "बीज द्वारा (seed)",
+                "फल द्वारा (fruit)",
+                "तना द्वारा (stem)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "तना द्वारा (stem)"
+        },
+        {
+            "id": 18,
+            "question": "हाइड्रिला पाया जाता है (Hydrilla is found):",
+            "options": [
+                "जल में (in water)",
+                "मृदा में (in soil)",
+                "वृक्ष पर (on tree)",
+                "इनमें से सभी (all of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "जल में (in water)"
+        },
+        {
+            "id": 19,
+            "question": "स्वस्थ व्यक्ति का सिस्टोलिक रक्तचाप होता है (Systolic blood pressure of a healthy person is):",
+            "options": [
+                "140 mm Hg",
+                "120 mm Hg",
+                "100 mm Hg",
+                "80 mm Hg"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "120 mm Hg"
+        },
+        {
+            "id": 20,
+            "question": "उभयलिंगी जीव का उदाहरण है (An example of bisexual organism is):",
+            "options": [
+                "हाइड्रा (Hydra)",
+                "मनुष्य (Man)",
+                "मछली (Fish)",
+                "बकरी (Goat)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "हाइड्रा (Hydra)"
+        },
+        {
+            "id": 21,
+            "question": "मछली में श्वसन होता है (In fish, respiration takes place through):",
+            "options": [
+                "मुँह द्वारा (mouth)",
+                "गिल्स द्वारा (gills)",
+                "नाक द्वारा (nose)",
+                "फेंफड़ा द्वारा (lungs)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "गिल्स द्वारा (gills)"
+        },
+        {
+            "id": 22,
+            "question": "किलोवाट-घंटा (kWh) मात्रक है (Kilowatt-hour (kWh) is the unit of):",
+            "options": [
+                "ऊर्जा का (energy)",
+                "समय का (time)",
+                "द्रव्यमान का (mass)",
+                "शक्ति का (power)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ऊर्जा का (energy)"
+        },
+        {
+            "id": 23,
+            "question": "मानव की आँख में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित किया जाता है (The amount of light entering in human eye is controlled by):",
+            "options": [
+                "पक्ष्माभ पेशी द्वारा (ciliary muscles)",
+                "पुतली द्वारा (pupil)",
+                "कॉर्निया द्वारा (cornea)",
+                "परितारिका द्वारा (iris)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "परितारिका द्वारा (iris)"
+        },
+        {
+            "id": 24,
+            "question": "कौन-सा पंरपरागत ऊर्जा स्रोत है? (Which is the conventional source of energy?)",
+            "options": [
+                "नाभिकीय ऊर्जा स्रोत (Nuclear energy source)",
+                "भूतापीय ऊर्जा स्रोत (Geo-thermal energy source)",
+                "जैव मात्रा (बायोमास) (Biomass)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "जैव मात्रा (बायोमास) (Biomass)"
+        },
+        {
+            "id": 25,
+            "question": "किसी कोश में इलेक्ट्रॉनों की अधिकतम संख्या होती है (The maximum number of electrons in a shell is):",
+            "options": [
+                "4n²",
+                "3n²",
+                "2n²",
+                "n²"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "2n²"
+        },
+        {
+            "id": 26,
+            "question": "कौन-सा हाइड्रोकार्बन सबसे सरल यौगिक है? (Which hydrocarbon is the simplest compound?)",
+            "options": [
+                "मीथेन (Methane)",
+                "प्रोपेन (Propane)",
+                "ब्यूटेन (Butane)",
+                "इथेन (Ethane)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "मीथेन (Methane)"
+        },
+        {
+            "id": 27,
+            "question": "सोना की परमाणु संख्या है (The atomic number of gold is):",
+            "options": [
+                "23",
+                "43",
+                "79",
+                "80"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "79"
+        },
+        {
+            "id": 28,
+            "question": "पौधों के वायवीय भागों से जल का स्टोमाटा द्वारा वाष्प के रूप में निष्कासन कहलाता है (The expulsion of water through stomata in the form of vapour from the aerial part of the plant is known as):",
+            "options": [
+                "परासरण (osmosis)",
+                "वाष्पोत्सर्जन (transpiration)",
+                "उत्सर्जन (excretion)",
+                "विसरण (diffusion)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "वाष्पोत्सर्जन (transpiration)"
+        },
+        {
+            "id": 29,
+            "question": "बाघ उपभोक्ता है (The tiger is a consumer of):",
+            "options": [
+                "प्रथम पोषी स्तर का (first trophic level)",
+                "द्वितीय पोषी स्तर का (second trophic level)",
+                "तृतीय पोषी स्तर का (third trophic level)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "तृतीय पोषी स्तर का (third trophic level)"
+        },
+        {
+            "id": 30,
+            "question": "मानव का उद्भव स्थान है (The place of origin of human is):",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "अफ्रीका (Africa)",
+                "अमेरिका (America)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अफ्रीका (Africa)"
+        },
+        {
+            "id": 31,
+            "question": "क्रमाकुंचन गति पाई जाती है (Peristalsis movement is found in):",
+            "options": [
+                "कोलन में (Colon)",
+                "ग्रासनली में (Oesophagus)",
+                "अग्न्याशय में (Pancreas)",
+                "छोटी आंत में (Small intestine)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "ग्रासनली में (Oesophagus)"
+        },
+        {
+            "id": 32,
+            "question": "खुला परिवहन तंत्र पाया जाता है (Open circulatory system is found in):",
+            "options": [
+                "कबूतर में (pigeon)",
+                "तितली में (butterfly)",
+                "मनुष्य में (man)",
+                "बिल्ली में (cat)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "तितली में (butterfly)"
+        },
+        {
+            "id": 33,
+            "question": "रक्त में ऑक्सीजन का वाहक है (The carrier of oxygen in blood is):",
+            "options": [
+                "वसा (fat)",
+                "हॉर्मोन (hormone)",
+                "हीमोग्लोबिन (haemoglobin)",
+                "कार्बोहाइड्रेट (carbohydrate)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "हीमोग्लोबिन (haemoglobin)"
+        },
+        {
+            "id": 34,
+            "question": "मानव में ऑटोसोम की जोड़ियों की संख्या होती है (The number of pairs of autosomes in human is):",
+            "options": [
+                "24",
+                "23",
+                "11",
+                "22"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "22"
+        },
+        {
+            "id": 35,
+            "question": "प्रकाश संश्लेषण के लिए दृश्य-प्रकाश स्पेक्ट्रम का सबसे प्रभावी रंग है (The most effective colour of visible light spectrum for photosynthesis is):",
+            "options": [
+                "लाल (red)",
+                "नीला (blue)",
+                "पीला (yellow)",
+                "हरा (green)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "लाल (red)"
+        },
+        {
+            "id": 36,
+            "question": "आवर्त सारणी के किसी समूह के सभी तत्वों की संयोजकता होती है (The valency of all elements in a group of the periodic table is):",
+            "options": [
+                "समान (same)",
+                "भिन्न (different)",
+                "(A) और (B) दोनों (both (A) and (B))",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "समान (same)"
+        },
+        {
+            "id": 37,
+            "question": "निम्नांकित में कौन शराब के रूप में उपयोग में आता है? (Which of the following is used as wine?)",
+            "options": [
+                "एथेनॉल (Ethanol)",
+                "मेथेनॉल (Methanol)",
+                "सिरका (Vinegar)",
+                "मेथेनोइक अम्ल (Methanoic acid)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "एथेनॉल (Ethanol)"
+        },
+        {
+            "id": 38,
+            "question": "आवर्त सारणी के तृतीय वर्ग में तत्वों की संख्या कितनी है? (What is the number of elements in the third group of the periodic table?)",
+            "options": [
+                "18",
+                "12",
+                "10",
+                "8"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "8"
+        },
+        {
+            "id": 39,
+            "question": "सौर सेल में किसका उपयोग होता है? (Which is used in Solar cell?)",
+            "options": [
+                "यूरेनियम (Uranium)",
+                "प्लास्टिक (Plastic)",
+                "सिलिकन (Silicon)",
+                "प्लूटोनियम (Plutonium)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सिलिकन (Silicon)"
+        },
+        {
+            "id": 40,
+            "question": "एक तत्व का इलेक्ट्रॉनिक विन्यास 2, 8, 7 है। इस तत्व की परमाणु संख्या क्या है? (The electronic configuration of an element is 2, 8, 7. What is the atomic number of the element?)",
+            "options": [
+                "10",
+                "11",
+                "17",
+                "19"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "17"
+        },
+        {
+            "id": 41,
+            "question": "ड्यूरालुमिन किस धातु का मिश्रधातु है? (Duralumin is an alloy of which metal?)",
+            "options": [
+                "Fe",
+                "Sn",
+                "Al",
+                "Cu"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "Al"
+        },
+        {
+            "id": 42,
+            "question": "सोडियम फॉस्फेट का अणुसूत्र होता है (The molecular formula of sodium phosphate is):",
+            "options": [
+                "NaPO₄",
+                "Na₃PO₄",
+                "Na₂(PO₄)₃",
+                "Na₂PO₄"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "Na₃PO₄"
+        },
+        {
+            "id": 43,
+            "question": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को कहते हैं (The structural and functional unit of kidney is called):",
+            "options": [
+                "मूत्राशय (Urinary bladder)",
+                "ग्लोमेरुलस (Glomerulus)",
+                "बोमैन संपुट (Bowman's capsule)",
+                "नेफ्रॉन (Nephron)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "नेफ्रॉन (Nephron)"
+        },
+        {
+            "id": 44,
+            "question": "पवन विद्युत जनित्र में पवन की चाल कम-से-कम कितनी होनी चाहिए? (What should be the minimum speed of wind in a wind electric generator?)",
+            "options": [
+                "1500 किमी/घंटा (1500 km/h)",
+                "150 किमी/घंटा (150 km/h)",
+                "15 किमी/घंटा (15 km/h)",
+                "1.5 किमी/घंटा (1.5 km/h)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "15 किमी/घंटा (15 km/h)"
+        },
+        {
+            "id": 45,
+            "question": "विभक्त वलय प्रयुक्त होता है (A split ring is used in):",
+            "options": [
+                "गैल्वेनोमीटर में (galvanometer)",
+                "D.C. मोटर में (D.C. motor)",
+                "सूक्ष्मदर्शी में (microscope)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "D.C. मोटर में (D.C. motor)"
+        },
+        {
+            "id": 46,
+            "question": "धात्विक चालकता पदार्थ के अन्दर किस कण की गति पर आश्रित है? (Metallic conduction is based on motion of which particle in material?)",
+            "options": [
+                "इलेक्ट्रॉन (Electron)",
+                "प्रोटॉन (Proton)",
+                "न्यूट्रॉन (Neutron)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "इलेक्ट्रॉन (Electron)"
+        },
+        {
+            "id": 47,
+            "question": "बॉक्स-टाइप सौर कुकर के ऊपरी भाग में काँच का ढक्कन रहता है। इसका कारण है (The upper part of a box-type solar cooker has a glass cover. The reason for this is):",
+            "options": [
+                "यह देखना कि कुकर के अंदर रखा भोजन पक रहा है या नहीं (to see whether the food kept inside the cooker is being cooked or not)",
+                "विकिरण द्वारा ऊष्मा की हानि को रोकना (to prevent loss of heat due to radiation)",
+                "बाक्स के भीतर धूलकणों को जाने से रोकना (to prevent the passage of dust into the box)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "विकिरण द्वारा ऊष्मा की हानि को रोकना (to prevent loss of heat due to radiation)"
+        },
+        {
+            "id": 48,
+            "question": "वोल्टता V₁ पर शक्ति P₁ का एक प्रतिरोधक, वोल्टता V₂ पर शक्ति P₂ के प्रतिरोधक श्रेणी में जुड़ा है। समतुल्य प्रतिरोध होगा (A resistor of power P₁ at voltage of V₁ is connected in series with another resistor of power P₂ at voltage V₂. The equivalent resistance will be):",
+            "options": [
+                "V₁²/P₁ + V₂²/P₂",
+                "(P₁ + P₂)/(V₁ + V₂)²",
+                "P₁²/V₁ + P₂²/V₂",
+                "P₁/V₁² + P₂/V₂²"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "V₁²/P₁ + V₂²/P₂"
+        },
+        {
+            "id": 49,
+            "question": "घरेलू वैद्युत परिपथ में प्रत्यावर्ती धारा की आवृत्ति होती है (The frequency of alternating current in household electric circuit is):",
+            "options": [
+                "50 Hz",
+                "60 Hz",
+                "100 Hz",
+                "220 Hz"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "50 Hz"
+        },
+        {
+            "id": 50,
+            "question": "निम्नलिखित में किसका अपवर्तनांक सबसे कम होता है? (Which of the following has the lowest refractive index?)",
+            "options": [
+                "तारपीन (Turpentine)",
+                "बेंजीन (Benzene)",
+                "पानी (Water)",
+                "किरोसीन (Kerosine)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "पानी (Water)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0203",
+    "dateDisplay": "03 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्न में से कौन-सा ऊर्जा स्रोत सौर ऊर्जा का व्युत्पन्न नहीं है ? (Which of the following energy sources is not a derivative of solar energy ?)",
+            "options": [
+                "पवन ऊर्जा (Wind energy)",
+                "जैव मात्रा (Biomass)",
+                "भूतापीय ऊर्जा (Geothermal energy)",
+                "नाभिकीय ऊर्जा (Nuclear energy)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "नाभिकीय ऊर्जा (Nuclear energy)"
+        },
+        {
+            "id": 2,
+            "question": "विद्युत धारा के चुम्बकीय प्रभाव की खोज किसने किया था ? (Who discovered the magnetic effect of electric current ?)",
+            "options": [
+                "फैराडे (Faraday)",
+                "एम्पियर (Ampere)",
+                "बोर (Bohr)",
+                "ऑस्टेंड (Oersted)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "ऑस्टेंड (Oersted)"
+        },
+        {
+            "id": 3,
+            "question": "चिह्नों की निर्देशांक परिपाटी में धनात्मक फोकस दूरी होती है (In the coordinate sign convention, the focal length is positive for)",
+            "options": [
+                "उत्तल लेंस की (convex lens)",
+                "उत्तल दर्पण की (convex mirror)",
+                "अवतल दर्पण की (concave mirror)",
+                "(A) और (B) दोनों (both (A) and (B))"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "(A) और (B) दोनों (both (A) and (B))"
+        },
+        {
+            "id": 4,
+            "question": "निम्नलिखित में किस कारण से सामान्य नमक का जलीय घोल विद्युत का सुचालक होता है ? (Due to which of the following reasons an aqueous solution of common salt is a good conductor of electricity ?)",
+            "options": [
+                "केवल ऋणावेश की गति के कारण (The motion of negative charge only)",
+                "धनावेश एवं ऋणावेश दोनों की विपरीत दिशा में गतियों के कारण (The motions of both positive and negative charges in opposite directions)",
+                "केवल धनावेश की गति के कारण (The motion of positive charge only)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "धनावेश एवं ऋणावेश दोनों की विपरीत दिशा में गतियों के कारण (The motions of both positive and negative charges in opposite directions)"
+        },
+        {
+            "id": 5,
+            "question": "ऑक्सीजन के परिवहन के लिए जिम्मेदार रक्त का घटक है (The component of blood responsible for transporting oxygen is)",
+            "options": [
+                "RBC",
+                "WBC",
+                "रक्त पट्टिकाणु (Blood platelets)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "RBC"
+        },
+        {
+            "id": 6,
+            "question": "कृमिरूप परिशेषिका किसका हिस्सा है ? (Vermiform appendix is a part of)",
+            "options": [
+                "आहार नाल (Alimentary canal)",
+                "तंत्रिका तंत्र (Nervous system)",
+                "वाहिकीय तंत्र (Vascular system)",
+                "प्रजनन तंत्र (Reproductive system)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "आहार नाल (Alimentary canal)"
+        },
+        {
+            "id": 7,
+            "question": "प्रकाश की ओर प्ररोह की गति है (The movement of shoot towards light is)",
+            "options": [
+                "गुरुत्वानुवर्तन (Geotropism)",
+                "जलानुवर्तन (Hydrotropism)",
+                "रसायनानुवर्तन (Chemotropism)",
+                "प्रकाशानुवर्तन (Phototropism)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "प्रकाशानुवर्तन (Phototropism)"
+        },
+        {
+            "id": 8,
+            "question": "किससे बचने के लिए आयोडीन युक्त नमक का प्रयोग की सलाह दी जाती है ? (The use of iodised salt is recommended to prevent)",
+            "options": [
+                "मधुमेह (Diabetes)",
+                "घेघा (Goitre)",
+                "उच्च रक्त चाप (Hypertension)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "घेघा (Goitre)"
+        },
+        {
+            "id": 9,
+            "question": "मनुष्य में कपाल तंत्रिकाओं की संख्या होती है (The number of cranial nerves present in human beings is)",
+            "options": [
+                "12 जोड़ी (12 pairs)",
+                "31 जोड़ी (31 pairs)",
+                "24 जोड़ी (24 pairs)",
+                "10 जोड़ी (10 pairs)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "12 जोड़ी (12 pairs)"
+        },
+        {
+            "id": 10,
+            "question": "मस्तिष्क का कौन-सा भाग में गंध पहचानने का केन्द्र है ? (In which part of the brain is the centre of smell recognition ?)",
+            "options": [
+                "मध्य-मस्तिष्क (Mid-brain)",
+                "अग्र-मस्तिष्क (Fore-brain)",
+                "पश्च-मस्तिष्क (Hind-brain)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अग्र-मस्तिष्क (Fore-brain)"
+        },
+        {
+            "id": 11,
+            "question": "प्रथम मासिक धर्म का प्रकट होना कहलाता है (Appearance of first menstruation is called)",
+            "options": [
+                "मेनोपाउज (Menopause)",
+                "मेनार्चे (Menarche)",
+                "मासिक चक्र (Menstrual cycle)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "मेनार्चे (Menarche)"
+        },
+        {
+            "id": 12,
+            "question": "निम्नलिखित में से कौन कृत्रिम कायिक प्रवर्धन की एक विधि है? (Which of the following is a method of artificial vegetative propagation ?)",
+            "options": [
+                "कलम लगाना (Cutting)",
+                "दाब कलम (Layering)",
+                "कलम-बंधन (Grafting)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 13,
+            "question": "निम्नांकित में कौन-सी अधातु विद्युत का सुचालक है ? (Which of the following non-metals is a good conductor of electricity ?)",
+            "options": [
+                "क्लोरीन (Chlorine)",
+                "ग्रेफाइट (Graphite)",
+                "फॉस्फोरस (Phosphorus)",
+                "सल्फर (Sulphur)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "ग्रेफाइट (Graphite)"
+        },
+        {
+            "id": 14,
+            "question": "सक्रियता श्रेणी में निम्नलिखित में कौन सबसे अधिक क्रियाशील धातु है ? (Which of the following is the most reactive metal in the reactivity series ?)",
+            "options": [
+                "Na",
+                "Cu",
+                "Au",
+                "Hg"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "Na"
+        },
+        {
+            "id": 15,
+            "question": "शुद्ध सोना कितने कैरेट का होता है ? (Pure gold is of how many carats ?)",
+            "options": [
+                "20 कैरेट का (20 carats)",
+                "22 कैरेट का (22 carats)",
+                "24 कैरेट का (24 carats)",
+                "26 कैरेट का (26 carats)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "24 कैरेट का (24 carats)"
+        },
+        {
+            "id": 16,
+            "question": "निम्नांकित में किस धातु को केरोसिन में डुबाकर रखते हैं ? (Which of the following metals is kept immersed in kerosene ?)",
+            "options": [
+                "सोडियम (Sodium)",
+                "मैग्नेशियम (Magnesium)",
+                "टंग्सटन (Tungsten)",
+                "पारा (Mercury)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "सोडियम (Sodium)"
+        },
+        {
+            "id": 17,
+            "question": "अम्ल के जलीय विलयन में निम्नलिखित में से कौन उत्पन्न होता है ? (Which of the following is produced in aqueous solution of an acid ?)",
+            "options": [
+                "OH आयन (OH ions)",
+                "H+ आयन (H+ ions)",
+                "H3O- आयन (H3O- ions)",
+                "H2O+ आयन (H2O+ ions)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "H+ आयन (H+ ions)"
+        },
+        {
+            "id": 18,
+            "question": "निम्नांकित में कौन सबसे सबल अम्ल है ? (Which of the following is the strongest acid ?)",
+            "options": [
+                "HF",
+                "HCI",
+                "HBr",
+                "HI"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "HI"
+        },
+        {
+            "id": 19,
+            "question": "निम्नलिखित में कौन-सा पदार्थ का जलीय विलयन नीले लिटमस पत्र को लाल कर देता है ? (An aqueous solution of which of the following substances turns blue litmus paper into red ?)",
+            "options": [
+                "अम्ल (Acid)",
+                "भस्म (Base)",
+                "लवण (Salt)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "अम्ल (Acid)"
+        },
+        {
+            "id": 20,
+            "question": "किसी गोलीय दर्पण की फोकस दूरी + 20 cm है। यह गोलीय दर्पण किस प्रकार का है ? (The focal length of a spherical mirror is + 20 cm. What type of spherical mirror is this?)",
+            "options": [
+                "अवतल (Concave)",
+                "उत्तल (Convex)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "उत्तल (Convex)"
+        },
+        {
+            "id": 21,
+            "question": "समतल दर्पण द्वारा बना प्रतिबिंब होता है (The image formed by a plane mirror is)",
+            "options": [
+                "वास्तविक (Real)",
+                "काल्पनिक (Virtual)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "काल्पनिक (Virtual)"
+        },
+        {
+            "id": 22,
+            "question": "निम्नलिखित में से दर्पण सूत्र कौन है ? (Which of the following is the mirror formula ?)",
+            "options": [
+                "1/f = 1/v - 1/u",
+                "1/f = 1/v + 1/u",
+                "1/f = 1/u - 1/v",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1/f = 1/v + 1/u"
+        },
+        {
+            "id": 23,
+            "question": "किसी समतल दर्पण द्वारा आवर्धन होता है (Magnification done by a plane mirror is)",
+            "options": [
+                "+1",
+                "-1",
+                "शून्य (zero)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "+1"
+        },
+        {
+            "id": 24,
+            "question": "निम्नलिखित में से किस दर्पण द्वारा किसी वस्तु का आभासी प्रतिबिंब मिल सकता है ? (In which of the following mirrors, can a virtual image of an object be obtained ?)",
+            "options": [
+                "समतल दर्पण से (By plane mirror)",
+                "उत्तल दर्पण से (By convex mirror)",
+                "अवतल दर्पण से (By concave mirror)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 25,
+            "question": "आकाश का नीला रंग होना किस परिघटना का परिणाम है ? (The blue colour of the sky is the result of which phenomenon ?)",
+            "options": [
+                "परावर्तन (Reflection)",
+                "अपवर्तन (Refraction)",
+                "प्रकीर्णन (Scattering)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "प्रकीर्णन (Scattering)"
+        },
+        {
+            "id": 26,
+            "question": "विरल माध्यम से सघन माध्यम में जाती हुई किरण मुड़ जाती है (A ray passing from a rarer medium to dense medium bends)",
+            "options": [
+                "अभिलंब की ओर (towards normal)",
+                "अभिलंब से दूर (away from normal)",
+                "अभिलंब के साथ संपाती (coincident with normal)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "अभिलंब की ओर (towards normal)"
+        },
+        {
+            "id": 27,
+            "question": "निम्नलिखित में से किस लेंस की फोकस दूरी धनात्मक होती है ? (Which of the following lenses has positive focal length ?)",
+            "options": [
+                "उत्तल लेंस (Convex lens)",
+                "समतल-अवतल लेंस (Plano-concave lens)",
+                "अवतल लेंस (Concave lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 28,
+            "question": "किस pH मान वाला विलयन सबसे अधिक क्षारकीय होगा ? (The solution of which pH value will be most alkaline ?)",
+            "options": [
+                "pH = 5",
+                "pH = 10",
+                "pH = 11",
+                "pH = 8"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "pH = 11"
+        },
+        {
+            "id": 29,
+            "question": "चूना जल का रासायनिक नाम है (The chemical name of lime water is)",
+            "options": [
+                "बुझा चुना (Slaked lime)",
+                "कैल्सियम हाइड्रॉक्साइड (Calcium hydroxide)",
+                "कली चूना (Quicklime)",
+                "कैल्सियम आक्साइड (Calcium oxide)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "कैल्सियम हाइड्रॉक्साइड (Calcium hydroxide)"
+        },
+        {
+            "id": 30,
+            "question": "निम्नांकित में सोडा ऐश का सूत्र कौन है ? (Which of the following is the formula of soda ash ?)",
+            "options": [
+                "CaCl2",
+                "Na2CO3",
+                "NaCl",
+                "NaHCO3"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "Na2CO3"
+        },
+        {
+            "id": 31,
+            "question": "निम्नांकित में कौन ग्लोबर लवण का सूत्र है ? (Which of the following is the formula of Glauber's salt ?)",
+            "options": [
+                "Na2SO4.7H2O",
+                "Na2SO4.5H2O",
+                "Na2SO4.10H2O",
+                "Na2SO4.2H2O"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "Na2SO4.10H2O"
+        },
+        {
+            "id": 32,
+            "question": "निम्नांकित में संश्लेषित सूचक कौन है ? (Which of the following is a synthetic indicator ?)",
+            "options": [
+                "हल्दी (Turmeric)",
+                "लाल पत्तागोभी (Red cabbage)",
+                "मेथिल ऑरेंज (Methyl orange)",
+                "लिटमस पत्र (Litmus paper)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "मेथिल ऑरेंज (Methyl orange)"
+        },
+        {
+            "id": 33,
+            "question": "निम्नांकित में कौन-सा पदार्थ बिना ज्वाला के जलता है ? (Which of the following substances burns without flame ?)",
+            "options": [
+                "मोमबत्ती (Candle)",
+                "मेथेन गैस (Methane gas)",
+                "केरोसिन (Kerosine)",
+                "कोयला (Coal)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "कोयला (Coal)"
+        },
+        {
+            "id": 34,
+            "question": "उपचयन में निम्नलिखित में से क्या होता है ? (Which of the following takes place in oxidation ?)",
+            "options": [
+                "हाइड्रोजन का वियोग (Removal of hydrogen)",
+                "इलेक्ट्रॉन का त्याग (Loss of electron)",
+                "आक्सीजन का योग (Addition of oxygen)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 35,
+            "question": "जल के वैद्युत अपघटन में कैथोड पर कौन-सी गैस मुक्त होती है ? (Which gas is liberated at cathode in the electrolysis of water ?)",
+            "options": [
+                "ओजोन (Ozone)",
+                "हाइड्रोजन (Hydrogen)",
+                "ऑक्सीजन (Oxygen)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "हाइड्रोजन (Hydrogen)"
+        },
+        {
+            "id": 36,
+            "question": "निम्नलिखित में से कौन ऊर्जा का अनवीकरणीय स्रोत है ? (Which of the following is a non-renewable source of energy?)",
+            "options": [
+                "सूर्य (Sun)",
+                "पवन (Wind)",
+                "पेट्रोलियम (Petroleum)",
+                "बहता पानी (Flowing water)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "पेट्रोलियम (Petroleum)"
+        },
+        {
+            "id": 37,
+            "question": "जीवाश्म ईंधन की ऊर्जा का वास्तविक स्रोत है (The actual source of energy of fossil fuel is)",
+            "options": [
+                "नाभिकीय संलयन (nuclear fusion)",
+                "सूर्य (sun)",
+                "चन्द्रमा (moon)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "सूर्य (sun)"
+        },
+        {
+            "id": 38,
+            "question": "जो 'दहन कर ऊष्मा उत्पन्न करते हैं उन्हें कहा जाता है (Those which 'produce heat on combustion' are called)",
+            "options": [
+                "इंजन (engine)",
+                "ईंधन (fuel)",
+                "तापक (heater)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "ईंधन (fuel)"
+        },
+        {
+            "id": 39,
+            "question": "यूरो-।। का संबंध है (Euro-ll is related to)",
+            "options": [
+                "वायु प्रदूषण से (air pollution)",
+                "मृदा प्रदूषण से (soil pollution)",
+                "जल प्रदूषण से (water pollution)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "वायु प्रदूषण से (air pollution)"
+        },
+        {
+            "id": 40,
+            "question": "श्वेत प्रकाश में वर्ण-विक्षेपण उत्पन्न करता है (Dispersion of white light is produced by)",
+            "options": [
+                "काँच की सिल्ली (glass slab)",
+                "समतल दर्पण (plane mirror)",
+                "गोलीय दर्पण (spherical mirror)",
+                "प्रिज्म (prism)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "प्रिज्म (prism)"
+        },
+        {
+            "id": 41,
+            "question": "सौर ऊर्जा को सीधे विद्युत में बदलनेवाली युक्ति को कहते हैं (The device which directly converts solar energy into electricity known as)",
+            "options": [
+                "डेनियल सेल (Daniel cell)",
+                "लेक्लांशे सेल (Leclanche cell)",
+                "सौर सेल (Solar cell)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "सौर सेल (Solar cell)"
+        },
+        {
+            "id": 42,
+            "question": "निम्नांकित में से कौन प्रबल क्षारक है ? (Which one of the following is a strong base?)",
+            "options": [
+                "NaOH",
+                "Cu(OH)2",
+                "NH4OH",
+                "Mg(OH)2"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "NaOH"
+        },
+        {
+            "id": 43,
+            "question": "शुष्क बर्फ का रासायनिक सूत्र क्या है ? (What is the chemical formula of dry ice?)",
+            "options": [
+                "CO",
+                "CO2",
+                "H2O",
+                "H2O2"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "CO2"
+        },
+        {
+            "id": 44,
+            "question": "रक्त का लाल रंग निम्नांकित में से किस प्रोटीन की उपस्थिति के कारण होता है ? (Which one of the following proteins is responsible for the red colour of blood ?)",
+            "options": [
+                "हेपारीन (Heparin)",
+                "हीमोग्लोबीन (Haemoglobin)",
+                "थ्रोम्बिन (Thrombin)",
+                "फाइब्रीनोजेन (Fibrinogen)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "हीमोग्लोबीन (Haemoglobin)"
+        },
+        {
+            "id": 45,
+            "question": "क्लोरोफिल वर्णक का रंग होता है। (The colour of chlorophyll pigment is)",
+            "options": [
+                "काला (black)",
+                "पीला (yellow)",
+                "नीला (blue)",
+                "हरा (green)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "हरा (green)"
+        },
+        {
+            "id": 46,
+            "question": "दाँत का कठोरतम भाग है (The hardest part of the teeth is)",
+            "options": [
+                "डेंटाइन (dentine)",
+                "इनामेल (enamel)",
+                "मज्जा गुहा (pulp cavity)",
+                "केनाइन (canine)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "इनामेल (enamel)"
+        },
+        {
+            "id": 47,
+            "question": "थायरॉक्सीन हॉर्मोन के संश्लेषण में किसका होना आवश्यक है ? (Which of the following is necessary in the synthesis of thyroxin hormone?)",
+            "options": [
+                "क्लोरीन (Chlorine)",
+                "आयोडीन (lodine)",
+                "मैंगनीज (Manganese)",
+                "आयरन (Iron)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "आयोडीन (lodine)"
+        },
+        {
+            "id": 48,
+            "question": "अपघटक का उदाहरण है (Which is an example of a decomposer?)",
+            "options": [
+                "गाय (Cow)",
+                "कवक (Fungus)",
+                "बाघ (Tiger)",
+                "घास (Grass)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "कवक (Fungus)"
+        },
+        {
+            "id": 49,
+            "question": "पृथ्वी पर ऊर्जा का मुख्य स्रोत है (Which is the main source of energy on earth?)",
+            "options": [
+                "कोयला (Coal)",
+                "लकड़ी (Wood)",
+                "पानी (Water)",
+                "सूर्य (Sun)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "सूर्य (Sun)"
+        },
+        {
+            "id": 50,
+            "question": "निम्नलिखित में से कौन पर्यावरण का हिस्सा है? (Which of the following is/are a part of environment?)",
+            "options": [
+                "वायुमंडल (Atmosphere)",
+                "जलमंडल (Hydrosphere)",
+                "स्थलमंडल (Lithosphere)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        }
+    ]
+}

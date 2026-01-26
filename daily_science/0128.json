@@ -1,0 +1,658 @@
+{
+    "date": "0128",
+    "dateDisplay": "28 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्नलिखित में कौन से यंत्र का उपयोग रक्तदाब मापन में किया जाता है? (Which one of the following instruments is used for measuring Blood Pressure?)",
+            "options": [
+                "बैरोमीटर (Barometer)",
+                "मैनोमीटर (Manometer)",
+                "स्फिग्मो-मैनोमीटर (Sphygmomanometer)",
+                "इनमे से कोई नही (None of these)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "स्फिग्मो-मैनोमीटर (Sphygmomanometer)"
+        },
+        {
+            "id": 2,
+            "question": "रक्त का कौन से अवयव घायल स्थान से रक्त स्त्राव के मार्ग को रक्त का थक्का बनाकर अवरुद्ध करता है? (What component of Blood prevents bleeding by clot formation at points of injury?)",
+            "options": [
+                "लाल रक्त कोशिकाएँ (Red Blood cells)",
+                "श्वेत रक्त कोशिकाएँ (White Blood cells)",
+                "प्लेटलेट्स (Platelets)",
+                "लसीका (Lymph)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "प्लेटलेट्स (Platelets)"
+        },
+        {
+            "id": 3,
+            "question": "अवटुग्रंथि को थायरोक्सिन हॉर्मोन बनाने के लिए क्या आवश्यक है? (What is the necessary element for the thyroid gland to make thyroxine hormone?)",
+            "options": [
+                "सोडियम (Sodium)",
+                "क्लोरिन (Chlorine)",
+                "फॉस्फोरस (Phosphorus)",
+                "इनमे से सभी (None of these)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "इनमे से सभी (None of these)"
+        },
+        {
+            "id": 4,
+            "question": "मस्तिष्क का कौन सा भाग शरीर की स्थिति तथा संतुलन का अनुरक्षण करता है। (What part of the brain maintains posture and equilibrium of the body?)",
+            "options": [
+                "अग्र मस्तिष्क (Fore-Brain)",
+                "मध्य मस्तिष्क (Mid-Brian)",
+                "अनुमस्तिष्क (Cerebellum)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "अनुमस्तिष्क (Cerebellum)"
+        },
+        {
+            "id": 5,
+            "question": "पादप हार्मोन 'साइटोकिनिन' सहायक है - (Plant hormone 'Cytokinins' is helpful for -)",
+            "options": [
+                "प्ररोह के अग्रभाग की लम्बाई में वृद्धि के लिए (Growth of shoot tip in length)",
+                "तने के वृद्धि के लिए (Growth of stem)",
+                "पादप का प्रकाश की ओर मुड़ने के लिए (Bending the plant towards light)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 6,
+            "question": "हाइड्रा में प्रजनन की विधि निम्नलिखित में से कौन है? (Which one of the following is the mode of reproduction in Hydra?)",
+            "options": [
+                "कायिक प्रवर्धन (Vegetative propagation)",
+                "बीजाणु समासंघ (Spore formation)",
+                "मुकुलन (Budding)",
+                "विखंडन (Fission)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "मुकुलन (Budding)"
+        },
+        {
+            "id": 7,
+            "question": "पुष्प का कौन सा भाग परागकण बनाता है? (Which part of a flower produces pollen grains?)",
+            "options": [
+                "बाह्यदल (Sepals)",
+                "पंखुड़ी (Petals)",
+                "पुंकेसर (Stamens)",
+                "स्त्रीकेसर (Carpels)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "पुंकेसर (Stamens)"
+        },
+        {
+            "id": 8,
+            "question": "निम्न में से कौन मानव में मादा जनन तंत्र का भाग नहीं है? (Which of the following is not a part of the female reproductive system in human being?)",
+            "options": [
+                "अंडाशय (Ovary)",
+                "गर्भाशय (Uterus)",
+                "शुक्रवाहिका (Vas deferens)",
+                "डिंब वाहिनी (Oviduct)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "शुक्रवाहिका (Vas deferens)"
+        },
+        {
+            "id": 9,
+            "question": "वंशागत नियमों का प्रतिपादन किसने किया? (Who propounded the laws of Inheritance?)",
+            "options": [
+                "चार्ल्स डार्विन (Charles Darwin)",
+                "रोर्बट हुक (Robert Hooke)",
+                "जे. सी. बोस. (J.C. Bose)",
+                "ग्रेगर जॉन मेंडल (Gregor Johann Mendel)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "ग्रेगर जॉन मेंडल (Gregor Johann Mendel)"
+        },
+        {
+            "id": 10,
+            "question": "स्त्रियों में लिंग गुणसूत्र का युग्म होता है (Women have a pair of Sex Chromosomes.)",
+            "options": [
+                "XY",
+                "XX",
+                "YY",
+                "इनमें सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "XX"
+        },
+        {
+            "id": 11,
+            "question": "मंड परीक्षण के लिए हरी पत्ती पर आयोडीन डालने से पहले पत्ती को एल्कोहॉल में उबाला जाता है- (A green leaf is boiled in Alcohol before using Iodine for starch test in order to -)",
+            "options": [
+                "मंड को घोलने के लिए (Dissolve starch)",
+                "क्लोरोफिल को घोलने के लिए (Dissolve chlorophyll)",
+                "पत्ती को मुलायम करने के लिए (Soften the leaf)",
+                "इनमें से सभी के लिए (All of the above)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "क्लोरोफिल को घोलने के लिए (Dissolve chlorophyll)"
+        },
+        {
+            "id": 12,
+            "question": "स्लाइड को सर्वप्रथम कम्पाउंड माइक्रोस्कोप से देखा जाता है (The slide is first focussed under Compound Microscope at -)",
+            "options": [
+                "5x पर (5x)",
+                "10x पर (10x)",
+                "25x पर (25x)",
+                "45x पर (45x)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "10x पर (10x)"
+        },
+        {
+            "id": 13,
+            "question": "दो तंत्रिका कोशिका के मध्य खाली स्थान को कहते हैं (The gap between two neurons is called a)",
+            "options": [
+                "द्रुमिका (Dendrite)",
+                "सिनेप्स (Synapse)",
+                "एक्सॉन (Axon)",
+                "आवेग (Impulse)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "सिनेप्स (Synapse)"
+        },
+        {
+            "id": 14,
+            "question": "निम्न में कौन आहार श्रृंखला का निर्माण करता है? (Which of the following constitutes a Food chain?)",
+            "options": [
+                "घास, गेहूँ तथा आम (Grass, wheat and mango)",
+                "घास, बकरी तथा मानव (Grass, goat and human)",
+                "बकरी, गाय तथा हाथी (Goat, Cow and elephant)",
+                "घास, बकरी तथा मछली (Grass, Goat and fish)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "घास, बकरी तथा मानव (Grass, goat and human)"
+        },
+        {
+            "id": 15,
+            "question": "समीकरण CaCO₃(s) (Heat) → CaO(s) + CO₂(g) किस प्रकार का समीकरण है? (Which type of equation is CaCO₃(s) (Heat) → CaO(s) + CO₂(g)?)",
+            "options": [
+                "वियोजन (Decomposition)",
+                "संयोजन (Combination)",
+                "उभयगामी (Reversible)",
+                "प्रतिस्थापन (Displacement)"
+            ],
+            "correct": 0,
+            "year": 2016,
+            "correctAnswer": "वियोजन (Decomposition)"
+        },
+        {
+            "id": 16,
+            "question": "रक्त का थक्का बनाने में सहायक होता है- (Responsible for clotting of blood-)",
+            "options": [
+                "लाल रक्त कोशिका (R. B. C)",
+                "श्वेत रक्त कोशिका (W. B. C)",
+                "रक्त बिंबाणु (Blood platelets)",
+                "कोई नहीं (None)"
+            ],
+            "correct": 2,
+            "year": 2017,
+            "correctAnswer": "रक्त बिंबाणु (Blood platelets)"
+        },
+        {
+            "id": 17,
+            "question": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को क्या कहते हैं? (Structural & functional unit of kidney is called)",
+            "options": [
+                "ग्लोमेरलस (Glomerulus)",
+                "बोमेन केप्सूल (Bowman's capsule)",
+                "मूत्रवाहिनी (Urinary tube)",
+                "नेफरॉन (Nephron)"
+            ],
+            "correct": 3,
+            "year": 2017,
+            "correctAnswer": "नेफरॉन (Nephron)"
+        },
+        {
+            "id": 18,
+            "question": "मस्तिष्क उत्तरदायी है- (Brain is responsible for -)",
+            "options": [
+                "सोचने के लिये (To think over)",
+                "हृदय स्पंदन (Palpitation of heart)",
+                "शारीरिक संतुलन (Balance of body)",
+                "सभी (All)"
+            ],
+            "correct": 3,
+            "year": 2017,
+            "correctAnswer": "सभी (All)"
+        },
+        {
+            "id": 19,
+            "question": "एक वयस्क मनुष्य के कितने दाँत होते हैं? (How many teeth does an adult human have?)",
+            "options": [
+                "28",
+                "30",
+                "32",
+                "34"
+            ],
+            "correct": 2,
+            "year": 2017,
+            "correctAnswer": "32"
+        },
+        {
+            "id": 20,
+            "question": "खड़िया का रासायनिक सूत्र क्या है? (What is the chemical formula of chalk?)",
+            "options": [
+                "MgCO₃",
+                "CaO",
+                "CaCO₃",
+                "Ca(HCO₃)₂"
+            ],
+            "correct": 2,
+            "year": 2017,
+            "correctAnswer": "CaCO₃"
+        },
+        {
+            "id": 21,
+            "question": "स्पेक्ट्रम में किस रंग की किरण का झुकाव अधिक होता है? (In the spectrum, which color ray has maximum deviation?)",
+            "options": [
+                "लाल (Red)",
+                "हरा (Green)",
+                "पीला (Yellow)",
+                "बैंगनी (Violet)"
+            ],
+            "correct": 3,
+            "year": 2016,
+            "correctAnswer": "बैंगनी (Violet)"
+        },
+        {
+            "id": 22,
+            "question": "कूटपाद किसमें पाया जाता है? (In which is pseudopodia found?)",
+            "options": [
+                "पैरामीशियम (Paramecium)",
+                "युग्लीना (Euglena)",
+                "अमीबा (Amoeba)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2016,
+            "correctAnswer": "अमीबा (Amoeba)"
+        },
+        {
+            "id": 23,
+            "question": "यदि लेंस की फोकस दूरी (f) एवं क्षमता (P) हो, तो (If the focal length of the lens is f and power is P then):",
+            "options": [
+                "f ÷ P = 0.5",
+                "f × P = 1",
+                "P + f = 1",
+                "P ÷ f = 2"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "f × P = 1"
+        },
+        {
+            "id": 24,
+            "question": "किशोरावस्था में होने वाले परिवर्तन को कहते हैं (The changes occurring during adolescence are called):",
+            "options": [
+                "विविधता (Diversity)",
+                "अंकुरण (Germination)",
+                "प्यूबर्टि (Puberty)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "प्यूबर्टि (Puberty)"
+        },
+        {
+            "id": 25,
+            "question": "दोहरा परिसंचरण नहीं पाया जाता (Double circulation is not found in):",
+            "options": [
+                "मेढ़क में (Frog)",
+                "मछली में (Fish)",
+                "पक्षी में (Bird)",
+                "मनुष्य में (Human)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "मछली में (Fish)"
+        },
+        {
+            "id": 26,
+            "question": "हॉर्मोन जो किशोरों में यौवनावस्था के लक्षणों को नियंत्रित करता है, वह है (The hormone that controls the symptoms of puberty in adolescents is):",
+            "options": [
+                "थायरॉक्सीन (Thyroxine)",
+                "एस्ट्रोजन (Estrogen)",
+                "टेस्टोस्टेरॉन (Testosterone)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "टेस्टोस्टेरॉन (Testosterone)"
+        },
+        {
+            "id": 27,
+            "question": "सुरक्षित गर्भपात भ्रूण की किस अवस्था में होता है? (At what stage of foetus does safe abortion occur?)",
+            "options": [
+                "ब्लास्टुला (Blastula)",
+                "अंग निर्माण (Organ formation)",
+                "परिपक्व भ्रूण (Mature embryo)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "ब्लास्टुला (Blastula)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न में कृत्रिम पारिस्थितिक तंत्र कौन है? (Which of the following is an artificial ecosystem?)",
+            "options": [
+                "पार्क (Park)",
+                "जल जीवशाला (Aquarium)",
+                "फुलवारी (Garden)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 29,
+            "question": "कौन-से पदार्थ का अपघटन पर्यावरण में नहीं हो सकता है? (Which substance cannot be decomposed in the environment?)",
+            "options": [
+                "सूखे पत्ते (Dry leaves)",
+                "भोजन (Food)",
+                "मृत जीव (Dead organism)",
+                "प्लास्टिक (Plastic)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "प्लास्टिक (Plastic)"
+        },
+        {
+            "id": 30,
+            "question": "सही आहार श्रृंखला है (The correct food chain is):",
+            "options": [
+                "मछली → घास → गाय (Fish → Grass → Cow)",
+                "बकरी → घास → हिरण (Goat → Grass → Deer)",
+                "घास → हिरण → शेर (Grass → Deer → Lion)",
+                "चिड़िया → साँप → घास (Bird → Snake → Grass)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "घास → हिरण → शेर (Grass → Deer → Lion)"
+        },
+        {
+            "id": 31,
+            "question": "जो पदार्थ जैविक प्रक्रम द्वारा अपघटित हो जाते हैं, वह है (The substances which get decomposed by biological process are):",
+            "options": [
+                "गैर जैव निम्नीकरण योग्य (Non-biodegradable)",
+                "अक्रिय (Inert)",
+                "जैवनिम्नीकरणयोग्य (Biodegradable)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "जैवनिम्नीकरणयोग्य (Biodegradable)"
+        },
+        {
+            "id": 32,
+            "question": "कचरे का प्रबंधन निम्नलिखित में किसके द्वारा हो सकता है? (Waste can be managed by which of the following?)",
+            "options": [
+                "शहर से बाहर जला देना (Burning it out of the city)",
+                "गड्ढों को भरने में उपयोग करना (Using in filling pits)",
+                "कुछ कचरे का पुनःचक्रण (Recycling of some wastes)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 33,
+            "question": "सूर्य की पराबैंगनी किरणों से मनुष्य में कौन-सी बीमारी हो सकती है? (Which disease can be caused in humans by the ultraviolet rays of the sun?)",
+            "options": [
+                "फेफड़े का कैंसर (Lung cancer)",
+                "टी.बी. (T. B.)",
+                "मुंह का कैंसर (Oral cancer)",
+                "त्वचा का कैंसर (Skin cancer)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "त्वचा का कैंसर (Skin cancer)"
+        },
+        {
+            "id": 34,
+            "question": "विद्युत विभव कौन-सी राशि है? (Which quantity is electric potential?)",
+            "options": [
+                "अदिश राशि (Scalar quantity)",
+                "सदिश राशि (Vector quantity)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "अदिश राशि (Scalar quantity)"
+        },
+        {
+            "id": 35,
+            "question": "विद्युत मोटर की क्रिया आधारित है (The action of electric motor is based on):",
+            "options": [
+                "विद्युत-धारा और चुम्बकीय प्रभाव पर (Electric current and magnetic effect)",
+                "आर्मेचर के घूर्णन पर (Rotation of armature)",
+                "(A) और (B) दोनों (Both A and B)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "विद्युत-धारा और चुम्बकीय प्रभाव पर (Electric current and magnetic effect)"
+        },
+        {
+            "id": 36,
+            "question": "निम्नलिखित में से किससे प्रेरित धारा को दिशा प्राप्त होती है? (From which of the following does the induced current get direction?)",
+            "options": [
+                "लेंज के नियम से (By Lenz's law)",
+                "वाम-हस्त नियम से (By left hand rule)",
+                "दक्षिण-हस्त नियम से (By right hand rule)",
+                "ओम के नियम से (By Ohm's law)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "दक्षिण-हस्त नियम से (By right hand rule)"
+        },
+        {
+            "id": 37,
+            "question": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति होती है (The frequency of alternating electric current produced in India is):",
+            "options": [
+                "80 Hz",
+                "70 Hz",
+                "60 Hz",
+                "50 Hz"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "50 Hz"
+        },
+        {
+            "id": 38,
+            "question": "लंबाई बढ़ने से तार का प्रतिरोध क्या होता है? (What will be the resistance of the wire when its length increases?)",
+            "options": [
+                "घटता है (Decreases)",
+                "बढ़ता है (Increases)",
+                "कोई परिवर्तन नहीं होता (Remains constant)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बढ़ता है (Increases)"
+        },
+        {
+            "id": 39,
+            "question": "20°C पर सिल्वर की विद्युत प्रतिरोधकता है (Electrical resistivity of silver at 20°C is):",
+            "options": [
+                "49 x 10⁻⁶ Ωm",
+                "1.60 x 10⁻⁸ Ωm",
+                "10¹² Ωm",
+                "6.84 x 10⁻⁸ Ωm"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "1.60 x 10⁻⁸ Ωm"
+        },
+        {
+            "id": 40,
+            "question": "जीवाश्म ईंधन के जलने पर कौन-सी गैस मुक्त नहीं होती है? (Which gas is not released when fossil fuels are burnt?)",
+            "options": [
+                "ऑक्सीजन गैस (Oxygen gas)",
+                "कार्बन डाइऑक्साइड गैस (Carbon dioxide gas)",
+                "सल्फर डाइआक्साइड गैस (Sulphur dioxide gas)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "ऑक्सीजन गैस (Oxygen gas)"
+        },
+        {
+            "id": 41,
+            "question": "निम्न में से कौन बायोगैस का मुख्य अवयव है? (Which of the following is the main component of biogas?)",
+            "options": [
+                "H₂S",
+                "H₂",
+                "CO₂",
+                "CH₄"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "CH₄"
+        },
+        {
+            "id": 42,
+            "question": "टिंचर आयोडीन विलयन बना होता है (Tincture iodine solution is prepared in):",
+            "options": [
+                "एथिल ऐल्कोहॉल में (Ethyl alcohol)",
+                "क्लोरोफॉर्म में (Chloroform)",
+                "कार्बन टेट्राक्लोराइड में (Carbon tetrachloride)",
+                "ईथर में (Ether)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "एथिल ऐल्कोहॉल में (Ethyl alcohol)"
+        },
+        {
+            "id": 43,
+            "question": "CH₃CH₂CH₂OH का IUPAC नाम है (The IUPAC name of CH₃CH₂CH₂OH is):",
+            "options": [
+                "2-प्रोपेनॉल (2-propanol)",
+                "प्रोपिल ऐल्कोहॉल (Propyl alcohol)",
+                "1-प्रोपेनॉल (1-propanol)",
+                "3-प्रोपेनॉल (3-propanol)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "1-प्रोपेनॉल (1-propanol)"
+        },
+        {
+            "id": 44,
+            "question": "निम्नांकित में कौन कमरे के ताप पर द्रव है? (Which of the following is liquid at room temperature?)",
+            "options": [
+                "एथेनॉल (Ethanol)",
+                "मेथेन (Methane)",
+                "एथेन (Ethane)",
+                "एथाइन (Ethyne)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "एथेनॉल (Ethanol)"
+        },
+        {
+            "id": 45,
+            "question": "बेंजीन सांद्र सल्फ्यूरिक अम्ल की उपस्थिति में नाइट्रिक अम्ल से अभिक्रिया कर बनाता है (Benzene reacts with nitric acid in the presence of concentrated sulphuric acid to form):",
+            "options": [
+                "नाइट्रोबेंजीन (Nitrobenzene)",
+                "फेनॉल (Phenol)",
+                "टालूइन (Toluene)",
+                "बेंजोइक अम्ल (Benzoic acid)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "नाइट्रोबेंजीन (Nitrobenzene)"
+        },
+        {
+            "id": 46,
+            "question": "निम्न में कौन यौगिक, ईंधन के रूप में इस्तेमाल किया जा सकता है? (Which of the following compounds can be used as fuel?)",
+            "options": [
+                "एथेनॉल (Ethanol)",
+                "प्रोपेनॉल (Propanol)",
+                "एथेनोइक अम्ल (Ethanoic acid)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "एथेनॉल (Ethanol)"
+        },
+        {
+            "id": 47,
+            "question": "निम्न में कौन-सा समूह डोबरेनर त्रिक बनाता है? (Which of the following groups form the Dobereiner's triad?)",
+            "options": [
+                "N, P, As",
+                "F, Cl, Br",
+                "Ca, Sr, Ba",
+                "Be, Mg, Ca"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "Ca, Sr, Ba"
+        },
+        {
+            "id": 48,
+            "question": "ओजोन का आण्विक सूत्र है (The molecular formula of ozone is):",
+            "options": [
+                "O₂",
+                "O₃",
+                "O₄",
+                "O₅"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "O₃"
+        },
+        {
+            "id": 49,
+            "question": "ऑक्सीजन गैस के एक अणु के दो परमाणुओं के बीच कितने आबंध पाए जाते हैं? (How many bonds are found between the two atoms of a molecule of oxygen gas?)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 50,
+            "question": "वर्ग 13 से 18 तक वाले तत्व कहलाते हैं (Elements from group 13 to 18 are called):",
+            "options": [
+                "d-ब्लॉक के तत्व (Elements of d-block)",
+                "p-ब्लॉक के तत्व (Elements of p-block)",
+                "s-ब्लॉक के तत्व (Elements of s-block)",
+                "f-ब्लॉक के तत्व (Elements of f-block)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "p-ब्लॉक के तत्व (Elements of p-block)"
+        }
+    ]
+}

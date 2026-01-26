@@ -1,0 +1,658 @@
+{
+    "date": "0208",
+    "dateDisplay": "08 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्नलिखित में कौन सबसे अधिक क्रियाशील हैलोजन है ? (Which of the following is the most reactive halogen ?)",
+            "options": [
+                "F",
+                "Cl",
+                "Br",
+                "I"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "F"
+        },
+        {
+            "id": 2,
+            "question": "पौधों में जनन-अंग कहाँ पाये जाते हैं ? (Where are the reproductive organs found in plants ?)",
+            "options": [
+                "जड़ में (In root)",
+                "पुष्प में (In flower)",
+                "तना में (In stem)",
+                "फल में (In fruit)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "पुष्प में (In flower)"
+        },
+        {
+            "id": 3,
+            "question": "मस्तिष्क का कौन-सा भाग शरीर की स्थिति तथा संतुलन का अनुरक्षण करता है ? (Which part of the brain maintains the position and balance of the body ?)",
+            "options": [
+                "अग्रमस्तिष्क (Fore-brain)",
+                "अनुमस्तिष्क (Hind-brain)",
+                "मध्यमस्तिष्क (Mid-brain)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अनुमस्तिष्क (Hind-brain)"
+        },
+        {
+            "id": 4,
+            "question": "किस पौधे में रंध्र अनुपस्थित रहते हैं ? (In which plants are stomata absent?)",
+            "options": [
+                "आम (Mango)",
+                "हाइड्रिला (Hydrilla)",
+                "नागफनी (Opuntia)",
+                "कनेर (Nerium)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "हाइड्रिला (Hydrilla)"
+        },
+        {
+            "id": 5,
+            "question": "BS-IV का सम्बन्ध है (BS-IV is associated with)",
+            "options": [
+                "मृदा प्रदूषण से (Soil pollution)",
+                "ध्वनि प्रदूषण से (Sound pollution)",
+                "वायु प्रदूषण से (Air pollution)",
+                "जल प्रदूषण से (Water pollution)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "वायु प्रदूषण से (Air pollution)"
+        },
+        {
+            "id": 6,
+            "question": "रक्त में ऑक्सीजन का वाहक है (Carrier of oxygen in blood is)",
+            "options": [
+                "वसा (Fat)",
+                "हॉर्मोन (Hormone)",
+                "हीमोग्लोबिन (Haemoglobin)",
+                "कार्बोहाइड्रेट (Carbohydrate)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "हीमोग्लोबिन (Haemoglobin)"
+        },
+        {
+            "id": 7,
+            "question": "निम्नलिखित में किसे बर्थ हॉर्मोन कहा जाता है ? (Which of the following is known as a birth hormone ?)",
+            "options": [
+                "टाइरोसिन (Tyrosine)",
+                "ऑक्सीटोसिन (Oxytocin)",
+                "थाइरोट्रॉपिन (Thyrotropin)",
+                "इंसुलिन (Insulin)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ऑक्सीटोसिन (Oxytocin)"
+        },
+        {
+            "id": 8,
+            "question": "बीज विकसित होता है (The seeds develop from)",
+            "options": [
+                "परागकोष से (Anther)",
+                "अंडाशय से (Ovary)",
+                "पुंकेसर से (Stamen)",
+                "बीजांड से (Ovule)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "बीजांड से (Ovule)"
+        },
+        {
+            "id": 9,
+            "question": "ग्रहणी भाग है (Duodenum is a part of)",
+            "options": [
+                "बड़ी आँत का (Large intestine)",
+                "छोटी आँत का (Small intestine)",
+                "मुखगुहा का (Buccal cavity)",
+                "आमाशय का (Stomach)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "छोटी आँत का (Small intestine)"
+        },
+        {
+            "id": 10,
+            "question": "तालाब किस प्रकार का पारिस्थितिक तंत्र है ? (Which type of ecosystem is a pond?)",
+            "options": [
+                "कृत्रिम (Artificial)",
+                "प्राकृतिक (Natural)",
+                "अजैविक (Abiotic)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "प्राकृतिक (Natural)"
+        },
+        {
+            "id": 11,
+            "question": "निम्न में कौन पारिस्थितिक तंत्र में अधिकतम संख्या में मौजूद होते हैं ? (Which of the following are present in maximum number in an ecosystem ?)",
+            "options": [
+                "उत्पादक (Producers)",
+                "शाकभक्षी (Herbivores)",
+                "मांसभक्षी (Carnivores)",
+                "सर्वभक्षक (Omnivores)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "उत्पादक (Producers)"
+        },
+        {
+            "id": 12,
+            "question": "जीवों को उत्पत्ति के पहले पृथ्वी पर निम्नलिखित में क्या नहीं था ? (Which of the following was not present on earth before the origin of living beings ?)",
+            "options": [
+                "CO₂",
+                "NO₂",
+                "O₂",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "O₂"
+        },
+        {
+            "id": 13,
+            "question": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति है (The frequency of alternating current produced in India is)",
+            "options": [
+                "80 Hz",
+                "70 Hz",
+                "60 Hz",
+                "50 Hz"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "50 Hz"
+        },
+        {
+            "id": 14,
+            "question": "एक माइक्रो एम्पियर विद्युत धारा है (One microampere electric current is)",
+            "options": [
+                "10⁻⁷ A",
+                "10⁻⁶ A",
+                "10⁻⁵ A",
+                "10⁻⁴ A"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "10⁻⁶ A"
+        },
+        {
+            "id": 15,
+            "question": "नरौरा नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है ? (Narora Nuclear power plant is located in which state?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "गुजरात (Gujarat)",
+                "महाराष्ट्र (Maharashtra)",
+                "उत्तर प्रदेश (Uttar Pradesh)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "उत्तर प्रदेश (Uttar Pradesh)"
+        },
+        {
+            "id": 16,
+            "question": "स्पेक्ट्रम प्राप्त करने के लिए किसका उपयोग होता है ? (Which is used to get spectrum ?)",
+            "options": [
+                "अवतल दर्पण का (Concave mirror)",
+                "उत्तल दर्पण का (Convex mirror)",
+                "प्रिज्म का (Prism)",
+                "काँच की सिल्ली का (Glass slab)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "प्रिज्म का (Prism)"
+        },
+        {
+            "id": 17,
+            "question": "उत्तल लेंस द्वारा आवर्धित काल्पनिक प्रतिबिंब तब बनता है, जब वस्तु रहती है (A magnified imaginary image by a convex lens is formed when the object is placed)",
+            "options": [
+                "अनंत पर (at infinity)",
+                "फोकस और लेंस के बीच (between focus and lens)",
+                "फोकस पर (at focus)",
+                "फोकस दूरी और दुगुनी फोकस दूरी के बीच (between focal distance and twice focal distance)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "फोकस और लेंस के बीच (between focus and lens)"
+        },
+        {
+            "id": 18,
+            "question": "1mA बराबर होता है (1mA is equal to)",
+            "options": [
+                "10⁻³ A",
+                "10⁻² A",
+                "10⁻¹ A",
+                "10⁻⁶ A"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "10⁻³ A"
+        },
+        {
+            "id": 19,
+            "question": "डीजल का उपयोग होता है। (Diesel is used in)",
+            "options": [
+                "भारी वाहनों में (Heavy vehicles)",
+                "रेल के इंजनों में (Railway engines)",
+                "विद्युत उत्पादन में (Electric generation)",
+                "इन सभी में (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इन सभी में (All of these)"
+        },
+        {
+            "id": 20,
+            "question": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है (Solar cells convert solar energy into)",
+            "options": [
+                "प्रकाश ऊर्जा में (Light energy)",
+                "गतिज ऊर्जा में (Kinetic energy)",
+                "ताप ऊर्जा में (Heat energy)",
+                "विद्युत ऊर्जा में (Electrical energy)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "विद्युत ऊर्जा में (Electrical energy)"
+        },
+        {
+            "id": 21,
+            "question": "सोना की परमाणु संख्या है (The atomic number of Gold is)",
+            "options": [
+                "29",
+                "89",
+                "79",
+                "39"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "79"
+        },
+        {
+            "id": 22,
+            "question": "निम्न में कौन ऑक्सीकरण की क्रिया नहीं है? (Which of the following is not an oxidation reaction?)",
+            "options": [
+                "दहन (Combustion)",
+                "श्वसन (Respiration)",
+                "भोजन का पचना (Digestion of food)",
+                "अवक्षेपण (Precipitation)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "अवक्षेपण (Precipitation)"
+        },
+        {
+            "id": 23,
+            "question": "आक्सीजन की संयोजकता है (The valency of Oxygen is)",
+            "options": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 24,
+            "question": "अम्लीय वर्षा के जल का pH मान होना चाहिए (The pH value of acid rain water should be)",
+            "options": [
+                "5.6",
+                "5.6 से कम (Less than 5.6)",
+                "5.6 से अधिक (More than 5.6)",
+                "7.0"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "5.6 से कम (Less than 5.6)"
+        },
+        {
+            "id": 25,
+            "question": "चींटी के डंक में कौन-सा अम्ल पाया जाता है (Which acid is found in ant sting?)",
+            "options": [
+                "इथेनॉइक अम्ल (Ethanoic acid)",
+                "सिट्रिक अम्ल (Citric acid)",
+                "मिथेनॉइक अम्ल (Methanoic acid)",
+                "ऑक्जेलिक अम्ल (Oxalic acid)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मिथेनॉइक अम्ल (Methanoic acid)"
+        },
+        {
+            "id": 26,
+            "question": "निम्नलिखित में कौन-सा संवहन ऊतक है (Which of the following is a vascular tissue?)",
+            "options": [
+                "एपिडर्मिस (Epidermis)",
+                "फलोएम (Phloem)",
+                "जाइलम (Xylem)",
+                "(B) एवं (C) दोनों (Both (B) and (C))"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "(B) एवं (C) दोनों (Both (B) and (C))"
+        },
+        {
+            "id": 27,
+            "question": "प्रोटोजोआ उत्सर्जी पदार्थों का निष्कासन कैसे करता है (How does Protozoa expel excretory substances?)",
+            "options": [
+                "परासरण द्वारा (By osmosis)",
+                "विसरण द्वारा (By diffusion)",
+                "अवशोषण द्वारा (By absorption)",
+                "निष्कासन द्वारा (By excretion)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "विसरण द्वारा (By diffusion)"
+        },
+        {
+            "id": 28,
+            "question": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है (The largest gland in human body is)",
+            "options": [
+                "अग्न्याशय (Pancreas)",
+                "अण्डाशय (Ovary)",
+                "एड्रीनल (Adrenal)",
+                "यकृत (Liver)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "यकृत (Liver)"
+        },
+        {
+            "id": 29,
+            "question": "शरीर का संतुलन बनाए रखता है। (Maintains body balance)",
+            "options": [
+                "सेरीबेलम (Cerebellum)",
+                "क्रेनियम (Cranium)",
+                "मस्तिष्क स्टेम (Brain stem)",
+                "सेरीब्रम (Cerebrum)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "सेरीबेलम (Cerebellum)"
+        },
+        {
+            "id": 30,
+            "question": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है (The cause of physical changes during adolescence is)",
+            "options": [
+                "टेस्टोस्टेरोन (Testosterone)",
+                "एस्ट्रोजेन (Estrogen)",
+                "थारॉक्सीन (Thyroxine)",
+                "(A) और (B) दोनों (Both (A) and (B))"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 31,
+            "question": "मानव हृदय में कितने कोष्ठ होते हैं (How many chambers are there in human heart?)",
+            "options": [
+                "तीन (Three)",
+                "चार (Four)",
+                "आठ (Eight)",
+                "दो (Two)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "चार (Four)"
+        },
+        {
+            "id": 32,
+            "question": "रक्त क्या है (What is blood?)",
+            "options": [
+                "ऊतक (Tissue)",
+                "कोशिका (Cell)",
+                "पदार्थ (Substance)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "ऊतक (Tissue)"
+        },
+        {
+            "id": 33,
+            "question": "'जीन' शब्द किसने प्रस्तुत किया ? (Who coined the term 'Gene'?)",
+            "options": [
+                "मेंडल (Mendel)",
+                "डार्विन (Darwin)",
+                "जोहन्सन (Johanssen)",
+                "लैमार्क (Lamarck)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "जोहन्सन (Johanssen)"
+        },
+        {
+            "id": 34,
+            "question": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है (Which material rod is used to make an electromagnet?)",
+            "options": [
+                "इस्पात (Steel)",
+                "पीतल (Brass)",
+                "नरम लोहा (Soft iron)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "नरम लोहा (Soft iron)"
+        },
+        {
+            "id": 35,
+            "question": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है? (When electric current flows through a conducting wire, what are the moving particles?)",
+            "options": [
+                "परमाणु (Atom)",
+                "आयन (Ion)",
+                "प्रोटॉन (Proton)",
+                "इलेक्ट्रॉन (Electron)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इलेक्ट्रॉन (Electron)"
+        },
+        {
+            "id": 36,
+            "question": "ओम का नियम है (Ohm's law is)",
+            "options": [
+                "V = IR",
+                "V = R²I",
+                "V = I²R",
+                "V = I + R"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "V = IR"
+        },
+        {
+            "id": 37,
+            "question": "विभवान्तर का S.I. मात्रक क्या है (What is the S.I. unit of potential difference?)",
+            "options": [
+                "जूल (Joule)",
+                "वाट (Watt)",
+                "एम्पीयर (Ampere)",
+                "वोल्ट (Volt)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "वोल्ट (Volt)"
+        },
+        {
+            "id": 38,
+            "question": "आम्मीटर का प्रतिरोध होता है। (The resistance of ammeter is)",
+            "options": [
+                "छोटा (Small)",
+                "बड़ा (Large)",
+                "बहुत छोटा (Very small)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "बहुत छोटा (Very small)"
+        },
+        {
+            "id": 39,
+            "question": "विद्युत बल्व का फिलामेंट निम्न में से किस धातु का बना होता है ? (The filament of an electric bulb is made of which of the following metals?)",
+            "options": [
+                "ताँबा (Copper)",
+                "नाइक्रोम (Nichrome)",
+                "सीसा (Lead)",
+                "टंगस्टन (Tungsten)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "टंगस्टन (Tungsten)"
+        },
+        {
+            "id": 40,
+            "question": "रिओस्टेट का उद्देश्य क्या है ? (What is the purpose of rheostat?)",
+            "options": [
+                "धारा का परिमाण में वृद्धि (Increase in magnitude of current)",
+                "धारा का परिमाण में कमी (Decrease in magnitude of current)",
+                "धारा का परिमाण में वृद्धि या कमी (Increase or decrease in magnitude of current)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "धारा का परिमाण में वृद्धि या कमी (Increase or decrease in magnitude of current)"
+        },
+        {
+            "id": 41,
+            "question": "विद्युत आवेश का S.I. मात्रक होता है (The S.I. unit of electric charge is)",
+            "options": [
+                "वोल्ट (Volt)",
+                "ओम (Ohm)",
+                "जूल (Joule)",
+                "कूलॉम (Coulomb)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "कूलॉम (Coulomb)"
+        },
+        {
+            "id": 42,
+            "question": "श्वसन के अंतिम उत्पाद हैं (The end products of respiration are)",
+            "options": [
+                "CO₂ और H₂O",
+                "CO₂ और ऊर्जा (CO₂ and Energy)",
+                "H₂O और ऊर्जा (H₂O and Energy)",
+                "CO₂, H₂O और ऊर्जा (CO₂, H₂O and Energy)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "CO₂, H₂O और ऊर्जा (CO₂, H₂O and Energy)"
+        },
+        {
+            "id": 43,
+            "question": "दाँत की सबसे ऊपरी परत है (The outermost layer of tooth is)",
+            "options": [
+                "डेटाइन (Dentine)",
+                "इनामेल (Enamel)",
+                "अस्थि (Bone)",
+                "क्राउन (Crown)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "इनामेल (Enamel)"
+        },
+        {
+            "id": 44,
+            "question": "मानव आहार नाल का सबसे लम्बा भाग है (The longest part of human alimentary canal is)",
+            "options": [
+                "आमाशय (Stomach)",
+                "छोटा आँत (Small intestine)",
+                "ग्रासनली (Oesophagus)",
+                "बड़ी आँत (Large intestine)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "छोटा आँत (Small intestine)"
+        },
+        {
+            "id": 45,
+            "question": "परागकण निम्न में से किसके अंदर बनते हैं (Pollen grains are formed inside which of the following?)",
+            "options": [
+                "पराग-कोष (Anther)",
+                "अंडाशय (Ovary)",
+                "वर्तिका (Style)",
+                "पत्तियाँ (Leaves)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पराग-कोष (Anther)"
+        },
+        {
+            "id": 46,
+            "question": "चालनी नलिकाएँ पायी जाती हैं (Sieve tubes are found in)",
+            "options": [
+                "जंतुओं में (Animals)",
+                "जाइलम में (Xylem)",
+                "फ्लोएम में (Phloem)",
+                "एककोशिकीय पौधों में (Unicellular plants)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "फ्लोएम में (Phloem)"
+        },
+        {
+            "id": 47,
+            "question": "R.B.C. की जीवन-अवधि होती है (Life span of R.B.C. is)",
+            "options": [
+                "120 दिन (120 days)",
+                "180 दिन (180 days)",
+                "80 दिन (80 days)",
+                "220 दिन (220 days)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "120 दिन (120 days)"
+        },
+        {
+            "id": 48,
+            "question": "मानव शरीर की सबसे लम्बी कोशिका है। (The longest cell in human body is)",
+            "options": [
+                "अस्थि कोशिका (Bone cell)",
+                "पेशी कोशिका (Muscle cell)",
+                "न्यूरॉन (Neuron)",
+                "मास्टर सेल (Master cell)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "न्यूरॉन (Neuron)"
+        },
+        {
+            "id": 49,
+            "question": "अंडाणु निषेचित होता है (Ovum is fertilized in)",
+            "options": [
+                "योनि में (Vagina)",
+                "गर्भाशय में (Uterus)",
+                "अंडाशय में (Ovary)",
+                "फैलोपियन नलिका में (Fallopian tube)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "फैलोपियन नलिका में (Fallopian tube)"
+        },
+        {
+            "id": 50,
+            "question": "निम्नांकित में कौन पादप हॉर्मोन नहीं है? (Which of the following is not a plant hormone?)",
+            "options": [
+                "एथिलिन (Ethylene)",
+                "साइटोकाइनीन (Cytokinin)",
+                "आक्सिन (Auxin)",
+                "आक्सीटोसीन (Oxytocin)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "आक्सीटोसीन (Oxytocin)"
+        }
+    ]
+}

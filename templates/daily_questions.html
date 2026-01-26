@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block title %}{{ date_display }} - {{ subject.name }}{% endblock %}
+
+{% block content %}
+<div class="min-h-screen bg-gradient-to-br from-emerald-50 via-white to-emerald-50/50 pb-24">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 backdrop-blur-lg bg-white/80 border-b border-gray-100">
+        <div class="max-w-2xl mx-auto px-4 py-4">
+            <div class="flex items-center gap-3">
+                <a href="/practice/{{ subject.id }}" class="p-2 -ml-2 rounded-lg hover:bg-gray-100 transition-colors">
+                    <svg class="w-5 h-5 text-gray-600" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <polyline points="15 18 9 12 15 6" />
+                    </svg>
+                </a>
+                <div>
+                    <h1 class="text-lg font-bold text-gray-900">{{ subject.name }}</h1>
+                    <p class="text-xs text-gray-500">{{ date_display }}</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Questions List -->
+    <main class="max-w-2xl mx-auto px-4 py-6">
+
+        <!-- Info -->
+        <div class="bg-emerald-50 border border-emerald-200 rounded-xl p-4 mb-6">
+            <p class="text-emerald-800 text-sm">
+                <span class="font-semibold">📚 {{ questions|length }} Questions</span> - Read all questions and answers
+                below
+            </p>
+        </div>
+
+        <!-- Questions -->
+        <div class="space-y-6">
+            {% for q in questions %}
+            <div class="bg-white rounded-xl p-5 shadow-sm border border-gray-100">
+                <!-- Question Number -->
+                <div class="flex items-start gap-3 mb-4">
+                    <span
+                        class="flex-shrink-0 w-8 h-8 bg-emerald-100 text-emerald-700 rounded-lg flex items-center justify-center font-bold text-sm">
+                        {{ q.id }}
+                    </span>
+                    <p class="font-bold text-gray-800 leading-relaxed">{{ q.question }}</p>
+                </div>
+
+                <!-- Options -->
+                <div class="ml-11 space-y-2 mb-4">
+                    {% for option in q.options %}
+                    <div class="flex items-start gap-2 text-gray-600">
+                        <span class="font-medium text-gray-400">{{ ['A', 'B', 'C', 'D'][loop.index0] }}.</span>
+                        <span>{{ option }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <!-- Answer -->
+                <div class="ml-11 pt-3 border-t border-gray-100">
+                    <p class="text-sm text-gray-500 mb-1">Correct Answer:</p>
+                    <p class="font-bold text-emerald-600 text-lg">
+                        {{ ['A', 'B', 'C', 'D'][q.correct] }}. {{ q.correctAnswer }}
+                    </p>
+                </div>
+
+                <!-- Year Badge -->
+                {% if q.year %}
+                <div class="ml-11 mt-3">
+                    <span class="inline-block px-2 py-1 bg-gray-100 text-gray-500 text-xs rounded-full">
+                        BSEB {{ q.year }}
+                    </span>
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+
+    </main>
+
+    <!-- Start Test Button -->
+    <div class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-100 p-4 z-50">
+        <div class="max-w-2xl mx-auto">
+            <a href="/quiz/{{ subject.id }}/{{ date_code }}"
+                class="block w-full bg-gradient-to-r from-emerald-500 to-emerald-600 text-white text-center font-bold py-4 rounded-xl shadow-lg shadow-emerald-500/30 hover:shadow-xl hover:from-emerald-600 hover:to-emerald-700 transition-all active:scale-[0.98]">
+                🚀 Start Test
+            </a>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

@@ -1,0 +1,658 @@
+{
+    "date": "0207",
+    "dateDisplay": "07 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "अनवीकरणीय ऊर्जा का स्रोत है (Non-renewable source of energy is)",
+            "options": [
+                "कोयला (Coal)",
+                "पवन (Wind)",
+                "जल (Water)",
+                "सूर्य (Sun)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "कोयला (Coal)"
+        },
+        {
+            "id": 2,
+            "question": "तरंगदैर्ध्य को सामान्यतः व्यक्त किया जाता है (Wavelength is commonly expressed in)",
+            "options": [
+                "मीटर में (metre)",
+                "हर्ट्ज में (hertz)",
+                "मीटर/से० में (metre/sec)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "मीटर में (metre)"
+        },
+        {
+            "id": 3,
+            "question": "किसी चालक तार से प्रवाहित विद्युत धारा में गतिशील कण होता है (When an electric current flows through a conductor the moving particles are)",
+            "options": [
+                "न्यूट्रॉन (Neutrons)",
+                "प्रोटॉन (Protons)",
+                "इलेक्ट्रॉन (Electrons)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "इलेक्ट्रॉन (Electrons)"
+        },
+        {
+            "id": 4,
+            "question": "12 V विभवांतर के दो बिन्दुओं के बीच 2 कूलॉम आवेश को ले जाने में कितना कार्य किया जाता है ? (How much work is done in moving 2 coulombs of charge between two points of 12 V potential difference ?)",
+            "options": [
+                "2 जूल (2 joule)",
+                "6 जूल (6 joule)",
+                "12 जूल (12 joule)",
+                "24 जूल (24 joule)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "24 जूल (24 joule)"
+        },
+        {
+            "id": 5,
+            "question": "मॅडेल ने अपने आनुवंशिकी प्रयोग हेतु किस पौधे का उपयोग किया था ? (Which plant did Mendel use for his genetic experiment?)",
+            "options": [
+                "गुलाब (Rose)",
+                "आम (Mango)",
+                "मटर (Pea)",
+                "आलू (Potato)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "मटर (Pea)"
+        },
+        {
+            "id": 6,
+            "question": "किस प्रकार के श्वसन से अधिक ऊर्जा मुक्त होती है ? (Which type of respiration releases more energy ?)",
+            "options": [
+                "वायवीय (Aerobic)",
+                "अवायवीय (Anaerobic)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "वायवीय (Aerobic)"
+        },
+        {
+            "id": 7,
+            "question": "मानव में नर जनन ग्रंथि कहलाता है (Male genital gland in human is called)",
+            "options": [
+                "वृषण (Testis)",
+                "अधिवृषण (Epididymis)",
+                "शुक्राशय (Seminal vesicles)",
+                "शुक्र जनन नलिका (Sperm duct)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "वृषण (Testis)"
+        },
+        {
+            "id": 8,
+            "question": "जीवन की एक महत्वपूर्ण विशेषता है (An important characteristic of life is)",
+            "options": [
+                "अणु की गति (Movement of molecule)",
+                "वृद्धि (Growth)",
+                "संघ (Organisation)",
+                "समन्वय (Coordination)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "वृद्धि (Growth)"
+        },
+        {
+            "id": 9,
+            "question": "स्वपोषी पोषण होता है (Autotrophic nutrition occurs in)",
+            "options": [
+                "पौधों में (Plant)",
+                "कवक में (Fungi)",
+                "कुछ प्रोटिस्टा और प्रोकैरियोट्स में (Some protista and prokaryotes)",
+                "(A) और (C) दोनों (Both (A) and (C))"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "(A) और (C) दोनों (Both (A) and (C))"
+        },
+        {
+            "id": 10,
+            "question": "ग्लाइकोलाइसिस होता है (Glycolysis occurs in)",
+            "options": [
+                "माइटोकॉन्ड्रिया में (Mitochondria)",
+                "कोशिका द्रव्य में (Cytoplasm)",
+                "गॉल्गी कम्प्लेक्स में (Golgi complex)",
+                "क्लोरोप्लास्ट में (Chloroplast)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कोशिका द्रव्य में (Cytoplasm)"
+        },
+        {
+            "id": 11,
+            "question": "तंत्रिका तंत्र की संरचनात्मक एवं कार्यात्मक इकाई को कहते हैं (Structural and functional unit of nervous system is called)",
+            "options": [
+                "न्यूरॉन (Neuron)",
+                "डेन्ड्राईट (Dendrite)",
+                "नेफ्रॉन (Nephron)",
+                "साइटॉन (Cyton)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "न्यूरॉन (Neuron)"
+        },
+        {
+            "id": 12,
+            "question": "कौन-सा एन्जाइम वसा पर क्रिया करता है ? (Which enzyme acts on fat ?)",
+            "options": [
+                "एमाइलेज (Amylase)",
+                "ट्रिप्सीन (Trypsin)",
+                "पेप्सीन (Pepsin)",
+                "लाइपेज (Lipase)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "लाइपेज (Lipase)"
+        },
+        {
+            "id": 13,
+            "question": "नेत्र द्वारा किसी वस्तु का कैसा प्रतिबिंब बनता है ? (What is the image of an object formed by the eye ?)",
+            "options": [
+                "वास्तविक, उल्टा तथा बड़ा (Real, inverted and enlarged)",
+                "काल्पनिक, सीधा तथा छोटा (Virtual, erect and diminished)",
+                "काल्पनिक, उल्टा तथा बड़ा (Virtual, inverted and enlarged)",
+                "वास्तविक, उल्टा तथा छोटा (Real, inverted and diminished)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "वास्तविक, उल्टा तथा छोटा (Real, inverted and diminished)"
+        },
+        {
+            "id": 14,
+            "question": "विद्युत परिपथ में विद्युत धारा को मापने के लिए क्या उपयोग होता है ? (What is used to measure the current in an electric circuit ?)",
+            "options": [
+                "गैल्वेनोमीटर (Galvanometer)",
+                "वोल्टमीटर (Voltmeter)",
+                "आमीटर (Ammeter)",
+                "वोल्टामीटर (Voltameter)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "आमीटर (Ammeter)"
+        },
+        {
+            "id": 15,
+            "question": "निम्नांकित में कौन विद्युत शक्ति को निरूपित नहीं करता है ? (Which of the following does not represent electric power ?)",
+            "options": [
+                "VI",
+                "V²IR",
+                "I²R",
+                "IR²"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "IR²"
+        },
+        {
+            "id": 16,
+            "question": "निम्नलिखित में से किसी वस्तु का वास्तविक प्रतिबिंब कौन बना सकता है ? (Which one of the following can form a real image of an object ?)",
+            "options": [
+                "काँच की पट्टिका (Glass slab)",
+                "उत्तल लेंस (Convex lens)",
+                "अवतल लेंस (Concave lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 17,
+            "question": "किसी बिन्दु-वस्तु से निकलकर किरणें किसी लेंस से अपवर्तित होकर जिस बिन्दु पर मिलती हैं, उसे कहते हैं (The point, at which the rays coming out from a point-object after refraction through a lens meet is called)",
+            "options": [
+                "वक्रता केन्द्र (Centre of curvature)",
+                "प्रतिबिंब बिन्दु (Image point)",
+                "फोकस (Focus)",
+                "प्रकाश केन्द्र (Optical centre)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "प्रतिबिंब बिन्दु (Image point)"
+        },
+        {
+            "id": 18,
+            "question": "फोटोग्राफी कैमरा का अभिदृश्यक होता है (The objective lens of photography camera is)",
+            "options": [
+                "अवतल दर्पण (Concave mirror)",
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "उत्तल दर्पण (Convex mirror)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "उत्तल लेंस (Convex lens)"
+        },
+        {
+            "id": 19,
+            "question": "किसी शब्दकोष में पाए गए छोटे अक्षरों को पढ़ते समय आप निम्न में से कौन-सा लेंस उपयोग करेंगे ? (Which one of the following lenses would you prefer to use while reading small letters found in a dictionary?)",
+            "options": [
+                "50 cm फोकस दूरी का एक अवतल लेंस (A concave lens of focal length 50 cm)",
+                "50 cm फोकस दूरी का एक उत्तल लेंस (A convex lens of focal length 50 cm)",
+                "5 cm फोकस दूरी का एक अवतल लेंस (A concave lens of focal length 5 cm)",
+                "5 cm फोकस दूरी का एक उत्तल लेंस (A convex lens of focal length 5 cm)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "5 cm फोकस दूरी का एक उत्तल लेंस (A convex lens of focal length 5 cm)"
+        },
+        {
+            "id": 20,
+            "question": "किसी गोलीय दर्पण तथा किसी पतले गोलीय लेंस दोनों की फोकस दूरियाँ 15 cm हैं। दर्पण तथा लेंस संभवतः हैं (A spherical mirror and a thin spherical lens have a focal length of 15 cm each. The mirror and the lens are likely to be)",
+            "options": [
+                "दर्पण अवतल, लेंस उत्तल (Concave mirror, convex lens)",
+                "दर्पण उत्तल, लेंस अवतल (Convex mirror, concave lens)",
+                "दोनों अवतल (Both concave)",
+                "दोनों उत्तल (Both convex)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "दोनों उत्तल (Both convex)"
+        },
+        {
+            "id": 21,
+            "question": "कॉर्पस ल्यूटियम से स्रावित हॉर्मोन है (The hormone secreted from the corpus luteum is)",
+            "options": [
+                "एंड्रोजेन (Androgen)",
+                "प्रोजेस्टेरॉन (Progesterone)",
+                "एस्ट्रोजेन (Estrogen)",
+                "टेस्टोस्टेरोन (Testosterone)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "प्रोजेस्टेरॉन (Progesterone)"
+        },
+        {
+            "id": 22,
+            "question": "पारिस्थितिक तंत्र में ऊर्जा का स्रोत है (The source of energy in the ecosystem is)",
+            "options": [
+                "वर्षा जल (Rainwater)",
+                "सूर्य प्रकाश (Sunlight)",
+                "वायु (Air)",
+                "मिट्टी (Soil)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सूर्य प्रकाश (Sunlight)"
+        },
+        {
+            "id": 23,
+            "question": "मानव का उद्भव स्थान है (The place of origin of humans is)",
+            "options": [
+                "भारत (India)",
+                "चीन (China)",
+                "अफ्रीका (Africa)",
+                "अमेरिका (America)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "अफ्रीका (Africa)"
+        },
+        {
+            "id": 24,
+            "question": "निम्नलिखित में कौन लैंगिक जनन संचारित रोग है ? (Which of the following is a sexually transmitted disease ?)",
+            "options": [
+                "आंत्र ज्वर (Typhoid)",
+                "सूजाक (Gonorrhoea)",
+                "एड्स (AIDS)",
+                "(B) और (C) दोनों (Both (B) and (C))"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "(B) और (C) दोनों (Both (B) and (C))"
+        },
+        {
+            "id": 25,
+            "question": "मानव गुर्दे का आकार होता है (The shape of human kidney is)",
+            "options": [
+                "गोलाकार (Spherical)",
+                "आयताकार (Rectangular)",
+                "सेम के बीज का आकार (Bean shaped)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सेम के बीज का आकार (Bean shaped)"
+        },
+        {
+            "id": 26,
+            "question": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है (Change in body in adolescence is due to)",
+            "options": [
+                "टेस्टोस्टेरोन (Testosterone)",
+                "एस्ट्रोजेन (Estrogen)",
+                "थायरॉक्सीन (Thyroxine)",
+                "(A) और (B) दोनों (both (A) and (B))"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "(A) और (B) दोनों (both (A) and (B))"
+        },
+        {
+            "id": 27,
+            "question": "यौन परिपक्वता की अवधि को कहते हैं (The period of sexual maturity is called)",
+            "options": [
+                "किशोरावस्था (Adolescence)",
+                "यौवनारंभ (Puberty)",
+                "वृद्धि (Growth)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "यौवनारंभ (Puberty)"
+        },
+        {
+            "id": 28,
+            "question": "ओजोन परत का ह्रास मुख्यतः किसके द्वारा होता है ? (What is the main cause of depletion of ozone layer ?)",
+            "options": [
+                "प्रदूषण (Pollution)",
+                "पीड़कनाशी (Pesticides)",
+                "CFC",
+                "मिथेन (Methane)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "CFC"
+        },
+        {
+            "id": 29,
+            "question": "वोल्ट (V) बराबर होता है (Volt (V) is equal to)",
+            "options": [
+                "C/J",
+                "J/C",
+                "J/A",
+                "A/J"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "J/C"
+        },
+        {
+            "id": 30,
+            "question": "विद्युत आवेश के प्रवाह दर को कहते हैं (The rate of flow of electric charge is called)",
+            "options": [
+                "विद्युत धारा (Electric current)",
+                "विद्युत वाहक बल (Electromotive force)",
+                "विभवांतर (Potential difference)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "विद्युत धारा (Electric current)"
+        },
+        {
+            "id": 31,
+            "question": "निम्नांकित में कौन-सा कथन सत्य है ? (Which of the following statements is true ?)",
+            "options": [
+                "जूल = वोल्ट × ऐम्पियर (joule = volt × ampere)",
+                "जूल = कूलॉम × वोल्ट (joule = coulomb × volt)",
+                "जूल = ऐम्पियर / वोल्ट (joule = ampere / volt)",
+                "जूल = कूलॉम / वोल्ट (joule = coulomb / volt)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "जूल = कूलॉम × वोल्ट (joule = coulomb × volt)"
+        },
+        {
+            "id": 32,
+            "question": "-CHO अभिक्रियाशील समूह को कहते हैं (The functional group - CHO is called)",
+            "options": [
+                "ईथर समूह (ether group)",
+                "कार्बोनिल समूह (carbonyl group)",
+                "ऐल्डिहाइडिक समूह (aldehydic group)",
+                "ऐल्कोहॉलिक समूह (alcoholic group)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "ऐल्डिहाइडिक समूह (aldehydic group)"
+        },
+        {
+            "id": 33,
+            "question": "एथेनॉल को सान्द्र H₂SO₄ के साथ गर्म करने पर निम्नांकित में कौन-सी गैस बनती है ? (Which of the following gases is formed on heating ethanol with concentrated H₂SO₄ ?)",
+            "options": [
+                "CH₄",
+                "C₂H₂",
+                "C₂H₆",
+                "C₂H₄"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "C₂H₄"
+        },
+        {
+            "id": 34,
+            "question": "जिंक ब्लेंड निम्नांकित में किस धातु का अयस्क है ? (Zinc blende is an ore of which of the following metals ?)",
+            "options": [
+                "Hg",
+                "Zn",
+                "Fe",
+                "Al"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "Zn"
+        },
+        {
+            "id": 35,
+            "question": "आवर्त सारणी के किसी आवर्त के तत्वों में कौन सा गुण समान होता है ? (Which property of elements is same in a period of Periodic Table ?)",
+            "options": [
+                "परमाणु भार (Atomic weight)",
+                "परमाणु आयतन (Atomic volume)",
+                "संयोजकता इलेक्ट्रॉन (Valence electron)",
+                "कक्षों की संख्या (No. of shells)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कक्षों की संख्या (No. of shells)"
+        },
+        {
+            "id": 36,
+            "question": "अभिक्रिया, CaO + H₂O → Ca(OH)₂ किस प्रकार की अभिक्रिया है ? (The reaction, CaO + H₂O → Ca(OH)₂ is of which type ?)",
+            "options": [
+                "वियोजन (Dissociation)",
+                "संयोजन (Combination)",
+                "योगशील (Addition)",
+                "प्रतिस्थापन (Substitution)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "संयोजन (Combination)"
+        },
+        {
+            "id": 37,
+            "question": "ओजोन का आणविक सूत्र है (The molecular formula of ozone is)",
+            "options": [
+                "O₄",
+                "O₃",
+                "O₂",
+                "O₅"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "O₃"
+        },
+        {
+            "id": 38,
+            "question": "pH का कौन-सा मान क्षारक विलयन को निरूपित करता है ? (Which value of pH represents alkaline solution ?)",
+            "options": [
+                "2",
+                "7",
+                "13",
+                "6"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "13"
+        },
+        {
+            "id": 39,
+            "question": "जल के एक अणु में हाइड्रोजन एवं ऑक्सीजन के परमाणुओं की संख्या का अनुपात क्या है ? (What is the ratio of number of atoms of hydrogen and oxygen in a molecule of water?)",
+            "options": [
+                "1:1",
+                "2:1",
+                "3:1",
+                "1:2"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "2:1"
+        },
+        {
+            "id": 40,
+            "question": "निम्नांकित संकेतों द्वारा व्यक्त तत्वों में कौन-सा धातु है ? (Which one is a metal in the elements represented by the following symbols ?)",
+            "options": [
+                "⁹₁₉A",
+                "¹²₂₄B",
+                "⁶₁₂C",
+                "⁸₁₆D"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "¹²₂₄B"
+        },
+        {
+            "id": 41,
+            "question": "अम्लीय ऑक्साइड के विलयन का pH मान क्या होगा ? (What would be the pH value of the solution of an acidic oxide ?)",
+            "options": [
+                "12",
+                "7",
+                "8",
+                "4"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "4"
+        },
+        {
+            "id": 42,
+            "question": "सिल्वर आयोडाइड का रंग कैसा होता है ? (What is the colour of silver iodide ?)",
+            "options": [
+                "श्वेत (White)",
+                "पीला (Yellow)",
+                "लाल (Red)",
+                "हरा (Green)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "पीला (Yellow)"
+        },
+        {
+            "id": 43,
+            "question": "श्वसन किस प्रकार की रासायनिक अभिक्रिया है ? (Respiration is which type of chemical reaction?)",
+            "options": [
+                "उपचयन (Oxidation)",
+                "ऊष्माक्षेपी (Exothermic)",
+                "संयोजन (Combination)",
+                "अपचयन (Reduction)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ऊष्माक्षेपी (Exothermic)"
+        },
+        {
+            "id": 44,
+            "question": "आवर्त सारणी के प्रथम आवर्त में तत्वों की संख्या है (The number of elements in the first period of Periodic Table is)",
+            "options": [
+                "2",
+                "8",
+                "18",
+                "32"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "2"
+        },
+        {
+            "id": 45,
+            "question": "निम्नलिखित में किससे इलेक्ट्रॉन को बाहर निकालना सबसे आसान है ? (From which of the following is the removal of electron the easiest ?)",
+            "options": [
+                "M",
+                "M⁺",
+                "M²⁺",
+                "M³⁺"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "M"
+        },
+        {
+            "id": 46,
+            "question": "द्वितीय आवर्त में तत्वों के लिए कौन-सा शेल बाह्यतम शेल है ? (Which shell is the outermost shell for elements of second period ?)",
+            "options": [
+                "K-शेल (K-shell)",
+                "L-शेल (L-shell)",
+                "M-शेल (M-shell)",
+                "N-शेल (N-shell)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "L-शेल (L-shell)"
+        },
+        {
+            "id": 47,
+            "question": "संतृप्त हाइड्रोकार्बन श्रेणी के सदस्यों को कहा जाता है (The members of saturated hydrocarbon series are called)",
+            "options": [
+                "एल्काईन (Alkyne)",
+                "एल्कीन (Alkene)",
+                "एल्केन (Alkane)",
+                "एल्कानोल (Alkanol)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एल्केन (Alkane)"
+        },
+        {
+            "id": 48,
+            "question": "मेंडलीव द्वारा छोड़े गए आवर्त सारणी के रिक्त स्थानों में बाद में निम्नलिखित में कौन-सा तत्व पदस्थापित किया गया ? (Which of the following elements was placed later in the gaps left by Mendeleev in his Periodic Table ?)",
+            "options": [
+                "गैलियम (Gallium)",
+                "ऑक्सीजन (Oxygen)",
+                "फॉस्फोरस (Phosphorus)",
+                "सिलिकन (Silicon)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "गैलियम (Gallium)"
+        },
+        {
+            "id": 49,
+            "question": "आवर्त सारणी के प्रत्येक आवर्त का अंतिम सदस्य होता है (The last member of each period of periodic table is)",
+            "options": [
+                "एक धातु (a metal)",
+                "एक हैलोजन (a halogen)",
+                "एक निष्क्रिय गैस (an inert gas)",
+                "एक उपधातु (a metalloid)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एक निष्क्रिय गैस (an inert gas)"
+        },
+        {
+            "id": 50,
+            "question": "किसी तत्व में दो शेल हैं और दोनों ही इलेक्ट्रॉनों से पूर्णतः भरे हुए हैं। वह तत्व है (An element has two shells and both are completely filled with electrons. The element is)",
+            "options": [
+                "नियॉन (Neon)",
+                "आर्गन (Argon)",
+                "क्लोरीन (Chlorine)",
+                "सोडियम (Sodium)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "नियॉन (Neon)"
+        }
+    ]
+}

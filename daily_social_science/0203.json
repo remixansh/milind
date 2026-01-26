@@ -1,0 +1,658 @@
+{
+    "date": "0203",
+    "dateDisplay": "03 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "ग्राम कचहरी का प्रधान कौन होता है ? (Who is the head of the village court?)",
+            "options": [
+                "सरपंच (Sarpanch)",
+                "जिला मजिस्ट्रेट (District Magistrate)",
+                "न्याय मित्र (Nyaya Mitra)",
+                "मुखिया (Mukhiya)"
+            ],
+            "correct": 0,
+            "year": 2025,
+            "correctAnswer": "सरपंच (Sarpanch)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से किस देश में एकात्मक शासन व्यवस्था है ? (Which of the following countries has a Unitary Government system ?)",
+            "options": [
+                "ग्रेट ब्रिटेन (Great Britain)",
+                "फ्रांस (France)",
+                "चीन (China)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 3,
+            "question": "निम्न में से कौन दबाव समूह नहीं है ? (Which of the following is not a pressure group ?)",
+            "options": [
+                "अखिल भारतीय विद्यार्थी परिषद् (Akhil Bharatiya Vidyarthi Parishad (ABVP))",
+                "ऑल इण्डिया ट्रेड यून्टिन कांग्रेस (All India Trade Union Congress)",
+                "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
+                "राष्ट्रीय स्वयं सेवक संघ (Rashtriya Swayamsevak Sangh)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)"
+        },
+        {
+            "id": 4,
+            "question": "बिजू जनता दल किस राज्य से संबंधित है ? (Biju Janata Dal belongs to which state?)",
+            "options": [
+                "बिहार (Bihar)",
+                "झारखड (Jharkhand)",
+                "ओडिशा (Odisha)",
+                "छनीसगढ़ (Chhattisgarh)"
+            ],
+            "correct": 2,
+            "year": 2025,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 5,
+            "question": "भारत में प्रथम जल विद्युत संयंत्र की स्थापना कहाँ की गई थी ? (Where was the first hydropower plant established in India?)",
+            "options": [
+                "गंगटोक (Gangtok)",
+                "दार्जिलिंग (Darjeeling)",
+                "डिब्रुगढ़ (Dibrugarh)",
+                "कलकत्ता (Calcutta)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "दार्जिलिंग (Darjeeling)"
+        },
+        {
+            "id": 6,
+            "question": "गुजरात का कच्छ प्रदेश किस भूकंपीय जोन में आंता है ? (Kutch region of Gujarat falls in which seismic zone ?)",
+            "options": [
+                "जोन-II (Zone-II)",
+                "जोन-III (Zone-III)",
+                "जोन-IV (Zone-IV)",
+                "जोन-V (Zone-V)"
+            ],
+            "correct": 3,
+            "year": 2025,
+            "correctAnswer": "जोन-V (Zone-V)"
+        },
+        {
+            "id": 7,
+            "question": "भारत की सबसे बड़ी कृत्रिम झील कौन है ? (Which is the largest artificial lake in India?)",
+            "options": [
+                "गोविंद सागर (Govind Sagar)",
+                "पंत सागर (Pant Sagar)",
+                "सरदार सरोवर (Sardar Sarovar)",
+                "कृष्णा सागर (Krishna Sagar)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "पंत सागर (Pant Sagar)"
+        },
+        {
+            "id": 8,
+            "question": "गंगा मैदान की पुरानी जलोढ मृदा क्या कहलाती है ? (What is the old alluvial soil of Ganga plain called ?)",
+            "options": [
+                "खादर (Khadar)",
+                "बांगर (Bhangar)",
+                "रेगुर (Regur)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2025,
+            "correctAnswer": "बांगर (Bhangar)"
+        },
+        {
+            "id": 9,
+            "question": "कौन-सी नदी 'बंगाल के शोक' के रूप में जानी जाती है ? (Which river is known as the 'Sorrow of Bengal' ?)",
+            "options": [
+                "कोसी (Kosi)",
+                "गंगा (Ganga)",
+                "दामोदर (Damodar)",
+                "गंडक (Gandak)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "दामोदर (Damodar)"
+        },
+        {
+            "id": 10,
+            "question": "महासागर तल के कम्पन का सम्बन्ध है (The tremor of the ocean bottom is related to)",
+            "options": [
+                "चक्रवात से (Cyclone)",
+                "सुनामी से (Tsunami)",
+                "ज्वार से (Tide)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सुनामी से (Tsunami)"
+        },
+        {
+            "id": 11,
+            "question": "मेघालय किस राज्य को काट कर बनाया गया ? (From which state was Meghalaya carved out ?)",
+            "options": [
+                "मणिपुर (Manipur)",
+                "त्रिपुरा (Tripura)",
+                "अरुणाचल प्रदेश (Arunachal Pradesh)",
+                "असम (Assam)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "असम (Assam)"
+        },
+        {
+            "id": 12,
+            "question": "समवर्ती सूची के विषयों पर कानून बनाने का अधिकार किसे प्राप्त है ? (Who has the right to make laws on the subjects of the concurrent list?)",
+            "options": [
+                "राज्य को (State)",
+                "संघ को (Union)",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "(A) और (B) दोनों (Both (A) and (B))"
+        },
+        {
+            "id": 13,
+            "question": "ग्राम कचहरी का प्रधान कौन होता है ? (Who is the head of village court?)",
+            "options": [
+                "पंच (Panch)",
+                "सरपंच (Sarpanch)",
+                "मेयर (Mayor)",
+                "न्यायमित्र (Nyaya Mitra)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "पंच (Panch)"
+        },
+        {
+            "id": 14,
+            "question": "जनमत पर आधारित शासन है (The government based on public opinion is)",
+            "options": [
+                "राजतंत्र (Monarchy)",
+                "तानाशाही (Dictatorship)",
+                "लोकतंत्र (Democracy)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "लोकतंत्र (Democracy)"
+        },
+        {
+            "id": 15,
+            "question": "सरपंच का निर्वाचन कौन करता है ? (Who elects the Sarpanch ?)",
+            "options": [
+                "ग्राम सभा के सदस्य (Members of Gram Sabha)",
+                "राज्य सरकार (State Government)",
+                "मुखिया और पंच (Mukhiya and Panch)",
+                "पंच (Panch)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ग्राम सभा के सदस्य (Members of Gram Sabha)"
+        },
+        {
+            "id": 16,
+            "question": "सप्तदलीय गठबंधन कहाँ बना ? (Where was the seven-party alliance formed ?)",
+            "options": [
+                "भारत (India)",
+                "पाकिस्तान (Pakistan)",
+                "म्यांमार (Myanmar)",
+                "नेपाल (Nepal)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "नेपाल (Nepal)"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में से कौन अजैविक संसाधन है ? (Which of the following is an abiotic resource ?)",
+            "options": [
+                "मानव (Human)",
+                "पक्षी (Bird)",
+                "नदी (River)",
+                "पेड़ (Tree)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "नदी (River)"
+        },
+        {
+            "id": 18,
+            "question": "रेगुर किसे कहते हैं ? (What is regur called ?)",
+            "options": [
+                "लाल मिट्टी (Red soil)",
+                "काली मिट्टी (Black soil)",
+                "जलोढ़ मिट्टी (Alluvial soil)",
+                "लैटेराइट मिट्टी (Laterite soil)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "काली मिट्टी (Black soil)"
+        },
+        {
+            "id": 19,
+            "question": "शरावती नदीघाटी परियोजना कहाँ अवस्थित है ? (Where is the Sharavati River Valley Project located?)",
+            "options": [
+                "बिहार (Bihar)",
+                "कर्नाटक (Karnataka)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "तमिलनाडु (Tamil Nadu)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "कर्नाटक (Karnataka)"
+        },
+        {
+            "id": 20,
+            "question": "भारत का कितना प्रतिशत भाग वनों से ढका है ? (What percentage of India is covered by forest?)",
+            "options": [
+                "21-25%",
+                "24-62%",
+                "33%",
+                "18%"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "24-62%"
+        },
+        {
+            "id": 21,
+            "question": "नहरकटिया तेल क्षेत्र कहाँ स्थित है ? (Where is Naharkatia oil field located?)",
+            "options": [
+                "अरुणाचल प्रदेश (Arunachal Pradesh)",
+                "असम (Assam)",
+                "नागालैण्ड (Nagaland)",
+                "त्रिपुरा (Tripura)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "असम (Assam)"
+        },
+        {
+            "id": 22,
+            "question": "प्रथम राष्ट्रीय जल नीति कब अपनाई गई थी ? (When was the first National Water Policy adopted ?)",
+            "options": [
+                "1975",
+                "1982",
+                "1987",
+                "2002"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "1987"
+        },
+        {
+            "id": 23,
+            "question": "बिहार में किस वर्ष सबसे भयंकर भूकम्प आया ? (In which year did the most severe earthquake occur in Bihar?)",
+            "options": [
+                "1931",
+                "1932",
+                "1933",
+                "1934"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "1934"
+        },
+        {
+            "id": 24,
+            "question": "निम्न में से कहाँ तापविद्युत उत्पादन केन्द्र स्थित है ? (Where among the following is the thermal power generation plant located?)",
+            "options": [
+                "बरौनी (Barauni)",
+                "कहलगांव (Kahalgaon)",
+                "काँटी (Kanti)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 25,
+            "question": "कौन-सी आर्थिक क्रिया ग्रामीण क्षेत्रों में प्रमुख है ? (Which economic activity is predominant in rural areas ?)",
+            "options": [
+                "प्राथमिक (Primary)",
+                "द्वितीयक (Secondary)",
+                "तृतीयक (Tertiary)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "प्राथमिक (Primary)"
+        },
+        {
+            "id": 26,
+            "question": "वैश्वीकरण की नीति से किस क्षेत्र को सबसे कम लाभ हुआ है ? (Which sector has benefitted the least by the policy of globalization?)",
+            "options": [
+                "कृषि (Agriculture)",
+                "सेवा (Service)",
+                "विनिर्माण (Manufacturing)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "कृषि (Agriculture)"
+        },
+        {
+            "id": 27,
+            "question": "दिनार किस देश की मुद्रा है ? (Dinar is the currency of which country?)",
+            "options": [
+                "ईरान (Iran)",
+                "इराक (Iraq)",
+                "सऊदी अरब (Saudi Arabia)",
+                "अफगानिस्तान (Afghanistan)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "इराक (Iraq)"
+        },
+        {
+            "id": 28,
+            "question": "ग्यारहवीं पंचवर्षीय योजना की अवधि क्या है ? (What is the duration of eleventh five-year plan?)",
+            "options": [
+                "1996-2002",
+                "2002-2007",
+                "2007-2012",
+                "2012-2017"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "2007-2012"
+        },
+        {
+            "id": 29,
+            "question": "गैस और बिजली उत्पादन को किस क्षेत्र में रखते हैं ? (Gas and electricity productions are placed in which sector?)",
+            "options": [
+                "प्राथमिक क्षेत्र (Primary sector)",
+                "द्वितीयक क्षेत्र (Secondary sector)",
+                "तृतीयक क्षेत्र (Tertiary sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "द्वितीयक क्षेत्र (Secondary sector)"
+        },
+        {
+            "id": 30,
+            "question": "आर्थिक विकास की जिस प्रक्रिया से समाज के सभी वर्गों का जीवन स्तर ऊँचा हो जाए, कहलाती है (The process of economic development which raises the standard of living of all the sections of the society is called)",
+            "options": [
+                "सतत् विकास (Sustainable Development)",
+                "समावेशी विकास (Inclusive Development)",
+                "आर्थिक विकास (Economic Growth)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "समावेशी विकास (Inclusive Development)"
+        },
+        {
+            "id": 31,
+            "question": "भारत की पहली मानव विकास रिपोर्ट किसने तैयार की ? (Who prepared India's first Human Development Report ?)",
+            "options": [
+                "योजना आयोग (Planning Commission)",
+                "राष्ट्रीय विकास परिषद (National Development Council)",
+                "विश्व बैंक (World Bank)",
+                "संयुक्त राष्ट्र विकास कार्यक्रम (United Nations Development Programme (UNDP))"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "योजना आयोग (Planning Commission)"
+        },
+        {
+            "id": 32,
+            "question": "द्वितीयक क्षेत्र को ___ नाम से भी जाना जाता है । (The secondary sector is also known as ___)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "औद्योगिक क्षेत्र (Industrial sector)",
+                "सेवा क्षेत्र (Service sector)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "औद्योगिक क्षेत्र (Industrial sector)"
+        },
+        {
+            "id": 33,
+            "question": "सार्डिनिया का राजा कौन था ? (Who was the king of Sardinia ?)",
+            "options": [
+                "विक्टर इमैनुएल (Victor Emmanuel)",
+                "नेपोलियन (Napoleon)",
+                "चार्ल्स X (Charles X)",
+                "इनमें से कोई नहीं (None of them)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "विक्टर इमैनुएल (Victor Emmanuel)"
+        },
+        {
+            "id": 34,
+            "question": "1919 में थर्ड इंटरनेशनल की स्थापना किसने की ? (Who founded the Third International in 1919?)",
+            "options": [
+                "कार्ल मार्क्स ने (Karl Marx)",
+                "लेनिन ने (Lenin)",
+                "फ्रेडरिक एंगेल्स (Friedrich Engels)",
+                "राबर्ट ओवन (Robert Owen)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "लेनिन ने (Lenin)"
+        },
+        {
+            "id": 35,
+            "question": "इटली के एकीकरण का प्रमुख नायक कौन था ? (Who was the chief hero of the unification of Italy ?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "काबूर (Cavour)",
+                "गैरीबाल्डी (Garibaldi)",
+                "इनमें से सभी (All of them)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of them)"
+        },
+        {
+            "id": 36,
+            "question": "1917 की पहली रूसी क्रांति किस नाम से जानी जाती है ? (By what name is the first Russian Revolution of 1917 known ?)",
+            "options": [
+                "अक्टूबर क्रांति (October Revolution)",
+                "मार्च क्रांति (March Revolution)",
+                "फरवरी क्रांति (February Revolution)",
+                "नवम्बर क्रांति (November Revolution)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "फरवरी क्रांति (February Revolution)"
+        },
+        {
+            "id": 37,
+            "question": "निम्न में से कौन उदारवादी नेता नहीं हैं ? (Which of the following is not a liberal leader ?)",
+            "options": [
+                "दादाभाई नौरोजी (Dadabhai Naoroji)",
+                "फिरोजशाह मेहता (Firoj Shah Mehta)",
+                "बिपिन चंद्र पाल (Bipin Chandra Pal)",
+                "सुरेंद्रनाथ बनर्जी (Surendranath Bannerjee)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बिपिन चंद्र पाल (Bipin Chandra Pal)"
+        },
+        {
+            "id": 38,
+            "question": "निम्नलिखित में से किसने पहली बार मुसलमानों के लिए अलग निर्वाचन का प्रस्ताव रखा ? (Which of the following proposed separate electorate for Muslims for the first time?)",
+            "options": [
+                "साइमन कमीशन (Simon Commission)",
+                "मॉर्ले-मिंटो सुधार (Morley-Minto Reforms)",
+                "दिल्ली समझौता (Delhi Pact)",
+                "मोंटेग्यू-चेम्सफोर्ड रिपोर्ट (Montague-Chelmsford Report)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "मॉर्ले-मिंटो सुधार (Morley-Minto Reforms)"
+        },
+        {
+            "id": 39,
+            "question": "भारत में पहली कपड़ा मिल कहाँ स्थापित की गई ? (Where was the first textile mill established in India ?)",
+            "options": [
+                "गुजरात (Gujarat)",
+                "आंध्र प्रदेश (Andhra Pradesh)",
+                "महाराष्ट्र (Maharashtra)",
+                "उत्तर प्रदेश (Uttar Pradesh)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "महाराष्ट्र (Maharashtra)"
+        },
+        {
+            "id": 40,
+            "question": "'कॉर्न लॉ' किस देश में पारित किया गया था ? (In which country was the 'corn law' passed ?)",
+            "options": [
+                "ब्रिटेन में (Britain)",
+                "रूस में (Russia)",
+                "जर्मनी में (Germany)",
+                "फ्रांस में (France)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ब्रिटेन में (Britain)"
+        },
+        {
+            "id": 41,
+            "question": "कोपरा (COPRA) क्या है ? (What is COPRA?)",
+            "options": [
+                "सूचना का अधिकार कानून (Right to information Act)",
+                "उपभोक्ता संरक्षण अधिनियम (Consumer Protection Act)",
+                "मानव विकास सूचकांक (Human Development Index)",
+                "उपभोक्ता अधिकार दिवस (Consumer Right Day)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "उपभोक्ता संरक्षण अधिनियम (Consumer Protection Act)"
+        },
+        {
+            "id": 42,
+            "question": "भूमि विकास बैंक को पहले किस नाम से जाना जाता था ? (By what name was the Land Development Bank earlier known?)",
+            "options": [
+                "क्षेत्रीय ग्रामीण बैंक (Regional Rural Bank)",
+                "सहकारी बैंक (Cooperative Bank)",
+                "भूमि बंधक बैंक (Land Mortgage Bank)",
+                "नाबार्ड (NABARD)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "भूमि बंधक बैंक (Land Mortgage Bank)"
+        },
+        {
+            "id": 43,
+            "question": "भारत में रेलवे की शुरुआत किसके शासनकाल के दौरान हुई ? (Railways were started in India during whose reign ?)",
+            "options": [
+                "लॉर्ड डलहौजी (Lord Dalhousic)",
+                "लॉर्ड लिटन (Lord Lytton)",
+                "लॉर्ड कार्नवालिस (Lord Cornwallis)",
+                "लॉर्ड मिंटो (Lord Minto)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "लॉर्ड डलहौजी (Lord Dalhousic)"
+        },
+        {
+            "id": 44,
+            "question": "लुई सोलहवें को फाँसी कब दी गई ? (When was Louis Sixteen hanged?)",
+            "options": [
+                "1748",
+                "1793",
+                "1798",
+                "1854"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1793"
+        },
+        {
+            "id": 45,
+            "question": "नई आर्थिक नीति किसने लागू की ? (Who implemented the New Economic Policy (NEP) ?)",
+            "options": [
+                "लेनिन (Lenin)",
+                "मेटरनिख (Metternich)",
+                "बिस्मार्क (Bismarck)",
+                "स्टालिन (Stalin)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 46,
+            "question": "लेनिन का उत्तराधिकारी कौन बना ? (Who succeeded Lenin?)",
+            "options": [
+                "मेजिनी (Mazzini)",
+                "स्टालिन (Stalin)",
+                "ट्रॉट्स्की (Trotsky)",
+                "केरेन्सकी (Kerensky)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "स्टालिन (Stalin)"
+        },
+        {
+            "id": 47,
+            "question": "पोट्सडम की घोषणा के बाद किसने आत्मसमर्पण किया ? (Who surrendered after the declaration of Potsdam?)",
+            "options": [
+                "फ्रांस (France)",
+                "जापान (Japan)",
+                "वियतनाम (Vietnam)",
+                "भारत (India)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जापान (Japan)"
+        },
+        {
+            "id": 48,
+            "question": "स्वराज दल के प्रथम अध्यक्ष कौन थे ? (Who was the first President of Swaraj Dal ?)",
+            "options": [
+                "मोतीलाल नेहरू (Motilal Nehru)",
+                "चित्तरंजन दास (Chitta Ranjan Das)",
+                "मदन मोहन मालवीय (Madan Mohan Malaviya)",
+                "मानवेन्द्र नाथ राय (Manavendra Nath Roy)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "चित्तरंजन दास (Chitta Ranjan Das)"
+        },
+        {
+            "id": 49,
+            "question": "इंदिरा गाँधी नहर किस राज्य में स्थित है ? (In which state is the Indira Gandhi canal located?)",
+            "options": [
+                "केरल (Kerala)",
+                "महाराष्ट्र (Maharashtra)",
+                "राजस्थान (Rajasthan)",
+                "बिहार (Bihar)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 50,
+            "question": "रोहिला राष्ट्रीय उद्यान कहाँ है ? (Where is Rohila National Park ?)",
+            "options": [
+                "पश्चिम बंगाल (West Bengal)",
+                "हिमाचल प्रदेश (Himachal Pradesh)",
+                "तमिलनाडु (Tamil Nadu)",
+                "असम (Assam)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "हिमाचल प्रदेश (Himachal Pradesh)"
+        }
+    ]
+}

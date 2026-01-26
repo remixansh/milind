@@ -1,0 +1,658 @@
+{
+    "date": "0127",
+    "dateDisplay": "27 January 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "स्टोमाटा के खुलने और बंद होने की क्रिया को कौन नियंत्रित करता है ? (Opening and closing of stomata is controlled by)",
+            "options": [
+                "द्वार कोशिकाएँ (guard cells)",
+                "सहचर कोशिकाएँ (companion cells)",
+                "चालनी कोशिकाएं (sieve tubes)",
+                "मूल रोम (root hair)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "द्वार कोशिकाएँ (guard cells)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से कौन वृक्क की रचनात्मक एवं क्रियात्मक इकाई है ? (Which one of the following is structural and functional unit of kidney?)",
+            "options": [
+                "न्यूरॉन (Neuron)",
+                "नेफ्रॉन (Nephron)",
+                "ग्लोमेरुलस (Glomerulus)",
+                "निलय (Ventricle)"
+            ],
+            "correct": 1,
+            "year": 2020,
+            "correctAnswer": "नेफ्रॉन (Nephron)"
+        },
+        {
+            "id": 3,
+            "question": "अम्ल का pH मान होता है (The pH value of an acid is)",
+            "options": [
+                "7 से कम (less than 7)",
+                "7 से अधिक (more than 7)",
+                "7",
+                "14"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "7 से कम (less than 7)"
+        },
+        {
+            "id": 4,
+            "question": "मधुमक्खी का डंक एक अम्ल छोड़ता है, जिसके कारण दर्द एवं जलन का अनुभव होता है। यह अम्ल है (Bee-sting leaves an acid which causes pain and irritation. The acid is)",
+            "options": [
+                "मेथेनॉइक अम्ल (Methanoic acid)",
+                "इथेनॉइक अम्ल (Ethanoic acid)",
+                "सिट्रिक अम्ल (Citric acid)",
+                "ऑक्जेलिक अम्ल (Oxalic acid)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "मेथेनॉइक अम्ल (Methanoic acid)"
+        },
+        {
+            "id": 5,
+            "question": "किस प्रकार के श्वसन से अधिक ऊर्जा मुक्त होती है ? (Which type of respiration releases more energy?)",
+            "options": [
+                "वायवीय (Aerobic)",
+                "अवायवीय (Anaerobic)",
+                "(A) एवं (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "वायवीय (Aerobic)"
+        },
+        {
+            "id": 6,
+            "question": "सोडियम की परमाणु संख्या है (The atomic number of sodium is)",
+            "options": [
+                "11",
+                "14",
+                "17",
+                "20"
+            ],
+            "correct": 0,
+            "year": 2020,
+            "correctAnswer": "11"
+        },
+        {
+            "id": 7,
+            "question": "प्रकाश संश्लेषण की क्रिया होती है (Photosynthesis takes place in)",
+            "options": [
+                "कवकों में (Fungi)",
+                "जंतुओं में (Animals)",
+                "हरे पौधों में (Green plants)",
+                "परजीवियों में (Parasites)"
+            ],
+            "correct": 2,
+            "year": 2020,
+            "correctAnswer": "हरे पौधों में (Green plants)"
+        },
+        {
+            "id": 8,
+            "question": "टिंडल प्रभाव प्रकाश की कौन सी परिघटना को प्रदर्शित करता है? (Which phenomenon of light does the Tyndall effect show?)",
+            "options": [
+                "प्रकाश का परावर्तन (Reflection of light)",
+                "प्रकाश का अपवर्तन (Refraction of light)",
+                "प्रकाश का विक्षेपण (Dispersion of light)",
+                "प्रकाश का प्रकीर्णन (Scattering of light)"
+            ],
+            "correct": 3,
+            "year": 2019,
+            "correctAnswer": "प्रकाश का प्रकीर्णन (Scattering of light)"
+        },
+        {
+            "id": 9,
+            "question": "हाइड्रोजन के दो परमाणुओं के बीच कितने आबंध बनते हैं? (How many bonds are formed between two atoms of hydrogen?)",
+            "options": [
+                "एक आबंध (Single bond)",
+                "द्वि - आबंध (Double bond)",
+                "त्रि - आबंध (Triple bond)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "एक आबंध (Single bond)"
+        },
+        {
+            "id": 10,
+            "question": "निम्न में से कौन आहार श्रृंखला का निर्माण करता है? (Which of the following constitutes a food chain?)",
+            "options": [
+                "घास, गेहूँ तथा आम (Grass, wheat and mango)",
+                "घास, बकरी तथा मानव (Grass, goat and human)",
+                "बकरी, गाय तथा हाथी (Goat, cow and elephant)",
+                "घास, मछली तथा बकरी (Grass, fish and goat)"
+            ],
+            "correct": 1,
+            "year": 2019,
+            "correctAnswer": "घास, बकरी तथा मानव (Grass, goat and human)"
+        },
+        {
+            "id": 11,
+            "question": "निम्नांकित में से कौन पुनरुद्भवन का उदाहरण है? (Which of the following is an example of regeneration?)",
+            "options": [
+                "हाइड्रा (Hydra)",
+                "अमीबा (Amoeba)",
+                "स्पाइरोगाइरा (Spirogyra)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "हाइड्रा (Hydra)"
+        },
+        {
+            "id": 12,
+            "question": "कौन सा हाइड्रोकार्बन सबसे सरल यौगिक है? (Which hydrocarbon is the simplest compound?)",
+            "options": [
+                "मीथेन (Methane)",
+                "इथेन (Ethane)",
+                "प्रोपेन (Propane)",
+                "ब्यूटेन (Butane)"
+            ],
+            "correct": 0,
+            "year": 2019,
+            "correctAnswer": "मीथेन (Methane)"
+        },
+        {
+            "id": 13,
+            "question": "दंत विशेषज्ञ किस दर्पण का उपयोग मरीजों के दाँतों का बड़ा प्रतिबिंब देखने के लिए करता है? (Which mirror do the dentists use to use large images of the teeth of patients?)",
+            "options": [
+                "समतल दपर्ण (Plane Mirror)",
+                "अवतल दर्पण (Concave Mirror)",
+                "उत्तल दपर्ण (Convex Mirror)",
+                "इनमें सभी (All of these)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "अवतल दर्पण (Concave Mirror)"
+        },
+        {
+            "id": 14,
+            "question": "कौन सा लेंस अपसारी लेंस भी कहलाता है? (Which lens is also called diverging lens?)",
+            "options": [
+                "अवतल लेंस (Concave lens)",
+                "उत्तल लेंस (Convex lens)",
+                "अवतल एवं उत्तल लेंस दोनों (Both the concave and convex lens)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "अवतल लेंस (Concave lens)"
+        },
+        {
+            "id": 15,
+            "question": "पुतली के साइज को कौन नियंत्रित करता है? (Who controls pupil's size?)",
+            "options": [
+                "पक्ष्माभी (Ciliary muscles)",
+                "परितारिका (Iris)",
+                "नेत्र लेंस (Eye lens)",
+                "रेटिना (दृष्टि पटल) (Retina)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "परितारिका (Iris)"
+        },
+        {
+            "id": 16,
+            "question": "किस दृष्टि दोष को अवतल और उत्तल दोनों लेंसों से बने द्विफोकसी लेंस द्वारा संशोधित किया जा सकता है? (Which eye defect can be corrected by using 'bi-focal lens' consisting of both concave and convex lens?)",
+            "options": [
+                "निकट दृष्टि दोष (Myopia)",
+                "दीर्घ-दृष्टि दोष (Hypermetropia)",
+                "जरा दूर दृष्टिता (Presbyopia)",
+                "मोतियाबिंद (Cataract)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "जरा दूर दृष्टिता (Presbyopia)"
+        },
+        {
+            "id": 17,
+            "question": "निम्नलिखित में से कौन विद्युत विभवान्तर का SI मात्रक है? (Which of the following is SI unit of electric potential difference?)",
+            "options": [
+                "वोल्ट (Volt)",
+                "ओम (Ohm)",
+                "वोल्ट प्रति कूलॉम (Volt per Coulomb)",
+                "ऐम्पियर (Ampere)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "वोल्ट (Volt)"
+        },
+        {
+            "id": 18,
+            "question": "पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा कण) किसी चुबंकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है। चुबंकीय क्षेत्र की दिशा क्या है? (A positively charged particle (alpha - particle) projected towards west is deflected towards north by a magnetic field. The direction of the magnetic field is:)",
+            "options": [
+                "दक्षिण की ओर (towards south)",
+                "पूर्व की ओर (towards east)",
+                "अधोमुखी (downward)",
+                "उपरिमुखी (upward)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "उपरिमुखी (upward)"
+        },
+        {
+            "id": 19,
+            "question": "सौर कुकर के लिए कौन सा दर्पण सर्वाधिक उपयुक्त होता है? (What kind of mirror would be most suited for a solar cooker?)",
+            "options": [
+                "समतल दर्पण (Plane mirror)",
+                "उत्तल दर्पण (Convex mirror)",
+                "अवतल दर्पण (Concave mirror)",
+                "इनमें सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+            "id": 20,
+            "question": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है? (Which of the following solutions is used for white washing walls?)",
+            "options": [
+                "Ca(HCO₃)₂",
+                "Ca(OH)₂",
+                "Na(OH)",
+                "Na(HCO₃)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "Ca(OH)₂"
+        },
+        {
+            "id": 21,
+            "question": "विद्युत अपघटनी परिष्करण में अशुद्ध धातु को बनाया जाता है (In electrolytic refining, impure metal is taken as:)",
+            "options": [
+                "एनोड (Anode)",
+                "कैथोड (Cathode)",
+                "अपघट्य (Electrolyte)",
+                "इनमें सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "एनोड (Anode)"
+        },
+        {
+            "id": 22,
+            "question": "निम्नलिखित में कौन सा आयन लाल लिटमस विलयन को नीला कर सकता है? (Which of the following ions can turn red litmus solution blue?)",
+            "options": [
+                "H⁺",
+                "OH⁻",
+                "Cl⁻",
+                "O²⁻"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "OH⁻"
+        },
+        {
+            "id": 23,
+            "question": "पत्तियों में गैसों का आदान-प्रदान कहाँ होता है? (Where does the exchange of gases take place in leaves?)",
+            "options": [
+                "शिरा (vein)",
+                "रंध्र (stomata)",
+                "मध्यशिरा (mid rib)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "रंध्र (stomata)"
+        },
+        {
+            "id": 24,
+            "question": "कौन सा पादप हार्मोन पत्तियों के मुरझाने के लिए उत्तरदायी है? (Which plant hormone is responsible for wilting of leaves?)",
+            "options": [
+                "ऑक्सीन (auxin)",
+                "साइटोकाइनिन (cytokinin)",
+                "एब्सिसिक अम्ल (abscisic acid)",
+                "जिब्बेरेलिन (gibberellin)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "एब्सिसिक अम्ल (abscisic acid)"
+        },
+        {
+            "id": 25,
+            "question": "निम्नलिखित कौन सी अनैच्छिक क्रिया नहीं है? (Which of the following is not an involuntary action?)",
+            "options": [
+                "वमन (Vomiting)",
+                "चबाना (Chewing)",
+                "लार आना (Salivation)",
+                "हृदय का धड़कना (Heart beat)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "चबाना (Chewing)"
+        },
+        {
+            "id": 26,
+            "question": "गोलीय दर्पण के परावर्तक पृष्ठ की वृत्ताकार सीमा रेखा का व्यास कहलाता है (The diameter of a circular outline of the reflecting surface of spherical mirror is called -)",
+            "options": [
+                "मुख्य फोकस (Principal focus)",
+                "वक्रता त्रिज्या (Radius of curvature)",
+                "प्रधान अक्ष (Principal axis)",
+                "गोलीय दर्पण का द्वारक (Aperture)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "गोलीय दर्पण का द्वारक (Aperture)"
+        },
+        {
+            "id": 27,
+            "question": "निम्नलिखित में से कौन उत्तल दर्पण की फोकस दूरी है जिसकी वक्रता त्रिज्या 32cm है? (Which one of the following is focal length of the convex mirror whose radius of curvature is 32cm?)",
+            "options": [
+                "+8cm",
+                "-8cm",
+                "+16 cm",
+                "-16cm"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "+16 cm"
+        },
+        {
+            "id": 28,
+            "question": "यदि किसी बिंब का प्रतिबिम्ब का आवर्द्धन ऋणात्मक है तो उस प्रतिबिम्ब की प्रकृति क्या होगी? (What will be the nature of the image of an object, if magnification of the image is negative?)",
+            "options": [
+                "वास्तविक और उल्टा (Real and inverted)",
+                "वास्तविक और सीधा (Real and erect)",
+                "आभासी और सीधा (Virtual and erect)",
+                "आभासी और उल्टा (Virtual and inverted)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "वास्तविक और उल्टा (Real and inverted)"
+        },
+        {
+            "id": 29,
+            "question": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन होता है - (Most of the refraction for the light rays entering the eye occurs at -)",
+            "options": [
+                "नेत्रोद अंतर पृष्ठ पर (Interface of aqueous humour)",
+                "अभिनेत्र के अंतरपृष्ठ पर (Interface of eye lens)",
+                "कॉर्निया के बाहरी पृष्ठ पर (Outer surface of cornea)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "कॉर्निया के बाहरी पृष्ठ पर (Outer surface of cornea)"
+        },
+        {
+            "id": 30,
+            "question": "जब सूर्य का प्रकाश वायुमंडल से गुजरता है, तो वायु के सूक्ष्म कण किस रंग के प्रकाश को अधिक प्रबलता से प्रकीर्ण करते हैं? (When sunlight passes through the atmosphere, which colour of light gets scattered strongly by the fine particles in air?)",
+            "options": [
+                "लाल (Red)",
+                "नारंगी (Orange)",
+                "हरा (Green)",
+                "नीला (Blue)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "नीला (Blue)"
+        },
+        {
+            "id": 31,
+            "question": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति है - (In India, the frequency of produced alternating current is -)",
+            "options": [
+                "50 Hz",
+                "60 Hz",
+                "70 Hz",
+                "80 Hz"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "50 Hz"
+        },
+        {
+            "id": 32,
+            "question": "किसी वोल्टमीटर के स्केल पर 0V और 1V के बीच 20 विभाजन चिह्न है, तो उस वोल्टमीटर का अल्प मापांक (Least count) है (There are 20 divisions between 0V and 1V on the scale of a voltmeter. The least count of the voltmeter is -)",
+            "options": [
+                "0.5V",
+                "0.05V",
+                "0.005V",
+                "0.0005V"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "0.05V"
+        },
+        {
+            "id": 33,
+            "question": "एक माइक्रो एम्पीयर विद्युत धारा निम्नलिखित में कौन सी है? (Which one of the following is one micro ampere of electric current?)",
+            "options": [
+                "10⁻⁴ A",
+                "10⁻⁵ A",
+                "10⁻⁶ A",
+                "10⁻⁷ A"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "10⁻⁶ A"
+        },
+        {
+            "id": 34,
+            "question": "किसी छड़ चुम्बक के अंदर चुम्बकीय क्षेत्र रेखाओं की दिशा क्या होती है? (What is the direction of magnetic field lines inside a bar magnet?)",
+            "options": [
+                "उत्तर ध्रुव से दक्षिण ध्रुव (from North to South pole)",
+                "दक्षिण ध्रुव से उत्तर ध्रुव (from South pole to North pole)",
+                "उत्तर ध्रुव से पश्चिमी ध्रुव (from North pole to Western pole)",
+                "दक्षिण ध्रुव से पश्चिमी ध्रुव (from South pole to Western pole)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "दक्षिण ध्रुव से उत्तर ध्रुव (from South pole to North pole)"
+        },
+        {
+            "id": 35,
+            "question": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है- (In domestic electric circuit, the colour of neutral wire is -)",
+            "options": [
+                "लाल (Red)",
+                "हरा (Green)",
+                "काला (Black)",
+                "पीला (Yellow)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "काला (Black)"
+        },
+        {
+            "id": 36,
+            "question": "किस युक्ति में विभक्त वलय दिक परिवर्तन का कार्य करता है? (In which device, the split ring acts as commutator?)",
+            "options": [
+                "विद्युत जनित्र (Electric generator)",
+                "विद्युत मोटर (Electric motor)",
+                "गैल्वेनोमीटर (Galvanometer)",
+                "वोल्टमीटर (Volt meter)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "विद्युत मोटर (Electric motor)"
+        },
+        {
+            "id": 37,
+            "question": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत ऊर्जा में रूपांतरित करता है? (Which energy does a hydro electric power plant convert into electric energy?)",
+            "options": [
+                "तापीय ऊर्जा (Thermal energy)",
+                "नाभिकीय ऊर्जा (Nuclear energy)",
+                "सौर ऊर्जा (Solar energy)",
+                "स्थितिज ऊर्जा (Potential energy)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "स्थितिज ऊर्जा (Potential energy)"
+        },
+        {
+            "id": 38,
+            "question": "नरौरा नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है? (In which State, Narora nuclear power reactor is situated?)",
+            "options": [
+                "राजस्थान (Rajasthan)",
+                "महाराष्ट्र (Maharashtra)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "उत्तर प्रदेश (Uttar Pradesh)"
+        },
+        {
+            "id": 39,
+            "question": "Zn + CuSO₄ → ZnSO₄ + Cu ऊपर दी गयी रासायनिक अभिक्रिया किस प्रकार की है? (Zn + CuSO₄ → ZnSO₄ + Cu The above reaction is an example of a -)",
+            "options": [
+                "संयोजन अभिक्रिया (Combination reaction)",
+                "विस्थापन अभिक्रिया (Displacement reaction)",
+                "द्विविस्थापन अभिक्रिया (Double displacement reaction)",
+                "वियोजन अभिक्रिया (Decomposition reaction)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "विस्थापन अभिक्रिया (Displacement reaction)"
+        },
+        {
+            "id": 40,
+            "question": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH संभवतः होगा (A solution turns blue litmus paper red: its pH is likely to be. -)",
+            "options": [
+                "5",
+                "7",
+                "8",
+                "10"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "5"
+        },
+        {
+            "id": 41,
+            "question": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है? (Which one of the following is the natural source of Oxalic acid?)",
+            "options": [
+                "संतरा (Orange)",
+                "टमाटर (Tomato)",
+                "सिरका (Vinegar)",
+                "इमली (Tamarind)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "टमाटर (Tomato)"
+        },
+        {
+            "id": 42,
+            "question": "निम्नलिखित में कौन सबसे अधिक अभिक्रियाशील धातु है? (Which of the following is the most reactive metal?)",
+            "options": [
+                "Mg",
+                "Ca",
+                "Na",
+                "K"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "K"
+        },
+        {
+            "id": 43,
+            "question": "ऐक्वा रेजिया (रॉयल जल) किस अनुपात में सान्द्र हाइड्रोक्लोरिक अम्ल एवं सांद्र नाइट्रिक अम्ल का ताजा मिश्रण होता है? (In what ratio, the concentrated Hydrochloric acid and the concentrated Nitric acid solutions are present in freshly prepared aqua regia (royal water) solution -)",
+            "options": [
+                "3:2",
+                "2:3",
+                "3:1",
+                "1:3"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "3:1"
+        },
+        {
+            "id": 44,
+            "question": "-CHO का प्रकार्यात्मक समूह निम्निलिखित में कौन है? (Which one of the following is the functional group of -CHO?)",
+            "options": [
+                "कीटोन (Ketone)",
+                "कार्बोक्सिलिक अम्ल (Carboxylic acid)",
+                "ऐल्कोहॉल (Alcohol)",
+                "ऐल्डिहाइड (Aldehyde)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "ऐल्डिहाइड (Aldehyde)"
+        },
+        {
+            "id": 45,
+            "question": "प्रोपेन का आण्विक सूत्र C₃H₈ है इसमें (Propane, with the molecular formula C₃H₈ has -)",
+            "options": [
+                "7 सह संयोजक आबंध है। (7 covalent bonds)",
+                "8 सह संयोजक आबंध है। (8 covalent bonds)",
+                "9 सह संयोजक आबंध है। (9 covalent bonds)",
+                "10 सह संयोजक आबंध है। (10 covalent bonds)"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "10 सह संयोजक आबंध है। (10 covalent bonds)"
+        },
+        {
+            "id": 46,
+            "question": "आधुनिक आवर्त सारणी में बांई से दाई ओर जाने पर परमाणु साइज (आकार) - (In moving from left to right across the period of the modern periodic table, the atomic size -)",
+            "options": [
+                "बढ़ता है। (Increases)",
+                "घटता है। (Decreases)",
+                "अपरिवर्तित रहता है। (Remains unchanged)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "घटता है। (Decreases)"
+        },
+        {
+            "id": 47,
+            "question": "आधुनिक आवर्त सारणी में कितने उर्ध्व स्तम्भ है? (How many vertical column (Groups) are in modern periodic table?)",
+            "options": [
+                "7",
+                "9",
+                "15",
+                "18"
+            ],
+            "correct": 3,
+            "year": 2018,
+            "correctAnswer": "18"
+        },
+        {
+            "id": 48,
+            "question": "एक छात्र जाँच परखनली में लिए गये सोडियम बाइकार्बोनेट के तनु विलयन में सार्वभौम सूचक की कुछ बूँद मिलाता है, तो निम्नलिखित में कौन सा रंग दिखेगा? (A student adds a few drops of universal indicator to a dilute solution of sodium bicarbonate taken in a test tube, which of the following colours would be observed?)",
+            "options": [
+                "नीला (Blue)",
+                "हरा (Green)",
+                "नारंगी (Orange)",
+                "पीला (Yellow)"
+            ],
+            "correct": 0,
+            "year": 2018,
+            "correctAnswer": "नीला (Blue)"
+        },
+        {
+            "id": 49,
+            "question": "जब मैग्नीशियम फीता को जलाया जाता है, तो उत्पन्न आग की लौ होती है- (When Magnesium ribbon is ignited, the flame produced by it is -)",
+            "options": [
+                "पीली (Yellow)",
+                "नीली (Blue)",
+                "चमकीला ऊजला (Dazzling white)",
+                "लाल (Red)"
+            ],
+            "correct": 2,
+            "year": 2018,
+            "correctAnswer": "चमकीला ऊजला (Dazzling white)"
+        },
+        {
+            "id": 50,
+            "question": "एक जाँच परखनली में लिए गये विलयन में एक लोहे की कील को डुबाया गया। आधे घंटे के बाद यह देखा गया कि विलयन का रंग परिवर्तित हो चुका है। उस जाँच परखनली में विलयन था (An iron nail was dipped in solution kept in a test tube. After half an hour, it was observed that colour of the solution has changed. The solution in test tube was -)",
+            "options": [
+                "ZnSO₄",
+                "CuSO₄",
+                "FeSO₄",
+                "Al₂(SO₄)₃"
+            ],
+            "correct": 1,
+            "year": 2018,
+            "correctAnswer": "CuSO₄"
+        }
+    ]
+}

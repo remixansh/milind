@@ -1,0 +1,658 @@
+{
+    "date": "0210",
+    "dateDisplay": "10 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "श्रीलंका कब आजाद हुआ ? (When did Sri Lanka become independent?)",
+            "options": [
+                "1947",
+                "1948",
+                "1949",
+                "1950"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1948"
+        },
+        {
+            "id": 2,
+            "question": "समता पार्टी का विलय किस राजनीतिक दल में हुआ? (In which political party did Samata Party merge?)",
+            "options": [
+                "राष्ट्रीय जनता दल (Rashtriya Janata Dal)",
+                "बहुजन समाज पार्टी (Bahujan Samaj Party)",
+                "जनतादल यूनाइटेड (Janata Dal United)",
+                "भारतीय जनता पार्टी (Bharatiya Janata Party)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "जनतादल यूनाइटेड (Janata Dal United)"
+        },
+        {
+            "id": 3,
+            "question": "निम्न में से कौन नगर निगम के आय का स्रोत नहीं है ? (Which of the following is not a source of income for Municipal Corporation?)",
+            "options": [
+                "मकान कर (House Tax)",
+                "आय कर (Income Tax)",
+                "जल कर (Water Tax)",
+                "शौचालय कर (Toilet Tax)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "आय कर (Income Tax)"
+        },
+        {
+            "id": 4,
+            "question": "निम्न में से कौन पंचायत की व्यवस्थापिका सभा है ? (Which of the following is the legislative assembly of the Panchayat?)",
+            "options": [
+                "ग्राम-सभा (Gram Sabha)",
+                "ग्राम रक्षा दल (Village Defence Force)",
+                "ग्राम कचहरी (Gram Kachhari)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "ग्राम-सभा (Gram Sabha)"
+        },
+        {
+            "id": 5,
+            "question": "राज्यपाल की नियुक्ति कौन करता है ? (Who appoints the Governor?)",
+            "options": [
+                "प्रधानमंत्री (Prime Minister)",
+                "मुख्यमंत्री (Chief Minister)",
+                "राष्ट्रपति (President)",
+                "उपराष्ट्रपति (Vice President)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "राष्ट्रपति (President)"
+        },
+        {
+            "id": 6,
+            "question": "स्थानीय स्वशासन राज्य के नीति निर्देशक सिद्धांतों के किस अनुच्छेद में है ? (In which article of the Directive Principles of State Policy is local self-government?)",
+            "options": [
+                "अनुच्छेद 34 (Article 34)",
+                "अनुच्छेद 40 (Article 40)",
+                "अनुच्छेद 42 (Article 42)",
+                "अनुच्छेद 51 (Article 51)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "अनुच्छेद 40 (Article 40)"
+        },
+        {
+            "id": 7,
+            "question": "मुद्रण कहाँ का आविष्कार कहाँ हुआ था ? (Where was printing invented?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "चीन (China)",
+                "यूनान (Greece)",
+                "अमेरिका (America)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "चीन (China)"
+        },
+        {
+            "id": 8,
+            "question": "विश्व की प्रथम पेपर मिल की स्थापना हुई थी (The world's first paper mill was established in)",
+            "options": [
+                "जर्मनी में (In Germany)",
+                "फ्रांस में (In France)",
+                "चीन में (In China)",
+                "इंग्लैण्ड में (In England)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "जर्मनी में (In Germany)"
+        },
+        {
+            "id": 9,
+            "question": "'95 थीसिस' किसने लिखी ? (Who wrote '95 Theses'?)",
+            "options": [
+                "रूसो (Rousseau)",
+                "कार्ल मार्क्स (Karl Marx)",
+                "मार्टिन लूथर (Martin Luther)",
+                "गुटेनबर्ग (Gutenberg)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "मार्टिन लूथर (Martin Luther)"
+        },
+        {
+            "id": 10,
+            "question": "मिरात-उल अखबार के संस्थापक कौन थे ? (Who was the founder of Mirat-ul-Akhbar?)",
+            "options": [
+                "राजा राममोहन राय (Raja Rammohan Roy)",
+                "मौलाना अबुल कलाम आजाद (Maulana Abul Kalam Azad)",
+                "मनमोहन घोष (Manmohan Ghosh)",
+                "खान अब्दुल गफ्फार खान (Khan Abdul Ghaffar Khan)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "राजा राममोहन राय (Raja Rammohan Roy)"
+        },
+        {
+            "id": 11,
+            "question": "कौन तापीय विद्युत परियोजना बिहार में है ? (Which thermal power project is in Bihar?)",
+            "options": [
+                "कांटी तापीय विद्युत परियोजना (Kanti Thermal Power Project)",
+                "कहलगाँव तापीय विद्युत परियोजना (Kahalgaon Thermal Power Project)",
+                "नबीनगर तापीय विद्युत परियोजना (Nabinagar Thermal Power Project)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 12,
+            "question": "'ऑल इंडिया रेडियो' का नाम बदलकर आकाशवाणी कब किया गया ? (When was 'All India Radio' renamed as Akashvani?)",
+            "options": [
+                "1936",
+                "1947",
+                "1957",
+                "1960"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "1957"
+        },
+        {
+            "id": 13,
+            "question": "अल्यूमिनियम किस खनिज से सम्बन्धित है ? (Aluminium is related to which mineral?)",
+            "options": [
+                "ताँबा (Copper)",
+                "अभ्रक (Mica)",
+                "लौह अयस्क (Iron Ore)",
+                "बॉक्साइट (Bauxite)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "बॉक्साइट (Bauxite)"
+        },
+        {
+            "id": 14,
+            "question": "नंदादेवी राष्ट्रीय उद्यान कहाँ है? (Where is Nanda Devi National Park?)",
+            "options": [
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "उत्तराखण्ड (Uttarakhand)",
+                "केरल (Kerala)",
+                "झारखण्ड (Jharkhand)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "उत्तराखण्ड (Uttarakhand)"
+        },
+        {
+            "id": 15,
+            "question": "मनरेगा शुरू हुई थी (MNREGA was started in)",
+            "options": [
+                "आन्ध्र प्रदेश में (In Andhra Pradesh)",
+                "राजस्थान में (In Rajasthan)",
+                "गुजरात में (In Gujarat)",
+                "कर्नाटक में (In Karnataka)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "आन्ध्र प्रदेश में (In Andhra Pradesh)"
+        },
+        {
+            "id": 16,
+            "question": "निम्न में से कौन गैर-आर्थिक आधारभूत संरचना का अंग है ? (Which of the following is a part of non-economic infrastructure?)",
+            "options": [
+                "ऊर्जा (Energy)",
+                "शिक्षा (Education)",
+                "यातायात (Transport)",
+                "संचार (Communication)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "शिक्षा (Education)"
+        },
+        {
+            "id": 17,
+            "question": "विश्व व्यापार संगठन (WTO) की स्थापना कब हुई थी ? (When was the World Trade Organization (WTO) established?)",
+            "options": [
+                "1945",
+                "1965",
+                "1975",
+                "1995"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "1995"
+        },
+        {
+            "id": 18,
+            "question": "ब्रंटलैंड आयोग सम्बन्धित है (Brundtland Commission is related to)",
+            "options": [
+                "समावेशी विकास से (Inclusive Development)",
+                "आधारभूत संरचना से (Infrastructure)",
+                "सतत विकास से (Sustainable Development)",
+                "आर्थिक विकास से (Economic Development)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सतत विकास से (Sustainable Development)"
+        },
+        {
+            "id": 19,
+            "question": "प्रथम राष्ट्रीय मानव विकास रिपोर्ट किस प्रधानमंत्री के कार्यकाल में जारी हुई? (First National Human Development Report was released during the tenure of which Prime Minister?)",
+            "options": [
+                "इंदिरा गाँधी (Indira Gandhi)",
+                "राजीव गाँधी (Rajiv Gandhi)",
+                "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)",
+                "मनमोहन सिंह (Manmohan Singh)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)"
+        },
+        {
+            "id": 20,
+            "question": "नीति आयोग का गठन हुआ था (NITI Aayog was formed in)",
+            "options": [
+                "जनवरी 2015 (January 2015)",
+                "जनवरी 2016 (January 2016)",
+                "फरवरी 2017 (February 2017)",
+                "फरवरी 2018 (February 2018)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "जनवरी 2015 (January 2015)"
+        },
+        {
+            "id": 21,
+            "question": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान किसने लगाया था? (Who first estimated the national income in India?)",
+            "options": [
+                "डॉ० वी० के० आर० वी० - राव (Dr. V.K.R.V. Rao)",
+                "प्रो० पी० सी० महलानोबिस (Prof. P.C. Mahalanobis)",
+                "दादाभाई नौरजी (Dadabhai Naoroji)",
+                "सी. राजगोपालाचारी (C. Rajagopalachari)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "दादाभाई नौरजी (Dadabhai Naoroji)"
+        },
+        {
+            "id": 22,
+            "question": "ग्रामीण बैंक के संस्थापक कौन हैं? (Who is the founder of Grameen Bank?)",
+            "options": [
+                "प्रो० मो० युनुस (Prof. Md. Yunus)",
+                "अमर्त्य सेन (Amartya Sen)",
+                "बिमल जलान (Bimal Jalan)",
+                "सी. रंगराजन (C. Rangarajan)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "प्रो० मो० युनुस (Prof. Md. Yunus)"
+        },
+        {
+            "id": 23,
+            "question": "बिहार में अति जल दोहन से किस तत्त्व का संकेन्द्रण बढ़ा है? (Concentration of which element has increased due to over-exploitation of water in Bihar?)",
+            "options": [
+                "फ्लोराइड (Fluoride)",
+                "क्लोराइड (Chloride)",
+                "आर्सेनिक (Arsenic)",
+                "लौह (Iron)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "आर्सेनिक (Arsenic)"
+        },
+        {
+            "id": 24,
+            "question": "चिपको आन्दोलन के प्रवर्तक कौन हैं? (Who is the initiator of Chipko Movement?)",
+            "options": [
+                "मेधा पाटकर (Medha Patkar)",
+                "सुन्दर लाल बहुगुणा (Sundarlal Bahuguna)",
+                "विनोबा भावे (Vinoba Bhave)",
+                "कैलाश सत्यार्थी (Kailash Satyarthi)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सुन्दर लाल बहुगुणा (Sundarlal Bahuguna)"
+        },
+        {
+            "id": 25,
+            "question": "निम्न में कौन अनवीकरणीय संसाधन है ? (Which of the following is a non-renewable resource?)",
+            "options": [
+                "सौर ऊर्जा (Solar Energy)",
+                "जीवाश्म ईंधन (Fossil Fuel)",
+                "जल विद्युत (Hydroelectricity)",
+                "पवन ऊर्जा (Wind Energy)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "जीवाश्म ईंधन (Fossil Fuel)"
+        },
+        {
+            "id": 26,
+            "question": "भारत में प्रथम जल विद्युत संयंत्र की स्थापना कहाँ हुई थी? (Where was the first hydroelectric plant established in India?)",
+            "options": [
+                "शिलांग (Shillong)",
+                "शिवसमुद्रम (Shivasamudram)",
+                "दार्जिलिंग (Darjeeling)",
+                "अगरतला (Agartala)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "दार्जिलिंग (Darjeeling)"
+        },
+        {
+            "id": 27,
+            "question": "बिहार का सर्वाधिक जनसंख्या घनत्व वाला जिला कौन है? (Which is the district with the highest population density in Bihar?)",
+            "options": [
+                "औरंगाबाद (Aurangabad)",
+                "पूर्णिया (Purnia)",
+                "पटना (Patna)",
+                "वैशाली (Vaishali)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "पटना (Patna)"
+        },
+        {
+            "id": 28,
+            "question": "भारत में मुख्यतः किस प्रकार का कोयला पाया जाता है ? (Which type of coal is mainly found in India?)",
+            "options": [
+                "एन्थ्रासाइट (Anthracite)",
+                "बिटुमिनस (Bituminous)",
+                "लिग्नाइट (Lignite)",
+                " पीट (Peat)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "बिटुमिनस (Bituminous)"
+        },
+        {
+            "id": 29,
+            "question": "भारत में सर्वाधिक वर्षा किस स्थान पर होती है ? (At which place does the maximum rainfall occur in India?)",
+            "options": [
+                "मॉसिनराम (Mawsynram)",
+                "चेरापूँजी (Cherrapunji)",
+                "गुवाहाटी (Guwahati)",
+                "अगरतला (Agartala)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "मॉसिनराम (Mawsynram)"
+        },
+        {
+            "id": 30,
+            "question": "बिहार की प्राचीनतम नदी घाटी परियोजना है। (The oldest river valley project of Bihar is.)",
+            "options": [
+                "सोन परियोजना (Son Project)",
+                "गंडक परियोजना (Gandak Project)",
+                "कोसी परियोजना (Kosi Project)",
+                "दामोदर परियोजना (Damodar Project)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "सोन परियोजना (Son Project)"
+        },
+        {
+            "id": 31,
+            "question": "सहकारिता साख समिति कानून कब पारित हुआ ? (When was the Cooperative Credit Society Act passed?)",
+            "options": [
+                "1902",
+                "1904",
+                "1910",
+                "1919"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "1904"
+        },
+        {
+            "id": 32,
+            "question": "भारत की वित्तीय राजधानी किस नगर को कहा जाता है ? (Which city is called the financial capital of India?)",
+            "options": [
+                "दिल्ली (Delhi)",
+                "पटना (Patna)",
+                "बेंगलुरु (Bengaluru)",
+                "मुंबई (Mumbai)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "मुंबई (Mumbai)"
+        },
+        {
+            "id": 33,
+            "question": "भारत के सकल घरेलू उत्पाद में किस क्षेत्र का सर्वाधिक योगदान है ? (Which sector contributes the most to India's Gross Domestic Product?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture Sector)",
+                "औ‌द्योगिक क्षेत्र (Industrial Sector)",
+                "सेवा क्षेत्र (Service Sector)",
+                "विनिर्माण क्षेत्र (Manufacturing Sector)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सेवा क्षेत्र (Service Sector)"
+        },
+        {
+            "id": 34,
+            "question": "स्वर्ण आभूषणों की शुद्धता को सुनिश्चित करने के लिए किस मान्यता प्राप्त चिह्न का होना आवश्यक है ? (Which recognized mark is necessary to ensure the purity of gold jewelry?)",
+            "options": [
+                "ISI मार्क (ISI Mark)",
+                "एगमार्क (Agmark)",
+                "हॉलमार्क (Hallmark)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "हॉलमार्क (Hallmark)"
+        },
+        {
+            "id": 35,
+            "question": "उपभोक्ता संरक्षण अधिनियम लागू हुआ (Consumer Protection Act came into force in)",
+            "options": [
+                "1986 में (In 1986)",
+                "1980 में (In 1980)",
+                "1987 में (In 1987)",
+                "1988 में (In 1988)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "1986 में (In 1986)"
+        },
+        {
+            "id": 36,
+            "question": "'बिहार का शोक' किस नदी को कहा जाता है ? (Which river is called the 'Sorrow of Bihar'?)",
+            "options": [
+                "सोन (Son)",
+                "कोसी (Kosi)",
+                "पुनपुन (Punpun)",
+                "गंगा (Ganga)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कोसी (Kosi)"
+        },
+        {
+            "id": 37,
+            "question": "महासागर की तली पर होनेवाले कंपन का सम्बन्ध है (The vibration occurring at the bottom of the ocean is related to)",
+            "options": [
+                "झंझावात से (Thunderstorm)",
+                "चक्रवात से (Cyclone)",
+                "सुनामी से (Tsunami)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "सुनामी से (Tsunami)"
+        },
+        {
+            "id": 38,
+            "question": "संसाधनों की खोज एवं प्रबंधन के लिए किस उपग्रह का प्रयोग किया जाता है? (Which satellite is used for exploration and management of resources?)",
+            "options": [
+                "संचार उपग्रह (Communication Satellite)",
+                "सुदूर संवेदी उपग्रह (Remote Sensing Satellite)",
+                "नेविगेशन उपग्रह (Navigation Satellite)",
+                "ध्रुवीय उपग्रह (Polar Satellite)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "सुदूर संवेदी उपग्रह (Remote Sensing Satellite)"
+        },
+        {
+            "id": 39,
+            "question": "मोपला विद्रोह कहाँ हुआ था ? (Where did the Moplah Rebellion take place?)",
+            "options": [
+                "महाराष्ट्र (Maharashtra)",
+                "बंगाल (Bengal)",
+                "गुजरात (Gujarat)",
+                "केरल (Kerala)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 40,
+            "question": "भारत की प्राचीनतम कोयले की खान कौन है ? (Which is the oldest coal mine in India?)",
+            "options": [
+                "रानीगंज (Raniganj)",
+                "झरिया (Jharia)",
+                "धनबाद (Dhanbad)",
+                "कोरबा (Korba)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "रानीगंज (Raniganj)"
+        },
+        {
+            "id": 41,
+            "question": "बोनस भुगतान अधिनियम किस पंचवर्षीय योजना के दौरान बना? (During which Five Year Plan was the Payment of Bonus Act enacted?)",
+            "options": [
+                "प्रथम पंचवर्षीय योजना (First Five Year Plan)",
+                "द्वितीय पंचवर्षीय योजना (Second Five Year Plan)",
+                "तृतीय पंचवर्षीय योजना (Third Five Year Plan)",
+                "चतुर्थ पंचवर्षीय योजना (Fourth Five Year Plan)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "तृतीय पंचवर्षीय योजना (Third Five Year Plan)"
+        },
+        {
+            "id": 42,
+            "question": "भारत में पहली जूट मिल कहाँ स्थापित की गई ? (Where was the first jute mill established in India?)",
+            "options": [
+                "बम्बई (Bombay)",
+                "कलकत्ता (Calcutta)",
+                "पटना (Patna)",
+                "दिल्ली (Delhi)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "कलकत्ता (Calcutta)"
+        },
+        {
+            "id": 43,
+            "question": "पावरलूम का आविष्कार किसने किया? (Who invented the Powerloom?)",
+            "options": [
+                "जेम्स वॉट (James Watt)",
+                "जॉन के (John Kay)",
+                "एडमण्ड कार्टराईट (Edmund Cartwright)",
+                "क्रॉम्पटन (Crompton)"
+            ],
+            "correct": 2,
+            "year": 2022,
+            "correctAnswer": "एडमण्ड कार्टराईट (Edmund Cartwright)"
+        },
+        {
+            "id": 44,
+            "question": "मानचित्र में नीले रंग द्वारा किस भाग की दिखाया जाता है ? (Which part is shown by blue color in the map?)",
+            "options": [
+                "पर्वत (Mountain)",
+                "पठार (Plateau)",
+                "मैदान (Plain)",
+                "जल (Water)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "जल (Water)"
+        },
+        {
+            "id": 45,
+            "question": "गुजरात का कच्छ प्रदेश किस भूकंपीय पेटी में है ? (In which seismic zone is the Kutch region of Gujarat?)",
+            "options": [
+                "जोन-1 (Zone-1)",
+                "जोन-3 (Zone-3)",
+                "जोन-4 (Zone-4)",
+                "जोन-5 (Zone-5)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "जोन-5 (Zone-5)"
+        },
+        {
+            "id": 46,
+            "question": "उसर रेलवे का मुख्यालय कहाँ है ? (Where is the headquarters of Northern Railway?)",
+            "options": [
+                "कोलकाता (Kolkata)",
+                "गोरखपुर (Gorakhpur)",
+                "हाजीपुर (Hajipur)",
+                "नई दिल्ली (New Delhi)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "नई दिल्ली (New Delhi)"
+        },
+        {
+            "id": 47,
+            "question": "पंजाब में भूमि निम्नीकरण का मुख्य कारण क्या है ? (What is the main reason for land degradation in Punjab?)",
+            "options": [
+                "वनोन्मूलन (Deforestation)",
+                "गहन खेती (Intensive Farming)",
+                "अतिचारण (Overgrazing)",
+                "अधिक सिंचाई (Over Irrigation)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "अधिक सिंचाई (Over Irrigation)"
+        },
+        {
+            "id": 48,
+            "question": "भारत का संवैधानिक अध्यक्ष कौन है ? (Who is the constitutional head of India?)",
+            "options": [
+                "राष्ट्रपति (President)",
+                "प्रधानमंत्री (Prime Minister)",
+                "राज्यपाल (Governor)",
+                "उप-राष्ट्रपति (Vice President)"
+            ],
+            "correct": 0,
+            "year": 2022,
+            "correctAnswer": "राष्ट्रपति (President)"
+        },
+        {
+            "id": 49,
+            "question": "अंगकोरवाट मंदिर कहाँ है ? (Where is Angkor Wat Temple?)",
+            "options": [
+                "वियतनाम (Vietnam)",
+                "थाइलैण्ड (Thailand)",
+                "लाओस (Laos)",
+                "कम्बोडिया (Cambodia)"
+            ],
+            "correct": 3,
+            "year": 2022,
+            "correctAnswer": "कम्बोडिया (Cambodia)"
+        },
+        {
+            "id": 50,
+            "question": "बॉक्साइट का सबसे बड़ा उत्पादक राज्य है (The largest producer of Bauxite is)",
+            "options": [
+                "झारखण्ड (Jharkhand)",
+                "ओडिशा (Odisha)",
+                "पश्चिम बंगाल (West Bengal)",
+                "गुजरात (Gujarat)"
+            ],
+            "correct": 1,
+            "year": 2022,
+            "correctAnswer": "ओडिशा (Odisha)"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0201",
+    "dateDisplay": "01 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "कली चूना का रासायनिक सूत्र क्या है? (What is the chemical formula of quicklime?)",
+            "options": [
+                "Ca(OH)₂",
+                "CaO",
+                "Ca(HCO₃)₂",
+                "CaCO₃"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "CaO"
+        },
+        {
+            "id": 2,
+            "question": "आयोडीनयुक्त नमक है (Iodized salt is):",
+            "options": [
+                "NaCl + KIO₃",
+                "NaCl + KI",
+                "(A) और (B) दोनों (Both (A) and (B))",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "NaCl + KIO₃"
+        },
+        {
+            "id": 3,
+            "question": "प्लास्टर ऑफ पेरिस का रासायनिक नाम क्या है? (What is the chemical name of Plaster of Paris?)",
+            "options": [
+                "कैल्सियम सल्फेट (Calcium sulphate)",
+                "कैल्सियम सल्फेट मोनोहाइड्रेट (Calcium sulphate monohydrate)",
+                "कैल्सियम सल्फेट हेमीहाइड्रेट (Calcium sulphate hemihydrate)",
+                "कैल्सियम क्लोराइड (Calcium chloride)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कैल्सियम सल्फेट हेमीहाइड्रेट (Calcium sulphate hemihydrate)"
+        },
+        {
+            "id": 4,
+            "question": "कैथोड किरणों में क्या उपस्थित रहते हैं? (What is present in cathode rays?)",
+            "options": [
+                "इलेक्ट्रॉन (Electron)",
+                "प्रोटॉन (Proton)",
+                "न्यूट्रॉन (Neutron)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "इलेक्ट्रॉन (Electron)"
+        },
+        {
+            "id": 5,
+            "question": "कवक में पोषण की कौन-सी विधि है? (Which mode of nutrition is found in fungi?)",
+            "options": [
+                "समभोजी (Holozoic)",
+                "मृतोपजीवी (Saprophytic)",
+                "स्वपोषी (Autotrophic)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "मृतोपजीवी (Saprophytic)"
+        },
+        {
+            "id": 6,
+            "question": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है? (Which of the following lenses is used to remove short sightedness?)",
+            "options": [
+                "बेलनाकार (Cylindrical)",
+                "उत्तल (Convex)",
+                "अवतल (Concave)",
+                "बाइफोकल (Bifocal)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अवतल (Concave)"
+        },
+        {
+            "id": 7,
+            "question": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन होता है (Most of the refraction of the light rays entering the eye occurs at):",
+            "options": [
+                "अभिनेत्र के अंतरपृष्ठ पर (Interface of eye lens)",
+                "नेत्रोद अंतरपृष्ठ पर (Interface of aqueous humour)",
+                "दृष्टिपटल के बाहरी पृष्ठ पर (Outer surface of cornea)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "दृष्टिपटल के बाहरी पृष्ठ पर (Outer surface of cornea)"
+        },
+        {
+            "id": 8,
+            "question": "निम्नलिखित में कौन लेंस की क्षमता का मात्रक है? (Which of the following is the unit of power of lens?)",
+            "options": [
+                "डाइआप्टर (dioptre)",
+                "वाट (watt)",
+                "अर्ग (erg)",
+                "जूल (joule)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "डाइआप्टर (dioptre)"
+        },
+        {
+            "id": 9,
+            "question": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है? (What type of lens is found in human eye?)",
+            "options": [
+                "उत्तल (Convex)",
+                "बाइफोकल (Bifocal)",
+                "अवतल (Concave)",
+                "बेलनाकार (Cylindrical)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "उत्तल (Convex)"
+        },
+        {
+            "id": 10,
+            "question": "किसी वस्तु का अवतल दर्पण द्वारा बना प्रतिबिंब आभासी, सीधा तथा वस्तु से बड़ा पाया गया, तो वस्तु की स्थिति कहाँ होनी चाहिए? (If the image of an object formed by a concave mirror is virtual, erect and larger than the object then where should be the location of the object?)",
+            "options": [
+                "वक्रता केन्द्र से बाहर (Beyond the centre of curvature)",
+                "मुख्य फोकस तथा वक्रता केन्द्र के बीच (Between principal focus and centre of curvature)",
+                "वक्रता-केन्द्र पर (At the centre of curvature)",
+                "दर्पण के ध्रुव तथा मुख्य फोकस के बीच (Between the pole and principal focus of the mirror)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "दर्पण के ध्रुव तथा मुख्य फोकस के बीच (Between the pole and principal focus of the mirror)"
+        },
+        {
+            "id": 11,
+            "question": "प्रकाश की किरण को मोड़ने की क्षमता को कहते हैं (The capacity to bend rays of light is called):",
+            "options": [
+                "लेंस की क्षमता (the power of lens)",
+                "लेंस की क्षमता का व्युत्क्रम (the reciprocal of the power of the lens)",
+                "लेंस की समंजन क्षमता (the power of accommodation of the lens)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "लेंस की क्षमता (the power of lens)"
+        },
+        {
+            "id": 12,
+            "question": "अवतल लेंस द्वारा प्राप्त प्रतिबिंब होता है (The image obtained by a concave lens is):",
+            "options": [
+                "छोटा (diminished)",
+                "सीधा (erect)",
+                "आभासी (virtual)",
+                "इनमें से सभी (all of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (all of these)"
+        },
+        {
+            "id": 13,
+            "question": "'जीन' शब्द किसने प्रस्तुत किया? (The word 'Gene' was coined by):",
+            "options": [
+                "मेंडल (Mendel)",
+                "जोहैन्सन (Johannsen)",
+                "लामार्क (Lamarck)",
+                "डार्विन (Darwin)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जोहैन्सन (Johannsen)"
+        },
+        {
+            "id": 14,
+            "question": "निम्नलिखित में किसमें द्विखंडन नहीं होता है? (In which of the following binary fission does not occur?)",
+            "options": [
+                "यीस्ट में (Yeast)",
+                "पैरामीशियम में (Paramoecium)",
+                "युग्लीना में (Euglena)",
+                "अमीबा में (Amoeba)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "यीस्ट में (Yeast)"
+        },
+        {
+            "id": 15,
+            "question": "परागकण निम्न में से किसके अंदर बनते हैं? (Pollen grains are formed in which of the following?)",
+            "options": [
+                "अंडाशय (Ovary)",
+                "वर्तिका (Style)",
+                "पत्तियाँ (Leaves)",
+                "परागकोष (Anther)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "परागकोष (Anther)"
+        },
+        {
+            "id": 16,
+            "question": "रुधिर चाप नियंत्रित होता है (Blood pressure is controlled by):",
+            "options": [
+                "वृषण द्वारा (Testis)",
+                "थाइमस द्वारा (Thymus)",
+                "थाइरॉइड द्वारा (Thyroid)",
+                "एड्रिनल द्वारा (Adrenal)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "एड्रिनल द्वारा (Adrenal)"
+        },
+        {
+            "id": 17,
+            "question": "कौन-सी बीमारी श्वसन तंत्र से संबंधित है? (Which disease is related to respiratory system?)",
+            "options": [
+                "मधुमेह (Diabetes)",
+                "मलेरिया (Malaria)",
+                "निमोनिया (Pneumonia)",
+                "डायरिया (Diarrhoea)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "निमोनिया (Pneumonia)"
+        },
+        {
+            "id": 18,
+            "question": "रक्त में शर्करा का स्तर नियंत्रित करता है (The sugar level in blood is controlled by):",
+            "options": [
+                "एस्ट्रोजन (Estrogen)",
+                "प्रोजेस्टेरोन (Progesterone)",
+                "इंसुलीन (Insulin)",
+                "रिलैक्सिन (Relaxin)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "इंसुलीन (Insulin)"
+        },
+        {
+            "id": 19,
+            "question": "मानव शरीर में सबसे लम्बी कोशिका कौन-सी है? (Which is the longest cell of human body?)",
+            "options": [
+                "मांसपेशियाँ (Muscles)",
+                "तंत्रिका कोशिका (Nerve cell)",
+                "रक्त कोशिका (Blood cell)",
+                "हृदय कोशिका (Heart cell)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "तंत्रिका कोशिका (Nerve cell)"
+        },
+        {
+            "id": 20,
+            "question": "मुख गुहा में आहार का कौन-सा भाग का पाचन होता है? (Which part of the food is digested in buccal cavity?)",
+            "options": [
+                "कार्बोहाइड्रेट (Carbohydrate)",
+                "प्रोटीन (Protein)",
+                "वसा (Fat)",
+                "न्यूक्लिक अम्ल (Nucleic acid)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "कार्बोहाइड्रेट (Carbohydrate)"
+        },
+        {
+            "id": 21,
+            "question": "लैटेक्स पाया जाता है (Latex is found in):",
+            "options": [
+                "चीड़ में (Pinus)",
+                "गुलाब में (Rose)",
+                "कनेर में (Nerium)",
+                "आम में (Mango)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कनेर में (Nerium)"
+        },
+        {
+            "id": 22,
+            "question": "एंड्रोजेन्स स्रावित होता है (Androgen is secreted by the):",
+            "options": [
+                "अंडाशय द्वारा (Ovary)",
+                "वृषण द्वारा (Testes)",
+                "ग्रहणी द्वारा (Duodenum)",
+                "आमाशय द्वारा (Stomach)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "वृषण द्वारा (Testes)"
+        },
+        {
+            "id": 23,
+            "question": "वर्तिका भाग है (Style is part of):",
+            "options": [
+                "तंतु का (Filament)",
+                "जायांग का (Gynoecium)",
+                "अंडाशय का (Ovary)",
+                "पुंकेसर का (Stamen)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "जायांग का (Gynoecium)"
+        },
+        {
+            "id": 24,
+            "question": "ग्रहणी भाग है (Duodenum is a part of):",
+            "options": [
+                "मुख गुहा का (Buccal cavity)",
+                "आमाशय का (Stomach)",
+                "बड़ी आँत का (Large intestine)",
+                "छोटी आँत का (Small intestine)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "छोटी आँत का (Small intestine)"
+        },
+        {
+            "id": 25,
+            "question": "मनुष्य में नासिका छिद्र, लैंरिक्स, ट्रैकिया तथा फेफड़ा मिलकर बनता है (In human beings, nasal cavity, larynx, trachea and lungs combine to form):",
+            "options": [
+                "उत्सर्जन तंत्र (excretory system)",
+                "जनन तंत्र (reproductive system)",
+                "पाचन तंत्र (digestive system)",
+                "श्वसन तंत्र (respiratory system)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "श्वसन तंत्र (respiratory system)"
+        },
+        {
+            "id": 26,
+            "question": "पादप में जाइलम उत्तरदायी है (In plants, xylem is responsible for):",
+            "options": [
+                "ऑक्सीजन का संचालन (oxygen conduction)",
+                "एमीनो अम्ल संवहन (amino acid conduction)",
+                "जल संवहन (water conduction)",
+                "भोजन संवहन (food conduction)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "जल संवहन (water conduction)"
+        },
+        {
+            "id": 27,
+            "question": "जिबेरेलिन है (Gibberellin is):",
+            "options": [
+                "पादप हॉर्मोन (a phytohormone)",
+                "एंजाइम (an enzyme)",
+                "कार्बोहाइड्रेट (carbohydrate)",
+                "वसा (fat)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "पादप हॉर्मोन (a phytohormone)"
+        },
+        {
+            "id": 28,
+            "question": "पत्तियों का मुरझाना किस पादप हॉर्मोन के कारण होता है? (Wilting of leaves is due to which phytohormone?)",
+            "options": [
+                "इथिलीन (Ethylene)",
+                "एबसिसीक अम्ल (Abscisic acid)",
+                "साइटोकाइनिन (Cytokinin)",
+                "ऑक्सिन (Auxin)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "एबसिसीक अम्ल (Abscisic acid)"
+        },
+        {
+            "id": 29,
+            "question": "प्रतिरोधकों के एक संयोजन में से एक प्रतिरोधक हटा लेने पर कुल प्रतिरोध बढ़ जाता है। यह संयोजित था (Out of a combination of resistors, one resistor is removed and it is found that the net resistance has increased. The resistor was connected in):",
+            "options": [
+                "समानान्तर में (parallel)",
+                "श्रेणीबद्ध में (series)",
+                "कहा नहीं जा सकता (cannot be said)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "समानान्तर में (parallel)"
+        },
+        {
+            "id": 30,
+            "question": "एक कमरे में (60 W, 200 V) एवं (40 W, 200 V) के दो उपकरण 100 V आपूर्ति से जुड़े हैं। कुल उपभुक्त शक्ति है (Two appliances rated as (60 W, 200 V) and (40 W, 200 V) are connected across 100 V supply in a room. The total power consumed is):",
+            "options": [
+                "25 W",
+                "10 W",
+                "15 W",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "25 W"
+        },
+        {
+            "id": 31,
+            "question": "निम्नांकित में कौन-सा पद विद्युत परिपथ में विद्युत-शक्ति को निरूपित करता है? (Which of the following expressions represent(s) electric power in the circuit?)",
+            "options": [
+                "I²R",
+                "V²/R",
+                "VI",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 32,
+            "question": "उत्तल दर्पण में आवर्धन का महत्तम मान है (The maximum value of magnification in a convex mirror is):",
+            "options": [
+                "2",
+                "1",
+                "1/2",
+                "अनंत (infinite)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1"
+        },
+        {
+            "id": 33,
+            "question": "विभवान्तर मापा जाता है (Potential difference is measured by):",
+            "options": [
+                "ऐमीटर द्वारा (ammeter)",
+                "वोल्टमीटर द्वारा (voltmeter)",
+                "वोल्टामीटर द्वारा (voltameter)",
+                "इनमें से सभी (all of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "वोल्टमीटर द्वारा (voltmeter)"
+        },
+        {
+            "id": 34,
+            "question": "निम्नांकित में कौन-सा कथन सत्य है? (Which of the following statements is true?)",
+            "options": [
+                "वोल्ट = एम्पियर ÷ ओम (volt = ampere ÷ ohm)",
+                "वोल्ट = ओम ÷ एम्पियर (volt = ohm ÷ ampere)",
+                "एम्पियर = वोल्ट ÷ ओम (ampere = volt ÷ ohm)",
+                "एम्पियर = ओम ÷ वोल्ट (ampere = ohm ÷ volt)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "एम्पियर = वोल्ट ÷ ओम (ampere = volt ÷ ohm)"
+        },
+        {
+            "id": 35,
+            "question": "निम्नलिखित पदार्थों में चालक है (Which of the following substances is a conductor?)",
+            "options": [
+                "अभ्रक (Mica)",
+                "काँच (Glass)",
+                "ऐल्युमिनियम (Aluminium)",
+                "चीनी मिट्टी (Porcelain)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "ऐल्युमिनियम (Aluminium)"
+        },
+        {
+            "id": 36,
+            "question": "नाभिकीय ऊर्जा प्राप्त करने के लिए निम्नलिखित में कौन आवश्यक है? (Which of the following is necessary to obtain nuclear energy?)",
+            "options": [
+                "हीलियम (Helium)",
+                "यूरेनियम (Uranium)",
+                "ऐलुमिनियम (Aluminium)",
+                "क्रोमियम (Chromium)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "यूरेनियम (Uranium)"
+        },
+        {
+            "id": 37,
+            "question": "निम्नलिखित में नर युग्मक कौन है? (Which of the following is the male gamete?)",
+            "options": [
+                "अंडाणु (Ovum)",
+                "शुक्राणु (Sperm)",
+                "गर्भाशय (Ovary)",
+                "फैलोपियन नलिका (Fallopian tube)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "शुक्राणु (Sperm)"
+        },
+        {
+            "id": 38,
+            "question": "परजीवी पौधा का एक उदाहरण है (An example of parasitic plant is):",
+            "options": [
+                "गोबरछत्ता (Mushroom)",
+                "ब्रायोफिलम (Bryophyllum)",
+                "अमरबेल (Cuscuta)",
+                "चीड़ (Pinus)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अमरबेल (Cuscuta)"
+        },
+        {
+            "id": 39,
+            "question": "द्विखंडन पाया जाता है (Binary fission is found in):",
+            "options": [
+                "स्पंज में (Sponge)",
+                "हाइड्रा में (Hydra)",
+                "जीवाणु में (Bacteria)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "जीवाणु में (Bacteria)"
+        },
+        {
+            "id": 40,
+            "question": "अग्न्याशय से कौन-सा हॉर्मोन स्रावित होता है? (Which hormone is secreted from pancreas?)",
+            "options": [
+                "एपिनेफ्रीन (Epinephrine)",
+                "टेस्टोस्टेरोन (Testosterone)",
+                "नॉरएपिनेफ्रीन (Norepinephrine)",
+                "इन्सुलिन (Insulin)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इन्सुलिन (Insulin)"
+        },
+        {
+            "id": 41,
+            "question": "निम्नलिखित में से कौन रक्त का थक्का जमने के लिए उत्तरदायी है? (Which among the following is responsible for clotting of blood?)",
+            "options": [
+                "रक्त बिंबाणु (Blood platelets)",
+                "श्वेत रक्त कोशिका (WBC)",
+                "लाल रक्त कोशिका (RBC)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "रक्त बिंबाणु (Blood platelets)"
+        },
+        {
+            "id": 42,
+            "question": "सजीव जीवधारियों द्वारा किस प्रकार की नाइट्रोजनी पदार्थ का उत्सर्जन होता है? (Which type of nitrogenous wastes is excreted by living organisms?)",
+            "options": [
+                "यूरिया (Urea)",
+                "अमोनिया (Ammonia)",
+                "यूरिक अम्ल (Uric acid)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 43,
+            "question": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है (The change in body that occurs during adolescence is due to):",
+            "options": [
+                "टेस्टोस्टेरॉन (Testosterone)",
+                "थायरॉक्सिन (Thyroxine)",
+                "एस्ट्रोजेन (Estrogen)",
+                "(A) और (C) दोनों (Both (A) and (C))"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "(A) और (C) दोनों (Both (A) and (C))"
+        },
+        {
+            "id": 44,
+            "question": "शरीर का संतुलन बनाए रखता है (The body is balanced by the organ):",
+            "options": [
+                "क्रेनियम (Cranium)",
+                "सेरीब्रम (Cerebrum)",
+                "सेरिबेलम (Cerebellum)",
+                "मस्तिष्क स्टेम (Brain stem)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सेरिबेलम (Cerebellum)"
+        },
+        {
+            "id": 45,
+            "question": "Zn + CuSO₄ → ZnSO₄ + Cu ऊपर दी गयी रासायनिक अभिक्रिया किस प्रकार की है? (The above reaction is an example of a):",
+            "options": [
+                "संयोजन अभिक्रिया (Combination reaction)",
+                "विस्थापन अभिक्रिया (Displacement reaction)",
+                "द्विविस्थापन अभिक्रिया (Double displacement reaction)",
+                "वियोजन अभिक्रिया (Decomposition reaction)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "विस्थापन अभिक्रिया (Displacement reaction)"
+        },
+        {
+            "id": 46,
+            "question": "आधुनिक आवर्त सारणी में दायीं से बायीं ओर जाने पर परमाणु का आकार (On moving from right to left across the period of the modern periodic table, the atomic size):",
+            "options": [
+                "बढ़ता है (increases)",
+                "घटता है (decreases)",
+                "अपरिवर्तित रहता है (remains unchanged)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "बढ़ता है (increases)"
+        },
+        {
+            "id": 47,
+            "question": "जब मैग्निशियम फीता को जलाया जाता है, तो उत्पन्न आग की लौ होती है (When magnesium ribbon is ignited, the flame produced by it is):",
+            "options": [
+                "पीला (Yellow)",
+                "नीला (Blue)",
+                "चमकीला उजला (Dazzling white)",
+                "लाल (Red)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "चमकीला उजला (Dazzling white)"
+        },
+        {
+            "id": 48,
+            "question": "एथेन का आण्विक सूत्र C₂H₆ है। इसमें है (The molecular formula of ethane is C₂H₆. It has):",
+            "options": [
+                "9 सहसंयोजक बंधन (9 covalent bonds)",
+                "8 सहसंयोजक बंधन (8 covalent bonds)",
+                "7 सहसंयोजक बंधन (7 covalent bonds)",
+                "6 सहसंयोजक बंधन (6 covalent bonds)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "7 सहसंयोजक बंधन (7 covalent bonds)"
+        },
+        {
+            "id": 49,
+            "question": "शल्य चिकित्सा में टूटी हड्डियों को जोड़ने के लिए प्रयुक्त होने वाला रासायनिक पदार्थ है (The chemical substance used as a cast for setting broken bones in surgery is):",
+            "options": [
+                "धोबिया सोडा (Washing soda)",
+                "प्लास्टर ऑफ पेरिस (Plaster of Paris)",
+                "कली चूना (Quicklime)",
+                "जिप्सम (Gypsum)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "प्लास्टर ऑफ पेरिस (Plaster of Paris)"
+        },
+        {
+            "id": 50,
+            "question": "निम्नांकित में कौन सहसंयोजक यौगिक है? (Which one of the following is a covalent compound?)",
+            "options": [
+                "KCl",
+                "MgCl₂",
+                "CH₄",
+                "NaCl"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "CH₄"
+        }
+    ]
+}

@@ -1,0 +1,658 @@
+{
+    "date": "0202",
+    "dateDisplay": "02 February 2026",
+    "testTime": "19:00",
+    "subject": "science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "अमोनियम क्लोराइड का जलीय विलयन होता है (An aqueous solution of ammonium chloride is):",
+            "options": [
+                "उदासीन (neutral)",
+                "अम्लीय (acidic)",
+                "क्षारीय (basic)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "अम्लीय (acidic)"
+        },
+        {
+            "id": 2,
+            "question": "निम्नांकित में कौन विद्युत का सुचालक है? (Which of the following is a good conductor of electricity?)",
+            "options": [
+                "प्लास्टिक (Plastic)",
+                "आयोडीन (Iodine)",
+                "गंधक (Sulphur)",
+                "ग्रेफाइट (Graphite)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "ग्रेफाइट (Graphite)"
+        },
+        {
+            "id": 3,
+            "question": "फोकस दूरी 20 cm के अवतल दर्पण की वक्रता त्रिज्या होगी (The radius of curvature of a concave mirror of focal length 20 cm is):",
+            "options": [
+                "15 cm",
+                "10 cm",
+                "40 cm",
+                "60 cm"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "40 cm"
+        },
+        {
+            "id": 4,
+            "question": "काँच की एक समांतर पट्टिका पर श्वेत किरण तिरछी आपतित होती है। निम्नांकित में कौन प्रथम अपवर्तन के साथ घटित होगा? (A white ray is incident obliquely on a glass slab. Which of the following will occur with the first refraction?)",
+            "options": [
+                "विचलन (Deviation)",
+                "पूर्ण परावर्तन (Total reflection)",
+                "वर्ण-विक्षेपण (Dispersion)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "वर्ण-विक्षेपण (Dispersion)"
+        },
+        {
+            "id": 5,
+            "question": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है (In domestic electric circuit the colour of neutral wire is):",
+            "options": [
+                "लाल (Red)",
+                "हरा (Green)",
+                "काला (Black)",
+                "पीला (Yellow)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "काला (Black)"
+        },
+        {
+            "id": 6,
+            "question": "किस युक्ति में विभक्त वलय दिक परिवर्तक का कार्य करता है? (In which device does the split ring act as a commutator?)",
+            "options": [
+                "विद्युत मोटर (Electric motor)",
+                "गैल्वेनोमीटर (Galvanometer)",
+                "वोल्टमीटर (Voltmeter)",
+                "विद्युत जनित्र (Electric generator)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "विद्युत मोटर (Electric motor)"
+        },
+        {
+            "id": 7,
+            "question": "सौर ऊर्जा को सीधे विद्युत में बदलने वाली युक्ति को कहते हैं (The device which directly converts solar energy into electricity is):",
+            "options": [
+                "डेनियल सेल (Daniel cell)",
+                "सूखा सेल (Dry cell)",
+                "सौर सेल (Solar cell)",
+                "एवरेडी सेल (Eveready cell)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सौर सेल (Solar cell)"
+        },
+        {
+            "id": 8,
+            "question": "एक विद्युत बल्ब के तंतु का प्रतिरोध 1200 ओम है। यह बल्ब 220 वोल्ट के विद्युत स्रोत से कितनी विद्युत धारा लेगा? (The resistance of the filament of an electric bulb is 1200 ohms. How much electric current will the bulb draw from an electric source of 220 volts?)",
+            "options": [
+                "12 एम्पियर (12 ampere)",
+                "2.8 एम्पियर (2.8 ampere)",
+                "2 एम्पियर (2 ampere)",
+                "0.18 एम्पियर (0.18 ampere)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "0.18 एम्पियर (0.18 ampere)"
+        },
+        {
+            "id": 9,
+            "question": "एक सेल का विद्युत-वाहक बल 1.5 V है। 1 C आवेश गुजारने पर कार्य होगा (The electromotive force of a cell is 1.5 V. The work done on passing a charge of 1 C will be):",
+            "options": [
+                "1.5 V",
+                "3 J",
+                "1.5 J",
+                "0"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "1.5 J"
+        },
+        {
+            "id": 10,
+            "question": "इंद्रधनुष रंगीन क्यों होता है? (Why is a rainbow colourful?)",
+            "options": [
+                "जल कण द्वारा श्वेत प्रकाश के वर्ण-विक्षेपण के कारण (Dispersion of white light by water droplets)",
+                "जल कण द्वारा अवशोषण के कारण (Absorption of water droplets)",
+                "वायु द्वारा श्वेत प्रकाश के वर्ण विक्षेपण के कारण (Dispersion of white light by air)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "जल कण द्वारा श्वेत प्रकाश के वर्ण-विक्षेपण के कारण (Dispersion of white light by water droplets)"
+        },
+        {
+            "id": 11,
+            "question": "सघन माध्यम से विरल माध्यम में गमन करने पर आपतन कोण (i ≠ 0) और अपवर्तन कोण (r) में क्या संबंध होता है ? (What is the relation between angle of incidence (i ≠ 0) and angle of refraction (r) in moving from a denser medium to a rare medium ?)",
+            "options": [
+                "i > r",
+                "i = r",
+                "r > i",
+                "r = i = 0"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "r > i"
+        },
+        {
+            "id": 12,
+            "question": "निर्देशांक चिह्न परिपाटी में सभी दूरियाँ मापी जाती हैं (All distances are measured in the coordinate sign convention)",
+            "options": [
+                "वक्रता केन्द्र से (from centre of curvature)",
+                "ध्रुव से (from pole)",
+                "फोकस से (from focus)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "ध्रुव से (from pole)"
+        },
+        {
+            "id": 13,
+            "question": "निम्नलिखित में से किस धातु से सोलर सेल बना होता है ? (Which of the following metals is solar cell made of?)",
+            "options": [
+                "सोना (Gold)",
+                "सिलिकन (Silicon)",
+                "जस्ता (Zinc)",
+                "प्लेटीनम (Platinum)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "सिलिकन (Silicon)"
+        },
+        {
+            "id": 14,
+            "question": "लघुपथन के समय परिपथ का प्रतिरोध (During short circuit, the resistance of the circuit)",
+            "options": [
+                "परिवर्तित नहीं होता है (remains unchanged)",
+                "बहुत कम हो जाता है (becomes very low)",
+                "बहुत अधिक बढ़ जाता है (becomes very high)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "बहुत कम हो जाता है (becomes very low)"
+        },
+        {
+            "id": 15,
+            "question": "(100 W, 220 V ) के एक बल्ब के आड़े 100 V विभवांतर आरोपित करने पर प्रवाहित विद्युत धारा होगी (A potential difference of 100 V is applied across a (100 W, 220 V ) rated bulb. The current flowing will be)",
+            "options": [
+                "25/121 A",
+                "1 A",
+                "5/11 A",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "25/121 A"
+        },
+        {
+            "id": 16,
+            "question": "विद्युत बल्ब के फिलामेंट का द्रव्य होता है (The material of the filament of an electric bulb is)",
+            "options": [
+                "नाइक्रोम का (nichrome)",
+                "टंगस्टन का (tungsten)",
+                "लोहा का (iron)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "टंगस्टन का (tungsten)"
+        },
+        {
+            "id": 17,
+            "question": "प्रकाश का न्यूनतम तरंगदैर्ध्य है (The minimum wavelength of light is)",
+            "options": [
+                "550 nm",
+                "380 nm",
+                "100 nm",
+                "760 nm"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "380 nm"
+        },
+        {
+            "id": 18,
+            "question": "वैद्युत प्रतिरोध के कारण चालक में उत्पन्न होता है (Due to electric resistance, conductors acquire)",
+            "options": [
+                "प्रत्यास्थता (elasticity)",
+                "चुंबकत्व (magnetism)",
+                "ऊष्मीय प्रभाव (thermal effect)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "ऊष्मीय प्रभाव (thermal effect)"
+        },
+        {
+            "id": 19,
+            "question": "निम्नलिखित में से कौन पराग कोष में पाया जाता है ? (Which of the following is found in pollen sac ?)",
+            "options": [
+                "स्टिग्मा (Stigma)",
+                "परागकण (Pollen grains)",
+                "दलपुंज (Corolla)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "परागकण (Pollen grains)"
+        },
+        {
+            "id": 20,
+            "question": "निम्नांकित में से कौन पादप हार्मोन नहीं है ? (Which of the following is not a plant hormone ?)",
+            "options": [
+                "ऑक्सिन (Auxin)",
+                "आक्सीटोसिन (Oxytocin)",
+                "एथिलीन (Ethylene)",
+                "साइटोकाइनिन (Cytokinin)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "आक्सीटोसिन (Oxytocin)"
+        },
+        {
+            "id": 21,
+            "question": "अलैंगिक जनन की विधि है (Which is a method of asexual reproduction?)",
+            "options": [
+                "बीजाणुजनन (Sporogenesis)",
+                "मुकुलन (Budding)",
+                "विखंडन (Fission)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 22,
+            "question": "मेंडेल ने अपने प्रयोग के लिए किस पौधे का चयन किया था ? (Which plant did Mendel choose for his experiment ?)",
+            "options": [
+                "मटर का (Pea)",
+                "चना का (Gram)",
+                "गेहूँ का (Wheat)",
+                "इनमें से सभी का (All of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "मटर का (Pea)"
+        },
+        {
+            "id": 23,
+            "question": "निम्नांकित में से किनको 'जीव विज्ञान का पिता' कहा जाता है ? (Who among the following is called the 'Father of Biology'?)",
+            "options": [
+                "लामार्क को (Lamarck)",
+                "अरस्तू को (Aristotle)",
+                "चार्ल्स डार्विन को (Charles Darwin)",
+                "ग्रेगर जॉन मेंडेल को (Gregor Johann Mendel)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "अरस्तू को (Aristotle)"
+        },
+        {
+            "id": 24,
+            "question": "मानव युग्मक में लिंग गुणसूत्रों की संख्या होती है (The human gamete contains number of sex chromosomes.)",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "1"
+        },
+        {
+            "id": 25,
+            "question": "प्रकाश संश्लेषण की प्रकाश अभिक्रिया होती है (Light reaction of photosynthesis takes place in)",
+            "options": [
+                "क्लोरोप्लास्ट के स्ट्रोमा में (Stroma of chloroplast)",
+                "क्लोरोप्लास्ट के ग्राना में (Grana of chloroplast)",
+                "कोशिका द्रव्य में (Cytoplasm)",
+                "माइटोकॉन्ड्रिया में (Mitochondria)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "क्लोरोप्लास्ट के ग्राना में (Grana of chloroplast)"
+        },
+        {
+            "id": 26,
+            "question": "गुर्दे में उत्पादित मूत्र अस्थायी रूप से संग्रहीत होता है (Urine produced in kidney is stored temporarily in)",
+            "options": [
+                "मूत्रमार्ग में (Urethra)",
+                "मूत्रवाहिनी में (Ureters)",
+                "वृक्काणु में (Nephron)",
+                "मूत्राशय में (Urinary bladder)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "मूत्राशय में (Urinary bladder)"
+        },
+        {
+            "id": 27,
+            "question": "धोबिया सोडा का रासायनिक सूत्र क्या है ? (What is the chemical formula of washing soda ?)",
+            "options": [
+                "NaHCO₃",
+                "Na₂CO₃·10H₂O",
+                "KNO₃",
+                "CH₃COOH"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "Na₂CO₃·10H₂O"
+        },
+        {
+            "id": 28,
+            "question": "निम्नांकित में से कौन अधातु है ? (Which of the following is a non-metal?)",
+            "options": [
+                "Cu",
+                "P",
+                "Fe",
+                "Ni"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "P"
+        },
+        {
+            "id": 29,
+            "question": "कैल्सियम की परमाणु संख्या क्या है ? (What is the atomic number of calcium?)",
+            "options": [
+                "12",
+                "18",
+                "20",
+                "25"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "20"
+        },
+        {
+            "id": 30,
+            "question": "मेंडलीव की आवर्त सारणी में वर्गों की संख्या कितनी है ? (How many groups are there in the Mendeleev's periodic table ?)",
+            "options": [
+                "10",
+                "9",
+                "8",
+                "7"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "8"
+        },
+        {
+            "id": 31,
+            "question": "बोरोन का परमाणु भार है ? (What is the atomic weight of Boron ?)",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "11"
+        },
+        {
+            "id": 32,
+            "question": "कैलामाइन निम्नांकित में से किस धातु का अयस्क है ? (Calamine is the ore of which of the following metals ?)",
+            "options": [
+                "Zn",
+                "Al",
+                "Fe",
+                "Hg"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "Zn"
+        },
+        {
+            "id": 33,
+            "question": "अमोनिया के एक अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं का अनुपात है (The ratio of the atoms of nitrogen and hydrogen in a molecule of ammonia is)",
+            "options": [
+                "3:1",
+                "1:3",
+                "2:1",
+                "1:2"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "1:3"
+        },
+        {
+            "id": 34,
+            "question": "जैव आवर्धन प्रदर्शित करनेवाला रसायन है (The chemical showing biomagnification is)",
+            "options": [
+                "CFC",
+                "DDT",
+                "NADP",
+                "ATP"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "DDT"
+        },
+        {
+            "id": 35,
+            "question": "वायुमंडल में CO₂ का प्रतिशत क्या है ? (What is the percentage of CO₂ in the atmosphere ?)",
+            "options": [
+                "0.3%",
+                "0.03%",
+                "0.003%",
+                "0.0003 %"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "0.03%"
+        },
+        {
+            "id": 36,
+            "question": "पौधों के उत्सर्जी पदार्थ हैं (The excretory substance(s) of plants is/are)",
+            "options": [
+                "टैनिन (Tannin)",
+                "गोंद (Gum)",
+                "रेजिन (Resin)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 37,
+            "question": "डायलिसिस मशीन द्वारा रक्त का शुद्धिकरण की प्रक्रिया कहलाती है (The process of purification of blood by dialysis machine is called)",
+            "options": [
+                "डायलाइसेट (dialysate)",
+                "डायलाइजर (dialyser)",
+                "सेलोफेन (cellophane)",
+                "हिमोडायलिसिस (haemodialysis)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "हिमोडायलिसिस (haemodialysis)"
+        },
+        {
+            "id": 38,
+            "question": "निम्नलिखित में कौन गुरुत्वानुवर्तन का उदाहरण है ? (Which of the following is an example of geotropism?)",
+            "options": [
+                "फल की वृद्धि (Growth of fruit)",
+                "जड़ की वृद्धि (Growth of root)",
+                "फूल की वृद्धि (Growth of flower)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "जड़ की वृद्धि (Growth of root)"
+        },
+        {
+            "id": 39,
+            "question": "पूर्ण विकसित अंडाशय कहलाता है (The fully developed ovary is called as)",
+            "options": [
+                "फल (fruit)",
+                "बीज (seed)",
+                "बीजांड (ovule)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 0,
+            "year": 2023,
+            "correctAnswer": "फल (fruit)"
+        },
+        {
+            "id": 40,
+            "question": "पेंटेन जिसका अणुसूत्र C₅H₁₂ है, के कितने संरचना समावयवी संभव हैं ? (How many structure-isomers are possible for pentane whose molecular formula is C₅H₁₂?)",
+            "options": [
+                "5",
+                "4",
+                "3",
+                "2"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "3"
+        },
+        {
+            "id": 41,
+            "question": "कार्बन आवर्त सारणी के किस वर्ग का सदस्य है ? (Carbon is a member of which group of periodic table ?)",
+            "options": [
+                "3",
+                "13",
+                "4",
+                "14"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "14"
+        },
+        {
+            "id": 42,
+            "question": "घेघा रोग पनपता है (Goitre disease develops due to)",
+            "options": [
+                "मोटापा से (obesity)",
+                "चीनी की कमी से (lack of sugar)",
+                "आयोडीन की कमी से (iodine deficiency)",
+                "रक्त की कमी से (lack of blood)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "आयोडीन की कमी से (iodine deficiency)"
+        },
+        {
+            "id": 43,
+            "question": "रंध्र मुख्यतः पाये जाते हैं (Stomata are mainly found on)",
+            "options": [
+                "जड़ों पर (roots)",
+                "पत्तियों पर (leaves)",
+                "तना पर (stems)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "पत्तियों पर (leaves)"
+        },
+        {
+            "id": 44,
+            "question": "रक्तचाप मापने के उपकरण को कहते हैं (The device for measuring blood pressure is called)",
+            "options": [
+                "स्टेथोस्कोप (stethoscope)",
+                "लैक्टोमीटर (lactometer)",
+                "ऐमीटर (ammeter)",
+                "स्फिग्मोमैनोमीटर (sphygmomanometer)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "स्फिग्मोमैनोमीटर (sphygmomanometer)"
+        },
+        {
+            "id": 45,
+            "question": "परागकोष में क्या पाये जाते हैं ? (What is found in anther?)",
+            "options": [
+                "अंडाशय (Ovary)",
+                "दलपुंज (Corolla)",
+                "स्त्रीकेसर (Gynoecium)",
+                "परागकण (Pollen grains)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "परागकण (Pollen grains)"
+        },
+        {
+            "id": 46,
+            "question": "लसिका का रंग होता है (The colour of lymph is)",
+            "options": [
+                "हरा (green)",
+                "लाल (red)",
+                "हल्का नीला (light blue)",
+                "हल्का पीला (light yellow)"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "हल्का पीला (light yellow)"
+        },
+        {
+            "id": 47,
+            "question": "निम्नांकित में कौन एक जैव अनिम्नीकरणीय पदार्थ है ? (Which among the following is a non-biodegradable material ?)",
+            "options": [
+                "कागज (Paper)",
+                "वाहित मल (Sewage)",
+                "लकड़ी (Wood)",
+                "DDT"
+            ],
+            "correct": 3,
+            "year": 2023,
+            "correctAnswer": "DDT"
+        },
+        {
+            "id": 48,
+            "question": "सेल का विद्युत-वाहक बल है (Electromotive force of a cell is)",
+            "options": [
+                "सेल द्वारा इकाई आवेश पर लगाया गया बल (the force exerted by the cell on unit charge)",
+                "विभवांतर (potential difference)",
+                "सेल द्वारा इकाई आवेश पर किया गया कार्य (the work done by the cell on unit charge)",
+                "इनमें से कोई नहीं (none of these)"
+            ],
+            "correct": 2,
+            "year": 2023,
+            "correctAnswer": "सेल द्वारा इकाई आवेश पर किया गया कार्य (the work done by the cell on unit charge)"
+        },
+        {
+            "id": 49,
+            "question": "आवेश का S.I. मात्रक है (The S.I. unit of charge is)",
+            "options": [
+                "ओम (Ω) (ohm)",
+                "कूलॉम (C) (coulomb)",
+                "ऐम्पीयर (A) (ampere)",
+                "वोल्ट (V) (volt)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "कूलॉम (C) (coulomb)"
+        },
+        {
+            "id": 50,
+            "question": "दूर-दृष्टि दोष वाला नेत्र साफ-साफ देख सकता है (Eye with farsightedness can see clearly)",
+            "options": [
+                "निकट की वस्तुओं को (near objects)",
+                "दूर की वस्तुओं को (far objects)",
+                "केवल छोटी वस्तुओं को (only small things)",
+                "केवल बड़ी वस्तुओं को (only big things)"
+            ],
+            "correct": 1,
+            "year": 2023,
+            "correctAnswer": "दूर की वस्तुओं को (far objects)"
+        }
+    ]
+}

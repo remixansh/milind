@@ -1,0 +1,658 @@
+{
+    "date": "0205",
+    "dateDisplay": "05 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "निम्न में से कौन मृदा निर्माण का कारक है ? (Which of the following is a factor of soil formation ?)",
+            "options": [
+                "जलवायु (Climate)",
+                "वनस्पति (Vegetation)",
+                "चट्टान (Rocks)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 2,
+            "question": "निम्न में से कौन किसी रेल मंडल का मुख्यालय नहीं है ? (Which of the following is not the headquarters of any railway zone ?)",
+            "options": [
+                "बिलासपुर (Bilaspur)",
+                "हाजीपुर (Hajipur)",
+                "इंदौर (Indore)",
+                "कोलकाता (Kolkata)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "इंदौर (Indore)"
+        },
+        {
+            "id": 3,
+            "question": "निम्न में से कौन विशेष आर्थिक क्षेत्र पश्चिम बंगाल में है ? (Which of the following special economic zones is in West Bengal ?)",
+            "options": [
+                "सूरत (Surat)",
+                "सांताक्रूज (Santa Cruz)",
+                "कांडला (Kandla)",
+                "फाल्टा (Falta)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "फाल्टा (Falta)"
+        },
+        {
+            "id": 4,
+            "question": "दक्षिण भारत की सबसे बड़ी नदी घाटी परियोजना कौन-सी है ? (Which is the biggest river valley project of South India ?)",
+            "options": [
+                "तुंगभद्रा (Tungabhadra)",
+                "शारावती (Sharavati)",
+                "चंबल (Chambal)",
+                "हीराकुंड (Hirakud)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "तुंगभद्रा (Tungabhadra)"
+        },
+        {
+            "id": 5,
+            "question": "पर्यावरण संरक्षण हेतु पहला विश्व शिखर सम्मेलन कब आयोजित हुआ ? (When was the First World Summit held for environmental protection ?)",
+            "options": [
+                "1972",
+                "1985",
+                "1992",
+                "1995"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "1992"
+        },
+        {
+            "id": 6,
+            "question": "बिहार का कौन जिला जूट का सबसे बड़ा उत्पादक है ? (Which district of Bihar is the largest producer of jute ?)",
+            "options": [
+                "गया (Gaya)",
+                "भोजपुर (Bhojpur)",
+                "पूर्णिया (Purnea)",
+                "कैमूर (Kaimur)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "पूर्णिया (Purnea)"
+        },
+        {
+            "id": 7,
+            "question": "निम्न में से किसे 'बिहार का शोक' कहा जाता है ? (Which of the following is called 'Sorrow of Bihar' ?)",
+            "options": [
+                "सोन (Son)",
+                "गंडक (Gandak)",
+                "कोसी (Kosi)",
+                "पुनपुन (Punpun)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "कोसी (Kosi)"
+        },
+        {
+            "id": 8,
+            "question": "बॉक्साइट के उत्पादन में कौन राज्य अग्रणी है ? (Which state is leading in the production of bauxite ?)",
+            "options": [
+                "गुजरात (Gujarat)",
+                "ओडिशा (Odisha)",
+                "झारखंड (Jharkhand)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "ओडिशा (Odisha)"
+        },
+        {
+            "id": 9,
+            "question": "बोकारो स्टील प्लांट किस पंचवर्षीय योजना में बना ? (Bokaro Steel Plant was built in which Five-Year Plan ?)",
+            "options": [
+                "दूसरी (Second)",
+                "तीसरी (Third)",
+                "चौथी (Fourth)",
+                "पाँचवीं (Fifth)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "तीसरी (Third)"
+        },
+        {
+            "id": 10,
+            "question": "निम्न में से किसे नवीन जलोढ़ मिट्टी कहा जाता है ? (Which of the following is called new alluvial soil ?)",
+            "options": [
+                "खादर (Khadar)",
+                "बांगर (Bangar)",
+                "रेगूर (Regur)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "खादर (Khadar)"
+        },
+        {
+            "id": 11,
+            "question": "निम्न में से कौन सूती वस्त्र उत्पादन में अग्रणी है ? (Which of the following is leading in the production of cotton textile ?)",
+            "options": [
+                "कोलकाता (Kolkata)",
+                "नागपुर (Nagpur)",
+                "मुम्बई (Mumbai)",
+                "सूरत (Surat)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "मुम्बई (Mumbai)"
+        },
+        {
+            "id": 12,
+            "question": "संविधान की 12 वीं अनुसूची का संबंध किससे है ? (What is the 12th schedule of the constitution related to?)",
+            "options": [
+                "नगरपालिका का कार्यक्षेत्र (Jurisdiction of municipality)",
+                "नगर-निगम के आय स्रोत (Income sources of municipal corporation)",
+                "राज्य के नीति निदेशक तत्व (Directive principles of state)",
+                "मौलिक अधिकार (Fundamental rights)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "नगरपालिका का कार्यक्षेत्र (Jurisdiction of municipality)"
+        },
+        {
+            "id": 13,
+            "question": "हिन्दी के अलावा अन्य कितनी भाषाओं को संविधान द्वारा अनुसूचित भाषा के रूप में मान्यता प्राप्त है ? (How many other languages are recognised as scheduled languages by the constitution besides Hindi ?)",
+            "options": [
+                "20",
+                "21",
+                "18",
+                "19"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "21"
+        },
+        {
+            "id": 14,
+            "question": "राजनीतिक दलों की नींव सर्वप्रथम किस देश में पड़ी ? (In which country was the foundation of political parties laid for the first time?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "भारत (India)",
+                "फ्रांस (France)",
+                "संयुक्त राज्य अमेरिका (United States of America)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "ब्रिटेन (Britain)"
+        },
+        {
+            "id": 15,
+            "question": "नर्मदा घाटी परियोजना का संबंध किन राज्यों से है ? (With which states is the Narmada Valley Project related ?)",
+            "options": [
+                "गुजरात, राजस्थान, उत्तर प्रदेश (Gujarat, Rajasthan, Uttar Pradesh)",
+                "महाराष्ट्र, गोवा, कर्नाटक (Maharashtra, Goa, Karnataka)",
+                "गुजरात, महाराष्ट्र, मध्य प्रदेश (Gujarat, Maharashtra, Madhya Pradesh)",
+                "महाराष्ट्र, मध्य प्रदेश, छत्तीसगढ़ (Maharashtra, Madhya Pradesh, Chhattisgarh)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "गुजरात, महाराष्ट्र, मध्य प्रदेश (Gujarat, Maharashtra, Madhya Pradesh)"
+        },
+        {
+            "id": 16,
+            "question": "वेस्ट इंडिज संघ की स्थापना कब हुई ? (When was the West Indies Federation established?)",
+            "options": [
+                "1950",
+                "1958",
+                "1973",
+                "1999"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1958"
+        },
+        {
+            "id": 17,
+            "question": "स्थानीय स्वशासन को संविधान के किस अनुच्छेद में स्थान दिया गया है ? (In which article of the constitution has the local self government been given a place?)",
+            "options": [
+                "अनुच्छेद 31 (Article 31)",
+                "अनुच्छेद 35 (Article 35)",
+                "अनुच्छेद 40 (Article 40)",
+                "अनुच्छेद 42 (Article 42)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अनुच्छेद 40 (Article 40)"
+        },
+        {
+            "id": 18,
+            "question": "निम्न में से किसे 'लोकतंत्र का प्राण' कहा गया है ? (Which of the following has been called the 'lifeline of democracy'?)",
+            "options": [
+                "स्थानीय स्वशासन (Local self government)",
+                "राजनीतिक दल (Political parties)",
+                "मौलिक अधिकार (Fundamental Rights)",
+                "नीति-निदेशक तत्व (Directive Principles)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "राजनीतिक दल (Political parties)"
+        },
+        {
+            "id": 19,
+            "question": "निम्न में से कहाँ एकात्मक शासन व्यवस्था है ? (Which of the following has a unitary system of government?)",
+            "options": [
+                "भारत (India)",
+                "इंग्लैण्ड (England)",
+                "संयुक्त राज्य अमेरिका (United States of America)",
+                "ऑस्ट्रेलिया (Australia)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "इंग्लैण्ड (England)"
+        },
+        {
+            "id": 20,
+            "question": "निम्न में से किसकी नियुक्ति राज्य सरकार करती है ? (Who of the following is appointed by the state government?)",
+            "options": [
+                "महापौर (Mayor)",
+                "मुखिया (Mukhiya)",
+                "नगर-आयुक्त (City Commissioner)",
+                "इनमें से सभी (All of them)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "नगर-आयुक्त (City Commissioner)"
+        },
+        {
+            "id": 21,
+            "question": "गठबंधन की सरकार बनाने की संभावना निम्न में से किस व्यवस्था में होती है ? (In which of the following systems, there is a possibility of forming a coalition government ?)",
+            "options": [
+                "एक-दलीय व्यवस्था (One-party system)",
+                "द्विदलीय व्यवस्था (Two-party system)",
+                "बहुदलीय व्यवस्था (Multi-party system)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "बहुदलीय व्यवस्था (Multi-party system)"
+        },
+        {
+            "id": 22,
+            "question": "निम्न में से क्या क्षेत्रवाद की भावना का एक कुपरिणाम है ? (Which of the following is a bad result of the spirit of regionalism?)",
+            "options": [
+                "अपने क्षेत्र से लगाव (Fondness of own region)",
+                "अलगाववाद (Separatism)",
+                "राष्ट्रहित (National interest)",
+                "राष्ट्रीय एकता (National integrity)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "अलगाववाद (Separatism)"
+        },
+        {
+            "id": 23,
+            "question": "कार्यपालक पदाधिकारी की नियुक्ति कहाँ की जाती है ? (Where is the executive officer appointed ?)",
+            "options": [
+                "ग्राम पंचायत (Gram Panchayat)",
+                "नगर निगम (Municipal Corporation)",
+                "नगर पंचायत (Nagar Panchayat)",
+                "नगर परिषद् (Nagar Parishad)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "नगर पंचायत (Nagar Panchayat)"
+        },
+        {
+            "id": 24,
+            "question": "निम्न में से कहाँ सामाजिक विभाजन का आधार भाषा था ? (In where of the following was the social division based on language ?)",
+            "options": [
+                "बेल्जियम (Belgium)",
+                "उत्तरी आयरलैंड (Northern Ireland)",
+                "बोलिविया (Bolivia)",
+                "नेपाल (Nepal)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "बेल्जियम (Belgium)"
+        },
+        {
+            "id": 25,
+            "question": "संविधान सभा का गठन कब किया गया ? (When was the Constituent Assembly formed ?)",
+            "options": [
+                "1945",
+                "1946",
+                "1947",
+                "1948"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1946"
+        },
+        {
+            "id": 26,
+            "question": "योजना आयोग का गठन कब हुआ ? (When was the Planning Commission formed ?)",
+            "options": [
+                "1948",
+                "1950",
+                "1952",
+                "1954"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1950"
+        },
+        {
+            "id": 27,
+            "question": "भारत की पहली मानव विकास रिपोर्ट कब जारी की गई ? (When was the first Human Development Report of India released?)",
+            "options": [
+                "मई, 2000 (May 2000)",
+                "अप्रैल, 2001 (April 2001)",
+                "अप्रैल, 2002 (April 2002)",
+                "अगस्त, 2005 (August 2005)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अप्रैल, 2002 (April 2002)"
+        },
+        {
+            "id": 28,
+            "question": "गरीबी रेखा निर्धारण का कैलोरी मापदण्ड किसने दिया ? (Who gave the calorie criteria for determining the poverty line?)",
+            "options": [
+                "तेंदुलकर समिति (Tendulkar Committee)",
+                "योजना आयोग (Planning Commission)",
+                "राष्ट्रीय विकास परिषद् (National Development Council)",
+                "नीति आयोग (NITI Aayog)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "योजना आयोग (Planning Commission)"
+        },
+        {
+            "id": 29,
+            "question": "भूमि का पारिश्रमिक क्या कहलाता है ? (What is the remuneration of land called ?)",
+            "options": [
+                "ब्याज (Interest)",
+                "मजदूरी (Wages)",
+                "लाभ (Profit)",
+                "लगान (Rent)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "लगान (Rent)"
+        },
+        {
+            "id": 30,
+            "question": "भारत का सर्वाधिक प्रति व्यक्ति आय वाला राज्य कौन है ? (Which state of India has the highest per capita Income ?)",
+            "options": [
+                "गोवा (Goa)",
+                "पंजाब (Punjab)",
+                "तेलंगाना (Telangana)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "गोवा (Goa)"
+        },
+        {
+            "id": 31,
+            "question": "देश की सीमा के अंदर एक वर्ष में उत्पादित सभी अंतिम वस्तुओं एवं सेवाओं का मौद्रिक मूल्य क्या कहलाता है ? (What is the monetary value of all final goods and services produced within a country in a year called ?)",
+            "options": [
+                "सकल राष्ट्रीय उत्पाद (Gross National Product)",
+                "सकल घरेलू उत्पाद (Gross Domestic Product)",
+                "शुद्ध घरेलू उत्पाद (Net Domestic product)",
+                "शुद्ध राष्ट्रीय उत्पाद (Net National product)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सकल घरेलू उत्पाद (Gross Domestic Product)"
+        },
+        {
+            "id": 32,
+            "question": "प्रो० पी० सी० महालनोबिस की अध्यक्षता में किसका गठन किया गया ? (Which was formed under the chairmanship of Prof. P. C Mahalanobis?)",
+            "options": [
+                "केन्द्रीय सांख्यिकीय संगठन (Central Statistical Organization)",
+                "मानव विकास सूचकांक (Human Development Index)",
+                "राष्ट्रीय आय समिति (National Income Committee)",
+                "योजना आयोग (Planning Commission)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "राष्ट्रीय आय समिति (National Income Committee)"
+        },
+        {
+            "id": 33,
+            "question": "निम्न में से किस देश की मुद्रा रुपया है? (Rupee is the currency of which of the following countries?)",
+            "options": [
+                "भारत (India)",
+                "नेपाल (Nepal)",
+                "पाकिस्तान (Pakistan)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 34,
+            "question": "बचत क्या है ? (What is saving?)",
+            "options": [
+                "उपभोग तथा बचत का अंतर (Difference between consumption and saving)",
+                "आय तथा उपभोग का अंतर (Difference between income and consumption)",
+                "उपभोग तथा उत्पादन का अंतर (Difference between consumption and production)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "आय तथा उपभोग का अंतर (Difference between income and consumption)"
+        },
+        {
+            "id": 35,
+            "question": "निम्न में से क्या साख पत्र नहीं है ? (Which of the following is not a letter of credit ?)",
+            "options": [
+                "चेक (Cheque)",
+                "बैंक ड्राफ्ट (Bank draft)",
+                "अधिविकर्ष (Overdraft)",
+                "प्रतिज्ञा पत्र (Promissory note)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "अधिविकर्ष (Overdraft)"
+        },
+        {
+            "id": 36,
+            "question": "निम्न में से कौन पूँजी बाजार का अंग है ? (Which of the following is a part of capital market?)",
+            "options": [
+                "प्रतिभूति बाजार (Securities market)",
+                "औद्योगिक बाजार (Industrial market)",
+                "विकास वित्त संस्थान (Development financial institution)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 37,
+            "question": "सहकारित्ता साख समिति विधान कब पारित हुआ ? (When was the Cooperative Credit Society Act passed ?)",
+            "options": [
+                "1904",
+                "1912",
+                "1914",
+                "1919"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "1904"
+        },
+        {
+            "id": 38,
+            "question": "भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र का योगदान सर्वाधिक है ? (Which sector contributes the most to India's Gross Domestic Product (GDP) ?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "औद्योगिक क्षेत्र (Industrial sector)",
+                "सेवा क्षेत्र (Service sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "सेवा क्षेत्र (Service sector)"
+        },
+        {
+            "id": 39,
+            "question": "भारत में LPG नीति कब अपनाई गई ? (When was the LPG policy adopted in India ?)",
+            "options": [
+                "1990",
+                "1991",
+                "1995",
+                "2001"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1991"
+        },
+        {
+            "id": 40,
+            "question": "खनन को किस क्षेत्र में शामिल करते हैं ? (Mining is included in which sector?)",
+            "options": [
+                "कृषि क्षेत्र (Agriculture sector)",
+                "औद्योगिक क्षेत्र (Industrial sector)",
+                "सेवा क्षेत्र (Service sector)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "कृषि क्षेत्र (Agriculture sector)"
+        },
+        {
+            "id": 41,
+            "question": "व्यापारिक बैंक का एजेन्सी कार्य क्या है ? (Which is the agency function of commercial bank?)",
+            "options": [
+                "ऋण देना (To give loan)",
+                "प्रतिभूतियों का क्रय-विक्रय करना (Buying and selling of securities)",
+                "लॉकर सुविधा देना (To provide locker)",
+                "जमा स्वीकार करना (To accept deposits)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "प्रतिभूतियों का क्रय-विक्रय करना (Buying and selling of securities)"
+        },
+        {
+            "id": 42,
+            "question": "सहकारिता का मूल तत्व क्या है ? (What is the basic element of cooperative?)",
+            "options": [
+                "आपसी सहयोग (Mutual cooperation)",
+                "स्वैच्छिक सदस्यता (Voluntary membership)",
+                "जनतांत्रिक संचालन (Democratic functioning)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 43,
+            "question": "निम्न में से किसके द्वारा पूँजी निर्माण होता है ? (Which of the following leads to capital formation?)",
+            "options": [
+                "उपभोग (Consumption)",
+                "विनिमय (Exchange)",
+                "बचत (Saving)",
+                "विनियोग (Investment)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "विनियोग (Investment)"
+        },
+        {
+            "id": 44,
+            "question": "वर्तमान में आर्थिक नीति निर्धारण का कार्य किस संस्था द्वारा किया जाता है ? (At present the work of economic policy making is done by which institution?)",
+            "options": [
+                "योजना आयोग (Planning Commission)",
+                "राष्ट्रीय विकास परिषद (National Development Council)",
+                "नीति आयोग (NITI Aayog)",
+                "भारतीय रिजर्व बैंक (Reserve Bank of India)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "नीति आयोग (NITI Aayog)"
+        },
+        {
+            "id": 45,
+            "question": "भावी पीढ़ी को ध्यान में रखकर किया जाने वाला विकास क्या कहलाता है ? (What is the development done keeping in mind the future generation called ?)",
+            "options": [
+                "सतत् विकास (Sustainable development)",
+                "समावेशी विकास (Inclusive development)",
+                "आर्थिक विकास (Economic development)",
+                "सामाजिक विकास (Social development)"
+            ],
+            "correct": 0,
+            "year": 2024,
+            "correctAnswer": "सतत् विकास (Sustainable development)"
+        },
+        {
+            "id": 46,
+            "question": "पहली पंचवर्षीय योजना की अवधि क्या थी ? (What was the period of first five-year plan ?)",
+            "options": [
+                "1947 से 1952 (1947 to 1952)",
+                "1948 से 1953 (1948 to 1953)",
+                "1950 से 1955 (1950 to 1955)",
+                "1951 से 1956 (1951 to 1956)"
+            ],
+            "correct": 3,
+            "year": 2024,
+            "correctAnswer": "1951 से 1956 (1951 to 1956)"
+        },
+        {
+            "id": 47,
+            "question": "भारतीय रिजर्व बैंक का गठन कब हुआ ? (When was Reserve Bank of India established ?)",
+            "options": [
+                "1921",
+                "1935",
+                "1949",
+                "1950"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "1935"
+        },
+        {
+            "id": 48,
+            "question": "विमुद्रीकरण कब हुआ (When did demonetization take place)",
+            "options": [
+                "नवंबर, 2015 (November, 2015)",
+                "दिसंबर, 2015 (December, 2015)",
+                "नवंबर, 2016 (November, 2016)",
+                "नवंबर, 2017 (November, 2017)"
+            ],
+            "correct": 2,
+            "year": 2024,
+            "correctAnswer": "नवंबर, 2016 (November, 2016)"
+        },
+        {
+            "id": 49,
+            "question": "पंचायत चुनाव की शुरुआत किस राज्य से हुई ? (Panchayat elections were started from which state ?)",
+            "options": [
+                "बिहार (Bihar)",
+                "राजस्थान (Rajasthan)",
+                "उत्तर प्रदेश (Uttar Pradesh)",
+                "मद्रास (Madras)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "राजस्थान (Rajasthan)"
+        },
+        {
+            "id": 50,
+            "question": "चिली में किसके विरुद्ध जनसंघर्ष हुआ था ? (Against whom did the mass struggle happen in Chile?)",
+            "options": [
+                "राजशाही (Monarchy)",
+                "सैनिक तानाशाही (Military dictatorship)",
+                "अधिनायकवाद (Dictatorship)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2024,
+            "correctAnswer": "सैनिक तानाशाही (Military dictatorship)"
+        }
+    ]
+}

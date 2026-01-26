@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Vercel
+.vercel
+
+# IDEs
+.vscode/
+.idea/
+
+# Analysis & Temp Files
+analysis_state.json
+analysis_state_social.json
+download.json
+answers_db.json
+
+# Raw Data (Optional - Keep if needed for regeneration)
+sample_data/
+
+# OS Metadata
+.DS_Store
+Thumbs.db

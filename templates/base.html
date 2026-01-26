@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}BSEB Super 50{% endblock %}</title>
+
+    <!-- Tailwind CSS CDN with fallback -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        // Check if Tailwind loaded, else use fallback
+        if (typeof tailwind !== 'undefined') {
+            tailwind.config = {
+                theme: {
+                    extend: {
+                        fontFamily: {
+                            sans: ['system-ui', '-apple-system', 'sans-serif'],
+                        },
+                        colors: {
+                            emerald: {
+                                50: '#ecfdf5',
+                                100: '#d1fae5',
+                                200: '#a7f3d0',
+                                300: '#6ee7b7',
+                                400: '#34d399',
+                                500: '#10b981',
+                                600: '#059669',
+                                700: '#047857',
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Fallback styles when CDN is unavailable -->
+    <style>
+        /* Base reset and fallback styles */
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #f0fdf4;
+            color: #1f2937;
+            min-height: 100vh;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* Fallback utility classes (used when Tailwind CDN fails) */
+        .min-h-screen {
+            min-height: 100vh;
+        }
+
+        .bg-gradient-to-br {
+            background: linear-gradient(to bottom right, #ecfdf5, #fff, #ecfdf5);
+        }
+
+        .from-emerald-50 {
+            --tw-gradient-from: #ecfdf5;
+        }
+
+        .to-emerald-50\/50 {
+            --tw-gradient-to: rgba(236, 253, 245, 0.5);
+        }
+
+        .pb-20 {
+            padding-bottom: 5rem;
+        }
+
+        .pb-24 {
+            padding-bottom: 6rem;
+        }
+
+        .pb-6 {
+            padding-bottom: 1.5rem;
+        }
+
+        .sticky {
+            position: sticky;
+        }
+
+        .top-0 {
+            top: 0;
+        }
+
+        .z-40 {
+            z-index: 40;
+        }
+
+        .z-50 {
+            z-index: 50;
+        }
+
+        .backdrop-blur-lg {
+            backdrop-filter: blur(16px);
+        }
+
+        .bg-white\/80 {
+            background: rgba(255, 255, 255, 0.8);
+        }
+
+        .border-b {
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .border-gray-100 {
+            border-color: #f3f4f6;
+        }
+
+        .max-w-lg {
+            max-width: 32rem;
+            margin: 0 auto;
+        }
+
+        .max-w-2xl {
+            max-width: 42rem;
+            margin: 0 auto;
+        }
+
+        .mx-auto {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .px-4 {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        .py-4 {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+        }
+
+        .py-3 {
+            padding-top: 0.75rem;
+            padding-bottom: 0.75rem;
+        }
+
+        .py-6 {
+            padding-top: 1.5rem;
+            padding-bottom: 1.5rem;
+        }
+
+        .p-4 {
+            padding: 1rem;
+        }
+
+        .p-5 {
+            padding: 1.25rem;
+        }
+
+        .flex {
+            display: flex;
+        }
+
+        .grid {
+            display: grid;
+        }
+
+        .grid-cols-3 {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        .gap-3 {
+            gap: 0.75rem;
+        }
+
+        .gap-4 {
+            gap: 1rem;
+        }
+
+        .items-center {
+            align-items: center;
+        }
+
+        .justify-between {
+            justify-content: space-between;
+        }
+
+        .justify-around {
+            justify-content: space-around;
+        }
+
+        .flex-col {
+            flex-direction: column;
+        }
+
+        .flex-1 {
+            flex: 1;
+        }
+
+        .w-10 {
+            width: 2.5rem;
+        }
+
+        .h-10 {
+            height: 2.5rem;
+        }
+
+        .w-5 {
+            width: 1.25rem;
+        }
+
+        .h-5 {
+            height: 1.25rem;
+        }
+
+        .w-6 {
+            width: 1.5rem;
+        }
+
+        .h-6 {
+            height: 1.5rem;
+        }
+
+        .w-8 {
+            width: 2rem;
+        }
+
+        .h-8 {
+            height: 2rem;
+        }
+
+        .w-14 {
+            width: 3.5rem;
+        }
+
+        .h-14 {
+            height: 3.5rem;
+        }
+
+        .rounded-xl {
+            border-radius: 0.75rem;
+        }
+
+        .rounded-2xl {
+            border-radius: 1rem;
+        }
+
+        .rounded-lg {
+            border-radius: 0.5rem;
+        }
+
+        .rounded-full {
+            border-radius: 9999px;
+        }
+
+        .bg-white {
+            background: #fff;
+        }
+
+        .bg-gray-100 {
+            background: #f3f4f6;
+        }
+
+        .bg-emerald-50 {
+            background: #ecfdf5;
+        }
+
+        .bg-emerald-100 {
+            background: #d1fae5;
+        }
+
+        .bg-emerald-500 {
+            background: #10b981;
+        }
+
+        .bg-emerald-600 {
+            background: #059669;
+        }
+
+        .text-white {
+            color: #fff;
+        }
+
+        .text-gray-400 {
+            color: #9ca3af;
+        }
+
+        .text-gray-500 {
+            color: #6b7280;
+        }
+
+        .text-gray-600 {
+            color: #4b5563;
+        }
+
+        .text-gray-800 {
+            color: #1f2937;
+        }
+
+        .text-gray-900 {
+            color: #111827;
+        }
+
+        .text-emerald-100 {
+            color: #d1fae5;
+        }
+
+        .text-emerald-600 {
+            color: #059669;
+        }
+
+        .text-emerald-700 {
+            color: #047857;
+        }
+
+        .text-xs {
+            font-size: 0.75rem;
+        }
+
+        .text-sm {
+            font-size: 0.875rem;
+        }
+
+        .text-base {
+            font-size: 1rem;
+        }
+
+        .text-lg {
+            font-size: 1.125rem;
+        }
+
+        .text-xl {
+            font-size: 1.25rem;
+        }
+
+        .text-2xl {
+            font-size: 1.5rem;
+        }
+
+        .text-5xl {
+            font-size: 3rem;
+        }
+
+        .font-medium {
+            font-weight: 500;
+        }
+
+        .font-semibold {
+            font-weight: 600;
+        }
+
+        .font-bold {
+            font-weight: 700;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+        }
+
+        .tracking-wider {
+            letter-spacing: 0.05em;
+        }
+
+        .leading-relaxed {
+            line-height: 1.625;
+        }
+
+        .mb-1 {
+            margin-bottom: 0.25rem;
+        }
+
+        .mb-2 {
+            margin-bottom: 0.5rem;
+        }
+
+        .mb-4 {
+            margin-bottom: 1rem;
+        }
+
+        .mb-6 {
+            margin-bottom: 1.5rem;
+        }
+
+        .mt-1 {
+            margin-top: 0.25rem;
+        }
+
+        .mt-2 {
+            margin-top: 0.5rem;
+        }
+
+        .mt-3 {
+            margin-top: 0.75rem;
+        }
+
+        .mt-4 {
+            margin-top: 1rem;
+        }
+
+        .mt-6 {
+            margin-top: 1.5rem;
+        }
+
+        .ml-11 {
+            margin-left: 2.75rem;
+        }
+
+        .pt-3 {
+            padding-top: 0.75rem;
+        }
+
+        .pt-4 {
+            padding-top: 1rem;
+        }
+
+        .border {
+            border: 1px solid;
+        }
+
+        .border-2 {
+            border: 2px solid;
+        }
+
+        .border-transparent {
+            border-color: transparent;
+        }
+
+        .border-gray-200 {
+            border-color: #e5e7eb;
+        }
+
+        .border-emerald-200 {
+            border-color: #a7f3d0;
+        }
+
+        .border-emerald-400 {
+            border-color: #34d399;
+        }
+
+        .border-emerald-500 {
+            border-color: #10b981;
+        }
+
+        .border-t {
+            border-top: 1px solid #e5e7eb;
+        }
+
+        .shadow-sm {
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .shadow-lg {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .shadow-xl {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .shadow-emerald-500\/20 {
+            box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.2);
+        }
+
+        .shadow-emerald-500\/30 {
+            box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.3);
+        }
+
+        .overflow-hidden {
+            overflow: hidden;
+        }
+
+        .space-y-2>*+* {
+            margin-top: 0.5rem;
+        }
+
+        .space-y-3>*+* {
+            margin-top: 0.75rem;
+        }
+
+        .space-y-6>*+* {
+            margin-top: 1.5rem;
+        }
+
+        .fixed {
+            position: fixed;
+        }
+
+        .bottom-0 {
+            bottom: 0;
+        }
+
+        .left-0 {
+            left: 0;
+        }
+
+        .right-0 {
+            right: 0;
+        }
+
+        .inset-0 {
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .block {
+            display: block;
+        }
+
+        .inline-block {
+            display: inline-block;
+        }
+
+        .inline-flex {
+            display: inline-flex;
+        }
+
+        .cursor-not-allowed {
+            cursor: not-allowed;
+        }
+
+        .opacity-50 {
+            opacity: 0.5;
+        }
+
+        .ring-2 {
+            box-shadow: 0 0 0 2px #10b981;
+        }
+
+        .ring-offset-2 {
+            box-shadow: 0 0 0 2px #fff, 0 0 0 4px #10b981;
+        }
+
+        .transition-all {
+            transition: all 0.3s ease;
+        }
+
+        .transition-colors {
+            transition: color 0.2s, background 0.2s;
+        }
+
+        .duration-300 {
+            transition-duration: 300ms;
+        }
+
+        .hover\:shadow-lg:hover {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .hover\:shadow-xl:hover {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .hover\:bg-gray-50:hover {
+            background: #f9fafb;
+        }
+
+        .hover\:bg-gray-100:hover {
+            background: #f3f4f6;
+        }
+
+        .hover\:border-emerald-300:hover {
+            border-color: #6ee7b7;
+        }
+
+        .hover\:border-emerald-400:hover {
+            border-color: #34d399;
+        }
+
+        .hover\:-translate-y-0\.5:hover {
+            transform: translateY(-0.125rem);
+        }
+
+        .active\:scale-95:active {
+            transform: scale(0.95);
+        }
+
+        .active\:scale-\[0\.98\]:active {
+            transform: scale(0.98);
+        }
+
+        .disabled\:opacity-50:disabled {
+            opacity: 0.5;
+        }
+
+        .disabled\:cursor-not-allowed:disabled {
+            cursor: not-allowed;
+        }
+
+        .flex-shrink-0 {
+            flex-shrink: 0;
+        }
+
+        .w-full {
+            width: 100%;
+        }
+
+        .-ml-2 {
+            margin-left: -0.5rem;
+        }
+
+        .p-2 {
+            padding: 0.5rem;
+        }
+
+        .bg-black\/50 {
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .backdrop-blur-sm {
+            backdrop-filter: blur(4px);
+        }
+
+        .shadow-2xl {
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+
+        .gap-1 {
+            gap: 0.25rem;
+        }
+
+        .gap-2 {
+            gap: 0.5rem;
+        }
+
+        .gap-6 {
+            gap: 1.5rem;
+        }
+
+        .h-1 {
+            height: 0.25rem;
+        }
+
+        .h-1\.5 {
+            height: 0.375rem;
+        }
+
+        .h-2 {
+            height: 0.5rem;
+        }
+
+        .w-4 {
+            width: 1rem;
+        }
+
+        .h-4 {
+            height: 1rem;
+        }
+
+        .w-7 {
+            width: 1.75rem;
+        }
+
+        .h-7 {
+            height: 1.75rem;
+        }
+
+        .w-20 {
+            width: 5rem;
+        }
+
+        .h-20 {
+            height: 5rem;
+        }
+
+        .from-emerald-400 {
+            background: linear-gradient(to right, #34d399, #10b981);
+        }
+
+        .from-emerald-500 {
+            background: linear-gradient(to right, #10b981, #059669);
+        }
+
+        .hover\:text-emerald-600:hover {
+            color: #059669;
+        }
+
+        .text-right {
+            text-align: right;
+        }
+
+        .items-start {
+            align-items: flex-start;
+        }
+
+        .max-w-sm {
+            max-width: 24rem;
+        }
+
+        .bg-yellow-100 {
+            background: #fef3c7;
+        }
+
+        .text-yellow-600 {
+            color: #d97706;
+        }
+
+        .bg-red-100 {
+            background: #fee2e2;
+        }
+
+        .text-red-600 {
+            color: #dc2626;
+        }
+
+        .hover\:from-emerald-600:hover {
+            background: linear-gradient(to right, #059669, #047857);
+        }
+
+        .hover\:to-emerald-700:hover {
+            background: linear-gradient(to right, #059669, #047857);
+        }
+
+        .hover\:bg-emerald-50\/50:hover {
+            background: rgba(236, 253, 245, 0.5);
+        }
+    </style>
+
+    {% block head %}{% endblock %}
+</head>
+
+<body class="font-sans bg-surface-50 text-gray-800 min-h-screen">
+    {% block content %}{% endblock %}
+</body>
+
+</html>

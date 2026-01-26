@@ -1,0 +1,658 @@
+{
+    "date": "0215",
+    "dateDisplay": "15 February 2026",
+    "testTime": "19:00",
+    "subject": "social_science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "दक्षिण भारत की नदी घाटी परियोजना है (The river valley project of South India is)",
+            "options": [
+                "तुंगभद्रा परियोजना (Tungabhadra Project)",
+                "हीराकुंड परियोजना (Hirakud Project)",
+                "कोसी परियोजना (Kosi Project)",
+                "रिहन्द परियोजना (Rihand Project)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "तुंगभद्रा परियोजना (Tungabhadra Project)"
+        },
+        {
+            "id": 2,
+            "question": "बिहार में ताप विद्युत केन्द्र कहाँ है? (Where is the Thermal Power Center in Bihar?)",
+            "options": [
+                "गया (Gaya)",
+                "बरौनी (Barauni)",
+                "समस्तीपुर (Samastipur)",
+                "कटिहार (Katihar)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "बरौनी (Barauni)"
+        },
+        {
+            "id": 3,
+            "question": "जूट उत्पादन में कौन-सा देश विश्व में अग्रणी है ? (Which country is the leader in jute production in the world?)",
+            "options": [
+                "बांग्लादेश (Bangladesh)",
+                "चीन (China)",
+                "भारत (India)",
+                "श्रीलंका (Sri Lanka)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "भारत (India)"
+        },
+        {
+            "id": 4,
+            "question": "अंगोरा ऊन का स्रोत क्या है? (What is the source of Angora wool?)",
+            "options": [
+                "भेड़ (Sheep)",
+                "बकरी (Goat)",
+                "खरगोश (Rabbit)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "खरगोश (Rabbit)"
+        },
+        {
+            "id": 5,
+            "question": "नागार्जुन सागर परियोजना किस नदी पर बनी है ? (On which river is the Nagarjuna Sagar Project built?)",
+            "options": [
+                "सतलज (Satluj)",
+                "कृष्णा (Krishna)",
+                "नर्मदा (Narmada)",
+                "रिहन्द (Rihand)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कृष्णा (Krishna)"
+        },
+        {
+            "id": 6,
+            "question": "समाजवादी पार्टी का गठन कब हुआ था? (When was the Samajwadi Party formed?)",
+            "options": [
+                "1990",
+                "1991",
+                "1992",
+                "1994"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "1992"
+        },
+        {
+            "id": 7,
+            "question": "'अर्थशास्त्र' पुस्तक किसने लिखी ? (Who wrote the book 'Arthashastra'?)",
+            "options": [
+                "चन्द्रगुप्त (Chandragupta)",
+                "कौटिल्य (Kautilya)",
+                "एडम स्मिथ (Adam Smith)",
+                "रवींद्रनाथ टैगोर (Rabindranath Tagore)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "कौटिल्य (Kautilya)"
+        },
+        {
+            "id": 8,
+            "question": "बेल्जियम में सामाजिक विभाजन का आधार क्या है ? (What is the basis of social division in Belgium?)",
+            "options": [
+                "जाति (Caste)",
+                "भाषा (Language)",
+                "शिक्षा (Education)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "भाषा (Language)"
+        },
+        {
+            "id": 9,
+            "question": "भारत की प्रमुख सामाजिक समस्या क्या है ? (What is the main social problem of India?)",
+            "options": [
+                "जातिवाद (Casteism)",
+                "भाषावाद (Linguism)",
+                "संप्रदायवाद (Communalism)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 10,
+            "question": "राष्ट्रीय महिला आयोग अधिनियम किस वर्ष अस्तित्व में आया ? (In which year did the National Commission for Women Act come into existence?)",
+            "options": [
+                "1951",
+                "1961",
+                "1981",
+                "1990"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1990"
+        },
+        {
+            "id": 11,
+            "question": "बिहार का प्रसिद्ध पर्व है (The famous festival of Bihar is)",
+            "options": [
+                "दुर्गापूजा (Durga Puja)",
+                "छठ (Chhath)",
+                "दीवाली (Diwali)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 12,
+            "question": "बिहार में कौन जिला केला उत्पादन के लिए प्रसिद्ध है ? (Which district in Bihar is famous for banana production?)",
+            "options": [
+                "भागलपुर (Bhagalpur)",
+                "हाजीपुर (Hajipur)",
+                "मुंगेर (Munger)",
+                "नवादा (Nawada)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "हाजीपुर (Hajipur)"
+        },
+        {
+            "id": 13,
+            "question": "निम्न में से कौन नदी बिहार से होकर नहीं बहती है ? (Which of the following rivers does not flow through Bihar?)",
+            "options": [
+                "गंगा (Ganga)",
+                "कोसी (Kosi)",
+                "गोमती (Gomti)",
+                "गंडक (Gandak)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "गोमती (Gomti)"
+        },
+        {
+            "id": 14,
+            "question": "असहयोग आंदोलन कब शुरू हुआ ? (When did the Non-Cooperation Movement start?)",
+            "options": [
+                "1919",
+                "1920",
+                "1930",
+                "1942"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "1920"
+        },
+        {
+            "id": 15,
+            "question": "किस देश ने 'न्यू डील' नीति लागू की ? (Which country implemented the 'New Deal' policy?)",
+            "options": [
+                "ब्रिटेन (Britain)",
+                "अमेरिका (America)",
+                "भारत (India)",
+                "जर्मनी (Germany)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "अमेरिका (America)"
+        },
+        {
+            "id": 16,
+            "question": "भारतीय राष्ट्रीय कांग्रेस ने कब पूर्ण स्वराज्य की घोषणा की? (When did the Indian National Congress declare Purna Swaraj?)",
+            "options": [
+                "26 जनवरी, 1929 (26 January, 1929)",
+                "26 जनवरी, 1931 (26 January, 1931)",
+                "15 अगस्त, 1930 (15 August, 1930)",
+                "26 जनवरी, 1930 (26 January, 1930)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "26 जनवरी, 1929 (26 January, 1929)"
+        },
+        {
+            "id": 17,
+            "question": "निम्न में से किस क्षेत्र को प्राथमिक क्षेत्र कहते हैं? (Which of the following sectors is called the primary sector?)",
+            "options": [
+                "औ‌द्योगिक क्षेत्र (Industrial Sector)",
+                "सेवा क्षेत्र (Service Sector)",
+                "कृषि क्षेत्र (Agriculture Sector)",
+                "विनिर्माण क्षेत्र (Manufacturing Sector)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "कृषि क्षेत्र (Agriculture Sector)"
+        },
+        {
+            "id": 18,
+            "question": "भारत में नए आर्थिक सुधारों का प्रारंभ किया गया (New economic reforms were started in India in)",
+            "options": [
+                "1960 में (In 1960)",
+                "1980 में (In 1980)",
+                "1991 में (In 1991)",
+                "2000 में (In 2000)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "1991 में (In 1991)"
+        },
+        {
+            "id": 19,
+            "question": "किस अर्थव्यवस्था में उत्पादन के साधनों पर निजी व्यक्तियों या संस्थाओं का अधिकार होता है? (In which economy are the means of production owned by private individuals or institutions?)",
+            "options": [
+                "पूँजीवादी अर्थव्यवस्था (Capitalist Economy)",
+                "समाजवादी अर्थव्यवस्था (Socialist Economy)",
+                "मिश्रित अर्थव्यवस्था (Mixed Economy)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "पूँजीवादी अर्थव्यवस्था (Capitalist Economy)"
+        },
+        {
+            "id": 20,
+            "question": "विनिमय का सर्वोच्च माध्यम क्या है? (What is the best medium of exchange?)",
+            "options": [
+                "वस्तु (Goods)",
+                "चेक (Cheque)",
+                "मुद्रा (Currency/Money)",
+                "प्रतिज्ञा पत्र (Promissory Note)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मुद्रा (Currency/Money)"
+        },
+        {
+            "id": 21,
+            "question": "क्षेत्रीय ग्रामीण बैंक की स्थापना किस वर्ष हुई? (In which year was the Regional Rural Bank established?)",
+            "options": [
+                "1969",
+                "1970",
+                "1972",
+                "1975"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "1975"
+        },
+        {
+            "id": 22,
+            "question": "अल्युमिनियम उ‌द्योग में किस खनिज का उपयोग होता है? (Which mineral is used in the aluminum industry?)",
+            "options": [
+                "मैंगनीज (Manganese)",
+                "टिन (Tin)",
+                "लोहा (Iron)",
+                "बॉक्साइट (Bauxite)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "बॉक्साइट (Bauxite)"
+        },
+        {
+            "id": 23,
+            "question": "भारत में किस राज्य में खनिज तेल का सर्वाधिक भंडार है? (Which state in India has the largest reserves of mineral oil?)",
+            "options": [
+                "असम (Assam)",
+                "राजस्थान (Rajasthan)",
+                "बिहार (Bihar)",
+                "तमिलनाडु (Tamil Nadu)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "असम (Assam)"
+        },
+        {
+            "id": 24,
+            "question": "कौन-सा ऊर्जा स्रोत अनवीकरणीय है ? (Which energy source is non-renewable?)",
+            "options": [
+                "जल (Water)",
+                "सौर ऊर्जा (Solar Energy)",
+                "कोयला (Coal)",
+                "पवन ऊर्जा (Wind Energy)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "कोयला (Coal)"
+        },
+        {
+            "id": 25,
+            "question": "इन्नौर पत्तन स्थित है (Ennore port is located in)",
+            "options": [
+                "गुजरात में (In Gujarat)",
+                "गोवा में (In Goa)",
+                "तमिलनाडु में (In Tamil Nadu)",
+                "कर्नाटक (Karnataka)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "तमिलनाडु में (In Tamil Nadu)"
+        },
+        {
+            "id": 26,
+            "question": "किस नगर को भारत की सिलिकॉन वैली के नाम से जाना जाता है? (Which city is known as the Silicon Valley of India?)",
+            "options": [
+                "बेंगलुरु (Bengaluru)",
+                "हैदराबाद (Hyderabad)",
+                "कोलकाता (Kolkata)",
+                "मुम्बई (Mumbai)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "बेंगलुरु (Bengaluru)"
+        },
+        {
+            "id": 27,
+            "question": "पेरियार राष्ट्रीय उ‌द्यान कहाँ स्थित है ? (Where is Periyar National Park located?)",
+            "options": [
+                "कर्नाटक (Karnataka)",
+                "तमिलनाडु (Tamil Nadu)",
+                "पश्चिम बंगाल (West Bengal)",
+                "केरल (Kerala)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "केरल (Kerala)"
+        },
+        {
+            "id": 28,
+            "question": "निम्न राज्यों में से किसमें वन का सबसे अधिक विस्तार है ? (Which of the following states has the largest forest cover?)",
+            "options": [
+                "केरल (Kerala)",
+                "कर्नाटक (Karnataka)",
+                "मध्य प्रदेश (Madhya Pradesh)",
+                "उत्तर प्रदेश (Uttar Pradesh)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "मध्य प्रदेश (Madhya Pradesh)"
+        },
+        {
+            "id": 29,
+            "question": "एशिया और यूरोप के बीच कौन प्राचीन स्थल व्यापारिक मार्ग था? (Which was the ancient land trade route between Asia and Europe?)",
+            "options": [
+                "सूती मार्ग (Cotton Route)",
+                "रेशम मार्ग (Silk Route)",
+                "उत्तरी पथ (Northern Path)",
+                "दक्षिण पथ (Southern Path)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "रेशम मार्ग (Silk Route)"
+        },
+        {
+            "id": 30,
+            "question": "चौरी-चौरा कांड के बाद गाँधीजी ने निम्नलिखित में से किस आंदोलन को बंद कर दिया ? (Which of the following movements was called off by Gandhiji after the Chauri-Chaura incident?)",
+            "options": [
+                "खिलाफत आंदोलन (Khilafat Movement)",
+                "सविनय अवज्ञा आंदोलन (Civil Disobedience Movement)",
+                "असहयोग आंदोलन (Non-Cooperation Movement)",
+                "भारत छोड़ो आंदोलन (Quit India Movement)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "असहयोग आंदोलन (Non-Cooperation Movement)"
+        },
+        {
+            "id": 31,
+            "question": "वर्तमान में भारत में कितने केन्द्र शासित प्रदेश हैं ? (How many Union Territories are there in India at present?)",
+            "options": [
+                "7",
+                "9",
+                "8",
+                "10"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "8"
+        },
+        {
+            "id": 32,
+            "question": "'सूचना का अधिकार' संबंधी कानून कब पारित हुआ था ? (When was the 'Right to Information' related law passed?)",
+            "options": [
+                "2004 में (In 2004)",
+                "2005 में (In 2005)",
+                "2006 में (In 2006)",
+                "2007 में (In 2007)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "2005 में (In 2005)"
+        },
+        {
+            "id": 33,
+            "question": "किसने कहा था \"लोकतंत्र जनता का, जनता के द्वारा तथा जनता के लिए शासन है? (Who said \"Democracy is government of the people, by the people and for the people\"?)",
+            "options": [
+                "अरस्तू (Aristotle)",
+                "अब्राहम लिंकन (Abraham Lincoln)",
+                "रूसो (Rousseau)",
+                "सुकरात (Socrates)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "अब्राहम लिंकन (Abraham Lincoln)"
+        },
+        {
+            "id": 34,
+            "question": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संविधान संशोधन से प्राप्त हुआ? (By which constitutional amendment did Panchayati Raj institutions get constitutional status?)",
+            "options": [
+                "72 वाँ (72nd)",
+                "73 वाँ (73rd)",
+                "74 वाँ (74th)",
+                "75 वाँ (75th)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "73 वाँ (73rd)"
+        },
+        {
+            "id": 35,
+            "question": "भारत में लोकतंत्र की सफलता में क्या बाधा है? (What is the obstacle to the success of democracy in India?)",
+            "options": [
+                "अशिक्षा (Illiteracy)",
+                "गरीबी (Poverty)",
+                "बेरोजगारी (Unemployment)",
+                "इनमें से सभी (All of these)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "इनमें से सभी (All of these)"
+        },
+        {
+            "id": 36,
+            "question": "बिहार में रज्जू मार्ग कहाँ है? (Where is the ropeway in Bihar?)",
+            "options": [
+                "बिहार शरीफ (Bihar Sharif)",
+                "राजगीर (Rajgir)",
+                "गया (Gaya)",
+                "बांका (Banka)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "राजगीर (Rajgir)"
+        },
+        {
+            "id": 37,
+            "question": "सासाराम नगर का विकास कब हुआ था? (When was Sasaram city developed?)",
+            "options": [
+                "मध्ययुग में (In Medieval Age)",
+                "प्राचीन युग में (In Ancient Age)",
+                "आधुनिक युग में (In Modern Age)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "मध्ययुग में (In Medieval Age)"
+        },
+        {
+            "id": 38,
+            "question": "गोविंद सागर कृत्रिम जलाशय सम्बन्धित है (Govind Sagar artificial reservoir is related to)",
+            "options": [
+                "रिहन्द बाँध से (Rihand Dam)",
+                "हीराकुंड बांध से (Hirakud Dam)",
+                "भाखड़ा नांगल बाँध से (Bhakra Nangal Dam)",
+                "नरौरा बाँध से (Narora Dam)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "भाखड़ा नांगल बाँध से (Bhakra Nangal Dam)"
+        },
+        {
+            "id": 39,
+            "question": "सर्वाधिक भूस्खलन प्रवण राज्य है (The most landslide prone state is)",
+            "options": [
+                "उत्तराखंड (Uttarakhand)",
+                "ओडिशा (Odisha)",
+                "झारखंड (Jharkhand)",
+                "मध्य प्रदेश (Madhya Pradesh)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "उत्तराखंड (Uttarakhand)"
+        },
+        {
+            "id": 40,
+            "question": "बिहार का कौन-सा भाग सर्वाधिक सूखा प्रवण हैं? (Which part of Bihar is most drought prone?)",
+            "options": [
+                "उत्तर बिहार (North Bihar)",
+                "पूर्वी बिहार (East Bihar)",
+                "दक्षिण बिहार (South Bihar)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "दक्षिण बिहार (South Bihar)"
+        },
+        {
+            "id": 41,
+            "question": "1871 में कौन-सी संधि हुई थी? (Which treaty was signed in 1871?)",
+            "options": [
+                "फ्रैंकफर्ट की संधि (Treaty of Frankfurt)",
+                "पेरिस की संधि (Treaty of Paris)",
+                "वियना कांग्रेस (Vienna Congress)",
+                "इनमें से कोई नहीं (None of these)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "फ्रैंकफर्ट की संधि (Treaty of Frankfurt)"
+        },
+        {
+            "id": 42,
+            "question": "1830 की क्रांति के बाद फ्रांस में किस प्रकार का शासन स्थापित हुआ ? (What type of government was established in France after the Revolution of 1830?)",
+            "options": [
+                "संघीय शासन व्यवस्था (Federal Governance System)",
+                "संवैधानिक राजतंत्र (Constitutional Monarchy)",
+                "गणराज्य (Republic)",
+                "अधिनायकवाद (Dictatorship)"
+            ],
+            "correct": 1,
+            "year": 2021,
+            "correctAnswer": "संवैधानिक राजतंत्र (Constitutional Monarchy)"
+        },
+        {
+            "id": 43,
+            "question": "रूस की बोल्शेविक क्रांति का नेतृत्व किसने किया? (Who led the Bolshevik Revolution in Russia?)",
+            "options": [
+                "केरेन्सकी (Kerensky)",
+                "ट्रांटस्की (Trotsky)",
+                "लेनिन (Lenin)",
+                "स्टालिन (Stalin)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "लेनिन (Lenin)"
+        },
+        {
+            "id": 44,
+            "question": "भारत में राष्ट्रीय आय की गणना कौन करता है ? (Who calculates national income in India?)",
+            "options": [
+                "केन्द्रीय सांख्यिकी संगठन (CSO)",
+                "रिजर्व बैंक ऑफ इण्डिया (RBI)",
+                "वित्त विभाग (Finance Department)",
+                "राष्ट्रीय विकास परिषद (NDC)"
+            ],
+            "correct": 0,
+            "year": 2021,
+            "correctAnswer": "केन्द्रीय सांख्यिकी संगठन (CSO)"
+        },
+        {
+            "id": 45,
+            "question": "निम्न में से कौन पिछड़ा राज्य है? (Which of the following is a backward state?)",
+            "options": [
+                "पंजाब (Punjab)",
+                "हरियाणा (Haryana)",
+                "महाराष्ट्र (Maharashtra)",
+                "बिहार (Bihar)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "बिहार (Bihar)"
+        },
+        {
+            "id": 46,
+            "question": "आर्थिक क्रियाओं का क्या उ‌द्देश्य है ? (What is the objective of economic activities?)",
+            "options": [
+                "मनोरंजन (Entertainment)",
+                "समाज सेवा (Social Service)",
+                "परोपकार (Philanthropy)",
+                "जीविकोपार्जन (Livelihood)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "जीविकोपार्जन (Livelihood)"
+        },
+        {
+            "id": 47,
+            "question": "भारत की राष्ट्रीय आय का सर्वप्रथम अनुमान किसने लगाया ? (Who first estimated the national income of India?)",
+            "options": [
+                "महात्मा गाँधी (Mahatma Gandhi)",
+                "जawaharlal नेहरू (Jawaharlal Nehru)",
+                "सरदार पटेल (Sardar Patel)",
+                "दादाभाई नौरोजी (Dadabhai Naoroji)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "दादाभाई नौरोजी (Dadabhai Naoroji)"
+        },
+        {
+            "id": 48,
+            "question": "पंजाब में भूमि निम्नीकरण का मुख्य कारण क्या है? (What is the main reason for land degradation in Punjab?)",
+            "options": [
+                "वनोन्मूलन (Deforestation)",
+                "गहन खेती (Intensive Farming)",
+                "अति पशुचारण (Overgrazing)",
+                "अधिक सिंचाई (Over Irrigation)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "अधिक सिंचाई (Over Irrigation)"
+        },
+        {
+            "id": 49,
+            "question": "सोपानी कृषि प्रचलित है (Terrace farming is prevalent in)",
+            "options": [
+                "हरियाणा में (In Haryana)",
+                "पंजाब में (In Punjab)",
+                "बिहार के मैदानी क्षेत्रों में (In plains of Bihar)",
+                "उत्तराखंड में (In Uttarakhand)"
+            ],
+            "correct": 3,
+            "year": 2021,
+            "correctAnswer": "उत्तराखंड में (In Uttarakhand)"
+        },
+        {
+            "id": 50,
+            "question": "बिहार में प्रायः कैसी मिट्टी पाई जाती है? (What type of soil is generally found in Bihar?)",
+            "options": [
+                "लाल मिट्टी (Red Soil)",
+                "काली मिट्टी (Black Soil)",
+                "जलोढ़ मिट्टी (Alluvial Soil)",
+                "लैटेराहर मिट्टी (Laterite Soil)"
+            ],
+            "correct": 2,
+            "year": 2021,
+            "correctAnswer": "जलोढ़ मिट्टी (Alluvial Soil)"
+        }
+    ]
+}
