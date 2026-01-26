@@ -171,7 +171,17 @@
         <!-- Welcome Card -->
         <div
             class="bg-gradient-to-r from-emerald-500 to-emerald-600 rounded-2xl p-5 mb-6 text-white shadow-xl shadow-emerald-500/20">
-            <h2 class="text-lg font-bold mb-1">Welcome, Student! 👋</h2>
+            <h2 class="text-lg font-bold mb-1 flex items-center gap-2">
+                Welcome, Student!
+                <svg class="w-5 h-5 animate-pulse-slow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M18 11V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v0" />
+                    <path d="M14 10V4a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v2" />
+                    <path d="M10 10.5V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v8" />
+                    <path
+                        d="M18 8a2 2 0 1 1 4 0v6a8 8 0 0 1-8 8h-2c-2.8 0-4.5-.86-5.99-2.34l-3.6-3.6a2 2 0 0 1 2.83-2.82L7 15" />
+                </svg>
+            </h2>
             <p class="text-emerald-100 text-sm">Practice 50 most important questions daily</p>
         </div>
 
@@ -190,101 +200,112 @@
             <div class="space-y-3">
                 {% for subject in subjects %}
                 {% if subject.coming_soon %}
-                <div class="block bg-white/50 rounded-2xl p-5 shadow-sm border border-gray-100 relative overflow-hidden grayscale opacity-75">
+                <div
+                    class="block bg-white/50 rounded-2xl p-5 shadow-sm border border-gray-100 relative overflow-hidden grayscale opacity-75">
                     <!-- Coming Soon Badge -->
-                    <div class="absolute top-3 right-3 bg-gray-900/10 text-gray-500 text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-widest">
+                    <div
+                        class="absolute top-3 right-3 bg-gray-900/10 text-gray-500 text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-widest">
                         Coming Soon
                     </div>
-                {% else %}
-                <a href="/practice/{{ subject.id }}"
-                    class="block bg-white rounded-2xl p-5 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-{{ subject.color }}-200 hover:-translate-y-0.5 active:scale-[0.98]">
-                {% endif %}
-                    <div class="flex items-center gap-4">
-                        <!-- Icon -->
-                        <div
-                            class="w-14 h-14 rounded-xl bg-gradient-to-br from-{{ subject.color }}-100 to-{{ subject.color }}-200 flex items-center justify-center">
-                            
-                            <!-- Dynamic Icon Switching -->
-                            {% if subject.icon == 'flask' %}
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M9 3h6v7l4 7a2 2 0 0 1-1.7 3H6.7a2 2 0 0 1-1.7-3l4-7V3z" />
-                                <path d="M9 3h6" />
-                            </svg>
-                            {% elif subject.icon == 'users' %}
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-                                <circle cx="9" cy="7" r="4"></circle>
-                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
-                                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                            </svg>
-                            {% elif subject.icon == 'calculator' %}
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
-                                <line x1="8" y1="6" x2="16" y2="6"></line>
-                                <line x1="16" y1="14" x2="16" y2="18"></line>
-                                <path d="M16 10h.01"></path>
-                                <path d="M12 10h.01"></path>
-                                <path d="M8 10h.01"></path>
-                                <path d="M12 14h.01"></path>
-                                <path d="M8 14h.01"></path>
-                                <path d="M12 18h.01"></path>
-                                <path d="M8 18h.01"></path>
-                            </svg>
-                            {% elif subject.icon == 'book' %}
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
-                                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
-                            </svg>
-                            {% elif subject.icon == 'om' %} <!-- Hindi -->
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <circle cx="12" cy="12" r="10"></circle>
-                                <path d="M9 8h6"></path>
-                                <path d="M12 8v8"></path>
-                                <path d="M9 12h6"></path>
-                            </svg>
-                            {% elif subject.icon == 'scroll' %} <!-- Sanskrit -->
-                             <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M19 4H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path>
-                                <path d="M12 11h4"></path>
-                                <path d="M12 8h4"></path>
-                            </svg>
-                            {% else %}
-                             <!-- Fallback Icon -->
-                            <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <circle cx="12" cy="12" r="10"></circle>
+                    {% else %}
+                    <a href="/practice/{{ subject.id }}"
+                        class="block bg-white rounded-2xl p-5 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-{{ subject.color }}-200 hover:-translate-y-0.5 active:scale-[0.98]">
+                        {% endif %}
+                        <div class="flex items-center gap-4">
+                            <!-- Icon -->
+                            <div
+                                class="w-14 h-14 rounded-xl bg-gradient-to-br from-{{ subject.color }}-100 to-{{ subject.color }}-200 flex items-center justify-center">
+
+                                <!-- Dynamic Icon Switching -->
+                                {% if subject.icon == 'flask' %}
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M9 3h6v7l4 7a2 2 0 0 1-1.7 3H6.7a2 2 0 0 1-1.7-3l4-7V3z" />
+                                    <path d="M9 3h6" />
+                                </svg>
+                                {% elif subject.icon == 'users' %}
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                    <circle cx="9" cy="7" r="4"></circle>
+                                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                </svg>
+                                {% elif subject.icon == 'calculator' %}
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
+                                    <line x1="8" y1="6" x2="16" y2="6"></line>
+                                    <line x1="16" y1="14" x2="16" y2="18"></line>
+                                    <path d="M16 10h.01"></path>
+                                    <path d="M12 10h.01"></path>
+                                    <path d="M8 10h.01"></path>
+                                    <path d="M12 14h.01"></path>
+                                    <path d="M8 14h.01"></path>
+                                    <path d="M12 18h.01"></path>
+                                    <path d="M8 18h.01"></path>
+                                </svg>
+                                {% elif subject.icon == 'book' %}
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                                </svg>
+                                {% elif subject.icon == 'om' %} <!-- Hindi -->
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <path d="M9 8h6"></path>
+                                    <path d="M12 8v8"></path>
+                                    <path d="M9 12h6"></path>
+                                </svg>
+                                {% elif subject.icon == 'scroll' %} <!-- Sanskrit -->
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M19 4H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z">
+                                    </path>
+                                    <path d="M12 11h4"></path>
+                                    <path d="M12 8h4"></path>
+                                </svg>
+                                {% else %}
+                                <!-- Fallback Icon -->
+                                <svg class="w-7 h-7 text-{{ subject.color }}-600" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                </svg>
+                                {% endif %}
+                            </div>
+
+                            <!-- Text -->
+                            <div class="flex-1">
+                                <h3 class="font-bold text-gray-800 text-lg">{{ subject.name }}</h3>
+                                <p class="text-gray-500 text-sm">{{ subject.nameHindi }}</p>
+                            </div>
+
+                            <!-- Arrow -->
+                            {% if not subject.coming_soon %}
+                            <svg class="w-5 h-5 text-gray-300" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <polyline points="9 18 15 12 9 6" />
                             </svg>
                             {% endif %}
                         </div>
 
-                        <!-- Text -->
-                        <div class="flex-1">
-                            <h3 class="font-bold text-gray-800 text-lg">{{ subject.name }}</h3>
-                            <p class="text-gray-500 text-sm">{{ subject.nameHindi }}</p>
+                        <!-- Progress if exists -->
+                        {% if not subject.coming_soon and progress.get(subject.id) %}
+                        <div class="mt-4 pt-4 border-t border-gray-50">
+                            <div class="flex items-center justify-between text-sm">
+                                <span class="text-gray-500">Best Score</span>
+                                <span class="font-semibold text-{{ subject.color }}-600">{{
+                                    progress[subject.id].best_score }}%</span>
+                            </div>
+                            <div class="mt-2 h-2 bg-gray-100 rounded-full overflow-hidden">
+                                <div class="h-full bg-gradient-to-r from-{{ subject.color }}-400 to-{{ subject.color }}-500 rounded-full transition-all"
+                                    style="width: {{ progress[subject.id].best_score }}%"></div>
+                            </div>
                         </div>
-
-                        <!-- Arrow -->
-                        {% if not subject.coming_soon %}
-                        <svg class="w-5 h-5 text-gray-300" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2">
-                            <polyline points="9 18 15 12 9 6" />
-                        </svg>
                         {% endif %}
-                    </div>
-
-                    <!-- Progress if exists -->
-                    {% if not subject.coming_soon and progress.get(subject.id) %}
-                    <div class="mt-4 pt-4 border-t border-gray-50">
-                        <div class="flex items-center justify-between text-sm">
-                            <span class="text-gray-500">Best Score</span>
-                            <span class="font-semibold text-{{ subject.color }}-600">{{ progress[subject.id].best_score }}%</span>
-                        </div>
-                        <div class="mt-2 h-2 bg-gray-100 rounded-full overflow-hidden">
-                            <div class="h-full bg-gradient-to-r from-{{ subject.color }}-400 to-{{ subject.color }}-500 rounded-full transition-all"
-                                style="width: {{ progress[subject.id].best_score }}%"></div>
-                        </div>
-                    </div>
-                    {% endif %}
-                {% if subject.coming_soon %}
+                        {% if subject.coming_soon %}
                 </div>
                 {% else %}
                 </a>

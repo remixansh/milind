@@ -30,3 +30,12 @@ test/
 # OS Metadata
 .DS_Store
 Thumbs.db
+
+# Helper Scripts
+analyze_questions.py
+analyze_social_science.py
+check_missing_answers.py
+download_files.py
+generate_daily_sets.py
+manage_answers.py
+populate_answers.py
