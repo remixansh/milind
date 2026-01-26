@@ -150,31 +150,35 @@ def date_select(subject_id):
 @app.route('/daily/<subject_id>/<date_code>')
 def daily_questions(subject_id, date_code):
     """Display daily questions with answers"""
-    # Load subject first to avoid UnboundLocalError in locked check
+    # Load subject first
     subject = next((s for s in get_subjects() if s['id'] == subject_id), None)
     
     if not subject:
         return render_template('404.html'), 404
 
-    # Date restriction: Available from 00:00 of the date
-    try:
-        month = int(date_code[:2])
-        day = int(date_code[2:])
-        target_date = datetime(2026, month, day)
-        
-        # Use IST for comparison
-        if get_ist_now() < target_date:
-             return render_template('locked.html', 
-                                  subject=subject,
-                                  date_display=f"{day}/{month}/2026",
-                                  unlock_time="00:00 AM",
-                                  is_quiz=False)
-    except ValueError:
-        return render_template('404.html'), 404
-
+    # Load data to get testTime
     data = load_daily_questions(subject_id, date_code)
     
     if not data:
+        return render_template('404.html'), 404
+
+    # Date/Time restriction
+    try:
+        month = int(date_code[:2])
+        day = int(date_code[2:])
+        test_time = data.get('testTime', '19:00')
+        hour, minute = map(int, test_time.split(':'))
+        
+        target_dt = datetime(2026, month, day, hour, minute)
+        
+        # Use IST for comparison
+        if get_ist_now() < target_dt:
+             return render_template('locked.html', 
+                                  subject=subject,
+                                  date_display=data.get('dateDisplay', f"{day}/{month}/2026"),
+                                  unlock_time=test_time,
+                                  is_quiz=False)
+    except ValueError:
         return render_template('404.html'), 404
     
     return render_template('daily_questions.html',
