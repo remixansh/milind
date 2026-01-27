@@ -166,17 +166,15 @@ def daily_questions(subject_id, date_code):
     try:
         month = int(date_code[:2])
         day = int(date_code[2:])
-        test_time = data.get('testTime', '19:00')
-        hour, minute = map(int, test_time.split(':'))
-        
-        target_dt = datetime(2026, month, day, hour, minute)
+        # Unlock Daily Questions at 00:00 (Midnight)
+        target_dt = datetime(2026, month, day)
         
         # Use IST for comparison
         if get_ist_now() < target_dt:
              return render_template('locked.html', 
                                   subject=subject,
                                   date_display=data.get('dateDisplay', f"{day}/{month}/2026"),
-                                  unlock_time=test_time,
+                                  unlock_time="00:00",
                                   is_quiz=False)
     except ValueError:
         return render_template('404.html'), 404
