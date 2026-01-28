@@ -1,0 +1,658 @@
+{
+  "date": "0211",
+  "dateDisplay": "11 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "निम्नलिखित में किसका मान 1 के बराबर है ?\n(Which of the following values is equal to 1 ?)",
+      "options": [
+        "sin²60° + cos 60°",
+        "sin 90° × cos 90°",
+        "sin²60°",
+        "sin 45° × (1 / cos 45°)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "sin 45° × (1 / cos 45°)"
+    },
+    {
+      "id": 2,
+      "question": "42 सेमी त्रिज्या वाले वृत्त के उस त्रिज्यखंड जिसका केन्द्रीय कोण 30° है, का क्षेत्रफल है\n(The area of the sector of a circle of radius 42 cm and central angle 30° is)",
+      "options": [
+        "515 सेमी²",
+        "416 सेमी²",
+        "462 सेमी²",
+        "406 सेमी²"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "462 सेमी²"
+    },
+    {
+      "id": 3,
+      "question": "यदि Δ ABC ~ Δ DEF एवं उनके क्षेत्रफल क्रमशः 64 सेमी² और 121 सेमी² हैं। यदि EF = 15.4 सेमी हो, तो BC का मान है\n(If Δ ABC ~ Δ DEF and their areas are 64 cm² and 121 cm² respectively. If EF = 15.4 cm, then value of BC is)",
+      "options": [
+        "11.2 सेमी",
+        "12.1 सेमी",
+        "8.8 सेमी",
+        "10.5 सेमी"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "11.2 सेमी"
+    },
+    {
+      "id": 4,
+      "question": "किसी बाह्य बिन्दु P से वृत्त पर खींची गई स्पर्श रेखा की लम्बाई 12 सेमी है। P से उसी वृत्त पर खींची गई दूसरी स्पर्श रेखा की लम्बाई क्या होगी ?\n(Length of a tangent drawn from an external point P to a circle is 12 cm. What will be the length of another tangent drawn from P to the same circle ?)",
+      "options": [
+        "12 सेमी",
+        "6 सेमी",
+        "24 सेमी",
+        "9 सेमी"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "12 सेमी"
+    },
+    {
+      "id": 5,
+      "question": "समांतर श्रेढ़ी 5, 8, 11, 14, ... का 12 वाँ पद है\n(12th term of A.P. 5, 8, 11, 14, ... is)",
+      "options": [
+        "35",
+        "38",
+        "41",
+        "32"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "38"
+    },
+    {
+      "id": 6,
+      "question": "वृत्त की सबसे बड़ी जीवा होती है\n(The largest chord of a circle is)",
+      "options": [
+        "त्रिज्या (Radius)",
+        "व्यास (Diameter)",
+        "चाप (Arc)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "व्यास (Diameter)"
+    },
+    {
+      "id": 7,
+      "question": "यदि बिन्दु (K, 2), (-3, -4) तथा (7, -5) संरेख हों, तो K का मान है\n(If points (K, 2), (-3, -4) and (7, -5) are collinear, then value of K is)",
+      "options": [
+        "-60",
+        "-63",
+        "63",
+        "60"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "63"
+    },
+    {
+      "id": 8,
+      "question": "रैखिक समीकरण युग्म 2x - 3y = 2, 4x - 6y = 5 है\n(Pair of linear equations 2x - 3y = 2, 4x - 6y = 5 is)",
+      "options": [
+        "अविरोधी (Consistent)",
+        "विरोधी (Inconsistent)",
+        "आश्रित (Dependent)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "आश्रित (Dependent)"
+    },
+    {
+      "id": 9,
+      "question": "यदि PA एवं PB किसी बाह्य बिन्दु P से केन्द्र O वाले वृत्त पर खींची गई स्पर्श रेखाएँ हैं एवं ∠APB = 80° तो ∠POA =\n(If PA and PB are the tangents drawn from an external point P to a circle with centre at O and ∠APB = 80° then ∠POA =)",
+      "options": [
+        "40°",
+        "50°",
+        "80°",
+        "60°"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "50°"
+    },
+    {
+      "id": 10,
+      "question": "अनगिनत हल होने के लिए, समीकरण निकायों a₁x + b₁y + c₁ = 0 और a₂x + b₂y + c₂ = 0 के लिए शर्त है\n(For infinitely many solutions, the condition for system of equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 is)",
+      "options": [
+        "a₁/a₂ = b₁/b₂ ≠ c₁/c₂",
+        "a₁/a₂ ≠ b₁/b₂",
+        "a₁/a₂ = b₁/b₂ = c₁/c₂",
+        "b₁/b₂ ≠ c₁/c₂"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "a₁/a₂ = b₁/b₂ = c₁/c₂"
+    },
+    {
+      "id": 11,
+      "question": "समबाहु त्रिभुज ABC में यदि AD ⊥ BC, तब AD² / AB² का मान है\n(In equilateral triangle ABC if AD ⊥ BC, then value of AD² / AB² is)",
+      "options": [
+        "1/2",
+        "3/4",
+        "4/3",
+        "1/3"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3/4"
+    },
+    {
+      "id": 12,
+      "question": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 25:64 है, तो उनकी संगत भुजाओं का अनुपात होगा\n(If ratio of areas of two similar triangles is 25:64, then ratio of their corresponding sides will be)",
+      "options": [
+        "25:64",
+        "5:8",
+        "625:4096",
+        "None of these"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "5:8"
+    },
+    {
+      "id": 13,
+      "question": "दो वृत्तों की त्रिज्याओं का अनुपात 3:4 है तो उनके क्षेत्रफलों का अनुपात है\n(The ratio of the radii of two circles is 3:4 then the ratio of their areas is)",
+      "options": [
+        "3:4",
+        "4:3",
+        "9:16",
+        "16:9"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "9:16"
+    },
+    {
+      "id": 14,
+      "question": "निम्नलिखित में किसका दशमलव प्रसार सांत है ?\n(Which of the following has terminating decimal expansion ?)",
+      "options": [
+        "11/700",
+        "91/2100",
+        "343 / (2³ × 5³ × 7³)",
+        "15 / (2⁵ × 3²)"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "343 / (2³ × 5³ × 7³)"
+    },
+    {
+      "id": 15,
+      "question": "यदि बहुपद x² - 2x - 3 के शून्यक α, β हों तो α + β का मान होगा\n(If α, β are zeros of polynomial x² - 2x - 3 then value of α + β will be)",
+      "options": [
+        "2",
+        "-2",
+        "3",
+        "-3"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 16,
+      "question": "समांतर श्रेढ़ी -2, 2, 6, 10, ... का सार्व अंतर है\n(Common difference of A.P. -2, 2, 6, 10, ... is)",
+      "options": [
+        "-4",
+        "4",
+        "2",
+        "-2"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 17,
+      "question": "14 सेमी त्रिज्या वाले वृत्त के उस चाप की लम्बाई क्या होगी जो केन्द्र पर 90° का कोण बनाता है ?\n(What will be the length of arc of a circle of radius 14 cm which subtends an angle of 90° at the centre ?)",
+      "options": [
+        "22 सेमी",
+        "44 सेमी",
+        "11 सेमी",
+        "88 सेमी"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "22 सेमी"
+    },
+    {
+      "id": 18,
+      "question": "निम्नलिखित में कौन समांतर श्रेढ़ी में नहीं है ?\n(Which of the following is not in A.P. ?)",
+      "options": [
+        "a, a+d, a+2d, ...",
+        "√2, √8, √18, ...",
+        "0.3, 0.33, 0.333, ...",
+        "1/2, 1/3, 1/4, ..."
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "1/2, 1/3, 1/4, ..."
+    },
+    {
+      "id": 19,
+      "question": "यदि बहुपद x² - kx + 8 के शून्यकों का योग 6 है, तो k का मान होगा\n(If sum of zeros of polynomial x² - kx + 8 is 6, then value of k is)",
+      "options": [
+        "8",
+        "-8",
+        "6",
+        "-6"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 20,
+      "question": "त्रिभुज के तीनों कोणों का योगफल होता है\n(Sum of three angles of a triangle is)",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "120°"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "180°"
+    },
+    {
+      "id": 21,
+      "question": "वृत्त पर स्थित किसी बिन्दु पर खींची गई स्पर्श रेखा, स्पर्श बिन्दु से होकर जाने वाली त्रिज्या से कौन-सा कोण बनाती है ?\n(What is the angle between the tangent drawn at any point of a circle and the radius passing through the point of contact ?)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 22,
+      "question": "n पदों वाले समांतर श्रेढ़ी का योग n² + 2n + 1 है तो इसका 6 ठा पद है\n(The sum of an A.P. with n terms is n² + 2n + 1 then its 6th term is)",
+      "options": [
+        "29",
+        "19",
+        "15",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "इनमें से कोई नहीं (none of these)"
+    },
+    {
+      "id": 23,
+      "question": "cos²A(1 + tan²A) =",
+      "options": [
+        "sin²A",
+        "cosec²A",
+        "1",
+        "tan²A"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 24,
+      "question": "मूल बिन्दु से बिन्दु P(-a, -b) की दूरी है\n(Distance of point P(-a, -b) from origin is)",
+      "options": [
+        "√(a² + b²)",
+        "√(a² - b²)",
+        "a + b",
+        "a - b"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "√(a² + b²)"
+    },
+    {
+      "id": 25,
+      "question": "निम्नलिखित में कौन समांतर श्रेढ़ी में नहीं है ?\n(Which of the following is not in an A.P.?)",
+      "options": [
+        "1, 2, 3, 4, ...",
+        "3, 6, 9, 12, ...",
+        "2, 4, 6, 8, ...",
+        "2², 4², 6², 8²..."
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "2², 4², 6², 8²..."
+    },
+    {
+      "id": 26,
+      "question": "दी गई आकृति में, यदि O वृत्त का केन्द्र है और ∠AOB = 130°, तो ∠OAB का मान है\n(In the given figure, if O is centre of circle and ∠AOB = 130°, then value of ∠OAB is)",
+      "options": [
+        "25°",
+        "50°",
+        "65°",
+        "35°"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "25°"
+    },
+    {
+      "id": 27,
+      "question": "किसी बाह्य बिन्दु P से वृत्त पर PA एवं PB दो स्पर्श रेखाएँ खींची गई हैं। यदि PA = 8 सेमी तो PB =\n(From an external point P, two tangents PA and PB are drawn on a circle. If PA = 8 cm then PB =)",
+      "options": [
+        "6 सेमी",
+        "8 सेमी",
+        "12 सेमी",
+        "16 सेमी"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "8 सेमी"
+    },
+    {
+      "id": 28,
+      "question": "द्विघात समीकरण x² + px + q = 0 के मूल समान हैं, तो p² का मान होगा\n(Roots of quadratic equation x² + px + q = 0 are equal, then value of p² will be)",
+      "options": [
+        "2q",
+        "4q",
+        "q",
+        "8q"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "4q"
+    },
+    {
+      "id": 29,
+      "question": "(1 + tan²A) / (1 + cot²A) =",
+      "options": [
+        "-1",
+        "sec²A",
+        "tan²A",
+        "cot²A"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "tan²A"
+    },
+    {
+      "id": 30,
+      "question": "समांतर श्रेढ़ी 1, 4, 7, 10, ... के प्रथम 20 पदों का योगफल है\n(The sum of first 20 terms of the A.P. 1, 4, 7, 10, ... is)",
+      "options": [
+        "500",
+        "540",
+        "590",
+        "690"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "590"
+    },
+    {
+      "id": 31,
+      "question": "x-अक्ष से बिन्दु (3, 6) की दूरी है\n(Distance of point (3, 6) from x-axis is)",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "√45"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 32,
+      "question": "यदि y² + 1/y² = 14 तो y + 1/y का मान है\n(If y² + 1/y² = 14 then value of y + 1/y is)",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 33,
+      "question": "दो संख्याओं का गुणनफल = ...\n(Product of two numbers = ...)",
+      "options": [
+        "म०स० × ल०स० (HCF × LCM)",
+        "म०स० + ल०स० (HCF + LCM)",
+        "म०स० - ल०स० (HCF - LCM)",
+        "म०स० / ल०स० (HCF / LCM)"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "म०स० × ल०स० (HCF × LCM)"
+    },
+    {
+      "id": 34,
+      "question": "द्विघात समीकरण x² - 15x + 50 = 0 के मूलों का योग एवं मूलों के गुणनफल का अनुपात होगा\n(The ratio of sum of roots and product of roots of quadratic equation x² - 15x + 50 = 0 will be)",
+      "options": [
+        "3:10",
+        "10:3",
+        "3:5",
+        "5:3"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "3:10"
+    },
+    {
+      "id": 35,
+      "question": "बिन्दु (4.5, 6.5) किस पाद में स्थित है ?\n(In which quadrant does point (4.5, 6.5) lie ?)",
+      "options": [
+        "प्रथम",
+        "द्वितीय",
+        "तृतीय",
+        "चतुर्थ"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "प्रथम"
+    },
+    {
+      "id": 36,
+      "question": "रैखिक बहुपद ax + b का शून्यक है\n(Zero of linear polynomial ax + b is)",
+      "options": [
+        "b/a",
+        "-b/a",
+        "a/b",
+        "-a/b"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "-b/a"
+    },
+    {
+      "id": 37,
+      "question": "समांतर श्रेढ़ी 25, 20, 15, ... का कौन-सा पद प्रथम ऋणात्मक पद है ?\n(Which term of A.P. 25, 20, 15, ... is the first negative term ?)",
+      "options": [
+        "6 वाँ",
+        "7 वाँ",
+        "8 वाँ",
+        "9 वाँ"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "6 वाँ"
+    },
+    {
+      "id": 38,
+      "question": "यदि द्विघात बहुपद (k-1)x² + kx + 1 का एक शून्यक -4 हो तो k का मान है\n(If one zero of the quadratic polynomial (k-1)x² + kx + 1 is -4 then the value of k is)",
+      "options": [
+        "-5/4",
+        "5/4",
+        "-4/3",
+        "4/3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "5/4"
+    },
+    {
+      "id": 39,
+      "question": "निम्नलिखित में कौन समांतर श्रेढ़ी में है ?\n(Which of the following is in an A.P.?)",
+      "options": [
+        "1, 7, 9, 16, ...",
+        "x², x³, x⁴, x⁵...",
+        "x, 2x, 3x, 4x, ...",
+        "2², 4², 6², 8²..."
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "x, 2x, 3x, 4x, ..."
+    },
+    {
+      "id": 40,
+      "question": "दो वृत्तों के परिधियों का अनुपात 3:4 है, तो उनके क्षेत्रफलों का अनुपात होगा\n(The ratio of circumferences of two circles is 3:4, then ratio of their areas will be)",
+      "options": [
+        "3:4",
+        "4:3",
+        "9:16",
+        "16:9"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "9:16"
+    },
+    {
+      "id": 41,
+      "question": "यदि त्रिभुज ABC में DE || BC एवं AD/DB = 5/3 हो तो AE/EC का मान होगा\n(In triangle ABC if DE || BC and AD/DB = 5/3 then value of AE/EC will be)",
+      "options": [
+        "3/5",
+        "5/3",
+        "8/3",
+        "8/5"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "8/3"
+    },
+    {
+      "id": 42,
+      "question": "बहुपद x² - 11 के शून्यक हैं\n(Zeros of polynomial x² - 11 are)",
+      "options": [
+        "11, -11",
+        "√11, -11",
+        "√11, -√11",
+        "11, -√11"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "√11, -√11"
+    },
+    {
+      "id": 43,
+      "question": "बिन्दुओं A(3, -4) और B(1, 2) को मिलाने वाली रेखाखण्ड के मध्य बिन्दु के नियामक हैं\n(Coordinates of midpoint of line segment joining A(3, -4) and B(1, 2) are)",
+      "options": [
+        "(2, -1)",
+        "(2, 1)",
+        "(1, -1)",
+        "(-1, 2)"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "(2, -1)"
+    },
+    {
+      "id": 44,
+      "question": "यदि त्रिभुज के शीर्षों के नियामक (0, 8), (0, 0) तथा (6, 0) है, तो त्रिभुज का परिमाप है\n(If coordinates of vertices of a triangle are (0, 8), (0, 0) and (6, 0), then perimeter of triangle is)",
+      "options": [
+        "24",
+        "14",
+        "12",
+        "48"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "24"
+    },
+    {
+      "id": 45,
+      "question": "द्विघात समीकरण x² - 5x + 6 = 0 के मूल हैं\n(Roots of quadratic equation x² - 5x + 6 = 0 are)",
+      "options": [
+        "2, 3",
+        "-2, 3",
+        "2, -3",
+        "-2, -3"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "2, 3"
+    },
+    {
+      "id": 46,
+      "question": "यदि किसी समांतर श्रेढ़ी का 5 वाँ पद 11 एवं सार्व अंतर 2 है तो उसका प्रथम पद क्या होगा ?\n(If 5th term of an A.P. is 11 and common difference is 2 then what is its first term?)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 47,
+      "question": "k के किस मान के लिए समीकरण x + 2y = 7 तथा 2x + ky = 14 संपाती रेखाओं को प्रदर्शित करता है ?\n(For what value of k, the equations x + 2y = 7 and 2x + ky = 14 represent coincident lines ?)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 48,
+      "question": "मूलों -3 और -5 वाला द्विघात समीकरण है\n(Quadratic equation with roots -3 and -5 is)",
+      "options": [
+        "x² + 8x + 15 = 0",
+        "x² - 8x + 15 = 0",
+        "x² - 2x - 15 = 0",
+        "x² + 2x - 15 = 0"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "x² + 8x + 15 = 0"
+    },
+    {
+      "id": 49,
+      "question": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई दो स्पर्श रेखाएँ परस्पर 60° के कोण पर झुकी हों, तो प्रत्येक स्पर्श रेखा की लम्बाई है\n(If two tangents drawn to a circle of radius 3 cm are inclined to each other at an angle of 60°, then length of each tangent is)",
+      "options": [
+        "3 सेमी",
+        "3√3 सेमी",
+        "6 सेमी",
+        "3/√3 सेमी"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3√3 सेमी"
+    },
+    {
+      "id": 50,
+      "question": "दो समरूप त्रिभुजों की भुजाएँ 4:9 के अनुपात में हैं। इन त्रिभुजों के क्षेत्रफलों का अनुपात है\n(Sides of two similar triangles are in ratio 4:9. The ratio of areas of these triangles is)",
+      "options": [
+        "2:3",
+        "4:9",
+        "81:16",
+        "16:81"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "16:81"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "date": "0207",
+  "dateDisplay": "07 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "किसी वृत्त के व्यास के सिरों के निर्देशांक (-10, 6) तथा (6, -10) हैं, तो वृत्त के केन्द्र के निर्देशांक होंगे\n(The coordinates of the end points of the diameter of a circle are (-10, 6) and (6, -10). Then the coordinates of the centre of the circle are)",
+      "options": [
+        "(-8, -8)",
+        "(-6, -6)",
+        "(-4, -4)",
+        "(-2, -2)"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "(-2, -2)"
+    },
+    {
+      "id": 2,
+      "question": "सरल रेखा y = 2x - 3 का आलेख निम्न में से किस बिन्दु से होकर गुजरेगी ?\n(The graph of the straight line y = 2x - 3 passes through which of the following points?)",
+      "options": [
+        "(2, 2)",
+        "(4, 1)",
+        "(3, 4)",
+        "(5, 7)"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "(5, 7)"
+    },
+    {
+      "id": 3,
+      "question": "यदि किसी बारंबारता सारणी का माध्य 27 एवं माध्यिका 33 हो तो बहुलक होगा\n(If mean of a frequency distribution table is 27 and median is 33 then mode will be)",
+      "options": [
+        "30",
+        "43",
+        "45",
+        "47"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "45"
+    },
+    {
+      "id": 4,
+      "question": "यदि P(0, 0), Q(8, 0) एवं R(0, 12) किसी त्रिभुज PQR के शीर्ष हैं, तो Δ PQR का क्षेत्रफल है\n(If P(0, 0), Q(8, 0) and R(0, 12) are the vertices of a triangle PQR, then area of Δ PQR is)",
+      "options": [
+        "40",
+        "48",
+        "24",
+        "8"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "48"
+    },
+    {
+      "id": 5,
+      "question": "द्विघात समीकरण x² - 2x - 3 = 0 के मूल हैं\n(Roots of quadratic equation x² - 2x - 3 = 0 are)",
+      "options": [
+        "3, 1",
+        "3, -1",
+        "-3, 1",
+        "-3, -1"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "3, -1"
+    },
+    {
+      "id": 6,
+      "question": "किसी समांतर श्रेढ़ी का दूसरा पद 13 और इसका 5 वाँ पद 25 है, तो इसका सार्व अंतर होगा\n(The 2nd term of an A.P. is 13 and its 5th term is 25. Then its common difference is)",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 7,
+      "question": "x-अक्ष पर वह बिन्दु जो बिन्दुएँ (-2, 0) एवं (6, 0) से समदूरस्थ हो\n(The point on x-axis which is equidistant from points (-2, 0) and (6, 0) is)",
+      "options": [
+        "(0, 2)",
+        "(2, 0)",
+        "(3, 0)",
+        "(0, 3)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "(2, 0)"
+    },
+    {
+      "id": 8,
+      "question": "एक अर्द्धवृत्त, जिसकी त्रिज्या 3r है, उसकी परिमिति होगी\n(The perimeter of a semi-circle whose radius is 3r, will be)",
+      "options": [
+        "3πr + 3r",
+        "3πr + 6r",
+        "3πr + 9r",
+        "3πr"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "3πr + 6r"
+    },
+    {
+      "id": 9,
+      "question": "4 सेमी त्रिज्या वाले अर्द्धवृत्त का क्षेत्रफल होगा\n(Area of a semi-circle of radius 4 cm will be)",
+      "options": [
+        "128/7 सेमी²",
+        "156/7 सेमी²",
+        "175/7 सेमी²",
+        "176/7 सेमी²"
+      ],
+      "correct": 4,
+      "year": 2019,
+      "correctAnswer": ""
+    },
+    {
+      "id": 10,
+      "question": "k के किस मान के लिए समीकरण निकाय x + 2y = 3 तथा 5x + ky = 15 के अनगिनत हल हैं ?\n(For what value of k, system of equations x + 2y = 3 and 5x + ky = 15 has infinitely many solutions ?)",
+      "options": [
+        "5",
+        "10",
+        "6",
+        "12"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "10"
+    },
+    {
+      "id": 11,
+      "question": "बिन्दु (15, 8) की मूल बिन्दु से दूरी क्या होगी ?\n(What will be the distance of the point (15, 8) from the origin?)",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "17"
+    },
+    {
+      "id": 12,
+      "question": "यदि बिन्दु (4, a) रेखा 2x - 3y = 5 पर स्थित हो तो a का मान होगा\n(If the point (4, a) lies on the line 2x - 3y = 5, then the value of a is)",
+      "options": [
+        "1",
+        "-1",
+        "3",
+        "-3"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 13,
+      "question": "यदि a और b अभाज्य संख्याएँ हैं, तो a और b का ल०स० है\n(If a and b are prime numbers, then L.C.M. of a and b is)",
+      "options": [
+        "a",
+        "b",
+        "ab",
+        "a/b"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "ab"
+    },
+    {
+      "id": 14,
+      "question": "समांतर श्रेढ़ी 2, 6, 10, 14, ..., 82 में पदों की संख्या है\n(The number of terms in the A.P. 2, 6, 10, 14, ..., 82 is)",
+      "options": [
+        "15",
+        "21",
+        "20",
+        "22"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "21"
+    },
+    {
+      "id": 15,
+      "question": "समीकरण निकाय x + 2y = 5, ax + (a - b)y = 10 के अनन्त हल हैं, यदि\n(System of equations x + 2y = 5, ax + (a - b)y = 10 has infinite solutions, if)",
+      "options": [
+        "a + b = 0",
+        "2a = b",
+        "2a - b = 0",
+        "a - b = 0"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "a + b = 0"
+    },
+    {
+      "id": 16,
+      "question": "x² - 2x - 3 = 0 तथा x² - 8x + 15 = 0 में उभयनिष्ठ मूल है\n(The common root of x² - 2x - 3 = 0 and x² - 8x + 15 = 0 is)",
+      "options": [
+        "3",
+        "-3",
+        "5",
+        "-5"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 17,
+      "question": "यदि किसी समांतर श्रेढ़ी में a₃₀ - a₂₀ = 50 हो, तो श्रेढ़ी का सार्व अंतर होगा\n(If a₃₀ - a₂₀ = 50 in an A.P., then the common difference of the A.P. is)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "10"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 18,
+      "question": "यदि (2x - 1), (3x + 2) एवं (6x - 1) किसी समांतर श्रेढ़ी के तीन क्रमागत पद हैं, तो x का मान होगा\n(If (2x - 1), (3x + 2) and (6x - 1) are three consecutive terms of an A.P., then the value of x is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 19,
+      "question": "अच्छी तरह से फेटी गई 52 ताश की एक गड्डी में से यादृच्छया एक पत्ता खींचा गया। इसके काले रंग के बादशाह होने की प्रायिकता क्या है ?\n(A card is drawn at random from a well shuffled deck of 52 playing cards. What is the probability of getting a black king?)",
+      "options": [
+        "1/13",
+        "1/26",
+        "1/52",
+        "3/36"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "1/26"
+    },
+    {
+      "id": 20,
+      "question": "संचयी बारंबारता सारणी निम्न में से किसके निर्धारण में उपयोगी होता है?\n(Cumulative frequency table is useful in the determination of which of the following?)",
+      "options": [
+        "माध्य (Mean)",
+        "माध्यिका (Median)",
+        "बहुलक (Mode)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "माध्यिका (Median)"
+    },
+    {
+      "id": 21,
+      "question": "यदि किसी समांतर श्रेढ़ी का n वाँ पद 8n - 2 हो, तो उस श्रेढ़ी का सातवाँ पद होगा\n(If the nth term of an A.P. is 8n - 2, then the 7th term of that A.P. is)",
+      "options": [
+        "54",
+        "56",
+        "50",
+        "30"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "54"
+    },
+    {
+      "id": 22,
+      "question": "यदि x + 2, 2x + 3, 4x + 5 तथा 5x + 2 का माध्य 18 है, तो x का मान होगा\n(If the mean of x + 2, 2x + 3, 4x + 5 and 5x + 2 is 18, then the value of x is)",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "15"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 23,
+      "question": "9 sec²A - 9 tan²A बराबर है\n(9 sec²A - 9 tan²A is equal to)",
+      "options": [
+        "1",
+        "9",
+        "8",
+        "0"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "9"
+    },
+    {
+      "id": 24,
+      "question": "माध्य, माध्यिका और बहुलक में कौन-सा संबंध सत्य है ?\n(Which relation is true among Mean, Median and Mode?)",
+      "options": [
+        "माध्य - बहुलक = 3 (माध्य - माध्यिका) (Mean - Mode = 3(Mean - Median))",
+        "माध्य - बहुलक = 3 (माध्य + माध्यिका) (Mean - Mode = 3(Mean + Median))",
+        "माध्य - बहुलक = 3 (माध्यिका - माध्य) (Mean - Mode = 3(Median - Mean))",
+        "माध्य - बहुलक = 3 (माध्य x माध्यिका) (Mean - Mode = 3(Mean x Median))"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "माध्य - बहुलक = 3 (माध्य - माध्यिका) (Mean - Mode = 3(Mean - Median))"
+    },
+    {
+      "id": 25,
+      "question": "यदि द्विघात समीकरण x² - px + 4 = 0 के मूल बराबर हों, तो p =\n(If the roots of the quadratic equation x² - px + 4 = 0 are equal, then p =)",
+      "options": [
+        "± 2",
+        "± 3",
+        "± 4",
+        "± 5"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "± 4"
+    },
+    {
+      "id": 26,
+      "question": "किसी त्रिभुज के शीर्ष बिन्दुओं के निर्देशांक (0, 6), (0, 0) एवं (8, 0) हैं, तो त्रिभुज की परिमिति होगी\n(The coordinates of the vertices of a triangle are (0, 6), (0, 0) and (8, 0). Then the perimeter of the triangle will be)",
+      "options": [
+        "14",
+        "24",
+        "36",
+        "48"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "24"
+    },
+    {
+      "id": 27,
+      "question": "बिन्दु (13, 19) से x-अक्ष पर डाले गए लम्ब की लम्बाई है\n(The length of the perpendicular drawn from the point (13, 19) to the x-axis is)",
+      "options": [
+        "13",
+        "19",
+        "32",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "19"
+    },
+    {
+      "id": 28,
+      "question": "यदि किसी ऊर्ध्वाधर खंभे की ऊँचाई जमीन पर उस खंभे की छाया की लम्बाई की √3 गुनी है तो सूर्य का उन्नयन कोण होगा\n(If height of a vertical pole is √3 times the length of its shadow on ground, then angle of elevation of sun will be)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "75°"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "60°"
+    },
+    {
+      "id": 29,
+      "question": "बिन्दुओं (a cos θ, 0) तथा (0, a sin θ) के बीच की दूरी है\n(The distance between the points (a cos θ, 0) and (0, a sin θ) is)",
+      "options": [
+        "a",
+        "2a",
+        "3a",
+        "4a"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "a"
+    },
+    {
+      "id": 30,
+      "question": "निम्नलिखित वितरण में बहुलक वर्ग क्या है ?\n\n\"वर्ग-अन्तराल\",\"0-10\",\"10-20\",\"20-30\",\"30-40\",\"40-50\"\n\"बारंबारता\",\"15\",\"20\",\"45\",\"15\",\"25\"\n\n(What is the modal class in the following distribution?)\n\n\"Class-Interval\",\"0-10\",\"10-20\",\"20-30\",\"30-40\",\"40-50\"\n\"Frequency\",\"15\",\"20\",\"45\",\"15\",\"25\"",
+      "options": [
+        "10 - 20",
+        "20 - 30",
+        "30 - 40",
+        "40 - 50"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "20 - 30"
+    },
+    {
+      "id": 31,
+      "question": "एक पासे की एक फेंक में 2 नहीं आने की प्रायिकता क्या है ?\n(What is the probability of not getting 2 in a throw of a die?)",
+      "options": [
+        "0",
+        "1/6",
+        "5/6",
+        "1/2"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "5/6"
+    },
+    {
+      "id": 32,
+      "question": "समांतर श्रेढ़ी 72, 63, 54, ... का कौन-सा पद शून्य है ?\n(Which term of the A.P. 72, 63, 54, ... is zero?)",
+      "options": [
+        "8 वाँ (8th)",
+        "9 वाँ (9th)",
+        "10 वाँ (10th)",
+        "11 वाँ (11th)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "9 वाँ (9th)"
+    },
+    {
+      "id": 33,
+      "question": "y-अक्ष से बिन्दु (13, 15) की दूरी है\n(The distance of the point (13, 15) from y-axis is)",
+      "options": [
+        "13",
+        "15",
+        "2",
+        "28"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "13"
+    },
+    {
+      "id": 34,
+      "question": "प्रथम पाँच सम प्राकृत संख्याओं का माध्य होगा\n(Mean of first five even natural numbers will be)",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 35,
+      "question": "यदि 24, 27, 28, 31, 34, x, 37, 40, 42, 45 की माध्यिका 35 हो, तो x का मान है\n(If the median of 24, 27, 28, 31, 34, x, 37, 40, 42, 45 is 35, then the value of x is)",
+      "options": [
+        "35",
+        "36",
+        "34.5",
+        "35.5"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "36"
+    },
+    {
+      "id": 36,
+      "question": "किसी वृत्त के बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA एवं PB खींची गई हैं। यदि PA = 5 सेमी, तो PB की लम्बाई होगी\n(Two tangents PA and PB are drawn to a circle from an external point P. If PA = 5 cm, then the length of PB is)",
+      "options": [
+        "5 सेमी",
+        "10 सेमी",
+        "15 सेमी",
+        "20 सेमी"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "5 सेमी"
+    },
+    {
+      "id": 37,
+      "question": "यदि द्विघात समीकरण ax² + bx + c = 0, a ≠ 0 के मूल वास्तविक और असमान हों तो\n(If roots of quadratic equation ax² + bx + c = 0, a ≠ 0 are real and unequal then)",
+      "options": [
+        "b² < 4ac",
+        "b² > 4ac",
+        "b² = 4ac",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "b² > 4ac"
+    },
+    {
+      "id": 38,
+      "question": "बिन्दुओं (-2, 8) एवं (-6, -4) को मिलानेवाली रेखाखण्ड का मध्य बिन्दु किस चतुर्थांश में स्थित है ?\n(In which quadrant does the mid-point of the line segment joining the points (-2, 8) and (-6, -4) lie?)",
+      "options": [
+        "प्रथम (First)",
+        "द्वितीय (Second)",
+        "तृतीय (Third)",
+        "चतुर्थ (Fourth)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "द्वितीय (Second)"
+    },
+    {
+      "id": 39,
+      "question": "यदि द्विघात समीकरण p²x² - q² = 0 के मूल हैं\n(The roots of the quadratic equation p²x² - q² = 0 are)",
+      "options": [
+        "± p/q",
+        "± q/p",
+        "p² / q²",
+        "q² / p²"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "± q/p"
+    },
+    {
+      "id": 40,
+      "question": "एक घनाभ की लम्बाई, चौड़ाई और ऊँचाई क्रमशः 8 सेमी, 6 सेमी और 5 सेमी हो तो इसके विकर्ण की लम्बाई होगी\n(If length, breadth and height of a cuboid are 8 cm, 6 cm and 5 cm respectively, then length of its diagonal will be)",
+      "options": [
+        "5√5 सेमी",
+        "10√5 सेमी",
+        "20√5 सेमी",
+        "25√5 सेमी"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "5√5 सेमी"
+    },
+    {
+      "id": 41,
+      "question": "यदि घटना E की पूरक घटना E' है, तो निम्नलिखित में कौन-सा सही है?\n(If E' is the complementary event of an event E, then which of the following is true?)",
+      "options": [
+        "P(E) = P(E')",
+        "P(E) + P(E') = 0",
+        "P(E) + P(E') = 1",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "P(E) + P(E') = 1"
+    },
+    {
+      "id": 42,
+      "question": "यदि sec θ = 13/12 हो तो cot θ बराबर है\n(If sec θ = 13/12 then cot θ is equal to)",
+      "options": [
+        "5/12",
+        "5/13",
+        "12/5",
+        "13/5"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "12/5"
+    },
+    {
+      "id": 43,
+      "question": "13 और 17 का समांतर माध्य है\n(The arithmetic mean of 13 and 17 is)",
+      "options": [
+        "12",
+        "13",
+        "15",
+        "17"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "15"
+    },
+    {
+      "id": 44,
+      "question": "यदि किसी त्रिभुज के शीर्षों के निर्देशांक (2, 4), (0, 6) तथा (4, -1) हों, तो त्रिभुज के केन्द्रक के निर्देशांक होंगे\n(If the coordinates of the vertices of a triangle are (2, 4), (0, 6) and (4, -1), then the coordinates of the centroid of the triangle will be)",
+      "options": [
+        "(3, 2)",
+        "(2, 3)",
+        "(3, 3)",
+        "(2, 2)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "(2, 3)"
+    },
+    {
+      "id": 45,
+      "question": "निम्नलिखित में कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ?\n(Which of the following numbers cannot be the probability of an event?)",
+      "options": [
+        "0.7",
+        "2.5",
+        "75%",
+        "4/5"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "2.5"
+    },
+    {
+      "id": 46,
+      "question": "1 + tan²θ का मान है\n(Value of 1 + tan²θ is)",
+      "options": [
+        "sec²θ",
+        "cosec²θ",
+        "tan²θ",
+        "cot²θ"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "sec²θ"
+    },
+    {
+      "id": 47,
+      "question": "दो पासे एक साथ उछाले गये तो दोनों पर एक ही संख्या आने की प्रायिकता होगी\n(Two dice are thrown together, then probability of getting same number on both will be)",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "1/12"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": 48,
+      "question": "समान्तर श्रेढ़ी 5, 8, 11, 14, ... का दसवाँ पद है\n(The 10th term of A.P. 5, 8, 11, 14, ... is)",
+      "options": [
+        "32",
+        "35",
+        "38",
+        "185"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "32"
+    },
+    {
+      "id": 49,
+      "question": "समांतर श्रेढ़ी 2, 5, 8, 11, ... का 11 वाँ पद क्या होगा ?\n(What is the 11th term of the A.P. 2, 5, 8, 11, ... ?)",
+      "options": [
+        "24",
+        "30",
+        "32",
+        "34"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "32"
+    },
+    {
+      "id": 50,
+      "question": "द्विघात समीकरण x² + 4x + b = 0 का विवेचक है\n(The discriminant of the quadratic equation x² + 4x + b = 0 is)",
+      "options": [
+        "16 - 4b",
+        "16 + 4b",
+        "b - 16",
+        "16b"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "16 - 4b"
+    }
+  ]
+}

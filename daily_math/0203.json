@@ -1,0 +1,658 @@
+{
+  "date": "0203",
+  "dateDisplay": "03 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "त्रिभुज PQR में P और Q बिन्दु भुजाओं AB और AC पर क्रमशः इस प्रकार हैं कि PQ || BC. यदि AP = 3 सेमी, PB = 2 सेमी, AQ = 6 सेमी और QC = x सेमी तो x का मान है\n(In triangle PQR, P and Q are points on the sides AB and AC respectively such that PQ || BC. If AP = 3 cm, PB = 2 cm, AQ = 6 cm and QC = x cm, then the value of x is)",
+      "options": [
+        "3",
+        "8",
+        "10",
+        "4"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 2,
+      "question": "यदि दो संख्याओं का गुणनफल 2166 है एवं उनका म०स० 19 है, तो उनका ल०स० होगा\n(If the product of two numbers is 2166 and their H.C.F. is 19, then their L.C.M. will be)",
+      "options": [
+        "38",
+        "57",
+        "114",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "114"
+    },
+    {
+      "id": 3,
+      "question": "एक पहिए का व्यास 40 सेमी है। 176 मी की दूरी तय करने में इसे कितने चक्कर लगाने पड़ेंगे ?\n(The diameter of a wheel is 40 cm. How many revolutions will it make in covering 176 m ?)",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "166"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "140"
+    },
+    {
+      "id": 4,
+      "question": "(cosec²θ - 1) =",
+      "options": [
+        "tan²θ",
+        "sin²θ",
+        "cot²θ",
+        "cos²θ"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "cot²θ"
+    },
+    {
+      "id": 5,
+      "question": "रैखिक समीकरण में चर के घात की संख्या होती है\n(The number of power of variable in a linear equation is)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "कोई नहीं (None)"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 6,
+      "question": "tan 50° + cot 40° =",
+      "options": [
+        "1",
+        "tan 10°",
+        "tan 50°",
+        "2 tan 50°"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "tan 10°"
+    },
+    {
+      "id": 7,
+      "question": "cos 60° . cos 30° - sin 60° . sin 30° का मान होगा\n(The value of cos 60° . cos 30° - sin 60° . sin 30° will be)",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "√3/2"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 8,
+      "question": "Δ ABC एक समकोण त्रिभुज है जिसमें ∠C = 90° है तो cos(A + B) का मान है\n(Δ ABC is a right angled triangle in which ∠C = 90°, then the value of cos(A + B) is)",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "√3/2"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 9,
+      "question": "यदि किसी घन के विकर्ण की लम्बाई 6√3 सेमी है, तो इसके सम्पूर्ण पृष्ठ का क्षेत्रफल होगा\n(If the length of diagonal of a cube is 6√3 cm, then its total surface area will be)",
+      "options": [
+        "144 सेमी²",
+        "216 सेमी²",
+        "180 सेमी²",
+        "156 सेमी²"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "216 सेमी²"
+    },
+    {
+      "id": 10,
+      "question": "Δ ABC में DE || BC इस तरह है कि AD/DB = 3/5. यदि AC = 5.6 सेमी, तब AE = ?\n(In Δ ABC, DE || BC such that AD/DB = 3/5. If AC = 5.6 cm, then AE = ?)",
+      "options": [
+        "4.2 सेमी (cm)",
+        "3.1 सेमी (cm)",
+        "2.8 सेमी (cm)",
+        "2.1 सेमी (cm)"
+      ],
+      "correct": 4,
+      "year": 2021,
+      "correctAnswer": ""
+    },
+    {
+      "id": 11,
+      "question": "यदि किसी शंकु के वक्र पृष्ठ का क्षेत्रफल 880 सेमी² है और त्रिज्या 14 सेमी है तो इसकी तिर्यक ऊँचाई होगी\n(If curved surface area of a cone is 880 cm² and radius is 14 cm then its slant height will be)",
+      "options": [
+        "10 सेमी",
+        "20 सेमी",
+        "30 सेमी",
+        "40 सेमी"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "20 सेमी"
+    },
+    {
+      "id": 12,
+      "question": "एक वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ?\n(How many tangents can be drawn on a circle ?)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "अनन्त (Infinite)"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "अनन्त (Infinite)"
+    },
+    {
+      "id": 13,
+      "question": "यदि 4 tan θ = 4 तो θ का मान है\n(If 4 tan θ = 4 then the value of θ is)",
+      "options": [
+        "0°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 14,
+      "question": "द्विघात बहुपद x² + 1/6 x - 2 के शून्यक होंगे\n(Zeros of quadratic polynomial x² + 1/6 x - 2 will be)",
+      "options": [
+        "-3, 4",
+        "-3/2, 4/3",
+        "-4/3, 3/2",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "इनमें से कोई नहीं (None of these)"
+    },
+    {
+      "id": 15,
+      "question": "cos 48° - sin 42° =",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "-1"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 16,
+      "question": "समान्तर श्रेढ़ी 3, 5, 7, 9, 11, ... का n वाँ पद होगा\n(The nth term of the A.P. 3, 5, 7, 9, 11, ... will be)",
+      "options": [
+        "2n + 1",
+        "2n - 1",
+        "2n + 2",
+        "2n - 2"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "2n + 1"
+    },
+    {
+      "id": 17,
+      "question": "यदि α एवं β द्विघात बहुपद x² - 3x + 5 के शून्यक हों, तो (α + β) का मान होगा\n(If α and β are the zeros of quadratic polynomial x² - 3x + 5, then the value of (α + β) will be)",
+      "options": [
+        "3",
+        "5",
+        "-3",
+        "-5"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 18,
+      "question": "√(1 + tan²A) =",
+      "options": [
+        "cot A",
+        "sec A",
+        "cos A",
+        "sin A"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "sec A"
+    },
+    {
+      "id": 19,
+      "question": "sec 90° - A =\n",
+      "options": [
+        "cosec A",
+        "sin A",
+        "tan A",
+        "cos A"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "cosec A"
+    },
+    {
+      "id": 20,
+      "question": "द्वितीय चतुर्थांश में बिन्दु के नियामक होंगे\n(The co-ordinates of the point in second quadrant are)",
+      "options": [
+        "(2, 3)",
+        "(-2, 3)",
+        "(-2, -3)",
+        "(2, -3)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "(-2, 3)"
+    },
+    {
+      "id": 21,
+      "question": "किसी त्रिभुज के शीर्षों के नियामक (-3, 0), (5, -2) और (-8, 5) हो तो उसके केन्द्रक के नियामक होंगे\n(If the co-ordinates of the vertices of a triangle are (-3, 0), (5, -2) and (-8, 5), then the co-ordinates of its centroid are)",
+      "options": [
+        "(2, 1)",
+        "(-2, 1)",
+        "(2, -1)",
+        "(-2, -1)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "(2, -1)"
+    },
+    {
+      "id": 22,
+      "question": "यदि एक शंकु की ऊँचाई h और आधार की त्रिज्या r है, तो इसका आयतन होगा\n(If h be the height and r be the radius of base of a cone, then its volume will be)",
+      "options": [
+        "(1/3)πr²h",
+        "(1/3)πrh²",
+        "(2/3)πr²h",
+        "πr²h"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "(1/3)πr²h"
+    },
+    {
+      "id": 23,
+      "question": "(cosec²57° - tan²33°) =",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 24,
+      "question": "Δ ABC ~ Δ DEF तथा Δ ABC का क्षेत्रफल = 36 सेमी² एवं Δ DEF का क्षेत्रफल = 49 सेमी² है। यदि दोनों त्रिभुजों की संगत भुजाओं का अनुपात होगा\n(Δ ABC ~ Δ DEF and area of Δ ABC = 36 cm² and area of Δ DEF = 49 cm². Then the ratio of corresponding sides of both the triangles will be)",
+      "options": [
+        "36 : 49",
+        "6 : 7",
+        "7 : 6",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "6 : 7"
+    },
+    {
+      "id": 25,
+      "question": "sin²65° + sin²25° का मान है\n(The value of sin²65° + sin²25° is)",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "1/2"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 26,
+      "question": "28 सेमी व्यास वाले वृत्त की परिधि क्या होगी ?\n(What will be the circumference of a circle of diameter 28 cm ?)",
+      "options": [
+        "44 सेमी (cm)",
+        "88 सेमी (cm)",
+        "176 सेमी (cm)",
+        "66 सेमी (cm)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "176 सेमी (cm)"
+    },
+    {
+      "id": 27,
+      "question": "बिन्दु (-3, 5) का भुज है\n(The abscissa of the point (-3, 5) is)",
+      "options": [
+        "5",
+        "3",
+        "-3",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "-3"
+    },
+    {
+      "id": 28,
+      "question": "त्रिभुज PQR में यदि PQ² = PR² + RQ² तो त्रिभुज का कौन-सा कोण समकोण होगा ?\n(In triangle PQR, if PQ² = PR² + RQ² then which angle of the triangle will be right angle ?)",
+      "options": [
+        "∠P",
+        "∠Q",
+        "∠R",
+        "कोई नहीं (None)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "∠Q"
+    },
+    {
+      "id": 29,
+      "question": "समान्तर श्रेढ़ी 10, 7, 4, ... का 30 वाँ पद है\n(The 30th term of the A.P. 10, 7, 4, ... is)",
+      "options": [
+        "75",
+        "-77",
+        "55",
+        "67"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "-77"
+    },
+    {
+      "id": 30,
+      "question": "tan θ × cot θ का मान है\n(The value of tan θ × cot θ is)",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "1/2"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 31,
+      "question": "R त्रिज्या वाले वृत्त में θ कोण वाले त्रिज्यखंड के संगत चाप की लम्बाई होगी\n(The length of the arc of a sector of angle θ of a circle with radius R will be)",
+      "options": [
+        "2πRθ / 180",
+        "2πRθ / 360",
+        "πR²θ / 180",
+        "πR²θ / 360"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "πR²θ / 360"
+    },
+    {
+      "id": 32,
+      "question": "यदि sin θ = 1/2 तो cot θ =\n(If sin θ = 1/2 then cot θ =)",
+      "options": [
+        "1/√3",
+        "√3",
+        "√3/2",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 33,
+      "question": "किसी वृत्त को दो अलग बिन्दुओं पर प्रतिच्छेदित करने वाली रेखा को कहते हैं\n(A line intersecting a circle at two distinct points is called)",
+      "options": [
+        "जीवा (chord)",
+        "छेदक रेखा (secant)",
+        "स्पर्श रेखा (tangent)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "छेदक रेखा (secant)"
+    },
+    {
+      "id": 34,
+      "question": "बिन्दुओं (3, 0) एवं (-5, 4) को मिलाने वाले रेखाखंड के मध्य बिन्दु के नियामक हैं\n(The co-ordinates of the mid-point of the line segment joining the points (3, 0) and (-5, 4) are)",
+      "options": [
+        "(-2, 2)",
+        "(-1, 2)",
+        "(1, 2)",
+        "(1, -2)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "(-1, 2)"
+    },
+    {
+      "id": 35,
+      "question": "किसी बेलन का व्यास 28 सेमी एवं इसकी ऊँचाई 20 सेमी है, तो इसका सम्पूर्ण पृष्ठ का क्षेत्रफल होगा\n(The diameter of a cylinder is 28 cm and its height is 20 cm, then its total surface area will be)",
+      "options": [
+        "2992 सेमी²",
+        "2993 सेमी²",
+        "1992 सेमी²",
+        "2292 सेमी²"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "2992 सेमी²"
+    },
+    {
+      "id": 36,
+      "question": "समान्तर श्रेढ़ी 7, 13, 19, ..., 205 में पदों की संख्या कितनी है ?\n(The number of terms in A.P. 7, 13, 19, ..., 205 is)",
+      "options": [
+        "33",
+        "34",
+        "43",
+        "44"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "34"
+    },
+    {
+      "id": 37,
+      "question": "यदि किसी A.P. का प्रथम पद a एवं सार्व अन्तर d हो, तो उस A.P. का n वाँ पद होगा\n(If first term of an A.P. is a and common difference is d, then nth term of the A.P. will be)",
+      "options": [
+        "a + (n - 1)d",
+        "a + (n + 1)d",
+        "a + nd",
+        "a - (n - 1)d"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "a + (n - 1)d"
+    },
+    {
+      "id": 38,
+      "question": "यदि 3α = 90° तो sin α का मान है\n(If 3α = 90° then the value of sin α is)",
+      "options": [
+        "1/√2",
+        "√3/2",
+        "1/2",
+        "0"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 39,
+      "question": "रैखिक समीकरण युग्म 5x + 2y = 16 एवं 7x - 4y = 2 के हल हैं\n(The solutions of the pair of linear equations 5x + 2y = 16 and 7x - 4y = 2 are)",
+      "options": [
+        "x = 2, y = 3",
+        "x = 2, y = 1",
+        "x = 2, y = 2",
+        "x = 0, y = 3"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "x = 2, y = 3"
+    },
+    {
+      "id": 40,
+      "question": "यदि sin θ = a/b तब cos θ का मान है\n(If sin θ = a/b then value of cos θ is)",
+      "options": [
+        "b / √(b² - a²)",
+        "√(b² - a²) / b",
+        "a / √(b² - a²)",
+        "b / a"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "√(b² - a²) / b"
+    },
+    {
+      "id": 41,
+      "question": "बिन्दु (4, -3) की मूल बिन्दु से दूरी है\n(Distance of the point (4, -3) from the origin is)",
+      "options": [
+        "25",
+        "5",
+        "10",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 42,
+      "question": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 9 : 4 है, तो उनकी संगत ऊँचाइयों का अनुपात होगा\n(The ratio of the areas of two similar triangles is 9 : 4, then the ratio of their corresponding altitudes will be)",
+      "options": [
+        "9 : 4",
+        "3 : 2",
+        "2 : 3",
+        "4 : 9"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "3 : 2"
+    },
+    {
+      "id": 43,
+      "question": "sin(45° + θ) - cos(45° - θ) =",
+      "options": [
+        "2 sin θ",
+        "2 cos θ",
+        "0",
+        "1"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 44,
+      "question": "वृत्त की सबसे लम्बी जीवा कहलाती है\n(The longest chord of the circle is called)",
+      "options": [
+        "त्रिज्या (Radius)",
+        "व्यास (Diameter)",
+        "स्पर्श रेखा (Tangent)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "व्यास (Diameter)"
+    },
+    {
+      "id": 45,
+      "question": "tan 35° / cot 55° + cot 78° / tan 12° =",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 46,
+      "question": "sec 11° / cosec 79° का मान है\n(The value of sec 11° / cosec 79° is)",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "-1"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 47,
+      "question": "यदि जीवा AB वृत्त के केन्द्र पर 60° का कोण अन्तरित करता है तो A और B बिन्दुओं पर खींची गई स्पर्श रेखाओं के बीच का कोण होगा\n(If chord AB subtends an angle of 60° at the centre of a circle then angle between the tangents at A and B will be)",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "120°"
+    },
+    {
+      "id": 48,
+      "question": "10 सेमी त्रिज्या वाली वृत्त की एक जीवा वृत्त के केन्द्र पर समकोण बनाती है, तो उस जीवा की लम्बाई होगी\n(A chord of a circle of radius 10 cm subtends a right angle at its centre, then the length of the chord will be)",
+      "options": [
+        "10/√2 सेमी (cm)",
+        "5√2 सेमी (cm)",
+        "10√2 सेमी (cm)",
+        "10√3 सेमी (cm)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "10√2 सेमी (cm)"
+    },
+    {
+      "id": 49,
+      "question": "यदि वृत्त के व्यास के सिरों के नियामक (2, 3) एवं (-6, 7) हों, तो उसके केन्द्र के नियामक होंगे\n(If co-ordinates of the end points of the diameter of a circle are (2, 3) and (-6, 7), then the co-ordinates of its centre will be)",
+      "options": [
+        "(-2, 5)",
+        "(-2, -5)",
+        "(2, 5)",
+        "(2, -5)"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "(-2, 5)"
+    },
+    {
+      "id": 50,
+      "question": "यदि √3 tan 2θ = 3 तब θ का मान होगा\n(If √3 tan 2θ = 3 then the value of θ will be)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "30°"
+    }
+  ]
+}

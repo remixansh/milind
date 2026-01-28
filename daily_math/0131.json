@@ -1,0 +1,658 @@
+{
+  "date": "0131",
+  "dateDisplay": "31 January 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "(xⁿ + 1) का एक गुणक (x + 1) है, सिर्फ तभी -\n((xⁿ + 1) is a factor of (x + 1), only if -)",
+      "options": [
+        "n एक धनात्मक पूर्णांक है (n is a positive integer)",
+        "n एक विषम पूर्णांक है (n is an odd integer)",
+        "n एक ऋणात्मक पूर्णांक है (n is a negative integer)",
+        "n एक सम पूर्णांक है (n is an even integer)"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "n एक विषम पूर्णांक है (n is an odd integer)"
+    },
+    {
+      "id": 2,
+      "question": "बिन्दु (2,3) एवं (-2, 3) के बीच की दूरी होगी\n(Distance between the points (2, 3) and (-2, 3) will be)",
+      "options": [
+        "3",
+        "4",
+        "√3",
+        "5"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 3,
+      "question": "यदि द्विघात समीकरण px² + 4x + 3 = 0 के मूल बराबर हों, तो p का मान होगा\n(If roots of quadratic equation px² + 4x + 3 = 0 are equal, then the value of p is)",
+      "options": [
+        "2/3",
+        "4/3",
+        "4/5",
+        "3/5"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "4/3"
+    },
+    {
+      "id": 4,
+      "question": "एक 6 मीटर ऊँचे वृक्ष की छाया 4 मीटर लम्बी है। उसी समय एक खम्भे की छाया 50 मीटर है, तो खम्भे की ऊँचाई (मीटर में) है -\n(A tree of 6m height casts a 4m long shadow. At the same time a flag post casts a shadow 50 m long. The height of the post (in m.) is -)",
+      "options": [
+        "40",
+        "25",
+        "15",
+        "10"
+      ],
+      "correct": 2,
+      "year": 2018,
+      "correctAnswer": "15"
+    },
+    {
+      "id": 5,
+      "question": "कोण θ वाले त्रिज्यखण्ड का क्षेत्रफल होगा\n(Area of sector of angle θ will be)",
+      "options": [
+        "(θ/270) × πr³",
+        "(θ/360) × πr",
+        "(θ/270) × πr²",
+        "(θ/360) × πr²"
+      ],
+      "correct": 3,
+      "year": 2016,
+      "correctAnswer": "(θ/360) × πr²"
+    },
+    {
+      "id": 6,
+      "question": "सरल रेखा जो x = -1 तथा y = 4 से निरूपित की जाती है -\n(The lines x = -1 and y = 4 are -)",
+      "options": [
+        "एक-दूसरे के लम्बवत् है (perpendicular to each other)",
+        "एक-दूसरे के समानान्तर है (parallel to each other)",
+        "न तो एक-दूसरे के समानान्तर है न लंबवत् है (neither parallel nor perpendicular to each other)",
+        "कोई निष्कर्ष नहीं कहा जा सकता (Nothing can be said)"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "एक-दूसरे के लम्बवत् है (perpendicular to each other)"
+    },
+    {
+      "id": 7,
+      "question": "यदि 1, 4, x, 5 तथा 12 का माध्य 7 है, तो x का मान है\n(If mean of 1, 4, x, 5 and 12 is 7, then the value of x is)",
+      "options": [
+        "6",
+        "8",
+        "13",
+        "9"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "13"
+    },
+    {
+      "id": 8,
+      "question": "दो लगातार संख्याओं का म०स० है\n(The HCF of two consecutive numbers is)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 9,
+      "question": "सरल रेखाएँ x = -2 तथा y = 3 का कटान बिन्दु है-\n(The lines x = -2 and y = 3 intersects at points-)",
+      "options": [
+        "(-2, 3)",
+        "(2, -3)",
+        "(3, -2)",
+        "(-3, 2)"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "(-2, 3)"
+    },
+    {
+      "id": 10,
+      "question": "sin(π/4) - cos(π/4) का मान होगा\n(The value of sin(π/4) - cos(π/4) will be)",
+      "options": [
+        "2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 11,
+      "question": "21, 18, 15, ... का कौन-सा पद शून्य है ?\n(Which term of the A.P. 21, 18, 15, ... is 0?)",
+      "options": [
+        "6th",
+        "7th",
+        "8th",
+        "9th"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "8th"
+    },
+    {
+      "id": 12,
+      "question": "एक 6 मीटर ऊँचे खम्भे की पृथ्वी पर छाया 2√3 मीटर लम्बी है, तो सूर्य का उन्नयन कोण है-\n(A 6m height pole's shadow on the earth is 2√3 m long, then the Sun's elevation is -)",
+      "options": [
+        "60°",
+        "45°",
+        "30°",
+        "15°"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "60°"
+    },
+    {
+      "id": 13,
+      "question": "जिस त्रिभुज के तीनों शीर्ष के नियामक (0, 4), (0, 0) तथा (3, 0) है, उसकी परिमिति है-\n(The perimeter of a triangle with vertices (0, 4), (0, 0) and (3, 0) is -)",
+      "options": [
+        "8 इकाई (Unit)",
+        "10 इकाई (Unit)",
+        "12 इकाई (Unit)",
+        "15 इकाई (Unit)"
+      ],
+      "correct": 2,
+      "year": 2018,
+      "correctAnswer": "12 इकाई (Unit)"
+    },
+    {
+      "id": 14,
+      "question": "दो बेलनों की त्रिज्याओं का अनुपात (1:2) है तथा उनकी ऊंचाइयों का अनुपात (5:3) है, तो उनके आयतनों का अनुपात है\n(Radii of two cylinders are in the ratio (1:2) and their heights are in the ratio (5:3), then their volumes are in the ratio)",
+      "options": [
+        "4:9",
+        "11:12",
+        "5:12",
+        "20:9"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "5:12"
+    },
+    {
+      "id": 15,
+      "question": "यदि सूरज की किरण का झुकाव 45° से बढ़कर 60° होता है, तो एक मीनार की छाया 50 मीटर घट जाती है। मीनार की ऊँचाई (मीटर में) है -\n(If the inclination of Sun's ray increase from 45° to 60° the length of shadow of a tower decrease by 50m. Height of the tower (in m) is -)",
+      "options": [
+        "75(3 - √3)",
+        "25(3 + √3)",
+        "100(√3 + 1)",
+        "50(√3 - 1)"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "25(3 + √3)"
+    },
+    {
+      "id": 16,
+      "question": "यदि दो मीनार ऊँचाई h₁ तथा h₂ के पादों को मिलानेवाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः 60° तथा 30° है तो h₁/h₂ बराबर होगा -\n(If two towers of height h₁ and h₂ subtend angle 60° and 30° at the midpoint of line joining their bases of towers, then h₁/h₂ is-)",
+      "options": [
+        "3:1",
+        "1:2",
+        "√3:1",
+        "√2:1"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "3:1"
+    },
+    {
+      "id": 17,
+      "question": "प्रथम पाद में स्थित किसी बिन्दु की x-अक्ष से दूरी क्या कहलाती है ?\n(The distance of a point in first quadrant from the x-axis is called)",
+      "options": [
+        "भुज (x-coordinate)",
+        "कोटि (y-coordinate)",
+        "(A) और (B) दोनों (both (A) and (B))",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "कोटि (y-coordinate)"
+    },
+    {
+      "id": 18,
+      "question": "यदि रैखिक समीकरण का युग्म असंगत है, तो उसे निरूपित करने वाली रेखाएँ होंगी\n(If a pair of linear equations is inconsistent then the lines representing them will be)",
+      "options": [
+        "समांतर (parallel)",
+        "सदैव संपाती (always coincident)",
+        "सदैव प्रतिच्छेदी (always intersecting)",
+        "प्रतिच्छेदी अथवा संपाती (intersecting or coincident)"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "समांतर (parallel)"
+    },
+    {
+      "id": 19,
+      "question": "tan 15° . tan 20° . tan 70° . tan 75° का मान होगा-\n(The value of tan 15° . tan 20° . tan 70° . tan 75° is -)",
+      "options": [
+        "-1",
+        "2",
+        "0",
+        "1"
+      ],
+      "correct": 3,
+      "year": 2018,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 20,
+      "question": "sec²θ - 1 का मान है\n(sec²θ - 1 is equal to)",
+      "options": [
+        "cosec²θ",
+        "sin²θ",
+        "tan²θ",
+        "cot²θ"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "tan²θ"
+    },
+    {
+      "id": 21,
+      "question": "यदि एक उदग्र खंभे की ऊंचाई तथा उसकी भूमि पर छाया की लंबाई समान है, तो सूर्य का उन्नयन कोण है\n(If the height of a vertical pole and the length of its shadow on the ground are the same, then the angle of elevation of the sun is)",
+      "options": [
+        "0°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 22,
+      "question": "यदि √3 tan θ = 3 sin θ तब sin²θ - cos²θ बराबर है -\n(If √3 tan θ = 3 sin θ, then sin²θ - cos²θ is equal to -)",
+      "options": [
+        "√3",
+        "2/3",
+        "1/3",
+        "1/√3"
+      ],
+      "correct": 2,
+      "year": 2018,
+      "correctAnswer": "1/3"
+    },
+    {
+      "id": 23,
+      "question": "64 के वर्गमूल को 64 के घनमूल से भाग देने का मान होगा -\n(The square root of 64 divided by the cube root of 64 is -)",
+      "options": [
+        "64",
+        "2",
+        "1/2",
+        "(64)^(2/3)"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 24,
+      "question": "जब A.P. के प्रथम पद 2 तथा सार्व अंतर 3 हो, तब A.P. के तीन पद होंगे\n(When first term is 2 and common difference is 3 in an A.P., then three terms of the A.P. will be)",
+      "options": [
+        "2, 6, 9",
+        "2, 5, 8",
+        "2, 6, 10",
+        "2, 5, 9"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "2, 5, 8"
+    },
+    {
+      "id": 25,
+      "question": "नियामक (2, k-3) तथा (4, -7) को जोड़ने वाली रेखा का झुकाव 3 है, तो k का मान होगा-\n(The slope of the line joining the points (2, k-3) and (4, -7) is 3. The value of k will be -)",
+      "options": [
+        "-10",
+        "-6",
+        "-2",
+        "10"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "-10"
+    },
+    {
+      "id": 26,
+      "question": "समान ऊंचाई वाले दो बेलनों के आयतनों का अनुपात 9: 16 है, तो उनके वक्र पृष्ठों के क्षेत्रफलों का अनुपात क्या होगा ?\n(The ratio of the volumes of two cylinders of the same height is 9: 16, then what is the ratio of their surface areas ?)",
+      "options": [
+        "3:4",
+        "2:3",
+        "3:1",
+        "4:3"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "3:4"
+    },
+    {
+      "id": 27,
+      "question": "सरल रेखा 5x - 3y + 10 = 0 तथा अक्षों के बीच बने त्रिभुज का क्षेत्रफल -\n(The area of the triangle formed by line 5x - 3y + 10 = 0 with co-ordinate axis will be-)",
+      "options": [
+        "15/2 cm²",
+        "5 cm²",
+        "8 cm²",
+        "15 cm²"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "5 cm²"
+    },
+    {
+      "id": 28,
+      "question": "3, 4, 7, 2, 7, 6, 7, 9 का बहुलक होगा\n(The mode of 3, 4, 7, 2, 7, 6, 7, 9 will be)",
+      "options": [
+        "2",
+        "3",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 29,
+      "question": "दो वृत्तों के क्षेत्रफल 4 : 9 के अनुपात में हैं। इनकी त्रिज्याओं का अनुपात होगा\n(If the ratio of areas of two circles is 4: 9, then the ratio of their radii will be)",
+      "options": [
+        "3:4",
+        "2:3",
+        "5:3",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "2:3"
+    },
+    {
+      "id": 30,
+      "question": "मूल बिन्दु से P(3, -4) की दूरी ... होगी।\n(Distance of P(3, -4) from the origin will be)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 31,
+      "question": "सूर्य का उन्नयन कोण, जब किसी सीधे खड़े खम्भे की छाया और उसकी लम्बाई (ऊँचाई) बराबर हो -\n(The angle of elevation of the Sun, when length of shadow of a vertical pole is equal to its height is -)",
+      "options": [
+        "π/2",
+        "π/3",
+        "π/4",
+        "π/6"
+      ],
+      "correct": 2,
+      "year": 2018,
+      "correctAnswer": "π/4"
+    },
+    {
+      "id": 32,
+      "question": "बहुपद 2 - x(x - 1) के शून्यकों का गुणनफल है\n(The product of the zeroes of the polynomial 2 - x(x - 1) is)",
+      "options": [
+        "-2",
+        "2",
+        "7",
+        "1"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 33,
+      "question": "यदि P(5, 6) बिन्दु A(6, 5) और B(4, y) में शामिल होने वाले रेखाखंड AB का मध्यबिन्दु है, तो y बराबर क्या है ?\n(If P(5, 6) is the midpoint of the line segment AB joining the points A(6, 5) and B(4, y) then y equals to)",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "16"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 34,
+      "question": "2, 6, 4, 5, 0, 2, 1, 3, 2 का बहुलक है\n(Mode of 2, 6, 4, 5, 0, 2, 1, 3, 2 is)",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "1"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 35,
+      "question": "यदि l || m हो, तब d का मान होगा (चित्र में)\n(If l || m, then the value of d will be)",
+      "options": [
+        "22°",
+        "30°",
+        "45°",
+        "80°"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 36,
+      "question": "यदि संख्याएँ (2x - 1), (3x + 2) तथा (6x - 1) समांतर श्रेणी में हों, तो x का मान है\n(If the numbers (2x - 1), (3x + 2) and (6x - 1) are in A.P., the value of x is)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 37,
+      "question": "बिन्दुओं (4, -1) और (2, 3) के बीच की दूरी है\n(Distance between the points (4, -1) and (2, 3) is)",
+      "options": [
+        "3√3",
+        "√5",
+        "3√5",
+        "2√5"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "2√5"
+    },
+    {
+      "id": 38,
+      "question": "यदि E कोई घटना हो, तब P(E) + P(E') का मान होगा\n(If E is an event, then the value of P(E) + P(E') will be)",
+      "options": [
+        "2",
+        "1",
+        "-1",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 39,
+      "question": "8 cm त्रिज्या वाले वृत्त के अंतःवर्ग का क्षेत्रफल है\n(The area of the inner square of a circle of radius 8 cm is)",
+      "options": [
+        "64 cm²",
+        "100 cm²",
+        "125 cm²",
+        "128 cm²"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "128 cm²"
+    },
+    {
+      "id": 40,
+      "question": "यदि 5 cot θ = 3, तो (5 sin θ - 3 cos θ) / (4 sin θ + 3 cos θ) बराबर है -\n(If 5 cot θ = 3, then (5 sin θ - 3 cos θ) / (4 sin θ + 3 cos θ) is equal to -)",
+      "options": [
+        "11/18",
+        "16/29",
+        "14/27",
+        "11/29"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "16/29"
+    },
+    {
+      "id": 41,
+      "question": "निम्नलिखित में कौन समांतर श्रेणी है ?\n(Which of the following is an A.P. ?)",
+      "options": [
+        "1², 5², 7², ...",
+        "√2, √8, √18, √32, ...",
+        "-10, -16, -2, 2, ...",
+        "0.2, 0.22, 0.222, 0.2222, ..."
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "1², 5², 7², ..."
+    },
+    {
+      "id": 42,
+      "question": "वर्ग चिह्न = (उपरि वर्ग सीमा + ... ) / 2\n(Class mark = (upper limit + ...) / 2)",
+      "options": [
+        "निम्न वर्ग सीमा (lower limit)",
+        "बारंबारता (frequency)",
+        "वर्ग अंतराल (class interval)",
+        "संचयी बारंबारता (cumulative frequency)"
+      ],
+      "correct": 0,
+      "year": 2016,
+      "correctAnswer": "निम्न वर्ग सीमा (lower limit)"
+    },
+    {
+      "id": 43,
+      "question": "यदि sin x° = sin α तब α है -\n(If sin x° = sin α, then α is -)",
+      "options": [
+        "180/π",
+        "π/270",
+        "270/π",
+        "π/180"
+      ],
+      "correct": 3,
+      "year": 2018,
+      "correctAnswer": "π/180"
+    },
+    {
+      "id": 44,
+      "question": "यदि 7 sin²θ + 3 cos²θ = 4, तो sec θ + cosec θ बराबर है -\n(If 7 sin²θ + 3 cos²θ = 4, then sec θ + cosec θ is equal to -)",
+      "options": [
+        "(2/√3) - 2",
+        "(2/√3) + 2",
+        "2/√3",
+        "√3/2"
+      ],
+      "correct": 1,
+      "year": 2018,
+      "correctAnswer": "(2/√3) + 2"
+    },
+    {
+      "id": 45,
+      "question": "A.P. 2, 5, 8, 11, ... का 9 वाँ पद ... होगा।\n(9th term of an A.P. 2, 5, 8, 11, ... is)",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "26"
+    },
+    {
+      "id": 46,
+      "question": "एक घन का संपूर्ण पृष्ठीय क्षेत्रफल 216 cm² है तो इसका आयतन है\n(If the total surface area of a cube is 216 cm², its volume is)",
+      "options": [
+        "144 cm³",
+        "196 cm³",
+        "212 cm³",
+        "216 cm³"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "216 cm³"
+    },
+    {
+      "id": 47,
+      "question": "यदि cosec θ = √10 हो, तो sec θ = ?\n(If cosec θ = √10, then sec θ is equal to)",
+      "options": [
+        "3/√10",
+        "√10/3",
+        "1/√10",
+        "2/√10"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "√10/3"
+    },
+    {
+      "id": 48,
+      "question": "यदि द्विघात बहुपद q(x) = x² - x + 4 के शून्यक α, β हों, तब α + β का मान होगा\n(If α and β are the zeros of quadratic polynomial q(x) = x² - x + 4, then the value of α + β will be)",
+      "options": [
+        "-1",
+        "4",
+        "1",
+        "0"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 49,
+      "question": "√10 × √15 बराबर है -\n(√10 × √15 is equal to -)",
+      "options": [
+        "5√6",
+        "6√5",
+        "√30",
+        "√25"
+      ],
+      "correct": 0,
+      "year": 2018,
+      "correctAnswer": "5√6"
+    },
+    {
+      "id": 50,
+      "question": "बिन्दु (2, 3) की दूरी मूल बिन्दु से है\n(Distance of the point (2, 3) from the origin is)",
+      "options": [
+        "√10",
+        "√12",
+        "√13",
+        "5"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "√13"
+    }
+  ]
+}

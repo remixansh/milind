@@ -1,0 +1,658 @@
+{
+  "date": "0127",
+  "dateDisplay": "27 January 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "समांतर श्रेढ़ी 3, 8, 13, 18, ..., 93 में कितने पद हैं?\n(How many terms are in A.P. 3, 8, 13, 18, ..., 93 ?)",
+      "options": [
+        "19",
+        "18",
+        "20",
+        "16"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "19"
+    },
+    {
+      "id": 2,
+      "question": "द्विघात समीकरण 2x² - 7x + 6 = 0 का विवेचक है\n(The discriminant of the quadratic equation 2x² - 7x + 6 = 0 is)",
+      "options": [
+        "1",
+        "-1",
+        "27",
+        "37"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 3,
+      "question": "cosec(90° - θ) . cos(90° - θ) =",
+      "options": [
+        "sec θ",
+        "tan θ",
+        "sin θ",
+        "cot θ"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "tan θ"
+    },
+    {
+      "id": 4,
+      "question": "sec²60° - 1 का मान है\n(Value of sec²60° - 1 is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 5,
+      "question": "प्रायिकता का न्यूनतम मान होता है\n(The minimum value of a probability is)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 6,
+      "question": "यदि 3x + 4y = 10 और 2x - 2y = 2 है तो\n(If 3x + 4y = 10 and 2x - 2y = 2 then)",
+      "options": [
+        "x = 2, y = 1",
+        "x = 1, y = 2",
+        "x = -1, y = -2",
+        "x = 3, y = 1"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "x = 2, y = 1"
+    },
+    {
+      "id": 7,
+      "question": "y-अक्ष पर वह बिन्दु जो बिन्दुएँ (5, -2) और (-3, 2) से समदूरस्थ है, होगी\n(The point on y-axis which is equidistant from the points (5, -2) and (-3, 2) is)",
+      "options": [
+        "(0, 3)",
+        "(-2, 0)",
+        "(0, -2)",
+        "(2, 2)"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "(0, -2)"
+    },
+    {
+      "id": 8,
+      "question": "यदि किसी शंकु की तिर्यक ऊँचाई l तथा आधार की त्रिज्या r हो तो शंकु का संपूर्ण पृष्ठ क्षेत्रफल होगा\n(If l is slant height of a cone and r is the radius of its base then total surface area of cone is)",
+      "options": [
+        "πrl + r",
+        "πrl + πr²",
+        "πrl + r²",
+        "πrl + 2r²"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "πrl + πr²"
+    },
+    {
+      "id": 9,
+      "question": "23, 15, 25, 40, 27, 25, 22, 25, 20 का बहुलक है\n(The mode of 23, 15, 25, 40, 27, 25, 22, 25, 20 is)",
+      "options": [
+        "23",
+        "25",
+        "22",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "25"
+    },
+    {
+      "id": 10,
+      "question": "समीकरण 2x + 3y + 15 = 0 एवं 3x - 2y - 12 = 0 के आलेख किस प्रकार की रेखाएँ होंगी ?\n(The graphs of the equations 2x + 3y + 15 = 0 and 3x - 2y - 12 = 0 are which type of straight lines ?)",
+      "options": [
+        "संपाती सरल रेखाएँ (Coincident straight lines)",
+        "समांतर सरल रेखाएँ (Parallel straight lines)",
+        "प्रतिच्छेदी सरल रेखाएँ (Intersecting straight lines)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "प्रतिच्छेदी सरल रेखाएँ (Intersecting straight lines)"
+    },
+    {
+      "id": 11,
+      "question": "यदि (2x - 1), 7, 3x समांतर श्रेढ़ी में हैं तो x का मान होगा\n(If (2x - 1), 7, 3x are in A.P., then what is the value of x ?)",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "5"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 12,
+      "question": "निम्नलिखित में कौन बहुपद नहीं है ?\n(Which of the following is not a polynomial?)",
+      "options": [
+        "√3x² - 5√2x + 3",
+        "3x² - 4x + √5",
+        "x + 2√x",
+        "(1/5)x³ - 3x² + 2"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "(1/5)x³ - 3x² + 2"
+    },
+    {
+      "id": 13,
+      "question": "समांतर श्रेढ़ी 20, 17, 14, 11,... का 35 वाँ पद क्या होगा ?\n(What is the 35th term of the A.P. 20, 17, 14, 11, ... ?)",
+      "options": [
+        "82",
+        "-82",
+        "72",
+        "-72"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "-82"
+    },
+    {
+      "id": 14,
+      "question": "यदि सरल रेखाएँ 4x + py = 16 तथा 2x + 9y = 15 समांतर हैं तो p का मान क्या होगा ?\n(If straight lines 4x + py = 16 and 2x + 9y = 15 are parallel then what is the value of p?)",
+      "options": [
+        "1/3",
+        "3",
+        "18",
+        "-3"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "18"
+    },
+    {
+      "id": 15,
+      "question": "रैखिक समीकरण युग्म (3/2)x + (5/3)y = 7 और 9x - 10y = 14 है\n(The pair of linear equations (3/2)x + (5/3)y = 7 and 9x - 10y = 14 is)",
+      "options": [
+        "अविरोधी (consistent)",
+        "विरोधी (inconsistent)",
+        "आश्रित (dependent)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "अविरोधी (consistent)"
+    },
+    {
+      "id": 16,
+      "question": "tan 49° / cot 41° =",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "6"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 17,
+      "question": "निम्नलिखित में से कौन द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "(x + 3)(x - 3) = x² - 4x³",
+        "(x + 3)² = 4(x + 4)",
+        "(2x - 2)² = 4x² + 7",
+        "4x + 1/4x = 4x"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "(x + 3)² = 4(x + 4)"
+    },
+    {
+      "id": 18,
+      "question": "बिन्दु (-2√2, -2) किस चतुर्थांश में है ?\n(The point (-2√2, -2) lies in which quadrant ?)",
+      "options": [
+        "प्रथम (First)",
+        "द्वितीय (Second)",
+        "तृतीय (Third)",
+        "चतुर्थ (Fourth)"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "तृतीय (Third)"
+    },
+    {
+      "id": 19,
+      "question": "यदि किसी बिन्दु B से x-अक्ष पर डाले गये लम्ब की लम्बाई 10 एवं y-अक्ष पर डाले गये लम्ब की लम्बाई 5 हो तो बिन्दु B का निर्देशांक होगा\n(If from a point B the length of perpendicular drawn to x-axis is 10 and the length of perpendicular drawn to y-axis is 5 then the co-ordinates of the point B are)",
+      "options": [
+        "(5, 10)",
+        "(10, 5)",
+        "(10, 10)",
+        "(5, 5)"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "(5, 10)"
+    },
+    {
+      "id": 20,
+      "question": "k त्रिज्या वाले अर्द्धवृत्त की कुल परिमिति क्या होगी ?\n(What is the total perimeter of a semicircle whose radius is k?)",
+      "options": [
+        "πk",
+        "(π+1)k",
+        "π+2k",
+        "(π+2)k"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "(π+2)k"
+    },
+    {
+      "id": 21,
+      "question": "एक बारम्बारता बंटन की माध्यिका 40 एवं माध्य 38.2 है तो इसका बहुलक होगा\n(The median of a frequency distribution is 40 and mean is 38.2. Then its mode is)",
+      "options": [
+        "43",
+        "43.6",
+        "42",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "43.6"
+    },
+    {
+      "id": 22,
+      "question": "यदि 3 cos θ = 2 हो, तो (2 sec²θ + 2 tan²θ - 7) का मान होगा\n(If 3 cos θ = 2, then the value of (2 sec²θ + 2 tan²θ - 7) will be)",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 23,
+      "question": "यदि sin θ = √2 cos θ तो sec θ का मान है\n(If sin θ = √2 cos θ then the value of sec θ is)",
+      "options": [
+        "1/√3",
+        "√3",
+        "√3/2",
+        "2/√3"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 24,
+      "question": "यदि किसी वृत्त की त्रिज्या k गुनी हो जाए तो पुराने एवं नए वृत्तों के क्षेत्रफलों का अनुपात होगा\n(If the radius of a circle becomes k times then the ratio of the areas of previous and new circles is)",
+      "options": [
+        "1:k",
+        "2:k³",
+        "1:k²",
+        "k²:1"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "1:k²"
+    },
+    {
+      "id": 25,
+      "question": "2 चक्करों में 42 सेमी व्यास के पहिया के द्वारा तय की गई दूरी है\n(The distance covered by a wheel of diameter 42 cm in 2 revolution is)",
+      "options": [
+        "264 सेमी",
+        "132 सेमी",
+        "84 सेमी",
+        "इनमें से कोई नहीं"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "264 सेमी"
+    },
+    {
+      "id": 26,
+      "question": "ABCD एक आयत है जिसके शीर्ष A(0,0), B(8,0), C(8,6) एवं D(0,6) हैं तो आयत का एक विकर्ण होगा\n(ABCD is a rectangle whose vertices are A(0,0), B(8,0), C(8,6) and D(0,6). Then one of the diagonals of rectangle is)",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "10"
+    },
+    {
+      "id": 27,
+      "question": "5 के प्रथम सात गुणजों का माध्य है\n(The mean of first seven multiples of 5 is)",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "35"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "20"
+    },
+    {
+      "id": 28,
+      "question": "यदि समांतर श्रेढ़ी के प्रथम n पदों का योग (4n^2 + 2n) है तो समांतर श्रेढ़ी का सार्व अंतर होगा\n(If the sum of first n terms of an A.P. is (4n^2 + 2n) then the common difference of A.P. is)",
+      "options": [
+        "6",
+        "14",
+        "8",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "8"
+    },
+    {
+      "id": 29,
+      "question": "3 tan²60° =",
+      "options": [
+        "3",
+        "1",
+        "9",
+        "1/3"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "9"
+    },
+    {
+      "id": 30,
+      "question": "निम्नलिखित में कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ?\n(Which of the following numbers cannot be the probability of event ?)",
+      "options": [
+        "0.5",
+        "1.9",
+        "80%",
+        "3/4"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "1.9"
+    },
+    {
+      "id": 31,
+      "question": "निम्नलिखित में कौन-सा द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "4x + 6 = 0",
+        "x² - bx + c = 0",
+        "x(x + 3) = x²",
+        "x² + 1/x² = 2"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "x² - bx + c = 0"
+    },
+    {
+      "id": 32,
+      "question": "यदि x, x + 3, x + 5, x + 7 एवं x + 10 का माध्य 9 है तो x का मान होगा\n(If the mean of x, x + 3, x + 5, x + 7 and x + 10 is 9 then the value of x is)",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 33,
+      "question": "बिन्दुओं (1, -3) एवं (4, -6) के बीच की दूरी है\n(The distance between the points (1, -3) and (4, -6) is)",
+      "options": [
+        "2√3",
+        "3√2",
+        "9",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3√2"
+    },
+    {
+      "id": 34,
+      "question": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है ?\n(Which of the following is not a quadratic equation?)",
+      "options": [
+        "5x - x² = x² + 3",
+        "x³ - x² = (x - 1)³",
+        "(x + 3)² = 3(x² - 5)",
+        "(√2x + 3)² = 2x² + 5"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "(√2x + 3)² = 2x² + 5"
+    },
+    {
+      "id": 35,
+      "question": "एक पासे की एक फेंक में 5 या 5 से कम अंक प्राप्त होने की प्रायिकता है\n(In a throw of one die the probability of occurrence of a number 5 or less than 5 is)",
+      "options": [
+        "1/6",
+        "1/5",
+        "5/6",
+        "1/2"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "5/6"
+    },
+    {
+      "id": 36,
+      "question": "sin θ × cot θ का व्युत्क्रम क्या है ?\n(What is the reciprocal of sin θ × cot θ ?)",
+      "options": [
+        "tan θ",
+        "cos θ",
+        "sec θ",
+        "cosec θ"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "sec θ"
+    },
+    {
+      "id": 37,
+      "question": "तीन सिक्कों की उछाल में संभव परिणामों की संख्या है\n(In tossing of three coins the number of possible outcomes is)",
+      "options": [
+        "3",
+        "4",
+        "8",
+        "6"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "8"
+    },
+    {
+      "id": 38,
+      "question": "यदि किसी घटना A के घटने की प्रायिकता 0.35 है तो A के नहीं घटने की प्रायिकता होगी\n(If the probability of occurrence of an event A is 0.35 then the probability of non-occurrence of A is)",
+      "options": [
+        "0.53",
+        "6.5",
+        "0.65",
+        "3.5"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "0.65"
+    },
+    {
+      "id": 39,
+      "question": "sec θ = ?\n",
+      "options": [
+        "cos θ / sin θ",
+        "1 / cos θ",
+        "1 / sin θ",
+        "sin θ / cos θ"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "1 / cos θ"
+    },
+    {
+      "id": 40,
+      "question": "यदि समांतर श्रेढ़ी का 7 वाँ पद 4 है एवं इसका सार्व अंतर -4 है तो इसका प्रथम पद क्या होगा ?\n(If the 7th term of an A.P. is 4 and its common difference is -4, then what is its first term ?)",
+      "options": [
+        "16",
+        "20",
+        "24",
+        "28"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "28"
+    },
+    {
+      "id": 41,
+      "question": "यदि A, B, C किसी त्रिभुज ABC के कोण हों तो cosec((A+B)/2) का मान है\n(If A, B, C are angles of a triangle ABC, then the value of cosec((A+B)/2) is)",
+      "options": [
+        "tan(C/2)",
+        "sec(C/2)",
+        "cot(C/2)",
+        "sin(C/2)"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "sec(C/2)"
+    },
+    {
+      "id": 42,
+      "question": "समीकरण निकाय 2x - 3y = 5 और 4x - 6y = 7 है\n(The system of linear equations 2x - 3y = 5 and 4x - 6y = 7 has)",
+      "options": [
+        "एक और केवल एक हल (one and only one solution)",
+        "कोई हल नहीं (no solution)",
+        "अनगिनत हल (infinitely many solutions)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "कोई हल नहीं (no solution)"
+    },
+    {
+      "id": 43,
+      "question": "यदि a_n समांतर श्रेढ़ी 5, 12, 19, ... का n वाँ पद है तो a_40 - a_35 का मान क्या होगा ?\n(If a_n is n-th term of the A.P. 5, 12, 19, ... then what is the value of a_40 - a_35 ?)",
+      "options": [
+        "20",
+        "35",
+        "30",
+        "55"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "35"
+    },
+    {
+      "id": 44,
+      "question": "यदि (0,4), (0,0) एवं (3,0) किसी त्रिभुज के शीर्षों के नियामक हों तो उस त्रिभुज की परिमिति है\n(If (0,4), (0,0) and (3,0) are the vertices of a triangle then perimeter of the triangle is)",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "12"
+    },
+    {
+      "id": 45,
+      "question": "बिन्दुओं (5 cos θ, 0) एवं (0, 5 sin θ) के बीच की दूरी है\n(The distance between the points (5 cos θ, 0) and (0, 5 sin θ) is)",
+      "options": [
+        "10",
+        "5",
+        "30",
+        "25"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 46,
+      "question": "20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 की माध्यिका है\n(The median of 20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 is)",
+      "options": [
+        "18",
+        "16",
+        "6",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "16"
+    },
+    {
+      "id": 47,
+      "question": "एक वृत्त जिसकी त्रिज्या 8 सेमी है उसकी परिधि पर A, B, C एवं D चार बिन्दु ऐसे हैं कि ABCD एक वर्ग है तो वर्ग ABCD का क्षेत्रफल होगा\n(A, B, C and D are four points on the circumference of a circle of radius 8 cm such that ABCD is a square. Then the area of square ABCD is)",
+      "options": [
+        "64 cm²",
+        "100 cm²",
+        "125 cm²",
+        "128 cm²"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "128 cm²"
+    },
+    {
+      "id": 48,
+      "question": "समांतर श्रेढ़ी 1, 3, 5, 7, ... के प्रथम 30 पदों का योगफल होगा\n(The sum of first 30 terms of the A.P. 1, 3, 5, 7, ... is)",
+      "options": [
+        "900",
+        "990",
+        "890",
+        "800"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "900"
+    },
+    {
+      "id": 49,
+      "question": "निम्नांकित में कौन समांतर श्रेढ़ी नहीं है ?\n(Which of the following is not an A.P. ?)",
+      "options": [
+        "5, 4 1/2, 4, 3 1/2...",
+        "-1, -5/6, -2/3, -1/2...",
+        "8, 14, 20, 26, ...",
+        "4, 10, 15, 20, ..."
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "4, 10, 15, 20, ..."
+    },
+    {
+      "id": 50,
+      "question": "cot 12° . cot 38° . cot 52° . cot 60° . cot 78° =",
+      "options": [
+        "1",
+        "√3",
+        "1/√3",
+        "3"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "1/√3"
+    }
+  ]
+}

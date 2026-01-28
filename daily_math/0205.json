@@ -1,0 +1,658 @@
+{
+  "date": "0205",
+  "dateDisplay": "05 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "यदि किसी त्रिभुज के कोणों की माप 60°, 70° और 50° हो, तो त्रिभुज कैसा होगा ?\n(If the measures of angles of a triangle are 60°, 70° and 50°, then what type of triangle is it ?)",
+      "options": [
+        "समकोण (Right angled)",
+        "अधिककोण (Obtuse angled)",
+        "न्यूनकोण (Acute angled)",
+        "समद्विबाहु (Isosceles)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "न्यूनकोण (Acute angled)"
+    },
+    {
+      "id": 2,
+      "question": "यदि एक वृत्त की परिधि 88 सेमी है, तो इसकी त्रिज्या है\n(If circumference of a circle is 88 cm, then its radius is)",
+      "options": [
+        "7 सेमी",
+        "14 सेमी",
+        "21 सेमी",
+        "28 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "14 सेमी"
+    },
+    {
+      "id": 3,
+      "question": "sin²A / cos²A + 1 =",
+      "options": [
+        "sin²A",
+        "tan²A",
+        "cot²A",
+        "sec²A"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "tan²A"
+    },
+    {
+      "id": 4,
+      "question": "sec²10° - cot²80° =",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 5,
+      "question": "समांतर श्रेढ़ी 10, 7, 4, ... का 10 वाँ पद है\n(The 10th term of the A.P. 10, 7, 4, ... is)",
+      "options": [
+        "17",
+        "-14",
+        "-17",
+        "14"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "-17"
+    },
+    {
+      "id": 6,
+      "question": "बिन्दुओं A(4, -3) तथा B(9, 7) को मिलाने वाले रेखाखण्ड को 3 : 2 के अनुपात में अंतःविभाजित करने वाले बिन्दु का y-निर्देशांक है\n(The y-coordinate of the point which divides the line segment joining the points A(4, -3) and B(9, 7) internally in the ratio 3 : 2 is)",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "7"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 7,
+      "question": "एक घड़ी की मिनट वाली सुई द्वारा 60 मिनट में बनाया गया कोण होता है\n(Angle swept by the minute hand of a clock in 60 minutes is)",
+      "options": [
+        "60°",
+        "180°",
+        "360°",
+        "90°"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "360°"
+    },
+    {
+      "id": 8,
+      "question": "यदि tan θ = √3, तो sec θ का मान है\n(If tan θ = √3, then the value of sec θ is)",
+      "options": [
+        "2",
+        "1/2",
+        "√3/2",
+        "2/√3"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 9,
+      "question": "दो समरूप त्रिभुजों की संगत भुजाएँ 2 : 3 के अनुपात में हैं, तो उनके क्षेत्रफलों का अनुपात होगा\n(The corresponding sides of two similar triangles are in the ratio 2 : 3, then the ratio of their areas will be)",
+      "options": [
+        "2 : 3",
+        "3 : 2",
+        "4 : 9",
+        "9 : 4"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "4 : 9"
+    },
+    {
+      "id": 10,
+      "question": "यदि किसी वृत्त की परिधि और क्षेत्रफल का परिमाण समान हो, तो वृत्त का व्यास होगा\n(If the circumference and the area of a circle are numerically equal, then the diameter of the circle will be)",
+      "options": [
+        "2 इकाई",
+        "4 इकाई",
+        "π इकाई",
+        "7 इकाई"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "4 इकाई"
+    },
+    {
+      "id": 11,
+      "question": "बिन्दु P(2, 3) किस पाद में स्थित है ?\n(In which quadrant does the point P(2, 3) lie ?)",
+      "options": [
+        "प्रथम पाद (First quadrant)",
+        "द्वितीय पाद (Second quadrant)",
+        "तृतीय पाद (Third quadrant)",
+        "चतुर्थ पाद (Fourth quadrant)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "प्रथम पाद (First quadrant)"
+    },
+    {
+      "id": 12,
+      "question": "एक 6 सेमी व्यास वाले गोले को पिघलाकर 2 मिमी व्यास वाला एक तार बनाया गया है। तार की लंबाई क्या है?\n(A sphere of diameter 6 cm is melted and drawn into a wire of diameter 2 mm. What is the length of the wire?)",
+      "options": [
+        "36 मीटर",
+        "18 मीटर",
+        "12 मीटर",
+        "24 मीटर"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "36 मीटर"
+    },
+    {
+      "id": 13,
+      "question": "दो वृत्तों के क्षेत्रफलों का अनुपात 4 : 25 है, तो उनकी त्रिज्याओं का अनुपात है\n(The ratio of areas of two circles is 4 : 25, then ratio of their radii is)",
+      "options": [
+        "2 : 5",
+        "5 : 2",
+        "4 : 25",
+        "25 : 4"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2 : 5"
+    },
+    {
+      "id": 14,
+      "question": "उस त्रिभुज का क्षेत्रफल (वर्ग इकाई में) जिसके शीर्ष (-1, 0), (0, 0) एवं (2, 0) हैं, होगा\n(The area (in sq. units) of the triangle whose vertices are (-1, 0), (0, 0) and (2, 0) is)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 15,
+      "question": "cos 60° × cos 30° - sin 60° × sin 30° का मान है\n(The value of cos 60° × cos 30° - sin 60° × sin 30° is)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 16,
+      "question": "यदि त्रिभुज ABC में भुजाओं AB और AC पर बिन्दु D और E क्रमशः इस प्रकार हैं कि DE || BC. यदि AD : DB = 3 : 2 और AE = 4.8 सेमी, तो EC का मान है\n(In triangle ABC, D and E are points on sides AB and AC respectively such that DE || BC. If AD : DB = 3 : 2 and AE = 4.8 cm, then value of EC is)",
+      "options": [
+        "3.2 सेमी",
+        "2.2 सेमी",
+        "4.2 सेमी",
+        "5.2 सेमी"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "3.2 सेमी"
+    },
+    {
+      "id": 17,
+      "question": "बिन्दुओं A(5, 6) और B(-1, -4) को मिलाने वाले रेखाखण्ड के मध्य बिन्दु के नियामक हैं\n(The co-ordinates of the mid-point of the line segment joining the points A(5, 6) and B(-1, -4) are)",
+      "options": [
+        "(2, 1)",
+        "(3, 1)",
+        "(2, 2)",
+        "(3, 2)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "(2, 1)"
+    },
+    {
+      "id": 18,
+      "question": "दो समरूप त्रिभुजों के परिमाप क्रमशः 30 सेमी और 20 सेमी हैं। यदि पहले त्रिभुज की एक भुजा की लम्बाई 18 सेमी हो, तो दूसरे त्रिभुज की संगत भुजा की लम्बाई होगी\n(The perimeters of two similar triangles are 30 cm and 20 cm respectively. If one side of the first triangle is 18 cm, then the length of the corresponding side of the second triangle will be)",
+      "options": [
+        "10 सेमी",
+        "8 सेमी",
+        "12 सेमी",
+        "9 सेमी"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "12 सेमी"
+    },
+    {
+      "id": 19,
+      "question": "एक शंकु का आयतन 1570 सेमी³ है। यदि इसके आधार का क्षेत्रफल 314 सेमी² है, तो इसकी ऊँचाई है\n(The volume of a cone is 1570 cm³. If the area of its base is 314 cm², then its height is)",
+      "options": [
+        "10 सेमी",
+        "15 सेमी",
+        "18 सेमी",
+        "20 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "15 सेमी"
+    },
+    {
+      "id": 20,
+      "question": "sin²30° + cos²30° =",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 21,
+      "question": "प्रथम पाँच विषम संख्याओं का माध्य है\n(The mean of first five odd numbers is)",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 22,
+      "question": "द्विघात बहुपद x² + 4x - 12 के शून्यक हैं\n(The zeroes of quadratic polynomial x² + 4x - 12 are)",
+      "options": [
+        "2, 5",
+        "-2, 5",
+        "2, -6",
+        "-2, -6"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "2, -6"
+    },
+    {
+      "id": 23,
+      "question": "समांतर श्रेढ़ी 1, 4, 7, 10, ... का कौन-सा पद 88 है ?\n(Which term of the A.P. 1, 4, 7, 10, ... is 88 ?)",
+      "options": [
+        "26",
+        "27",
+        "30",
+        "35"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "30"
+    },
+    {
+      "id": 24,
+      "question": "यदि 2, 7, 5, 3, 8 का माध्य m हो, तो m का मान है\n(If the mean of 2, 7, 5, 3, 8 is m, then the value of m is)",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 25,
+      "question": "बिन्दु (2√3, -√2) किस पाद में स्थित है ?\n(In which quadrant does the point (2√3, -√2) lie ?)",
+      "options": [
+        "प्रथम (First)",
+        "द्वितीय (Second)",
+        "तृतीय (Third)",
+        "चतुर्थ (Fourth)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "चतुर्थ (Fourth)"
+    },
+    {
+      "id": 26,
+      "question": "एक घनाभ के कोरों की लम्बाई क्रमशः 3 सेमी, 4 सेमी और 12 सेमी है। घनाभ के विकर्ण की लम्बाई है\n(The lengths of the edges of a cuboid are 3 cm, 4 cm and 12 cm respectively. The length of the diagonal of the cuboid is)",
+      "options": [
+        "13 सेमी",
+        "5 सेमी",
+        "12 सेमी",
+        "19 सेमी"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "13 सेमी"
+    },
+    {
+      "id": 27,
+      "question": "बिन्दुओं (-3, 0) और (0, 8) के बीच की दूरी है\n(The distance between the points (-3, 0) and (0, 8) is)",
+      "options": [
+        "5",
+        "√73",
+        "7",
+        "11"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "√73"
+    },
+    {
+      "id": 28,
+      "question": "यदि tan θ = 4/3, तो (1 - sin²θ) का मान है\n(If tan θ = 4/3, then the value of (1 - sin²θ) is)",
+      "options": [
+        "9/25",
+        "16/25",
+        "9/16",
+        "25/9"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "16/25"
+    },
+    {
+      "id": 29,
+      "question": "दी गई आकृति में, DE || BC. यदि AD = 5 सेमी, DB = 6 सेमी और AE = 8 सेमी, तो EC का मान है\n(In the given figure, DE || BC. If AD = 5 cm, DB = 6 cm and AE = 8 cm, then value of EC is)",
+      "options": [
+        "8.6 सेमी",
+        "9.6 सेमी",
+        "10.6 सेमी",
+        "11.6 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "9.6 सेमी"
+    },
+    {
+      "id": 30,
+      "question": "बिन्दु (6, -5) का x-नियामक है\n(The x-coordinate of the point (6, -5) is)",
+      "options": [
+        "6",
+        "-5",
+        "-6",
+        "5"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 31,
+      "question": "समीकरण निकाय kx + 3y = -3 और 12x + ky = -k के अनंत हल होंगे, यदि k का मान है\n(The system of equations kx + 3y = -3 and 12x + ky = -k has infinite solutions, if the value of k is)",
+      "options": [
+        "3",
+        "-3",
+        "6",
+        "-6"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "-6"
+    },
+    {
+      "id": 32,
+      "question": "y = 10 का आलेख कैसी सरल रेखा होगी ?\n(What type of straight line will be the graph of y = 10 ?)",
+      "options": [
+        "x-अक्ष के समांतर (Parallel to x-axis)",
+        "y-अक्ष के समांतर (Parallel to y-axis)",
+        "मूल बिन्दु से जाती हुई (Passing through origin)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "x-अक्ष के समांतर (Parallel to x-axis)"
+    },
+    {
+      "id": 33,
+      "question": "1 + 3 + 5 + 7 + ... + n पदों तक का योगफल है\n(The sum of 1 + 3 + 5 + 7 + ... up to n terms is)",
+      "options": [
+        "n + 1",
+        "n²",
+        "(n+1)²",
+        "2n"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "n²"
+    },
+    {
+      "id": 34,
+      "question": "निश्चित घटना की प्रायिकता होती है\n(The probability of a sure event is)",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "1/2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 35,
+      "question": "बिन्दु P(3, 4) की दूरी मूल बिन्दु से है\n(The distance of point P(3, 4) from the origin is)",
+      "options": [
+        "3 इकाई",
+        "4 इकाई",
+        "5 इकाई",
+        "7 इकाई"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "5 इकाई"
+    },
+    {
+      "id": 36,
+      "question": "13, 15, 17, 19, 13, 15, 17, 13 का बहुलक है\n(The mode of 13, 15, 17, 19, 13, 15, 17, 13 is)",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "13"
+    },
+    {
+      "id": 37,
+      "question": "एक पासे को फेंकने पर अंक 5 के ऊपर आने की प्रायिकता है\n(Probability of getting number 5 on top in throwing a die is)",
+      "options": [
+        "1/3",
+        "1/6",
+        "1/2",
+        "1/5"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": 38,
+      "question": "यदि बिन्दु (a, 0), (0, 0) एवं (0, b) संरेख हों तो निम्नलिखित में कौन सत्य है ?\n(If the points (a, 0), (0, 0) and (0, b) are collinear then which of the following is true ?)",
+      "options": [
+        "ab = 0",
+        "a = b",
+        "a + b = 0",
+        "a/b = 1"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "ab = 0"
+    },
+    {
+      "id": 39,
+      "question": "एक बेलन का वक्र पृष्ठ क्षेत्रफल 264 मीटर² है और इसका आयतन 924 मीटर³ है। इसके व्यास और ऊँचाई का अनुपात है\n(The curved surface area of a cylinder is 264 m² and its volume is 924 m³. The ratio of its diameter to its height is)",
+      "options": [
+        "3 : 7",
+        "7 : 3",
+        "6 : 7",
+        "7 : 6"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "7 : 6"
+    },
+    {
+      "id": 40,
+      "question": "यदि किसी त्रिभुज PQR में ∠R = 90° हो तो sin(P + Q) का मान है\n(If in a triangle PQR, ∠R = 90° then value of sin(P + Q) is)",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "1/2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 41,
+      "question": "यदि 2θ = 60° तो sin θ का मान होगा\n(If 2θ = 60° then value of sin θ will be)",
+      "options": [
+        "1",
+        "1/2",
+        "√3/2",
+        "1/√2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 42,
+      "question": "यदि (x + 2), 3x और (4x + 1) समांतर श्रेढ़ी में हों, तो x का मान है\n(If (x + 2), 3x and (4x + 1) are in A.P., then value of x is)",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 43,
+      "question": "यदि द्विघात समीकरण ax² + bx + c = 0 के मूल समान हों, तो c =\n(If roots of quadratic equation ax² + bx + c = 0 are equal, then c =)",
+      "options": [
+        "-b/2a",
+        "b/2a",
+        "-b²/4a",
+        "b²/4a"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "b²/4a"
+    },
+    {
+      "id": 44,
+      "question": "संचयी बारंबारता वक्र कहलाती है\n(Cumulative frequency curve is called)",
+      "options": [
+        "तोरण (Ogive)",
+        "आयतचित्र (Histogram)",
+        "बारंबारता बहुभुज (Frequency polygon)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "तोरण (Ogive)"
+    },
+    {
+      "id": 45,
+      "question": "sec(90° - A) बराबर है\n(sec(90° - A) is equal to)",
+      "options": [
+        "cosec A",
+        "sin A",
+        "tan A",
+        "cos A"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "cosec A"
+    },
+    {
+      "id": 46,
+      "question": "2 cos 37° / sin 53° =",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 47,
+      "question": "दो अपरिमेय संख्याओं 3 + √5 तथा 3 - √5 का गुणनफल है एक\n(The product of two irrational numbers 3 + √5 and 3 - √5 is a)",
+      "options": [
+        "परिमेय संख्या (Rational number)",
+        "अपरिमेय संख्या (Irrational number)",
+        "पूर्णांक (Integer)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "परिमेय संख्या (Rational number)"
+    },
+    {
+      "id": 48,
+      "question": "2, 6, 4, 5, 0, 2, 1, 3, 2 का बहुलक है\n(The mode of 2, 6, 4, 5, 0, 2, 1, 3, 2 is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 49,
+      "question": "x-अक्ष पर स्थित उस बिन्दु के नियामक जो बिन्दुओं (2, -5) तथा (-2, 9) से समदूरस्थ हो, हैं\n(The co-ordinates of the point on x-axis which is equidistant from the points (2, -5) and (-2, 9) are)",
+      "options": [
+        "(-7, 0)",
+        "(7, 0)",
+        "(0, 7)",
+        "(0, -7)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "(-7, 0)"
+    },
+    {
+      "id": 50,
+      "question": "√((1 - sin A)/(1 + sin A)) =",
+      "options": [
+        "sec A - tan A",
+        "sec A + tan A",
+        "sin A - cos A",
+        "sin A + cos A"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "sec A - tan A"
+    }
+  ]
+}

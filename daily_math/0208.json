@@ -1,0 +1,658 @@
+{
+  "date": "0208",
+  "dateDisplay": "08 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "दो घनों के आयतनों का अनुपात 1 : 27 में है, तो उनकी कोरों का अनुपात है\n(The ratio of the volumes of two cubes is 1 : 27, then the ratio of their edges is)",
+      "options": [
+        "1 : 3",
+        "1 : 9",
+        "1 : 27",
+        "1 : 4"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "1 : 3"
+    },
+    {
+      "id": 2,
+      "question": "यदि √3 tan 2θ - 3 = 0, तब θ का मान होगा\n(If √3 tan 2θ - 3 = 0, then the value of θ will be)",
+      "options": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "30°"
+    },
+    {
+      "id": 3,
+      "question": "यदि sin θ = √3/2, तो cosec θ + cot θ का मान है\n(If sin θ = √3/2, then the value of cosec θ + cot θ is)",
+      "options": [
+        "2 + √3",
+        "2√3",
+        "√2",
+        "√3"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 4,
+      "question": "0.5 (bar on 5) =\n",
+      "options": [
+        "5/9",
+        "1/2",
+        "5/10",
+        "5/3"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "5/9"
+    },
+    {
+      "id": 5,
+      "question": "समांतर श्रेढ़ी 0, 1/8, 1/4, 3/8, ... का सार्व अंतर है\n(The common difference of A.P. 0, 1/8, 1/4, 3/8, ... is)",
+      "options": [
+        "1/8",
+        "-1/8",
+        "1/4",
+        "-1/4"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "1/8"
+    },
+    {
+      "id": 6,
+      "question": "त्रिभुज के तीनों कोणों का योगफल होता है\n(The sum of all three angles of a triangle is)",
+      "options": [
+        "90°",
+        "180°",
+        "120°",
+        "100°"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "180°"
+    },
+    {
+      "id": 7,
+      "question": "बहुपद 2x² + 5x - 12 का घात है\n(The degree of the polynomial 2x² + 5x - 12 is)",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 8,
+      "question": "tan A बराबर होगा\n(tan A is equal to)",
+      "options": [
+        "cot(90° - A)",
+        "sec(90° - A)",
+        "cosec(90° - A)",
+        "cos(90° - A)"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "cot(90° - A)"
+    },
+    {
+      "id": 9,
+      "question": "निम्नलिखित में से कौन-सी सबसे छोटी प्राकृत संख्या है ?\n(Which of the following is the smallest natural number ?)",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 10,
+      "question": "यदि त्रिभुज ABC के शीर्षों के निर्देशांक A(x₁, y₁), B(x₂, y₂) तथा C(x₃, y₃) हैं, तो इसके केन्द्रक के निर्देशांक होंगे\n(If the coordinates of the vertices of triangle ABC are A(x₁, y₁), B(x₂, y₂) and C(x₃, y₃), then the coordinates of its centroid are)",
+      "options": [
+        "(x₁+x₂+x₃, y₁+y₂+y₃)",
+        "(x₁-x₂-x₃, y₁-y₂-y₃)",
+        "((x₁+x₂+x₃)/2, (y₁+y₂+y₃)/2)",
+        "((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)"
+    },
+    {
+      "id": 11,
+      "question": "निम्नलिखित में से कौन-सा आलेख द्वारा निर्धारित नहीं किया जा सकता है ?\n(Which of the following cannot be determined graphically?)",
+      "options": [
+        "माध्य (Mean)",
+        "माध्यक (Median)",
+        "बहुलक (Mode)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "माध्य (Mean)"
+    },
+    {
+      "id": 12,
+      "question": "18 तथा 72 का म० स० है\n(The H.C.F. of 18 and 72 is)",
+      "options": [
+        "18",
+        "72",
+        "9",
+        "2"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "18"
+    },
+    {
+      "id": 13,
+      "question": "sin 30° + cos 45° - tan 60° / (cot 30° - sin 45° - cos 60°) =",
+      "options": [
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 14,
+      "question": "2x² - 3y = 2 में x = 1 हो, तो y का मान क्या होगा ?\n(If x = 1 in 2x² - 3y = 2, then what is the value of y ?)",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "3/2"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 15,
+      "question": "एक समांतर श्रेढ़ी में, यदि a = 2, d = 8 और Sₙ = 90 हो, तो n का मान है\n(In an A.P., if a = 2, d = 8 and Sₙ = 90, then value of n is)",
+      "options": [
+        "8",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 16,
+      "question": "यदि 6, 8, 9, x तथा 13 का माध्य 10 हो, तो x का मान होगा\n(If mean of 6, 8, 9, x and 13 is 10, then value of x will be)",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "14"
+    },
+    {
+      "id": 17,
+      "question": "यदि P(E) = 0.08 तो P(E') बराबर है\n(If P(E) = 0.08 then P(E') is equal to)",
+      "options": [
+        "0.92",
+        "0.02",
+        "0.08",
+        "0.52"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "0.92"
+    },
+    {
+      "id": 18,
+      "question": "यदि त्रिभुज के शीर्ष (0, 4), (0, 0) तथा (3, 0) हैं, तो इसका परिमाप होगा\n(If vertices of a triangle are (0, 4), (0, 0) and (3, 0), then its perimeter is)",
+      "options": [
+        "5 इकाई",
+        "12 इकाई",
+        "12√5 इकाई",
+        "5√5 इकाई"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "12 इकाई"
+    },
+    {
+      "id": 19,
+      "question": "यदि sec θ + tan θ + 1 = 0, तो sec θ - tan θ का मान है\n(If sec θ + tan θ + 1 = 0, then the value of sec θ - tan θ is)",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 20,
+      "question": "52 ताश के पत्तों की एक गड्डी को अच्छी तरह फेंटकर उसमें से यादृच्छया एक पत्ता निकाला जाता है। इसके रानी आने की प्रायिकता है\n(A card is drawn at random from a well shuffled deck of 52 playing cards. The probability of getting a queen is)",
+      "options": [
+        "1/26",
+        "2/39",
+        "1/13",
+        "4/13"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "1/13"
+    },
+    {
+      "id": 21,
+      "question": "निम्नलिखित वितरण के लिए :\n\n\"वर्ग अंतराल\",\"0-5\",\"5-10\",\"10-15\",\"15-20\",\"20-25\"\n\"बारंबारता\",\"12\",\"17\",\"14\",\"22\",\"11\"\n\nबहुलक वर्ग का निम्न सीमा है\n(For the following distribution:\n\n\"Class Interval\",\"0-5\",\"5-10\",\"10-15\",\"15-20\",\"20-25\"\n\"Frequency\",\"12\",\"17\",\"14\",\"22\",\"11\"\n\nThe lower limit of the modal class is)",
+      "options": [
+        "15",
+        "22",
+        "20",
+        "35"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "15"
+    },
+    {
+      "id": 22,
+      "question": "बिन्दुओं P(3, 0), Q(7, 0) और R(8, 4) से बने त्रिभुज का क्षेत्रफल है\n(The area of triangle formed by points P(3, 0), Q(7, 0) and R(8, 4) is)",
+      "options": [
+        "24 वर्ग इकाई",
+        "12 वर्ग इकाई",
+        "48 वर्ग इकाई",
+        "8 वर्ग इकाई"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "8 वर्ग इकाई"
+    },
+    {
+      "id": 23,
+      "question": "त्रिभुज PQR में, यदि PQ = PR तथा ∠Q = 40° तो ∠P =\n(In triangle PQR, if PQ = PR and ∠Q = 40° then ∠P =)",
+      "options": [
+        "40°",
+        "80°",
+        "120°",
+        "100°"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "100°"
+    },
+    {
+      "id": 24,
+      "question": "बिन्दु A(0, -8) और B(-12, 0) को मिलाने वाली रेखाखण्ड के मध्य बिन्दु के निर्देशांक हैं\n(The coordinates of the mid-point of line segment joining A(0, -8) and B(-12, 0) are)",
+      "options": [
+        "(0, 0)",
+        "(-6, -4)",
+        "(-4, -6)",
+        "(-12, -8)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "(-6, -4)"
+    },
+    {
+      "id": 25,
+      "question": "p(x) = x⁴ - x³ - 5x² - x + 6 में, g(x) = x² - x + 1 से भाग देने पर, भागफल होगा\n(The quotient when p(x) = x⁴ - x³ - 5x² - x + 6 is divided by g(x) = x² - x + 1 is)",
+      "options": [
+        "x² - 6",
+        "x² + 6",
+        "x² - 6x",
+        "x² + 6x"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "x² - 6"
+    },
+    {
+      "id": 26,
+      "question": "निम्नलिखित में कौन-सी अपरिमेय संख्या है ?\n(Which of the following is an irrational number ?)",
+      "options": [
+        "1.3 (bar)",
+        "√16",
+        "√(9/27)",
+        "√5 × √5"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "√(9/27)"
+    },
+    {
+      "id": 27,
+      "question": "समांतर श्रेढ़ी 2, 7, 12, ... का 10 वाँ पद है\n(The 10th term of the A.P. 2, 7, 12, ... is)",
+      "options": [
+        "50",
+        "40",
+        "47",
+        "53"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "47"
+    },
+    {
+      "id": 28,
+      "question": "sin (18°/72°) का मान होगा\n(Value of sin (18°/72°) is)",
+      "options": [
+        "1/2",
+        "1",
+        "√3/2",
+        "0"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 29,
+      "question": "समांतर श्रेढ़ी -3, -1/2, 2, ... का 11 वाँ पद है\n(The 11th term of the A.P. -3, -1/2, 2, ... is)",
+      "options": [
+        "28",
+        "22",
+        "-38",
+        "-48 1/2"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "22"
+    },
+    {
+      "id": 30,
+      "question": "यदि sin A = 3/4 तो cos A का मान होगा\n(If sin A = 3/4 then value of cos A is)",
+      "options": [
+        "4/3",
+        "√3/4",
+        "√4/3",
+        "√7/4"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "√7/4"
+    },
+    {
+      "id": 31,
+      "question": "यदि द्विघात बहुपद x² + 3x + k का एक शून्यक 2 हो, तो k का मान होगा\n(If 2 is a zero of the quadratic polynomial x² + 3x + k, then value of k is)",
+      "options": [
+        "10",
+        "-10",
+        "5",
+        "-5"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "-10"
+    },
+    {
+      "id": 32,
+      "question": "यदि बिन्दु P(2, 3), Q(4, k) और R(6, -3) संरेख हैं, तो k =\n(If points P(2, 3), Q(4, k) and R(6, -3) are collinear, then k =)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 33,
+      "question": "cos 60° + 1 / (cos 60° - 1) का मान निम्नलिखित में कौन होगा ?\n(Which of the following is the value of cos 60° + 1 / (cos 60° - 1) ?)",
+      "options": [
+        "-2",
+        "-3",
+        "3",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "-3"
+    },
+    {
+      "id": 34,
+      "question": "यदि tan θ = 1 तो θ का मान है\n(If tan θ = 1 then value of θ is)",
+      "options": [
+        "30°",
+        "60°",
+        "45°",
+        "90°"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 35,
+      "question": "यदि p और q दो अभाज्य संख्याएँ हैं, तो उनका म० स० होगा\n(If p and q are two prime numbers, then their H.C.F. is)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 36,
+      "question": "यदि (x + 3), ax² + x + 1 का एक गुणनखंड हो, तो a का मान है\n(If (x + 3) is a factor of ax² + x + 1, then the value of a is)",
+      "options": [
+        "2/9",
+        "9/2",
+        "-2/9",
+        "9"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "2/9"
+    },
+    {
+      "id": 37,
+      "question": "tan 60° का मान होगा\n(Value of tan 60° is)",
+      "options": [
+        "√3",
+        "1/√3",
+        "1",
+        "1/2"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 38,
+      "question": "(1 + tan²θ) / (1 + cot²θ) =",
+      "options": [
+        "sec²θ",
+        "cosec²θ",
+        "tan²θ",
+        "cot²θ"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "tan²θ"
+    },
+    {
+      "id": 39,
+      "question": "यदि sin θ = cos θ, 0 ≤ θ ≤ 90° तो θ का मान है\n(If sin θ = cos θ, 0 ≤ θ ≤ 90° then value of θ is)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 40,
+      "question": "यदि tan θ + cot θ = 6, तो tan²θ + cot²θ का मान है\n(If tan θ + cot θ = 6, then the value of tan²θ + cot²θ is)",
+      "options": [
+        "25",
+        "27",
+        "24",
+        "34"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "34"
+    },
+    {
+      "id": 41,
+      "question": "यदि समांतर श्रेढ़ी का सामान्य पद (5n - 7) है, तो इसका प्रथम पद होगा\n(If the general term of an A.P. is (5n - 7), then its first term is)",
+      "options": [
+        "0",
+        "-7",
+        "2",
+        "-2"
+      ],
+      "correct": 3,
+      "year": 2023,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 42,
+      "question": "निम्न में किसका मान 0 के बराबर है ?\n(Which of the following has value equal to 0 ?)",
+      "options": [
+        "sin 90°",
+        "cos 90°",
+        "cos 0°",
+        "tan 90°"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "cos 90°"
+    },
+    {
+      "id": 43,
+      "question": "यदि किसी घनाभ की लम्बाई l, चौड़ाई b तथा ऊँचाई h हो, तो घनाभ का आयतन है\n(If length l, breadth b and height h of a cuboid, then volume of the cuboid is)",
+      "options": [
+        "l × b × h",
+        "√(l² + b² + h²)",
+        "2(lb + bh + lh)",
+        "2(l + b)h"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "l × b × h"
+    },
+    {
+      "id": 44,
+      "question": "यदि p एक धनात्मक पूर्णांक है तो धनात्मक सम पूर्णांक का रूप होगा\n(If p is a positive integer, then the form of positive even integer is)",
+      "options": [
+        "2p",
+        "p + 1",
+        "p",
+        "2p + 1"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "2p"
+    },
+    {
+      "id": 45,
+      "question": "बिन्दु (x, y) की दूरी मूल बिन्दु से है\n(The distance of the point (x, y) from the origin is)",
+      "options": [
+        "√(x² - y²)",
+        "√(x² + y²)",
+        "x² - y²",
+        "x² + y²"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "√(x² + y²)"
+    },
+    {
+      "id": 46,
+      "question": "tan 30° sin 30° cot 60° cosec 30° =",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "1/3"
+    },
+    {
+      "id": 47,
+      "question": "यदि शंकु की ऊँचाई और त्रिज्या दोगुनी हो जाती है, तो शंकु का आयतन हो जाएगा\n(If height and radius of a cone are doubled, the volume of the cone will become)",
+      "options": [
+        "2 गुना (2 times)",
+        "4 गुना (4 times)",
+        "6 गुना (6 times)",
+        "8 गुना (8 times)"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "8 गुना (8 times)"
+    },
+    {
+      "id": 48,
+      "question": "y-अक्ष पर सभी बिन्दुओं का भुज होता है\n(Abscissa of all points on y-axis is)",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "कोई संख्या (any number)"
+      ],
+      "correct": 1,
+      "year": 2023,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 49,
+      "question": "X भुजा वाली समबाहु त्रिभुज का क्षेत्रफल है\n(The area of an equilateral triangle with side X is)",
+      "options": [
+        "X²",
+        "(√3/4)X²",
+        "(√3/2)X²",
+        "(4/3)X²"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "(√3/4)X²"
+    },
+    {
+      "id": 50,
+      "question": "p के किस मान के लिए द्विघात बहुपद x² - px + 6 के शून्यकों का योग 2 है ?\n(For what value of p, the sum of zeroes of the quadratic polynomial x² - px + 6 is 2 ?)",
+      "options": [
+        "2",
+        "-2",
+        "6",
+        "-6"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "2"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "date": "0209",
+  "dateDisplay": "09 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "बिन्दु (-6, 10) का कोटि है\n(The ordinate of the point (-6, 10) is)",
+      "options": [
+        "-6",
+        "10",
+        "-4",
+        "4"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "10"
+    },
+    {
+      "id": 2,
+      "question": "यदि (2x + 1), 13, (5x - 3) समांतर श्रेढ़ी में हैं, तो x का मान होगा\n(If (2x + 1), 13, (5x - 3) are in A.P., then value of x will be)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 3,
+      "question": "(√2)² - 2 =",
+      "options": [
+        "√2",
+        "0",
+        "2",
+        "2√2"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 4,
+      "question": "शंकु की पूर्ण सतह का क्षेत्रफल होगा\n(The total surface area of a cone is)",
+      "options": [
+        "πrl",
+        "πr(l + r)",
+        "2πrh",
+        "πr²"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "πr(l + r)"
+    },
+    {
+      "id": 5,
+      "question": "Δ ABC में बिन्दु D और E क्रमशः भुजाओं AB तथा AC पर इस प्रकार है कि DE || BC. यदि AD/DB = 4/5 और AC = 18 सेमी तो AE =\n(In Δ ABC, points D and E are on sides AB and AC respectively such that DE || BC. If AD/DB = 4/5 and AC = 18 cm, then AE =)",
+      "options": [
+        "8 सेमी (cm)",
+        "10 सेमी (cm)",
+        "5 सेमी (cm)",
+        "12 सेमी (cm)"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "8 सेमी (cm)"
+    },
+    {
+      "id": 6,
+      "question": "प्रेक्षण 8, 12, 7, 14, 6, 13, 15 का माध्यक है\n(The median of observations 8, 12, 7, 14, 6, 13, 15 is)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "12"
+    },
+    {
+      "id": 7,
+      "question": "द्विघात समीकरण x² - 5x - 300 = 0 का विविक्तकर होगा\n(The discriminant of the quadratic equation x² - 5x - 300 = 0 will be)",
+      "options": [
+        "1225",
+        "1500",
+        "-1225",
+        "1325"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "1225"
+    },
+    {
+      "id": 8,
+      "question": "युग्म समीकरण 2x + 4y = 3 तथा 12y + 6x = 6 का हल है\n(The solution of the pair of linear equations 2x + 4y = 3 and 12y + 6x = 6 is)",
+      "options": [
+        "कोई हल नहीं (No solution)",
+        "एक हल (One solution)",
+        "दो हल (Two solutions)",
+        "अनगिनत हल (Infinitely many solutions)"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "कोई हल नहीं (No solution)"
+    },
+    {
+      "id": 9,
+      "question": "(1 - cos⁴A) =",
+      "options": [
+        "sin²A(1 + sin²A)",
+        "sin²A(1 + cos²A)",
+        "cos²A(1 - cos²A)",
+        "sin²A(1 - cos²A)"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "sin²A(1 + cos²A)"
+    },
+    {
+      "id": 10,
+      "question": "यदि √2 cos θ = 1 तो θ का मान है\n(If √2 cos θ = 1 then the value of θ is)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 11,
+      "question": "0° और 50° के बीच विषम संख्याओं की संख्या है\n(The number of odd numbers between 0° and 50° is)",
+      "options": [
+        "26",
+        "25",
+        "27",
+        "24"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "25"
+    },
+    {
+      "id": 12,
+      "question": "1000 चक्कर लगाने में एक पहिया 88 किमी तय करता है। पहिए का व्यास है\n(A wheel covers a distance of 88 km in 1000 rotations. The diameter of the wheel is)",
+      "options": [
+        "14 m",
+        "24 m",
+        "28 m",
+        "40 m"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "28 m"
+    },
+    {
+      "id": 13,
+      "question": "14 का मिलान चिह्न है\n(The tally mark of 14 is)",
+      "options": [
+        "XIV",
+        "|||| |||| |||| ||",
+        "|||| |||| ||||",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "|||| |||| ||||"
+    },
+    {
+      "id": 14,
+      "question": "यदि किसी समांतर श्रेढ़ी का n वाँ पद 2n + 5 हो, तो T₄ का मान क्या होगा ?\n(If nth term of an A.P. is 2n + 5, then what is the value of T₄?)",
+      "options": [
+        "13",
+        "14",
+        "9",
+        "7"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "13"
+    },
+    {
+      "id": 15,
+      "question": "बिन्दुओं A(6, 0), B(14, 0) तथा C(16, 8) से बने त्रिभुज का क्षेत्रफल है\n(The area of the triangle formed by points A(6, 0), B(14, 0) and C(16, 8) is)",
+      "options": [
+        "32 वर्ग इकाई (square units)",
+        "16 वर्ग इकाई (square units)",
+        "64 वर्ग इकाई (square units)",
+        "8 वर्ग इकाई (square units)"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "32 वर्ग इकाई (square units)"
+    },
+    {
+      "id": 16,
+      "question": "यदि बहुपद (2x² + 5x - k) के शून्यक एक दूसरे के व्युत्क्रम हो, तो k का मान होगा\n(If the zeroes of the polynomial (2x² + 5x - k) are reciprocal to each other, then the value of k will be)",
+      "options": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 17,
+      "question": "समबाहु त्रिभुज ABC में, यदि AD ⊥ BC, तब AD² =\n(In an equilateral triangle ABC, if AD ⊥ BC, then AD² =)",
+      "options": [
+        "3CD²",
+        "4CD²",
+        "(3/2)DC²",
+        "CD²"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "3CD²"
+    },
+    {
+      "id": 18,
+      "question": "यदि θ = 45° तो tan²θ + 1/sin²θ का मान होगा\n(If θ = 45° then the value of tan²θ + 1/sin²θ will be)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 19,
+      "question": "यदि x, y, z समांतर श्रेढ़ी में हैं, तो y =\n(If x, y, z are in A.P., then y =)",
+      "options": [
+        "(z - x) / 2",
+        "(z + x) / 2",
+        "x + z",
+        "x - z"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "(z + x) / 2"
+    },
+    {
+      "id": 20,
+      "question": "cos(90° - θ) =",
+      "options": [
+        "sin θ",
+        "-sin θ",
+        "cos θ",
+        "-cos θ"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "sin θ"
+    },
+    {
+      "id": 21,
+      "question": "समांतर श्रेढ़ी 3, 8, 13, 18, ..., 253 का अंत से 10 वाँ पद है\n(The 10th term from the end of the A.P. 3, 8, 13, 18, ..., 253 is)",
+      "options": [
+        "208",
+        "206",
+        "202",
+        "203"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "208"
+    },
+    {
+      "id": 22,
+      "question": "यदि a, b, c, d, e का माध्य 9 हो, तो a + b + c + d + e =\n(If the mean of a, b, c, d, e is 9, then a + b + c + d + e =)",
+      "options": [
+        "45",
+        "36",
+        "9",
+        "5"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "45"
+    },
+    {
+      "id": 23,
+      "question": "एक घड़ी की मिनट वाली सुई द्वारा 1 मिनट में बनाया गया कोण होता है\n(The angle subtended by the minute hand of a clock in 1 minute is)",
+      "options": [
+        "30°",
+        "15°",
+        "12°",
+        "6°"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "6°"
+    },
+    {
+      "id": 24,
+      "question": "माध्यक का तीन गुना और माध्य का दोगुना का अन्तर बराबर होता है\n(The difference of three times the median and two times the mean is equal to)",
+      "options": [
+        "माध्य (Mean)",
+        "माध्यक (Median)",
+        "बहुलक (Mode)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "बहुलक (Mode)"
+    },
+    {
+      "id": 25,
+      "question": "(1 + tan²A) / sec²A =",
+      "options": [
+        "sin²A",
+        "0",
+        "1",
+        "-1"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 26,
+      "question": "cot(90° - θ) =",
+      "options": [
+        "cot θ",
+        "tan θ",
+        "cosec θ",
+        "sec θ"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "tan θ"
+    },
+    {
+      "id": 27,
+      "question": "यदि α, β द्विघात बहुपद x² + 2x + 1 के शून्यक हैं, तो 1/α + 1/β =\n(If α, β are the zeroes of the quadratic polynomial x² + 2x + 1, then 1/α + 1/β =)",
+      "options": [
+        "2",
+        "-2",
+        "0",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 28,
+      "question": "tan²45° - 1 =",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "1/2"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 29,
+      "question": "यदि बहुपद y² - y - 6 के शून्यक α तथा β हों, तो α . β =\n(If α and β are the zeroes of the polynomial y² - y - 6, then α . β =)",
+      "options": [
+        "6",
+        "-6",
+        "1",
+        "-1"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "-6"
+    },
+    {
+      "id": 30,
+      "question": "यदि tan θ = p/q तो cos θ + sin θ / cos θ - sin θ =\n(If tan θ = p/q then cos θ + sin θ / cos θ - sin θ =)",
+      "options": [
+        "(p + q) / (p - q)",
+        "(q + p) / (q - p)",
+        "(q - p) / (q + p)",
+        "(p - q) / (p + q)"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "(q + p) / (q - p)"
+    },
+    {
+      "id": 31,
+      "question": "यदि किसी बंटन का माध्य और माध्यक क्रमशः 4.6 तथा 4.8 है, तो बहुलक =\n(If the mean and median of a distribution are 4.6 and 4.8 respectively, then mode =)",
+      "options": [
+        "5",
+        "5.1",
+        "5.2",
+        "5.3"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "5.2"
+    },
+    {
+      "id": 32,
+      "question": "x(x² + 2x) =",
+      "options": [
+        "x³ + 2x²",
+        "x² + 2x",
+        "x³",
+        "1 + 2x²"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "x³ + 2x²"
+    },
+    {
+      "id": 33,
+      "question": "यदि sec A = 25/7 तो sin A =\n(If sec A = 25/7 then sin A =)",
+      "options": [
+        "24/25",
+        "7/24",
+        "7/25",
+        "25/24"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "24/25"
+    },
+    {
+      "id": 34,
+      "question": "यदि y² + 1/y² = 14 तो y + 1/y =\n(If y² + 1/y² = 14 then y + 1/y =)",
+      "options": [
+        "16",
+        "12",
+        "8",
+        "4"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 35,
+      "question": "त्रिज्या R वाले अर्द्धगोले का वक्र पृष्ठीय क्षेत्रफल है\n(The curved surface area of a hemisphere of radius R is)",
+      "options": [
+        "πR²",
+        "2πR²",
+        "3πR²",
+        "4πR²"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "2πR²"
+    },
+    {
+      "id": 36,
+      "question": "त्रिभुज के शीर्षों के निर्देशांक (x₁, y₁), (x₂, y₂), (x₃, y₃) हैं तो केन्द्रक के निर्देशांक होंगे\n(The coordinates of the vertices of a triangle are (x₁, y₁), (x₂, y₂), (x₃, y₃) then the coordinates of the centroid will be)",
+      "options": [
+        "((x₁ + x₂ + x₃) / 2, (y₁ + y₂ + y₃) / 2)",
+        "((x₁ + x₂ + x₃) / 3, (y₁ + y₂ + y₃) / 3)",
+        "(x₁ + x₂ + x₃, y₁ + y₂ + y₃)",
+        "((x₁ - x₂ - x₃) / 3, (y₁ - y₂ - y₃) / 3)"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "((x₁ + x₂ + x₃) / 3, (y₁ + y₂ + y₃) / 3)"
+    },
+    {
+      "id": 37,
+      "question": "यदि दो वृत्तों के क्षेत्रफलों का अनुपात 4 : 25 है, तो उनकी त्रिज्याओं का अनुपात होगा\n(If the ratio of the areas of two circles is 4 : 25, then the ratio of their radii will be)",
+      "options": [
+        "4 : 25",
+        "2 : 5",
+        "5 : 2",
+        "25 : 4"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "2 : 5"
+    },
+    {
+      "id": 38,
+      "question": "दी गई आकृति में, O वृत्त का केन्द्र है तथा ∠AOC = 130° है, तो ∠OAC का मान है\n(In the given figure, O is the centre of the circle and ∠AOC = 130°, then the value of ∠OAC is)",
+      "options": [
+        "65°",
+        "50°",
+        "130°",
+        "25°"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "25°"
+    },
+    {
+      "id": 39,
+      "question": "sin A × cosec A =",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 40,
+      "question": "निम्नलिखित में कौन सत्य है ?\n(Which of the following is true ?)",
+      "options": [
+        "sin 30° = tan 30°",
+        "sin 30° = cos 30°",
+        "sin 30° = sec 60°",
+        "sin 30° = cos 60°"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "sin 30° = cos 60°"
+    },
+    {
+      "id": 41,
+      "question": "अच्छी प्रकार से फेटी गई एक ताश की गड्डी में से एक पत्ता यादृच्छया निकाला जाता है, तो इसके लाल रंग का तस्वीर वाला पत्ता होने की प्रायिकता है\n(A card is drawn at random from a well shuffled deck of cards, then the probability of getting a red face card is)",
+      "options": [
+        "1/26",
+        "2/13",
+        "3/13",
+        "3/26"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "3/26"
+    },
+    {
+      "id": 42,
+      "question": "बहुपद x² - x + 1 के शून्यकों का योग होगा\n(The sum of zeroes of the polynomial x² - x + 1 will be)",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 43,
+      "question": "sin 20° - cos 70° =",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 44,
+      "question": "आधार की त्रिज्या r तथा ऊँचाई h वाले एक लंबवृत्तीय बेलन का आयतन होगा\n(The volume of a right circular cylinder with base radius r and height h is)",
+      "options": [
+        "(1/3)πr²h",
+        "(2/3)πr²h",
+        "πr²h",
+        "2πr²h"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "πr²h"
+    },
+    {
+      "id": 45,
+      "question": "28 तथा 72 का म० स० है\n(The H.C.F. of 28 and 72 is)",
+      "options": [
+        "28",
+        "1",
+        "4",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2020,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 46,
+      "question": "√7 है एक\n(√7 is a)",
+      "options": [
+        "परिमेय संख्या (Rational number)",
+        "अपरिमेय संख्या (Irrational number)",
+        "प्राकृत संख्या (Natural number)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "अपरिमेय संख्या (Irrational number)"
+    },
+    {
+      "id": 47,
+      "question": "एक न्यायासंगत पासा फेंका गया तो एक रूढ़ संख्या आने की प्रायिकता होगी\n(A fair die is thrown, then the probability of getting a prime number will be)",
+      "options": [
+        "1",
+        "1/2",
+        "1/3",
+        "1/4"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 48,
+      "question": "x + y = 3 तथा 3x - 2y = 4 के हल हैं\n(The solutions of x + y = 3 and 3x - 2y = 4 are)",
+      "options": [
+        "x = 2, y = 1",
+        "x = 1, y = 2",
+        "x = -1, y = 4",
+        "x = -1, y = -2"
+      ],
+      "correct": 0,
+      "year": 2020,
+      "correctAnswer": "x = 2, y = 1"
+    },
+    {
+      "id": 49,
+      "question": "sec²A - tan²A =",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 50,
+      "question": "यदि समांतर श्रेढ़ी का n वाँ पद 6n - 2 हो, तो पहला पद होगा\n(If the nth term of an A.P. is 6n - 2, then the first term will be)",
+      "options": [
+        "2",
+        "4",
+        "-2",
+        "10"
+      ],
+      "correct": 1,
+      "year": 2020,
+      "correctAnswer": "4"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "date": "0204",
+  "dateDisplay": "04 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "निम्नलिखित में कौन परिमेय संख्या है ?\n(Which of the following is a rational number ?)",
+      "options": [
+        "√3",
+        "√7",
+        "√8",
+        "√5"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 2,
+      "question": "यदि किसी घनाभ की लम्बाई l, चौड़ाई b तथा ऊँचाई h हो, तो घनाभ का आयतन है\n(If length, breadth and height of a cuboid are l, b and h respectively, then volume of the cuboid is)",
+      "options": [
+        "lbh",
+        "√l² + b² + h²",
+        "2(lb + bh + lh)",
+        "2(l + b)h"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "lbh"
+    },
+    {
+      "id": 3,
+      "question": "यदि 6x - 21 = 3x + 12 तो x का मान है\n(If 6x - 21 = 3x + 12 then the value of x is)",
+      "options": [
+        "11",
+        "21",
+        "12",
+        "33"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "11"
+    },
+    {
+      "id": 4,
+      "question": "यदि f(x) = x³ - 5x² + 2x + 2, तो f(1) का मान है\n(If f(x) = x³ - 5x² + 2x + 2, then the value of f(1) is)",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 5,
+      "question": "यदि किसी द्विघात बहुपद के शून्यक 5 एवं -3 हैं, तो द्विघात बहुपद होगा\n(If zeros of a quadratic polynomial are 5 and -3, then the quadratic polynomial will be)",
+      "options": [
+        "x² + 2x - 15",
+        "x² - 2x + 15",
+        "x² - 2x - 15",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "x² - 2x - 15"
+    },
+    {
+      "id": 6,
+      "question": "बहुपद x² - 16 के शून्यक हैं\n(The zeroes of the polynomial x² - 16 are)",
+      "options": [
+        "+4, -4",
+        "+4, +4",
+        "-4, -4",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "+4, -4"
+    },
+    {
+      "id": 7,
+      "question": "यदि बहुपद (x² - kx - 42) का एक शून्यक -3 है तो k का मान होगा\n(If one zero of the polynomial (x² - kx - 42) is -3 then the value of k is)",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "10"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "11"
+    },
+    {
+      "id": 8,
+      "question": "द्विघात समीकरण x² - 2x - 3 = 0 के मूल हैं\n(The roots of the quadratic equation x² - 2x - 3 = 0 are)",
+      "options": [
+        "3, 1",
+        "3, -1",
+        "-3, 1",
+        "-3, -1"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "3, -1"
+    },
+    {
+      "id": 9,
+      "question": "यदि समांतर श्रेढ़ी का n वाँ पद 5 - 3n हो, तो इसका सार्व अंतर है\n(If nth term of an A.P. is 5 - 3n, then its common difference is)",
+      "options": [
+        "3",
+        "-3",
+        "5",
+        "-5"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "-3"
+    },
+    {
+      "id": 10,
+      "question": "समीकरण निकाय 2x - 3y + 2 = 0 और 6x - 9y + 5 = 0 के कितने हल होंगे ?\n(How many solutions does the system of equations 2x - 3y + 2 = 0 and 6x - 9y + 5 = 0 have ?)",
+      "options": [
+        "एक और केवल एक हल (One and only one solution)",
+        "कोई हल नहीं (No solution)",
+        "अनगिनत हल (Infinitely many solutions)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "कोई हल नहीं (No solution)"
+    },
+    {
+      "id": 11,
+      "question": "द्विघात बहुपद by² + ay + c के शून्यक α, β हों तो α + β का मान होगा\n(If α, β are the zeros of quadratic polynomial by² + ay + c then value of α + β will be)",
+      "options": [
+        "-a/b",
+        "-b/a",
+        "c/a",
+        "-a/c"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "-a/b"
+    },
+    {
+      "id": 12,
+      "question": "समीकरण 2x + 3y = 4 और 4x + 6y = 12 के आलेख किस प्रकार की रेखाएँ होंगी ?\n(What type of lines will be the graphs of the equations 2x + 3y = 4 and 4x + 6y = 12 ?)",
+      "options": [
+        "संपाती सरल रेखाएँ (Coincident straight lines)",
+        "समांतर सरल रेखाएँ (Parallel straight lines)",
+        "प्रतिच्छेदी सरल रेखाएँ (Intersecting straight lines)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "समांतर सरल रेखाएँ (Parallel straight lines)"
+    },
+    {
+      "id": 13,
+      "question": "यदि α, β, γ त्रिघात बहुपद ax³ + bx² + cx + d = 0 के शून्यक हों, तो αβγ का मान होगा\n(If α, β, γ are the zeroes of the cubic polynomial ax³ + bx² + cx + d = 0, then the value of αβγ is)",
+      "options": [
+        "c/a",
+        "-b/a",
+        "-d/a",
+        "d/a"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "-d/a"
+    },
+    {
+      "id": 14,
+      "question": "दो रैखिक समीकरणों के लेखाचित्र यदि समांतर रेखाएँ हों, तो हलों की संख्या होगी\n(If the graphs of two linear equations are parallel lines, then the number of solutions will be)",
+      "options": [
+        "0",
+        "1",
+        "अनगिनत (Infinitely many)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 15,
+      "question": "रैखिक समीकरण 2x + 3y = 12 में x और y के हल हैं\n(The solutions of x and y in the linear equation 2x + 3y = 12 are)",
+      "options": [
+        "x = 2, y = 3",
+        "x = 3, y = 2",
+        "x = 4, y = 3",
+        "x = 3, y = 4"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "x = 3, y = 2"
+    },
+    {
+      "id": 16,
+      "question": "निम्नलिखित में से किस द्विघात बहुपद के शून्यकों का योग -3 एवं शून्यकों का गुणनफल 2 है ?\n(Which of the following quadratic polynomials has sum of zeroes -3 and product of zeroes 2 ?)",
+      "options": [
+        "x² + 3x + 2",
+        "x² + 2x - 3",
+        "x² - 3x - 2",
+        "x² - 3x + 2"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "x² + 3x + 2"
+    },
+    {
+      "id": 17,
+      "question": "रैखिक समीकरण युग्म 2x - 3y = 8 एवं 4x - 6y = 9 है\n(The pair of linear equations 2x - 3y = 8 and 4x - 6y = 9 is)",
+      "options": [
+        "असंगत (inconsistent)",
+        "संगत (consistent)",
+        "आश्रित (dependent)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "असंगत (inconsistent)"
+    },
+    {
+      "id": 18,
+      "question": "निम्नलिखित में किस द्विघात बहुपद के शून्यक 2, -3 हैं ?\n(Which of the following quadratic polynomials has zeros 2, -3 ?)",
+      "options": [
+        "x² - x - 6",
+        "x² + x - 6",
+        "x² + x + 6",
+        "x² - x + 6"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "x² + x - 6"
+    },
+    {
+      "id": 19,
+      "question": "त्रिभुज ABC में DE || BC और AD/DB = 1.5/3. यदि AE = 1 तो EC =\n(In triangle ABC, DE || BC and AD/DB = 1.5/3. If AE = 1 then EC =)",
+      "options": [
+        "1.5",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 20,
+      "question": "9 tan²α - 9 sec²α =",
+      "options": [
+        "9",
+        "-9",
+        "0",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "-9"
+    },
+    {
+      "id": 21,
+      "question": "यदि बहुपद y² - 3y + 1 के शून्यक α और β हों, तो α⁻¹ + β⁻¹ का मान होगा\n(If α and β are zeroes of the polynomial y² - 3y + 1, then the value of α⁻¹ + β⁻¹ will be)",
+      "options": [
+        "3",
+        "1/3",
+        "-3",
+        "-1/3"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 22,
+      "question": "समीकरण निकाय 6x - 2y + 9 = 0 और 3x - y + 12 = 0 का आलेख दो सरल रेखाएँ हैं, जो\n(The graph of system of equations 6x - 2y + 9 = 0 and 3x - y + 12 = 0 are two straight lines which are)",
+      "options": [
+        "संपाती हैं (coincident)",
+        "समान्तर हैं (parallel)",
+        "केवल एक बिन्दु पर प्रतिच्छेद करती हैं (intersecting at only one point)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "समान्तर हैं (parallel)"
+    },
+    {
+      "id": 23,
+      "question": "यदि किसी द्विघात बहुपद x² - 2x + 8 के शून्यक α, β हों तो α . β का मान होगा\n(If α and β are the zeros of a quadratic polynomial x² - 2x + 8 then the value of α . β will be)",
+      "options": [
+        "2",
+        "-2",
+        "-8",
+        "8"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "8"
+    },
+    {
+      "id": 24,
+      "question": "यदि 2x + 3y = 11 और 2x - 4y = -24 तो\n(If 2x + 3y = 11 and 2x - 4y = -24 then)",
+      "options": [
+        "x = 2, y = 4",
+        "x = -2, y = -5",
+        "x = -3, y = 1",
+        "x = -2, y = 5"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "x = -2, y = 5"
+    },
+    {
+      "id": 25,
+      "question": "बहुपद y² - 6y + 8 का घात है\n(The degree of the polynomial y² - 6y + 8 is)",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 26,
+      "question": "यदि बहुपद P(x) का एक गुणनखंड (x + 1) हो तो बहुपद P(x) का एक शून्यक होगा\n(If a factor of polynomial P(x) is (x + 1) then a zero of polynomial P(x) will be)",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 27,
+      "question": "दो धन पूर्णांकों a और b के लिए, म०स०(a, b) × ल०स०(a, b) / (ab) बराबर है\n(For two positive integers a and b, HCF(a, b) × LCM(a, b) / (ab) is equal to)",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "a + b"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 28,
+      "question": "1/x (x + 1) =",
+      "options": [
+        "x + 1",
+        "x² + 1",
+        "1 + 1/x",
+        "x"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "1 + 1/x"
+    },
+    {
+      "id": 29,
+      "question": "यदि द्विघात बहुपद x² - 9x + 2a के शून्यकों का गुणनफल 8 हो, तो a का मान होगा\n(If the product of the zeroes of the quadratic polynomial x² - 9x + 2a is 8, then the value of a is)",
+      "options": [
+        "4",
+        "-4",
+        "9",
+        "-9"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 30,
+      "question": "यदि रैखिक समीकरणों का युग्म संगत हो, तो रेखाएँ होंगी\n(If a pair of linear equations is consistent, then the lines will be)",
+      "options": [
+        "हमेशा संपाती (always coincident)",
+        "समांतर (parallel)",
+        "हमेशा प्रतिच्छेदी (always intersecting)",
+        "प्रतिच्छेदी या संपाती (intersecting or coincident)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "प्रतिच्छेदी या संपाती (intersecting or coincident)"
+    },
+    {
+      "id": 31,
+      "question": "यदि वृत्त की जीवा की लम्बाई वृत्त की त्रिज्या के बराबर हो तो जीवा द्वारा केन्द्र पर बनाया गया कोण बराबर है\n(If length of a chord of a circle is equal to its radius then angle subtended by chord at the centre is equal to)",
+      "options": [
+        "90°",
+        "60°",
+        "120°",
+        "30°"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "60°"
+    },
+    {
+      "id": 32,
+      "question": "त्रिभुज ABC जिसके शीर्ष A(-2, 10), B(5, -4) और C(6, 10) हैं तो त्रिभुज का केन्द्रक है\n(The centroid of the triangle ABC with vertices A(-2, 10), B(5, -4) and C(6, 10) is)",
+      "options": [
+        "(3, 16/3)",
+        "(3, 3)",
+        "(16/3, 3)",
+        "(3, 1)"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "(3, 16/3)"
+    },
+    {
+      "id": 33,
+      "question": "निम्नलिखित में कौन द्विघात समीकरण नहीं है ?\n(Which of the following is not a quadratic equation ?)",
+      "options": [
+        "3x - x² = x² + 5",
+        "(x + 2)² = 2(x² - 5)",
+        "(√2x + 3)² = 2x² + 6",
+        "x³ - x² = (x - 1)³"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "x³ - x² = (x - 1)³"
+    },
+    {
+      "id": 34,
+      "question": "यदि बहुपद p(x) = x² - 3x + 5 के शून्यक α और β हों, तो 4(α + β) का मान है\n(If α and β are the zeroes of the polynomial p(x) = x² - 3x + 5, then the value of 4(α + β) is)",
+      "options": [
+        "12",
+        "20",
+        "-12",
+        "-20"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "12"
+    },
+    {
+      "id": 35,
+      "question": "यदि द्विघात समीकरण ax² + bx + c = 0 (a ≠ 0) के मूल α और β हों, तो α + β का मान होगा\n(If α and β are the roots of the quadratic equation ax² + bx + c = 0 (a ≠ 0), then the value of α + β will be)",
+      "options": [
+        "b/a",
+        "-b/a",
+        "c/a",
+        "-c/a"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "-b/a"
+    },
+    {
+      "id": 36,
+      "question": "मूल बिन्दु का नियामक है\n(Co-ordinates of origin is)",
+      "options": [
+        "(1, 1)",
+        "(0, 0)",
+        "(-1, 1)",
+        "(1, -1)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "(0, 0)"
+    },
+    {
+      "id": 37,
+      "question": "21, 18, 15, ... का कौन-सा पद शून्य है ?\n(Which term of the A.P. 21, 18, 15, ... is zero ?)",
+      "options": [
+        "6 वाँ (6th)",
+        "7 वाँ (7th)",
+        "8 वाँ (8th)",
+        "9 वाँ (9th)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "8 वाँ (8th)"
+    },
+    {
+      "id": 38,
+      "question": "0.12112111211112... है एक\n(0.12112111211112... is a)",
+      "options": [
+        "परिमेय संख्या (rational number)",
+        "अपरिमेय संख्या (irrational number)",
+        "पूर्णांक (integer)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "अपरिमेय संख्या (irrational number)"
+    },
+    {
+      "id": 39,
+      "question": "द्विघात समीकरण 3x² - 2√3x - 3 = 0 के विवेचक का मान है\n(The value of discriminant of the quadratic equation 3x² - 2√3x - 3 = 0 is)",
+      "options": [
+        "48",
+        "36",
+        "24",
+        "12"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "48"
+    },
+    {
+      "id": 40,
+      "question": "यदि बिन्दुओं A(-3, a) और B(1, a + 4) को मिलाने वाले रेखाखण्ड का मध्य बिन्दु Q(-1, 1) हो तो a का मान होगा\n(If Q(-1, 1) is the mid-point of the line segment joining the points A(-3, a) and B(1, a + 4) then value of a will be)",
+      "options": [
+        "2",
+        "1",
+        "-2",
+        "-1"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 41,
+      "question": "यदि p एक अभाज्य संख्या है तो √p होगी\n(If p is a prime number then √p will be)",
+      "options": [
+        "परिमेय संख्या (rational number)",
+        "अपरिमेय संख्या (irrational number)",
+        "प्राकृत संख्या (natural number)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "अपरिमेय संख्या (irrational number)"
+    },
+    {
+      "id": 42,
+      "question": "यदि त्रिभुज PQR में PQ = 6 सेमी, QR = 12 सेमी और RP = 6√3 सेमी तो ∠P होगा\n(In triangle PQR if PQ = 6 cm, QR = 12 cm and RP = 6√3 cm then ∠P will be)",
+      "options": [
+        "30°",
+        "60°",
+        "45°",
+        "90°"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 43,
+      "question": "यदि a = 2³ × 3 × 5 और b = 2⁴ × 5 × 7 तब ल०स० (a, b) होगा\n(If a = 2³ × 3 × 5 and b = 2⁴ × 5 × 7 then L.C.M. (a, b) will be)",
+      "options": [
+        "40",
+        "560",
+        "1120",
+        "1680"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "1680"
+    },
+    {
+      "id": 44,
+      "question": "यदि बहुपद p(x) का एक शून्यक -1 हो, तो p(x) का एक गुणनखंड होगा\n(If one zero of the polynomial p(x) is -1, then a factor of p(x) is)",
+      "options": [
+        "x - 1",
+        "x + 1",
+        "1/x",
+        "1/(x + 1)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "x + 1"
+    },
+    {
+      "id": 45,
+      "question": "k के किस मान के लिए समीकरण kx + 2y = 5 तथा 3x + y = 1 का एक अद्वितीय हल होगा ?\n(For what value of k does the equation kx + 2y = 5 and 3x + y = 1 have a unique solution ?)",
+      "options": [
+        "k = 6",
+        "k ≠ 6",
+        "k = -6",
+        "k ≠ -6"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "k ≠ 6"
+    },
+    {
+      "id": 46,
+      "question": "निम्नलिखित में कौन समान्तर श्रेढ़ी नहीं है ?\n(Which of the following is not an A.P. ?)",
+      "options": [
+        "1, 2, 3, ...",
+        "6, 9, 12, ...",
+        "0.2, 0.22, 0.222, ...",
+        "1/2, 1, 3/2, ..."
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "0.2, 0.22, 0.222, ..."
+    },
+    {
+      "id": 47,
+      "question": "यदि एक स्तम्भ की छाया की लम्बाई स्तम्भ की ऊँचाई से √3 गुनी है, तो सूर्य का उन्नयन कोण है\n(If the length of shadow of a vertical pole is √3 times the height of the pole, then the angle of elevation of the sun is)",
+      "options": [
+        "30°",
+        "60°",
+        "75°",
+        "45°"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "30°"
+    },
+    {
+      "id": 48,
+      "question": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 100 : 121 हो तो उनके संगत भुजाओं का अनुपात होगा\n(If ratio of areas of two similar triangles is 100 : 121 then the ratio of their corresponding sides will be)",
+      "options": [
+        "100 : 121",
+        "121 : 100",
+        "10 : 11",
+        "11 : 10"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "10 : 11"
+    },
+    {
+      "id": 49,
+      "question": "यदि cos θ = 5/13 हो तो cosec θ का मान होगा\n(If cos θ = 5/13 then value of cosec θ will be)",
+      "options": [
+        "12/13",
+        "13/12",
+        "5/12",
+        "13/5"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "13/12"
+    },
+    {
+      "id": 50,
+      "question": "बिन्दुओं (4, 0) और (5, 1) के बीच की दूरी है\n(The distance between the points (4, 0) and (5, 1) is)",
+      "options": [
+        "1",
+        "√2",
+        "2",
+        "2√2"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "√2"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "date": "0202",
+  "dateDisplay": "02 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "यदि α तथा β द्विघात बहुपद p(x) = x² + 2x + 3 के शून्यक हों तो α . β का मान होगा\n(If α and β are the zeros of quadratic polynomial p(x) = x² + 2x + 3 then the value of α . β will be)",
+      "options": [
+        "3",
+        "-2",
+        "2",
+        "-3"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 2,
+      "question": "मूल बिन्दु से बिन्दु R(-x, y) की दूरी है\n(The distance of the point R(-x, y) from the origin is)",
+      "options": [
+        "√(x² + y²) इकाई (units)",
+        "√(x² - y²) इकाई (units)",
+        "(x + y) इकाई (units)",
+        "(x² + y²) इकाई (units)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "(x² + y²) इकाई (units)"
+    },
+    {
+      "id": 3,
+      "question": "3 सेमी त्रिज्या वाले गोले का आयतन होगा\n(The volume of a sphere of radius 3 cm is)",
+      "options": [
+        "25π cm³",
+        "36π cm³",
+        "64π cm³",
+        "(112/3)π cm³"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "36π cm³"
+    },
+    {
+      "id": 4,
+      "question": "निम्नलिखित में से कौन-सा नियामक x-अक्ष पर का एक बिन्दु है ?\n(Which of the following co-ordinates is a point on x-axis ?)",
+      "options": [
+        "(2, 0)",
+        "(0, 2)",
+        "(2, 2)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "(2, 0)"
+    },
+    {
+      "id": 5,
+      "question": "त्रिभुज के तीनों कोणों का योगफल होता है\n(The sum of all the three angles of a triangle is)",
+      "options": [
+        "90°",
+        "180°",
+        "120°",
+        "100°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "180°"
+    },
+    {
+      "id": 6,
+      "question": "यदि समीकरण x² - kx + 4 = 0 का कोई मूल वास्तविक नहीं हो, तो k का मान होगा\n(If the equation x² - kx + 4 = 0 has no real roots then the value of k is)",
+      "options": [
+        "k < -4",
+        "k > 4",
+        "-4 < k < 4",
+        "k = 4"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "-4 < k < 4"
+    },
+    {
+      "id": 7,
+      "question": "tan 45° : tan 60° =",
+      "options": [
+        "1 : 2",
+        "1 : √3",
+        "√3 : 1",
+        "1 : 3"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1 : √3"
+    },
+    {
+      "id": 8,
+      "question": "4 सेमी त्रिज्या वाले अर्द्धवृत्त का क्षेत्रफल होगा\n(The area of a semi-circle of radius 4 cm is)",
+      "options": [
+        "128/7 cm²",
+        "156/7 cm²",
+        "175/7 cm²",
+        "176/7 cm²"
+      ],
+      "correct": 4,
+      "year": 2022,
+      "correctAnswer": ""
+    },
+    {
+      "id": 9,
+      "question": "निम्नलिखित में कौन सी अपरिमेय संख्या है ?\n(Which of the following is an irrational number ?)",
+      "options": [
+        "1.3 (bar)",
+        "√16",
+        "√(9/27)",
+        "√5 × √5"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "√5 × √5"
+    },
+    {
+      "id": 10,
+      "question": "निम्नलिखित में कौन-सी सबसे छोटी प्राकृत संख्या है ?\n(Which of the following is the smallest natural number ?)",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 11,
+      "question": "निम्नलिखित में से कौन बहुपद नहीं है ?\n(Which of the following is not a polynomial ?)",
+      "options": [
+        "(2/3)x + 1",
+        "2 - x²",
+        "1 / (x - 1)",
+        "x³"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "1 / (x - 1)"
+    },
+    {
+      "id": 12,
+      "question": "अच्छी प्रकार से फेटी गई एक ताश की गड्डी में से एक पत्ता यादृच्छया निकाला जाता है, तो इसके काला रंग का बादशाह होने की प्रायिकता है\n(A card is drawn at random from a well shuffled deck of playing cards, then the probability of getting a black king is)",
+      "options": [
+        "3/26",
+        "2/13",
+        "1/26",
+        "3/13"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "1/26"
+    },
+    {
+      "id": 13,
+      "question": "x = 6 का आलेख कैसी सरल रेखा होगी ?\n(What type of straight line will be the graph of x = 6 ?)",
+      "options": [
+        "x-अक्ष के समांतर (Parallel to x-axis)",
+        "y-अक्ष के समांतर (Parallel to y-axis)",
+        "मूल बिन्दु से जाती हुई (Passing through origin)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "y-अक्ष के समांतर (Parallel to y-axis)"
+    },
+    {
+      "id": 14,
+      "question": "समांतर श्रेढ़ी 16, 11, 6, 1, -4, ... का n वाँ पद होगा\n(The nth term of the A.P. 16, 11, 6, 1, -4, ... is)",
+      "options": [
+        "21 + 5n",
+        "21 - 5n",
+        "5n - 11",
+        "11 + 5n"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "21 + 5n"
+    },
+    {
+      "id": 15,
+      "question": "यदि एक वृत्त की परिधि 10π सेमी है, तो इसका क्षेत्रफल होगा\n(If the circumference of a circle is 10π cm, then its area will be)",
+      "options": [
+        "10π cm²",
+        "20π cm²",
+        "25π cm²",
+        "30π cm²"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "25π cm²"
+    },
+    {
+      "id": 16,
+      "question": "निम्नलिखित में कौन-सा समांतर श्रेढ़ी में है ?\n(Which of the following is an A.P. ?)",
+      "options": [
+        "8, 6, 4, 2, ...",
+        "5, 15, 18, 28, ...",
+        "0.1, 0.11, 0.111, 0.1111, ...",
+        "1, 1/2, 3/2, 2, ..."
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "8, 6, 4, 2, ..."
+    },
+    {
+      "id": 17,
+      "question": "बिन्दुएँ P(3, 0), Q(7, 0) और R(8, 4) से बने त्रिभुज का क्षेत्रफल है\n(The area of the triangle formed by points P(3, 0), Q(7, 0) and R(8, 4) is)",
+      "options": [
+        "24 वर्ग इकाई (square units)",
+        "12 वर्ग इकाई (square units)",
+        "48 वर्ग इकाई (square units)",
+        "8 वर्ग इकाई (square units)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "48 वर्ग इकाई (square units)"
+    },
+    {
+      "id": 18,
+      "question": "यदि द्विघात समीकरण 2x² - px + p = 0 का मूल समान हो, तो p का मान होगा\n(If the quadratic equation 2x² - px + p = 0 has equal roots then the value of p will be)",
+      "options": [
+        "4",
+        "केवल 0 (only 0)",
+        "0, 8",
+        "केवल 8 (only 8)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "केवल 8 (only 8)"
+    },
+    {
+      "id": 19,
+      "question": "यदि किसी द्विघात बहुपद के शून्यकों का योगफल 4 एवं गुणनफल 1 है, तो वह द्विघात बहुपद होगा\n(If sum of zeros of a quadratic polynomial is 4 and product is 1, then the quadratic polynomial will be)",
+      "options": [
+        "x² + 4x + 4",
+        "x² - 4x + 1",
+        "x² - x + 4",
+        "x² + 4x + 1"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "x² - x + 4"
+    },
+    {
+      "id": 20,
+      "question": "निम्नलिखित में से कौन-सा द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "x² - 4√x + 4 = 0",
+        "x² - 1/x² = 9x",
+        "2x² - 2x + 1 = (2 - x)² + 2",
+        "x² + 4x + 4 = (x² - 1)²"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "x² + 4x + 4 = (x² - 1)²"
+    },
+    {
+      "id": 21,
+      "question": "यदि p एक धनात्मक पूर्णांक है तो धनात्मक सम पूर्णांक का रूप होगा\n(If p is a positive integer then the form of positive even integer is)",
+      "options": [
+        "2p",
+        "p + 1",
+        "p",
+        "2p + 1"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2p"
+    },
+    {
+      "id": 22,
+      "question": "यदि दो संख्याओं का गुणनफल 15870 है एवं उनका म०स० 23 है, तो उनका ल०स० होगा\n(If product of two numbers is 15870 and their H.C.F. is 23, then their L.C.M. will be)",
+      "options": [
+        "690",
+        "609",
+        "669",
+        "906"
+      ],
+      "correct": 0,
+      "year": 2021,
+      "correctAnswer": "690"
+    },
+    {
+      "id": 23,
+      "question": "एक घनाभ की लम्बाई, चौड़ाई तथा ऊँचाई क्रमशः 8 सेमी, 6 सेमी तथा 5 सेमी हों, तो इसके विकर्ण की लम्बाई होगी\n(The length, breadth and height of a cuboid is respectively 8 cm, 6 cm and 5 cm then the length of its diagonal is)",
+      "options": [
+        "5√5 cm",
+        "10√5 cm",
+        "20√5 cm",
+        "25√5 cm"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "5√5 cm"
+    },
+    {
+      "id": 24,
+      "question": "(sin 30° / cos 30°) × cot 30° =",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 25,
+      "question": "समांतर श्रेढ़ी 3, 7, 11, ... का 14 वाँ पद है\n(The 14th term of the A.P. 3, 7, 11, ... is)",
+      "options": [
+        "52",
+        "55",
+        "56",
+        "59"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "55"
+    },
+    {
+      "id": 26,
+      "question": "यदि समीकरण निकायों 4x + ky + 8 = 0 एवं 2x + 2y + 2 = 0 का एक अद्वितीय हल हो, तो\n(If system of equations 4x + ky + 8 = 0 and 2x + 2y + 2 = 0 has a unique solution, then)",
+      "options": [
+        "k = 4",
+        "k ≠ 4",
+        "k = -4",
+        "k ≠ -4"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "k = -4"
+    },
+    {
+      "id": 27,
+      "question": "Δ PQR में PQ = PR तथा ∠Q = 40° तो ∠P =\n(In Δ PQR if PQ = PR and ∠Q = 40° then ∠P =)",
+      "options": [
+        "40°",
+        "80°",
+        "120°",
+        "100°"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "40°"
+    },
+    {
+      "id": 28,
+      "question": "बिन्दुओं P(5, 7) और Q(8, 11) के बीच की दूरी है\n(The distance between the points P(5, 7) and Q(8, 11) is)",
+      "options": [
+        "31 इकाई (units)",
+        "5 इकाई (units)",
+        "13 इकाई (units)",
+        "6 इकाई (units)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "5 इकाई (units)"
+    },
+    {
+      "id": 29,
+      "question": "x-अक्ष पर स्थित किसी बिन्दु के निर्देशांक का रूप होगा\n(The co-ordinates of any point on the x-axis are of the form)",
+      "options": [
+        "(x, 0)",
+        "(x, x)",
+        "(0, y)",
+        "(x, y)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "(x, 0)"
+    },
+    {
+      "id": 30,
+      "question": "यदि p और q दो अभाज्य संख्याएँ हैं, तो उनका म० स० होगा\n(If p and q are two prime numbers then their HCF will be)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 31,
+      "question": "निम्नलिखित में से कौन-सा द्विघात समीकरण नहीं है ?\n(Which of the following is not a quadratic equation?)",
+      "options": [
+        "3(x + 1)² = x² - 2x + 4",
+        "4x - x² = x² + 5",
+        "(√3x + √5)² + x² = 4",
+        "16x³ = (x² + 3x)² + 7"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "16x³ = (x² + 3x)² + 7"
+    },
+    {
+      "id": 32,
+      "question": "बहुपद 4x² + 5√2x - 3 के शून्यक कौन से हैं ?\n(Which are the zeros of polynomial 4x² + 5√2x - 3 ?)",
+      "options": [
+        "-3√2/2, √2/4",
+        "-3√2/4, √2/2",
+        "-3√2/2, √2/2",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 3,
+      "year": 2021,
+      "correctAnswer": "इनमें से कोई नहीं (None of these)"
+    },
+    {
+      "id": 33,
+      "question": "(1 - tan²45°) / (1 + tan²45°) =",
+      "options": [
+        "sin 90°",
+        "sin 0°",
+        "tan 90°",
+        "sin 45°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "sin 0°"
+    },
+    {
+      "id": 34,
+      "question": "यदि a₁/a₂ = b₁/b₂ = c₁/c₂ तो समीकरण निकाय a₁x + b₁y + c₁ = 0 तथा a₂x + b₂y + c₂ = 0 का हल होगा\n(If a₁/a₂ = b₁/b₂ = c₁/c₂ then the solution of system of equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 will be)",
+      "options": [
+        "अद्वितीय हल (unique solution)",
+        "कोई हल नहीं (no solution)",
+        "अनगिनत हल (infinitely many solutions)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "अनगिनत हल (infinitely many solutions)"
+    },
+    {
+      "id": 35,
+      "question": "समीकरण निकायों x + 2y - 8 = 0 तथा 2x + 4y = 16 का है\n(System of equations x + 2y - 8 = 0 and 2x + 4y = 16 has)",
+      "options": [
+        "अद्वितीय हल (Unique solution)",
+        "अनन्त हल (Infinitely many solutions)",
+        "कोई हल नहीं (No solution)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "कोई हल नहीं (No solution)"
+    },
+    {
+      "id": 36,
+      "question": "1/√3 किसका मान है ?\n(Whose value is 1/√3?)",
+      "options": [
+        "sin 30°",
+        "tan 30°",
+        "cos 60°",
+        "tan 45°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "tan 30°"
+    },
+    {
+      "id": 37,
+      "question": "k के किस मान के लिए समीकरण x + 2y = 3 तथा 3x + ky = 9 संपाती रेखाओं को प्रदर्शित करता है ?\n(For what value of k, the equations x + 2y = 3 and 3x + ky = 9 represent coincident lines?)",
+      "options": [
+        "-6",
+        "-1/6",
+        "1/6",
+        "6"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 38,
+      "question": "रेखा y = 4 का आलेख निम्न में से किस बिन्दु से होकर गुजरेगी ?\n(The graph of the line y = 4 passes through which of the following points?)",
+      "options": [
+        "(4, 2)",
+        "(2, 4)",
+        "(4, 0)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "(2, 4)"
+    },
+    {
+      "id": 39,
+      "question": "यदि किसी वृत्त की परिधि और क्षेत्रफल का परिमाण समान हो, तो वृत्त का व्यास होगा\n(If the circumference and the area of a circle are numerically equal, the diameter of the circle will be)",
+      "options": [
+        "π इकाई (units)",
+        "2 इकाई (units)",
+        "3π इकाई (units)",
+        "4 इकाई (units)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "4 इकाई (units)"
+    },
+    {
+      "id": 40,
+      "question": "मूल बिन्दु के निर्देशांक हैं\n(The coordinates of the origin are)",
+      "options": [
+        "(0, 0)",
+        "(1, 1)",
+        "(-1, -1)",
+        "(1, 0)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "(0, 0)"
+    },
+    {
+      "id": 41,
+      "question": "यदि एक मैच जीतने की प्रायिकता 0.7 है, तो इसके हारने की प्रायिकता होगी\n(If the probability of winning a match is 0.7 then the probability of losing it is)",
+      "options": [
+        "1/5",
+        "1/10",
+        "3/10",
+        "2/5"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "3/10"
+    },
+    {
+      "id": 42,
+      "question": "यदि a = (2² × 3³ × 5⁴) और b = (2³ × 3² × 5) तब म०स० (a, b) होगा\n(If a = (2² × 3³ × 5⁴) and b = (2³ × 3² × 5) then H.C.F. (a, b) will be)",
+      "options": [
+        "90",
+        "180",
+        "360",
+        "540"
+      ],
+      "correct": 1,
+      "year": 2021,
+      "correctAnswer": "180"
+    },
+    {
+      "id": 43,
+      "question": "एक छड़ की लम्बाई और उसकी छाया का अनुपात 1 : √3 है, तो सूर्य का उन्नयन कोण है\n(The ratio of the length of a rod to its shadow is 1 : √3, so the angle of elevation of the sun is)",
+      "options": [
+        "30°",
+        "60°",
+        "45°",
+        "90°"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "30°"
+    },
+    {
+      "id": 44,
+      "question": "यदि समीकरण ax² + bx + c = 0 के मूल एक दूसरे के व्युत्क्रम हों तो\n(If roots of equation ax² + bx + c = 0 are reciprocal to each other then)",
+      "options": [
+        "a = b",
+        "b = c",
+        "c = a",
+        "a = 1/c"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "c = a"
+    },
+    {
+      "id": 45,
+      "question": "1 / √2 है एक\n(1 / √2 is a)",
+      "options": [
+        "प्राकृत संख्या (natural number)",
+        "परिमेय संख्या (rational number)",
+        "अपरिमेय संख्या (irrational number)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "अपरिमेय संख्या (irrational number)"
+    },
+    {
+      "id": 46,
+      "question": "बिन्दु (7, 10) किस पाद में स्थित है ?\n(In which quadrant does the point (7, 10) lie?)",
+      "options": [
+        "प्रथम पाद (First quadrant)",
+        "द्वितीय पाद (Second quadrant)",
+        "तृतीय पाद (Third quadrant)",
+        "चतुर्थ पाद (Fourth quadrant)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "प्रथम पाद (First quadrant)"
+    },
+    {
+      "id": 47,
+      "question": "18 तथा 72 का म० स० है\n(The HCF of 18 and 72 is)",
+      "options": [
+        "18",
+        "72",
+        "9",
+        "2"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "18"
+    },
+    {
+      "id": 48,
+      "question": "यदि α तथा β द्विघात समीकरण x² - 3√3x - 12 = 0 के मूल हों, तो α + β - √3 =\n(If α and β are the roots of the quadratic equation x² - 3√3x - 12 = 0, then α + β - √3 =)",
+      "options": [
+        "3√3",
+        "-4√3",
+        "2√3",
+        "4√3"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "2√3"
+    },
+    {
+      "id": 49,
+      "question": "एक पासे को फेंका गया। एक विषम संख्या आने की प्रायिकता होगी\n(A die is thrown. The probability of getting an odd number is)",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "1/3"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 50,
+      "question": "द्विघात समीकरण x² - 6x + 2 = 0 के मूलों का योग है\n(The sum of roots of the quadratic equation x² - 6x + 2 = 0 is)",
+      "options": [
+        "2",
+        "-2",
+        "6",
+        "-6"
+      ],
+      "correct": 2,
+      "year": 2021,
+      "correctAnswer": "6"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "date": "0213",
+  "dateDisplay": "13 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "दो वृत्तों की परिधियों का अनुपात 5:7 है तो उनकी त्रिज्याओं का अनुपात है\n(The ratio of the circumferences of two circles is 5:7 then the ratio of their radii is)",
+      "options": [
+        "7:5",
+        "5:7",
+        "25:49",
+        "49:25"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "5:7"
+    },
+    {
+      "id": 2,
+      "question": "निम्नलिखित में कौन द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "(x+1)(x-1) = x²-4x³",
+        "(x+4)² = 3x+4",
+        "4x + 1/2x = 8x²",
+        "(2x²+4) = (5+x)(2x-3)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "(x+4)² = 3x+4"
+    },
+    {
+      "id": 3,
+      "question": "1 + cot²θ =",
+      "options": [
+        "sin²θ",
+        "cosec²θ",
+        "tan²θ",
+        "sec²θ"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "cosec²θ"
+    },
+    {
+      "id": 4,
+      "question": "एक पासे की फेंक में संख्या 4 या 5 आने की प्रायिकता\n(The probability of getting a number 4 or 5 in throwing a die is)",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "2/3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "1/3"
+    },
+    {
+      "id": 5,
+      "question": "यदि किसी शंकु की तिर्यक ऊँचाई l तथा आधार की त्रिज्या r हो तो शंकु का संपूर्ण पृष्ठ क्षेत्रफल होगा\n(If l is slant height of a cone and r is the radius of its base then total surface area of cone is)",
+      "options": [
+        "πrl + r",
+        "πrl + πr²",
+        "πrl + r²",
+        "πrl + 2r²"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "πrl + πr²"
+    },
+    {
+      "id": 6,
+      "question": "समांतर श्रेढ़ी 5, 8, 11, 14, ... का कौन-सा पद 38 है ?\n(Which term of the A.P. 5, 8, 11, 14, ... is 38 ?)",
+      "options": [
+        "10 वां (10th)",
+        "11 वां (11th)",
+        "12 वां (12th)",
+        "13 वां (13th)"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "12 वां (12th)"
+    },
+    {
+      "id": 7,
+      "question": "23, 15, 25, 40, 27, 25, 22, 25, 20 का बहुलक है\n(The mode of 23, 15, 25, 40, 27, 25, 22, 25, 20 is)",
+      "options": [
+        "23",
+        "25",
+        "22",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "25"
+    },
+    {
+      "id": 8,
+      "question": "निम्नलिखित में कौन-सा द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "4x + 6 = 0",
+        "x² - bx + c = 0",
+        "x(x + 3) = x²",
+        "x² + 1/x² = 2"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "x² - bx + c = 0"
+    },
+    {
+      "id": 9,
+      "question": "sec²60° - 1 का मान है\n(Value of sec²60° - 1 is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 10,
+      "question": "प्रथम 6 सम प्राकृत संख्याओं का माध्य है\n(The mean of first 6 even natural numbers is)",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 11,
+      "question": "(sin 30° + cos 30°) - (sin 60° + cos 60°) =",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 12,
+      "question": "वर्ग अंतरालों 2-5, 5-8, 8-11, ... के वर्गों की लंबाई है\n(The length of the class intervals of the classes 2-5, 5-8, 8-11, ... is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "3.5"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 13,
+      "question": "एक बारम्बारता बंटन की माध्यिका 40 एवं माध्य 38.2 है तो इसका बहुलक होगा\n(The median of a frequency distribution is 40 and mean is 38.2. Then its mode is)",
+      "options": [
+        "43",
+        "43.6",
+        "42",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "43.6"
+    },
+    {
+      "id": 14,
+      "question": "यदि 2 cos θ + cos²θ = 1 है तो sin²θ + sin⁴θ का मान है\n(If 2 cos θ + cos²θ = 1 then the value of sin²θ + sin⁴θ is)",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 15,
+      "question": "k के किस मान के लिए द्विघात समीकरण kx² - 6x + 1 = 0 के मूल वास्तविक एवं समान हैं\n(For what value of k, roots of the quadratic equation kx² - 6x + 1 = 0 are real and equal ?)",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "9"
+    },
+    {
+      "id": 16,
+      "question": "बहुपद (x³ + x² + 2x + 1)(x² + 2x + 1) का घात है\n(The degree of the polynomial (x³ + x² + 2x + 1)(x² + 2x + 1) is)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 17,
+      "question": "निम्नलिखित में से कौन द्विघात समीकरण है ?\n(Which of the following is a quadratic equation ?)",
+      "options": [
+        "(x + 3)(x - 3) = x² - 4x³",
+        "(x + 3)² = 4(x + 4)",
+        "(2x - 2)² = 4x² + 7",
+        "4x + 1/4x = 4x"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "(x + 3)² = 4(x + 4)"
+    },
+    {
+      "id": 18,
+      "question": "यदि x = a cos θ और y = b sin θ तो b²x² + a²y² =\n(If x = a cos θ and y = b sin θ then b²x² + a²y² =)",
+      "options": [
+        "a²b²",
+        "ab",
+        "a⁴b⁴",
+        "a² + b²"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "a²b²"
+    },
+    {
+      "id": 19,
+      "question": "एक पतंग पृथ्वी से 30 मी की ऊँचाई पर है और इसकी डोर पृथ्वी से 60° का कोण बनाती है, तो डोर की लंबाई है\n(A kite is at a height 30 m from the earth and its string makes an angle 60° with the earth. Then the length of the string is)",
+      "options": [
+        "30√2 मी",
+        "35√3 मी",
+        "20√3 मी",
+        "45√2 मी"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "20√3 मी"
+    },
+    {
+      "id": 20,
+      "question": "p / (2^n × 5^m) के रूप में 0.505 को लिखा जा सकता है\n(In the form of p / (2^n × 5^m) 0.505 can be written as)",
+      "options": [
+        "101 / (2¹ × 5²)",
+        "101 / (2¹ × 5³)",
+        "101 / (2² × 5²)",
+        "101 / (2³ × 5²)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "101 / (2³ × 5²)"
+    },
+    {
+      "id": 21,
+      "question": "tan 30° . sin 30° . cot 60° . cosec 30° =",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "1/3"
+    },
+    {
+      "id": 22,
+      "question": "दो सिक्कों की उछाल में दोनों पर शीर्ष आने की प्रायिकता है\n(The probability of getting heads on both the coins in throwing two coins is)",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "1/4"
+    },
+    {
+      "id": 23,
+      "question": "एक वर्ष में एक महीना यदृच्छया चुना जाता है। इसके जून या सितम्बर होने की प्रायिकता है\n(A month is selected at random in a year. The probability of it being June or September is)",
+      "options": [
+        "3/4",
+        "1/12",
+        "1/6",
+        "1/4"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": 24,
+      "question": "यदि किसी अर्द्धगोले के वक्र पृष्ठीय क्षेत्रफल 1232 सेमी² है, तो उसकी त्रिज्या है\n(If the curved surface area of a hemisphere is 1232 cm², then its radius is)",
+      "options": [
+        "7 सेमी",
+        "14 सेमी",
+        "21 सेमी",
+        "28 सेमी"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "14 सेमी"
+    },
+    {
+      "id": 25,
+      "question": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार सांत है ?\n(Which of the following fractions has terminating decimal expansion ?)",
+      "options": [
+        "14 / (2⁰ × 3²)",
+        "9 / (5¹ × 7²)",
+        "8 / (2² × 3²)",
+        "15 / (2² × 5³)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "15 / (2² × 5³)"
+    },
+    {
+      "id": 26,
+      "question": "7 sec²A - 7 tan²A =",
+      "options": [
+        "49",
+        "7",
+        "14",
+        "0"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 27,
+      "question": "यदि P + 1, 2P + 1, 4P - 1 समांतर श्रेढ़ी में हैं तो P का मान है\n(If P + 1, 2P + 1, 4P - 1 are in A.P. then the value of P is)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 28,
+      "question": "यदि बहुपद p(x) का एक शून्यक 2 हो, तो निम्नलिखित में कौन p(x) का एक गुणनखण्ड है ?\n(If one of the zeros of the polynomial p(x) is 2 then which of the following is a factor of p(x)?)",
+      "options": [
+        "x - 2",
+        "x + 2",
+        "x - 1",
+        "x + 1"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "x - 2"
+    },
+    {
+      "id": 29,
+      "question": "निम्नलिखित में कौन बहुपद नहीं है ?\n(Which of the following is not a polynomial?)",
+      "options": [
+        "√3x² - 5√2x + 3",
+        "3x² - 4x + √5",
+        "x + 2√x",
+        "(1/5)x³ - 3x² + 2"
+      ],
+      "correct": 3,
+      "year": 2020,
+      "correctAnswer": "(1/5)x³ - 3x² + 2"
+    },
+    {
+      "id": 30,
+      "question": "बहुपद 2x² - 4x - 6 के शून्यक हैं\n(The zeroes of the polynomial 2x² - 4x - 6 are)",
+      "options": [
+        "1, 3",
+        "-1, 3",
+        "1, -3",
+        "-1, -3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "-1, 3"
+    },
+    {
+      "id": 31,
+      "question": "दो पासों को एक साथ फेंका जाता है। ऊपर आनेवाले अंकों का अंतर शून्य होने की प्रायिकता क्या है ?\n(Two dice are thrown at the same time. What is the probability that the difference of the numbers appearing on top is zero ?)",
+      "options": [
+        "1/36",
+        "1/6",
+        "5/18",
+        "5/36"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": 32,
+      "question": "5 के प्रथम सात गुणजों का माध्य है\n(The mean of first seven multiples of 5 is)",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "35"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "20"
+    },
+    {
+      "id": 33,
+      "question": "यदि P(E) = 0.02 तो P(E') बराबर\n(If P(E) = 0.02 then P(E') is equal to)",
+      "options": [
+        "0.02",
+        "0.002",
+        "0.98",
+        "0.97"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "0.98"
+    },
+    {
+      "id": 34,
+      "question": "समांतर श्रेढ़ी 1, 5, 9, ... का सार्व अंतर है\n(The common difference of arithmetic progression 1, 5, 9, ... is)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 35,
+      "question": "यदि 3 cos θ = 2 हो, तो (2 sec²θ + 2 tan²θ - 7) का मान होगा\n(If 3 cos θ = 2, then the value of (2 sec²θ + 2 tan²θ - 7) will be)",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 36,
+      "question": "यदि बहुपद t² + 7t + 10 के शून्यक α एवं β हों तो α + β का मान है\n(If α and β are the zeroes of the polynomial t² + 7t + 10 then the value of α + β is)",
+      "options": [
+        "7",
+        "10",
+        "-7",
+        "-10"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "-7"
+    },
+    {
+      "id": 37,
+      "question": "निम्नलिखित में किस द्विघात बहुपद के शून्यक 2 एवं -2 हैं ?\n(Which of the following quadratic polynomials has zeroes 2 and -2?)",
+      "options": [
+        "x² + 4",
+        "x² - 4",
+        "x² - 2x + 4",
+        "x² + √8"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "x² - 4"
+    },
+    {
+      "id": 38,
+      "question": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है ?\n(Which of the following is not a quadratic equation?)",
+      "options": [
+        "5x - x² = x² + 3",
+        "x³ - x² = (x - 1)³",
+        "(x + 3)² = 3(x² - 5)",
+        "(√2x + 3)² = 2x² + 5"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "(√2x + 3)² = 2x² + 5"
+    },
+    {
+      "id": 39,
+      "question": "निम्नलिखित में कौन बिन्दु x = 2 के लेखाचित्र पर है ?\n(Which of the following points lies on the graph of x = 2 ?)",
+      "options": [
+        "(2, 0)",
+        "(2, 1)",
+        "(2, 2)",
+        "इनमें से सभी (all of these)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "इनमें से सभी (all of these)"
+    },
+    {
+      "id": 40,
+      "question": "tan 49° / cot 41° =",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "6"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 41,
+      "question": "निम्नलिखित में कौन बहुपद नहीं है ?\n(Which of the following is not a polynomial ?)",
+      "options": [
+        "x² - 7",
+        "2x² + 7x + 6",
+        "(1/2)x² + (1/2)x + 4",
+        "x + 4/x"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "x + 4/x"
+    },
+    {
+      "id": 42,
+      "question": "sec θ = ?\n",
+      "options": [
+        "cos θ / sin θ",
+        "1 / cos θ",
+        "1 / sin θ",
+        "sin θ / cos θ"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "1 / cos θ"
+    },
+    {
+      "id": 43,
+      "question": "यदि x, x + 3, x + 5, x + 7 एवं x + 10 का माध्य 9 है तो x का मान होगा\n(If the mean of x, x + 3, x + 5, x + 7 and x + 10 is 9 then the value of x is)",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 44,
+      "question": "यदि चार लगातार विषम संख्याओं का माध्य 6 है, तो सबसे बड़ी संख्या है\n(If the mean of four consecutive odd numbers is 6 then the largest number is)",
+      "options": [
+        "4.5",
+        "9",
+        "21",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "9"
+    },
+    {
+      "id": 45,
+      "question": "द्विघात समीकरण 2x² - 7x + 6 = 0 का विवेचक है\n(The discriminant of the quadratic equation 2x² - 7x + 6 = 0 is)",
+      "options": [
+        "1",
+        "-1",
+        "27",
+        "37"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 46,
+      "question": "8, 7, 9, 3, 9, 5, 4, 5, 7, 5 का बहुलक है\n(The mode of 8, 7, 9, 3, 9, 5, 4, 5, 7, 5 is)",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "5"
+    },
+    {
+      "id": 47,
+      "question": "20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 की माध्यिका है\n(The median of 20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 is)",
+      "options": [
+        "18",
+        "16",
+        "6",
+        "15"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "16"
+    },
+    {
+      "id": 48,
+      "question": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से 10 मी की दूरी पर 60° है, तो मीनार की ऊँचाई है\n(The angle of elevation of the top of a tower at a distance of 10 m from its base is 60°; then the height of the tower is)",
+      "options": [
+        "10 मी",
+        "10√3 मी",
+        "15√3 मी",
+        "20√3 मी"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "10√3 मी"
+    },
+    {
+      "id": 49,
+      "question": "यदि बहुपद cx² + ax + b के शून्यक α और β हों, तो α.β का मान है\n(If α and β be the zeros of the polynomial cx² + ax + b then the value of α.β is)",
+      "options": [
+        "a/c",
+        "-a/c",
+        "b/c",
+        "-b/c"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "b/c"
+    },
+    {
+      "id": 50,
+      "question": "यदि भाग एल्गोरिथ्म a = bq + r, b = 4, q = 5 और r = 1 हो तो a का मान क्या है ?\n(If in division algorithm a = bq + r, b = 4, q = 5 and r = 1 then what is the value of a ?)",
+      "options": [
+        "20",
+        "21",
+        "25",
+        "31"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "21"
+    }
+  ]
+}

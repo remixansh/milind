@@ -1,0 +1,658 @@
+{
+  "date": "0206",
+  "dateDisplay": "06 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "cos A × tan A =",
+      "options": [
+        "1",
+        "sin A",
+        "cos A",
+        "sec A"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "sin A"
+    },
+    {
+      "id": 2,
+      "question": "एक घन का संपूर्ण पृष्ठीय क्षेत्रफल 216 cm² है तो इसका आयतन है\n(The total surface area of a cube is 216 cm², then its volume is)",
+      "options": [
+        "144 cm³",
+        "196 cm³",
+        "212 cm³",
+        "216 cm³"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "216 cm³"
+    },
+    {
+      "id": 3,
+      "question": "समान ऊँचाई वाले दो बेलनों के आयतनों का अनुपात 9 : 16 है, तो उनके वक्र पृष्ठों के क्षेत्रफलों का अनुपात क्या होगा ?\n(The ratio of the volumes of two cylinders of the same height is 9 : 16, then the ratio of their curved surface areas will be)",
+      "options": [
+        "3:4",
+        "2:3",
+        "3:1",
+        "4:3"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "3:4"
+    },
+    {
+      "id": 4,
+      "question": "दो वृत्तों के क्षेत्रफलों का अनुपात 4 : 1 है तो उनकी त्रिज्याओं का अनुपात है\n(The ratio of areas of two circles is 4 : 1 then ratio of their radii is)",
+      "options": [
+        "4 : 1",
+        "2 : 1",
+        "1 : 2",
+        "1 : 4"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "2 : 1"
+    },
+    {
+      "id": 5,
+      "question": "यदि l || m हो, तो a का मान होगा\n(If l || m, then the value of a will be)",
+      "options": [
+        "20°",
+        "30°",
+        "40°",
+        "60°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "30°"
+    },
+    {
+      "id": 6,
+      "question": "किसी बिन्दु की y-अक्ष से दूरी उस बिन्दु का कहलाता है\n(Distance of a point from y-axis is called its)",
+      "options": [
+        "y-निर्देशांक (y-coordinate)",
+        "x-निर्देशांक (x-coordinate)",
+        "कोटि (ordinate)",
+        "y-अक्ष (y-axis)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "x-निर्देशांक (x-coordinate)"
+    },
+    {
+      "id": 7,
+      "question": "यदि 1, 4, x, 5 तथा 12 का माध्य 7 है, तो x का मान है\n(If the mean of 1, 4, x, 5 and 12 is 7, then the value of x is)",
+      "options": [
+        "6",
+        "8",
+        "13",
+        "9"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "13"
+    },
+    {
+      "id": 8,
+      "question": "यदि tan θ = 8/15 हो तो cosec θ का मान है\n(If tan θ = 8/15 then value of cosec θ is)",
+      "options": [
+        "17/8",
+        "8/17",
+        "15/17",
+        "17/15"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "17/8"
+    },
+    {
+      "id": 9,
+      "question": "बिन्दु P(-2, 8) और Q(-6, -4) को मिलाने वाले रेखाखण्ड का मध्य बिन्दु है\n(The mid-point of the line segment joining the points P(-2, 8) and Q(-6, -4) is)",
+      "options": [
+        "(-4, 2)",
+        "(4, 2)",
+        "(-4, -2)",
+        "(4, -2)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "(-4, 2)"
+    },
+    {
+      "id": 10,
+      "question": "यदि एक वृत्त की परिधि 10π सेमी है तो इसका क्षेत्रफल होगा\n(If the circumference of a circle is 10π cm then its area will be)",
+      "options": [
+        "10π सेमी²",
+        "20π सेमी²",
+        "25π सेमी²",
+        "30π सेमी²"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "25π सेमी²"
+    },
+    {
+      "id": 11,
+      "question": "किसी त्रिभुज के तीनों लम्ब (ऊँचाई) के मिलान बिन्दु को कहा जाता है\n(The point of intersection of three altitudes of a triangle is called)",
+      "options": [
+        "अंतःकेन्द्र (Incentre)",
+        "बाह्य केन्द्र (Circumcentre)",
+        "मध्य केन्द्र (Centroid)",
+        "लम्ब केन्द्र (Orthocentre)"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "लम्ब केन्द्र (Orthocentre)"
+    },
+    {
+      "id": 12,
+      "question": "यदि R(5, 6), बिन्दुओं A(6, 5) एवं B(4, y) को मिलाने वाली रेखाखण्ड AB का मध्य बिन्दु है तो y का मान होगा\n(If R(5, 6) is the mid-point of the line segment AB joining points A(6, 5) and B(4, y) then the value of y will be)",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 13,
+      "question": "दो समरूप त्रिभुजों ABC एवं PQR के क्षेत्रफल क्रमशः 81 सेमी² और 49 सेमी² हैं। यदि ΔABC की ऊँचाई 4.5 सेमी हो, तो ΔPQR की ऊँचाई होगी\n(Areas of two similar triangles ABC and PQR are 81 cm² and 49 cm² respectively. If altitude of ΔABC is 4.5 cm, then altitude of ΔPQR will be)",
+      "options": [
+        "3 सेमी",
+        "3.5 सेमी",
+        "4 सेमी",
+        "4.5 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "3.5 सेमी"
+    },
+    {
+      "id": 14,
+      "question": "यदि रैखिक समीकरण का युग्म असंगत है, तो उसे निरूपित करने वाली रेखाएँ होंगी\n(If a pair of linear equations is inconsistent, then the lines representing them will be)",
+      "options": [
+        "समांतर (Parallel)",
+        "सदैव संपाती (Always coincident)",
+        "सदैव प्रतिच्छेदी (Always intersecting)",
+        "प्रतिच्छेदी अथवा संपाती (Intersecting or coincident)"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "समांतर (Parallel)"
+    },
+    {
+      "id": 15,
+      "question": "दो लगातार संख्याओं का म०स० है\n(The H.C.F. of two consecutive numbers is)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 16,
+      "question": "किसी वृत्त के बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA तथा PB खींची गई हैं। यदि PA = 6 सेमी, तो PB की लम्बाई होगी\n(Two tangents PA and PB are drawn from an external point P to a circle. If PA = 6 cm, then length of PB will be)",
+      "options": [
+        "12 सेमी",
+        "6 सेमी",
+        "3 सेमी",
+        "24 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "6 सेमी"
+    },
+    {
+      "id": 17,
+      "question": "समांतर श्रेढ़ी 14, 9, 4, -1, -6, ... का 12 वाँ पद है\n(The 12th term of the A.P. 14, 9, 4, -1, -6, ... is)",
+      "options": [
+        "41",
+        "-41",
+        "40",
+        "36"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "-41"
+    },
+    {
+      "id": 18,
+      "question": "y-अक्ष पर बिन्दु जिसकी बिन्दु (4, 2) से दूरी 5 है, निम्नलिखित में कौन है ?\n(Which of the following is a point on y-axis whose distance from point (4, 2) is 5 ?)",
+      "options": [
+        "(-1, 0)",
+        "(0, -1)",
+        "(2, 5)",
+        "(3, 5)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "(0, -1)"
+    },
+    {
+      "id": 19,
+      "question": "यदि x + 2, 3x और 4x + 1 समांतर श्रेढ़ी में हो तो x का मान होगा\n(If x + 2, 3x and 4x + 1 are in A.P. then the value of x will be)",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 20,
+      "question": "बिन्दुओं (-8, 6) और (6, 4) को मिलाने वाली रेखाखण्ड के मध्य बिन्दु का नियामक है\n(The co-ordinates of the mid-point of line segment joining points (-8, 6) and (6, 4) is)",
+      "options": [
+        "(-6, 5)",
+        "(-1, 5)",
+        "(4, 2)",
+        "(4, 5)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "(-1, 5)"
+    },
+    {
+      "id": 21,
+      "question": "यदि त्रिभुज ABC में DE || BC और AD/DB = 5/3, तो AE/EC का मान है\n(If in triangle ABC, DE || BC and AD/DB = 5/3, then value of AE/EC is)",
+      "options": [
+        "5/3",
+        "3/5",
+        "5/8",
+        "8/5"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "5/3"
+    },
+    {
+      "id": 22,
+      "question": "यदि एक उदग्र खम्भे की ऊँचाई तथा उसकी भूमि पर छाया की लम्बाई समान है, तो सूर्य का उन्नयन कोण है\n(If the height of a vertical pole is equal to the length of its shadow on the ground, the angle of elevation of the sun is)",
+      "options": [
+        "0°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "45°"
+    },
+    {
+      "id": 23,
+      "question": "8 सेमी त्रिज्या वाले वृत्त के अंतःवर्ग का क्षेत्रफल है\n(The area of the inner square of a circle of radius 8 cm is)",
+      "options": [
+        "64 cm²",
+        "100 cm²",
+        "125 cm²",
+        "128 cm²"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "128 cm²"
+    },
+    {
+      "id": 24,
+      "question": "निम्न में से कौन cot θ के बराबर है\n(Which of the following is equal to cot θ)",
+      "options": [
+        "sin θ / cos θ",
+        "cos θ / sin θ",
+        "1 / sec θ",
+        "1 / sin θ"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "cos θ / sin θ"
+    },
+    {
+      "id": 25,
+      "question": "cos(90° - A) =",
+      "options": [
+        "cos A",
+        "sin A",
+        "tan A",
+        "sec A"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "sin A"
+    },
+    {
+      "id": 26,
+      "question": "निम्नलिखित में कौन विजातीय है ?\n(Which of the following is different (heterogeneous) ?)",
+      "options": [
+        "3/5",
+        "√16/4",
+        "√2/5",
+        "25/9"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "√2/5"
+    },
+    {
+      "id": 27,
+      "question": "यदि किसी समांतर श्रेढ़ी का प्रथम पद 13 एवं सार्व अंतर -4 हो तो इसके प्रथम 10 पदों का योगफल होगा\n(If the first term of an A.P. is 13 and common difference is -4 then the sum of its first 10 terms will be)",
+      "options": [
+        "50",
+        "-50",
+        "30",
+        "-30"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "-50"
+    },
+    {
+      "id": 28,
+      "question": "यदि सूर्य का उन्नयन कोण 60° है, तो 30 मीटर की लंबी छाया बनाने वाली उदग्र मीनार की ऊँचाई है\n(If the angle of elevation of the sun is 60°, then the height of a vertical tower making a shadow of 30 m length is)",
+      "options": [
+        "30/√3 मीटर",
+        "15√3 मीटर",
+        "30√3 मीटर",
+        "15 मीटर"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "30√3 मीटर"
+    },
+    {
+      "id": 29,
+      "question": "sec²A / (1 + cot²A) बराबर है\n(sec²A / (1 + cot²A) is equal to)",
+      "options": [
+        "sec²A",
+        "cosec²A",
+        "cot²A",
+        "tan²A"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "tan²A"
+    },
+    {
+      "id": 30,
+      "question": "यदि द्विघात समीकरण 9x² + 6kx + 4 = 0 के मूल वास्तविक एवं समान हों तो k का मान होगा\n(If the roots of the quadratic equation 9x² + 6kx + 4 = 0 are real and equal then the value of k will be)",
+      "options": [
+        "2 या 0",
+        "-2 या 0",
+        "2 या -2",
+        "केवल 0"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "2 या -2"
+    },
+    {
+      "id": 31,
+      "question": "एक अर्द्धगोले का आयतन 19404 सेमी³ है, तो अर्द्धगोले का कुल पृष्ठ क्षेत्रफल है\n(The volume of a hemisphere is 19404 cm³, then the total surface area of the hemisphere is)",
+      "options": [
+        "4158 सेमी²",
+        "2772 सेमी²",
+        "1386 सेमी²",
+        "3696 सेमी²"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "4158 सेमी²"
+    },
+    {
+      "id": 32,
+      "question": "सबसे छोटी भाज्य संख्या और छोटी अभाज्य संख्या का म०स० कितना होगा ?\n(What will be the H.C.F. of smallest composite number and smallest prime number ?)",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 33,
+      "question": "किसी वृत्त के व्यास के दोनों किनारों से खींची गई स्पर्श रेखाएँ हमेशा होती हैं\n(Tangents drawn from both ends of a diameter of a circle are always)",
+      "options": [
+        "समांतर (Parallel)",
+        "लम्बवत (Perpendicular)",
+        "प्रतिच्छेदी (Intersecting)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "समांतर (Parallel)"
+    },
+    {
+      "id": 34,
+      "question": "किसी वृत्त के केन्द्र से 13 सेमी दूर स्थित बिन्दु P से खींची गई स्पर्श रेखा की लम्बाई 12 सेमी है तो वृत्त की त्रिज्या है\n(The length of tangent drawn from a point P at a distance of 13 cm from the centre of a circle is 12 cm, then the radius of the circle is)",
+      "options": [
+        "6 सेमी",
+        "12 सेमी",
+        "9 सेमी",
+        "5 सेमी"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "5 सेमी"
+    },
+    {
+      "id": 35,
+      "question": "दो बेलनों की त्रिज्याओं का अनुपात (1:2) है तथा उनकी ऊँचाइयों का अनुपात (5:3) है, तो उनके आयतनों का अनुपात है\n(The radii of two cylinders are in the ratio (1:2) and their heights are in the ratio (5:3), then their volumes are in the ratio)",
+      "options": [
+        "4:9",
+        "11:12",
+        "5:12",
+        "20:9"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "5:12"
+    },
+    {
+      "id": 36,
+      "question": "बिन्दु (2, 3) की दूरी मूल बिन्दु से होगी\n(Distance of point (2, 3) from origin will be)",
+      "options": [
+        "3",
+        "2√2",
+        "√13",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "√13"
+    },
+    {
+      "id": 37,
+      "question": "द्विघात बहुपद x² - 3 के शून्यक होंगे\n(The zeros of the quadratic polynomial x² - 3 will be)",
+      "options": [
+        "(3, 3)",
+        "(-√3, +√3)",
+        "(-√3, -√3)",
+        "(-3, -3)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "(-√3, +√3)"
+    },
+    {
+      "id": 38,
+      "question": "निम्न में से कौन-सी अभाज्य संख्या है ?\n(Which of the following is a prime number ?)",
+      "options": [
+        "29",
+        "25",
+        "16",
+        "15"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "29"
+    },
+    {
+      "id": 39,
+      "question": "बिन्दुओं (4, -1) और (2, 3) के बीच की दूरी है\n(The distance between the points (4, -1) and (2, 3) is)",
+      "options": [
+        "3√3 इकाई (units)",
+        "√5 इकाई (units)",
+        "3√5 इकाई (units)",
+        "2√5 इकाई (units)"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "2√5 इकाई (units)"
+    },
+    {
+      "id": 40,
+      "question": "6 सेमी त्रिज्या वाले वृत्त के केन्द्र से 10 सेमी दूर स्थित एक बिन्दु से वृत्त पर खींची गई स्पर्श रेखा की लंबाई होगी\n(The length of the tangent drawn from a point 10 cm away from the centre of a circle of radius 6 cm will be)",
+      "options": [
+        "7 सेमी",
+        "8 सेमी",
+        "9 सेमी",
+        "6 सेमी"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "8 सेमी"
+    },
+    {
+      "id": 41,
+      "question": "समांतर श्रेढ़ी 0, -4, -8, -12, ... का सार्व अंतर है\n(The common difference of A.P. 0, -4, -8, -12, ... is)",
+      "options": [
+        "0",
+        "4",
+        "-4",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "-4"
+    },
+    {
+      "id": 42,
+      "question": "tan²θ - sec²θ का मान है\n(The value of tan²θ - sec²θ is)",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 43,
+      "question": "यदि द्विघात समीकरण ax² + bx + c = 0, a ≠ 0 के मूल α, β हों तो α + β का मान होगा\n(If α, β are roots of quadratic equation ax² + bx + c = 0, a ≠ 0, then the value of α + β will be)",
+      "options": [
+        "b/a",
+        "-b/a",
+        "c/a",
+        "-a/b"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "-b/a"
+    },
+    {
+      "id": 44,
+      "question": "यदि समीकरण 3x² - 10x + 3 = 0 का एक मूल 1/3 है तो दूसरा मूल होगा\n(If one root of the equation 3x² - 10x + 3 = 0 is 1/3 then the other root will be)",
+      "options": [
+        "-1/3",
+        "1/3",
+        "-3",
+        "3"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 45,
+      "question": "ताश के 52 पत्तों की एक गड्डी को अच्छी तरह फेंटकर उसमें से यादृच्छया एक पत्ता निकाला जाता है। इसके रानी आने की प्रायिकता है\n(A card is drawn at random from a well shuffled deck of 52 playing cards. The probability of getting a queen is)",
+      "options": [
+        "1/26",
+        "2/39",
+        "1/13",
+        "4/13"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "1/13"
+    },
+    {
+      "id": 46,
+      "question": "यदि cosec θ = √10 हो, तो sec θ = ?\n(If cosec θ = √10, then sec θ = ?)",
+      "options": [
+        "3/√10",
+        "√10/3",
+        "1/√10",
+        "2/√10"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "√10/3"
+    },
+    {
+      "id": 47,
+      "question": "यदि P(5, 6) बिन्दु A(6, 5) और B(4, y) में शामिल होने वाले रेखाखण्ड AB का मध्यबिन्दु है, तो y बराबर है\n(If P(5, 6) is the midpoint of the line segment AB joining the points A(6, 5) and B(4, y), then y equals to)",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "6"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "7"
+    },
+    {
+      "id": 48,
+      "question": "निम्न में से कौन-सा परिमेय है ?\n(Which of the following is rational ?)",
+      "options": [
+        "π",
+        "√7",
+        "√16/25",
+        "3√3/√2"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "√16/25"
+    },
+    {
+      "id": 49,
+      "question": "द्विघात समीकरण 4y² + 4y + 1 = 0 के मूलों का गुणनफल होगा\n(The product of the roots of the quadratic equation 4y² + 4y + 1 = 0 will be)",
+      "options": [
+        "1/4",
+        "-1/4",
+        "1",
+        "-1"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "1/4"
+    },
+    {
+      "id": 50,
+      "question": "बिन्दुओं (2, 3) एवं (4, 1) के बीच की दूरी होगी\n(Distance between points (2, 3) and (4, 1) will be)",
+      "options": [
+        "2√2",
+        "2√13",
+        "2√10",
+        "4√2"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "2√2"
+    }
+  ]
+}

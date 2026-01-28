@@ -1,0 +1,658 @@
+{
+  "date": "0212",
+  "dateDisplay": "12 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "यदि द्विघात समीकरण 2x² - 7x - p = 0 का एक मूल 2 हो तो p का मान है\n(If one root of the quadratic equation 2x² - 7x - p = 0 is 2 then the value of p is)",
+      "options": [
+        "4",
+        "-4",
+        "-6",
+        "6"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "-6"
+    },
+    {
+      "id": 2,
+      "question": "y-अक्ष से बिन्दु (12, 14) की दूरी है\n(The distance of the point (12, 14) from the y-axis is)",
+      "options": [
+        "12",
+        "14",
+        "13",
+        "15"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "12"
+    },
+    {
+      "id": 3,
+      "question": "द्विघात समीकरण 2x² - 6x + 3 = 0 के मूलों की प्रकृति क्या है ?\n(What is the nature of the roots of the quadratic equation 2x² - 6x + 3 = 0?)",
+      "options": [
+        "वास्तविक एवं असमान (real and unequal)",
+        "वास्तविक एवं समान (real and equal)",
+        "वास्तविक नहीं (not real)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "वास्तविक एवं असमान (real and unequal)"
+    },
+    {
+      "id": 4,
+      "question": "दो बेलनों की त्रिज्याओं का अनुपात 4:5 है एवं उनकी ऊँचाइयों का अनुपात 6:7 हो, तो उनके आयतनों का अनुपात है\n(The radii of two cylinders are in the ratio 4:5 and their heights are in the ratio 6:7. Then the ratio of their volumes is)",
+      "options": [
+        "96:125",
+        "96:175",
+        "175:96",
+        "20:63"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "96:175"
+    },
+    {
+      "id": 5,
+      "question": "दो गोलों के आयतनों का अनुपात 64:125 है तो उनके पृष्ठीय क्षेत्रफलों का अनुपात है\n(The ratio of the volumes of two spheres is 64:125. Then the ratio of their surface areas is)",
+      "options": [
+        "25:8",
+        "25:16",
+        "16:25",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "16:25"
+    },
+    {
+      "id": 6,
+      "question": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल 880 सेमी² है और त्रिज्या 14 सेमी है तो इसकी तिर्यक ऊँचाई है\n(If the curved surface area of a cone is 880 cm² and its radius is 14 cm, then its slant height is)",
+      "options": [
+        "10 सेमी",
+        "20 सेमी",
+        "40 सेमी",
+        "30 सेमी"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "20 सेमी"
+    },
+    {
+      "id": 7,
+      "question": "बिन्दुओं (4, -4) और (-4, 4) को मिलानेवाले रेखाखण्ड के मध्य बिन्दु के निर्देशांक हैं\n(The co-ordinates of the mid-point of the line segment joining the points (4, -4) and (-4, 4) are)",
+      "options": [
+        "(4, 4)",
+        "(0, 0)",
+        "(0, -4)",
+        "(-4, 0)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "(0, 0)"
+    },
+    {
+      "id": 8,
+      "question": "cos 60° =",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1/√2",
+        "1"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 9,
+      "question": "यदि द्विघात समीकरण 2x² - x - 6 = 0 का एक मूल -3/2 है तो इसका दूसरा मूल है\n(If one root of the quadratic equation 2x² - x - 6 = 0 is -3/2 then its another root is)",
+      "options": [
+        "-2",
+        "2",
+        "3/2",
+        "3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 10,
+      "question": "बिन्दु (8 sin 60°, 0) तथा (0, 8 cos 60°) के बीच की दूरी है\n(The distance between the points (8 sin 60°, 0) and (0, 8 cos 60°) is)",
+      "options": [
+        "8",
+        "25",
+        "64",
+        "1/8"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "8"
+    },
+    {
+      "id": 11,
+      "question": "sin(90° - A) =",
+      "options": [
+        "sin A",
+        "cos A",
+        "tan A",
+        "sec A"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "cos A"
+    },
+    {
+      "id": 12,
+      "question": "ΔABC ~ ΔDEF तथा BC = 3 सेमी, EF = 4 सेमी है। यदि ΔABC का क्षेत्रफल 54 सेमी² हो, तो ΔDEF का क्षेत्रफल है\n(ΔABC ~ ΔDEF and BC = 3 cm, EF = 4 cm. If the area of ΔABC is 54 cm², then the area of ΔDEF is)",
+      "options": [
+        "56 सेमी²",
+        "96 सेमी²",
+        "196 सेमी²",
+        "49 सेमी²"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "96 सेमी²"
+    },
+    {
+      "id": 13,
+      "question": "यदि tan 25° × tan 65° = sin A हो तो A का मान है\n(If tan 25° × tan 65° = sin A then the value of A is)",
+      "options": [
+        "25°",
+        "65°",
+        "90°",
+        "45°"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 14,
+      "question": "किसी घन का किनारा दुगुना हो जाने पर कुल पृष्ठ क्षेत्रफल पहले के कुल पृष्ठ क्षेत्रफल का कितना गुना हो जाएगा ?\n(If the edge of a cube is doubled then the total surface area will become how many times of the previous total surface area?)",
+      "options": [
+        "दो गुना (Two times)",
+        "चार गुना (Four times)",
+        "छः गुना (Six times)",
+        "बारह गुना (Twelve times)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "चार गुना (Four times)"
+    },
+    {
+      "id": 15,
+      "question": "x + 2y + 3 = 0, 3x + 6y + 9 = 0 के कितने हल होंगे ?\n(How many solutions will x + 2y + 3 = 0, 3x + 6y + 9 = 0 have?)",
+      "options": [
+        "एक हल (One solution)",
+        "कोई हल नहीं (No solution)",
+        "अनगिनत हल (Infinitely many solutions)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "अनगिनत हल (Infinitely many solutions)"
+    },
+    {
+      "id": 16,
+      "question": "यदि p(x) = x⁴ - 2x³ + 17x² - 4x + 30 को q(x) = x + 2 से भाग दिया जाता है तो भागफल का घात है\n(If P(x) = x⁴ - 2x³ + 17x² - 4x + 30 is divided by q(x) = x + 2 then the degree of the quotient is)",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 17,
+      "question": "यदि किसी त्रिभुज के शीर्षों के निर्देशांक (4, 6), (0, 4) और (5, 5) हों तो त्रिभुज के केन्द्रक के निर्देशांक हैं\n(The co-ordinates of the vertices of a triangle are (4, 6), (0, 4) and (5, 5) then the co-ordinates of the centroid of the triangle are)",
+      "options": [
+        "(5, 3)",
+        "(3, 4)",
+        "(4, 4)",
+        "(3, 5)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "(3, 5)"
+    },
+    {
+      "id": 18,
+      "question": "किसी त्रिभुज ABC में ∠A = 90°, BC = 13 सेमी, AB = 12 सेमी तो AC का मान है\n(In any ΔABC, ∠A = 90°, BC = 13 cm, AB = 12 cm then the value of AC is)",
+      "options": [
+        "3 सेमी",
+        "4 सेमी",
+        "5 सेमी",
+        "6 सेमी"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "5 सेमी"
+    },
+    {
+      "id": 19,
+      "question": "यदि A(0, 1), B(0, 5) एवं C(3, 4) किसी ΔABC के शीर्ष हैं, तो ΔABC का क्षेत्रफल (वर्ग इकाई में) है\n(If A(0, 1), B(0, 5) and C(3, 4) are the vertices of any ΔABC, then the area (in square unit) of ΔABC is)",
+      "options": [
+        "16",
+        "12",
+        "6",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 20,
+      "question": "दो प्रतिच्छेदी वृत्तों की उभयनिष्ठ स्पर्श रेखाओं की संख्या है\n(The number of common tangents of two intersecting circles is)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "अनगिनत (infinitely many)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 21,
+      "question": "यदि α = β = 60° हो तो cos(α - β) का मान है\n(If α = β = 60° then the value of cos(α - β) is)",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 22,
+      "question": "बिन्दु (3, -4) किस पाद में स्थित है ?\n(In which quadrant does the point (3, -4) lie ?)",
+      "options": [
+        "प्रथम (First)",
+        "द्वितीय (Second)",
+        "तृतीय (Third)",
+        "चतुर्थ (Fourth)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "चतुर्थ (Fourth)"
+    },
+    {
+      "id": 23,
+      "question": "tan 10° . tan 23° . tan 80° . tan 67° =",
+      "options": [
+        "0",
+        "1",
+        "√3",
+        "1/√3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 24,
+      "question": "यदि द्विघात समीकरण 3x² - 5x + 2 = 0 के मूल α एवं β तो α² + β² का मान है\n(If α and β are roots of the quadratic equation 3x² - 5x + 2 = 0 then the value of α² + β² is)",
+      "options": [
+        "13/9",
+        "9/13",
+        "5/3",
+        "3/5"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "13/9"
+    },
+    {
+      "id": 25,
+      "question": "यदि θ = 45° हो तो sin θ + cos θ का मान है\n(If θ = 45° then the value of sin θ + cos θ is)",
+      "options": [
+        "1/√2",
+        "√2",
+        "1/2",
+        "1"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "√2"
+    },
+    {
+      "id": 26,
+      "question": "यदि किसी घन के विकर्ण की लंबाई 2√3 सेमी है तो इसके कोर की लम्बाई है\n(If the length of the diagonal of a cube is 2√3 cm, then the length of its edge is)",
+      "options": [
+        "2 सेमी",
+        "2√3 सेमी",
+        "3 सेमी",
+        "4 सेमी"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "2 सेमी"
+    },
+    {
+      "id": 27,
+      "question": "बिन्दु (-6, -8) की कोटि है\n(The ordinate of the point (-6, -8) is)",
+      "options": [
+        "-6",
+        "8",
+        "6",
+        "-8"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "-8"
+    },
+    {
+      "id": 28,
+      "question": "किसी वृत्त के व्यास के सिरों के निर्देशांक (10, -6) तथा (-6, 10) हैं तो वृत्त के केन्द्र के निर्देशांक हैं\n(The co-ordinates of the ends of a diameter of a circle are (10, -6) and (-6, 10). Then the co-ordinates of the centre of the circle are)",
+      "options": [
+        "(-2, -2)",
+        "(2, 2)",
+        "(-2, 2)",
+        "(2, -2)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "(2, 2)"
+    },
+    {
+      "id": 29,
+      "question": "यदि किसी द्विघात बहुपद के शून्यकों का योगफल 3 एवं उनके गुणनफल -2 है, तो वह द्विघात बहुपद है\n(If the sum of zeros of a quadratic polynomial is 3 and their product is -2 then that quadratic polynomial is)",
+      "options": [
+        "x² - 3x - 2",
+        "x² - 3x + 3",
+        "x² - 2x + 3",
+        "x² + 3x - 2"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "x² - 3x - 2"
+    },
+    {
+      "id": 30,
+      "question": "किसी वृत्त को दो अलग बिन्दुओं पर प्रतिच्छेदित करने वाली रेखा को कहते हैं\n(A line which intersects a circle in two distinct points is called)",
+      "options": [
+        "जीवा (Chord)",
+        "छेदक रेखा (Secant)",
+        "स्पर्श रेखा (Tangent)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "छेदक रेखा (Secant)"
+    },
+    {
+      "id": 31,
+      "question": "यदि O(0, 0) मूल बिन्दु हो तथा बिन्दु P के निर्देशांक (x, y) हों तो दूरी OP है\n(If O(0, 0) be the origin and co-ordinates of the point P be (x, y) then the distance OP is)",
+      "options": [
+        "√(x² - y²)",
+        "√(x² + y²)",
+        "x² - y²",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "√(x² + y²)"
+    },
+    {
+      "id": 32,
+      "question": "(1 - cos⁴θ) =",
+      "options": [
+        "cos²θ(1 - cos²θ)",
+        "sin²θ(1 + cos²θ)",
+        "sin²θ(1 - sin²θ)",
+        "sin²θ(1 + sin²θ)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "sin²θ(1 + cos²θ)"
+    },
+    {
+      "id": 33,
+      "question": "किसी गोले के कुल पृष्ठ क्षेत्रफल और उसी त्रिज्या के एक अर्द्धगोले के कुल पृष्ठ क्षेत्रफल का अनुपात है\n(The ratio of the total surface area of a sphere and that of a hemisphere having the same radius is)",
+      "options": [
+        "2:1",
+        "4:9",
+        "3:2",
+        "4:3"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "4:3"
+    },
+    {
+      "id": 34,
+      "question": "रैखिक समीकरण युग्म 5x - 4y + 8 = 0 एवं 7x + 6y - 9 = 0 है\n(The pair of linear equations 5x - 4y + 8 = 0 and 7x + 6y - 9 = 0 is)",
+      "options": [
+        "संगत (consistent)",
+        "असंगत (inconsistent)",
+        "आश्रित (dependent)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "संगत (consistent)"
+    },
+    {
+      "id": 35,
+      "question": "यदि A = 30° हो तो (2 tan A) / (1 - tan²A) का मान है\n(If A = 30° then the value of (2 tan A) / (1 - tan²A) is)",
+      "options": [
+        "2 tan 30°",
+        "tan 60°",
+        "2 tan 60°",
+        "tan 30°"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "tan 60°"
+    },
+    {
+      "id": 36,
+      "question": "निम्नलिखित में से किस द्विघात बहुपद के शून्यक 3 एवं 10 हैं?\n(Which of the following quadratic polynomials has zeroes 3 and 10?)",
+      "options": [
+        "x² + 7x - 30",
+        "x² - 7x - 30",
+        "x² + 7x + 30",
+        "x² - 7x + 30"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "x² - 7x - 30"
+    },
+    {
+      "id": 37,
+      "question": "दो समरूप त्रिभुजों की संगत भुजाएँ 4:9 के अनुपात में है। त्रिभुज के क्षेत्रफलों का अनुपात कितना होगा ?\n(The corresponding sides of two similar triangles are in the ratio 4:9. What will be the ratio of the areas of the triangles ?)",
+      "options": [
+        "9:4",
+        "16:81",
+        "81:16",
+        "2:3"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "16:81"
+    },
+    {
+      "id": 38,
+      "question": "y-अक्ष पर स्थित किसी बिन्दु का रूप क्या है ?\n(What is the form of a point lying on y-axis ?)",
+      "options": [
+        "(y, 0)",
+        "(2, y)",
+        "(0, x)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "(0, x)"
+    },
+    {
+      "id": 39,
+      "question": "(cos 59° / sin 31°) × (tan 80° / cot 10°) =",
+      "options": [
+        "1/√2",
+        "1/2",
+        "√3/2",
+        "1"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 40,
+      "question": "ΔABC एवं ΔDEF इस प्रकार हैं कि AB/DE = BC/EF = CA/DF एवं ∠A = 40°, ∠B = 80° तो ∠F की माप है\n(ΔABC and ΔDEF are such that AB/DE = BC/EF = CA/DF and ∠A = 40°, ∠B = 80° then the measure of ∠F is)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "40°"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "60°"
+    },
+    {
+      "id": 41,
+      "question": "रेखाखण्ड AB के मध्य बिन्दु (2, 4) है और बिन्दु A के नियामक (5, 7) हैं तो बिन्दु B के नियामक हैं\n(The mid-point of line segment AB is (2, 4) and the co-ordinates of point A are (5, 7), then the co-ordinates of point B are)",
+      "options": [
+        "(2, -2)",
+        "(1, -1)",
+        "(-2, -2)",
+        "(-1, 1)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "(-1, 1)"
+    },
+    {
+      "id": 42,
+      "question": "tan 30° =",
+      "options": [
+        "√3",
+        "√3/2",
+        "1/√3",
+        "1"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "1/√3"
+    },
+    {
+      "id": 43,
+      "question": "यदि cos θ = x तो tan θ =\n(If cos θ = x then tan θ =)",
+      "options": [
+        "√(1+x²) / x",
+        "√(1-x²) / x",
+        "√(1-x²)",
+        "x / √(1-x²)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "√(1-x²) / x"
+    },
+    {
+      "id": 44,
+      "question": "निम्नलिखित में कौन-सा बिन्दु द्वितीय चतुर्थांश में स्थित है?\n(Which of the following points lies in second quadrant ?)",
+      "options": [
+        "(3, 2)",
+        "(-3, 2)",
+        "(3, -2)",
+        "(-3, -2)"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "(-3, 2)"
+    },
+    {
+      "id": 45,
+      "question": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 100:144 है, तो उनकी संगत भुजाओं का अनुपात है\n(If the ratio of areas of two similar triangles is 100:144 then the ratio of their corresponding sides is)",
+      "options": [
+        "10:8",
+        "12:10",
+        "10:12",
+        "10:13"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "10:12"
+    },
+    {
+      "id": 46,
+      "question": "ΔDEF तथा ΔPQR में दिया है कि ∠D = ∠Q तथा ∠R = ∠E, तो निम्नलिखित में कौन-सा सही है ?\n(In ΔDEF and ΔPQR it is given that ∠D = ∠Q and ∠R = ∠E, then which of the following is correct?)",
+      "options": [
+        "∠F = ∠P",
+        "∠F = ∠Q",
+        "∠D = ∠P",
+        "∠E = ∠P"
+      ],
+      "correct": 0,
+      "year": 2025,
+      "correctAnswer": "∠F = ∠P"
+    },
+    {
+      "id": 47,
+      "question": "R त्रिज्या वाले अर्द्धगोले का संपूर्ण पृष्ठ क्या है ?\n(What is the total surface area of a hemisphere of radius R?)",
+      "options": [
+        "πR²",
+        "2πR²",
+        "3πR²",
+        "4πR²"
+      ],
+      "correct": 2,
+      "year": 2025,
+      "correctAnswer": "3πR²"
+    },
+    {
+      "id": 48,
+      "question": "यदि tan θ = 12/5 हो तो sin θ का मान है\n(If tan θ = 12/5 then the value of sin θ is)",
+      "options": [
+        "5/12",
+        "12/13",
+        "5/13",
+        "12/5"
+      ],
+      "correct": 1,
+      "year": 2025,
+      "correctAnswer": "12/13"
+    },
+    {
+      "id": 49,
+      "question": "दो रैखिक समीकरणों के लेखाचित्र यदि समांतर हों तो हलों की संख्या होगी\n(If the graphs of two linear equations are parallel then the number of solutions will be)",
+      "options": [
+        "1",
+        "2",
+        "अनगिनत (infinitely many)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "इनमें से कोई नहीं (none of these)"
+    },
+    {
+      "id": 50,
+      "question": "sin²90° - tan²45° =",
+      "options": [
+        "1",
+        "1/2",
+        "1/√2",
+        "0"
+      ],
+      "correct": 3,
+      "year": 2025,
+      "correctAnswer": "0"
+    }
+  ]
+}

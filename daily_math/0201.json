@@ -1,0 +1,658 @@
+{
+  "date": "0201",
+  "dateDisplay": "01 February 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "शून्यक 2, 8 वाले बहुपदों की संख्या होगी\n(The number of polynomials whose zeroes are 2, 8 is)",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "अनगिनत (infinitely many)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 2,
+      "question": "यदि √3 tan θ = 1, तो θ = ...\n(If √3 tan θ = 1, then θ = ...)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 0,
+      "year": 2016,
+      "correctAnswer": "30°"
+    },
+    {
+      "id": 3,
+      "question": "दी गई आकृति में बिन्दु O वृत्त का केन्द्र है तथा ∠AOB = 40° तो ∠OAB का मान है\n(In the given figure point O is the centre of the circle and ∠AOB = 40° then the value of ∠OAB is)",
+      "options": [
+        "40°",
+        "60°",
+        "80°",
+        "70°"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "70°"
+    },
+    {
+      "id": 4,
+      "question": "किसी वृत्त के बाह्य बिन्दु से वृत्त पर खींची गयी स्पर्श रेखाएँ ... होती हैं।\n(The tangents drawn from any external point on the given circle are ...)",
+      "options": [
+        "समान (equal)",
+        "असमान (unequal)",
+        "समानांतर (parallel)",
+        "लम्बवत (perpendicular)"
+      ],
+      "correct": 0,
+      "year": 2016,
+      "correctAnswer": "समान (equal)"
+    },
+    {
+      "id": 5,
+      "question": "द्विघात बहुपद y² + 16y + 55 के शून्यक हैं\n(The zeroes of the quadratic polynomial y² + 16y + 55 are)",
+      "options": [
+        "दोनों ऋणात्मक (both negative)",
+        "दोनों धनात्मक (both positive)",
+        "एक धनात्मक तथा दूसरा ऋणात्मक (one positive and other negative)",
+        "समान (equal)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "दोनों ऋणात्मक (both negative)"
+    },
+    {
+      "id": 6,
+      "question": "यदि समान्तर श्रेढ़ी का सामान्य पद (5n - 7) है, तो इसका प्रथम पद होगा\n(If the general term of an A.P. is (5n - 7) then its first term is)",
+      "options": [
+        "0",
+        "-7",
+        "2",
+        "-2"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 7,
+      "question": "निम्नलिखित में कौन-सा केन्द्रीय प्रवृत्ति की माप नहीं है ?\n(Which of the following is not a measure of central tendency ?)",
+      "options": [
+        "माध्य (Mean)",
+        "माध्यक (Median)",
+        "बहुलक (Mode)",
+        "मानक विचलन (Standard deviation)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "मानक विचलन (Standard deviation)"
+    },
+    {
+      "id": 8,
+      "question": "यदि p(x) = x² + 5x - 12 तो p(1) का मान है\n(If p(x) = x² + 5x - 12 then the value of p(1) is)",
+      "options": [
+        "-12",
+        "6",
+        "-6",
+        "12"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "-6"
+    },
+    {
+      "id": 9,
+      "question": "tan 21° / cot 69° =",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "1/2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 10,
+      "question": "यदि समांतर श्रेढ़ी का सामान्य पद (13 - 2n) है, तो इसका सार्व अन्तर होगा\n(If the general term of an A.P. is (13 - 2n) then its common difference is)",
+      "options": [
+        "0",
+        "13",
+        "2",
+        "-2"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 11,
+      "question": "युग्म समीकरण 2x + 4y = 3 तथा 12y + 6x = 6 का हल है\n(The solution of the pair of the equations 2x + 4y = 3 and 12y + 6x = 6 is)",
+      "options": [
+        "कोई हल नहीं (no solution)",
+        "एक हल (one solution)",
+        "दो हल (two solutions)",
+        "अनगिनत हल (infinitely many solutions)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "कोई हल नहीं (no solution)"
+    },
+    {
+      "id": 12,
+      "question": "दो वृत्तों के क्षेत्रफल 14:9 के अनुपात में है। इनकी त्रिज्याओं का अनुपात ... होगा।\n(If the ratio of areas of two circles is 14:9, then the ratio of their radii will be)",
+      "options": [
+        "√14:3",
+        "14:9",
+        "3:√14",
+        "7:4.5"
+      ],
+      "correct": 0,
+      "year": 2016,
+      "correctAnswer": "√14:3"
+    },
+    {
+      "id": 13,
+      "question": "यदि बहुपद 2x² + 5x - k के शून्यक एक दूसरे के व्युत्क्रम हो, तो k का मान होगा\n(If zeroes of the polynomial 2x² + 5x - k are reciprocal to each other, then the value of k will be)",
+      "options": [
+        "2",
+        "-2",
+        "1/2",
+        "-1/2"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 14,
+      "question": "sec B × cos B =",
+      "options": [
+        "2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 15,
+      "question": "1 / sin θ =",
+      "options": [
+        "cos θ",
+        "cosec θ",
+        "sec θ",
+        "cot θ"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "cosec θ"
+    },
+    {
+      "id": 16,
+      "question": "यदि cot θ = 1/√3 तो sec θ का मान है\n(If cot θ = 1/√3 then the value of sec θ is)",
+      "options": [
+        "√3",
+        "1/2",
+        "2",
+        "1/√3"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 17,
+      "question": "यदि वृत्त की परिधि और वर्ग का परिमाप दोनों 88 सेमी के बराबर हो तो\n(If both the circumference of a circle and the perimeter of a square are equal to 88 cm then)",
+      "options": [
+        "वृत्त का क्षेत्रफल = वर्ग का क्षेत्रफल (Area of the circle = Area of the square)",
+        "वृत्त का क्षेत्रफल < वर्ग का क्षेत्रफल (Area of the circle < Area of the square)",
+        "वृत्त का क्षेत्रफल > वर्ग का क्षेत्रफल (Area of the circle > Area of the square)",
+        "इनमें से कोई नहीं (None of these)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "वृत्त का क्षेत्रफल > वर्ग का क्षेत्रफल (Area of the circle > Area of the square)"
+    },
+    {
+      "id": 18,
+      "question": "यदि दो वृत्तों के क्षेत्रफल का अनुपात 4 : 25 है तो उनकी त्रिज्याओं का अनुपात होगा\n(If the ratio of the area of two circles is 4 : 25 then the ratio of their radii will be)",
+      "options": [
+        "3:5",
+        "5:2",
+        "1:5",
+        "2:5"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "5:2"
+    },
+    {
+      "id": 19,
+      "question": "त्रिज्या R तथा ऊँचाई H वाले एक लंबवृत्तीय शंकु का आयतन होगा\n(The volume of a right circular cone whose radius is R and height is H, is)",
+      "options": [
+        "πR²H घन इकाई (cubic units)",
+        "(1/3)πR²H घन इकाई (cubic units)",
+        "(1/3)πH²R घन इकाई (cubic units)",
+        "(2/3)πR²H घन इकाई (cubic units)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "(1/3)πR²H घन इकाई (cubic units)"
+    },
+    {
+      "id": 20,
+      "question": "कार्तीय तल में किसी बिन्दु (4, -5) के कोटि का मान ... होगा।\n(The value of the ordinate of a point (4, -5) situated in Cartesian plane will be)",
+      "options": [
+        "4",
+        "-5",
+        "-4",
+        "5"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "-5"
+    },
+    {
+      "id": 21,
+      "question": "यदि द्विघातीय समीकरण cx² - bx + a = 0 के मूल α, β हों, तो α² + β² = ...\n(If α and β are the roots of quadratic equation cx² - bx + a = 0, then α² + β² = ...)",
+      "options": [
+        "(b²-2ac)/c²",
+        "(b²-2ac)/a²",
+        "(b²+2ac)/c²",
+        "(b²-ac)/c²"
+      ],
+      "correct": 2,
+      "year": 2016,
+      "correctAnswer": "(b²+2ac)/c²"
+    },
+    {
+      "id": 22,
+      "question": "यदि 2 sin α = 2 तो α =\n(If 2 sin α = 2 then α =)",
+      "options": [
+        "0°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 23,
+      "question": "यदि Δ ABC ~ Δ QRP, ar(Δ ABC)/ar(Δ PQR) = 9/4, AB = 18 सेमी तथा BC = 15 सेमी तो PR =\n(If Δ ABC ~ Δ QRP, ar(Δ ABC)/ar(Δ PQR) = 9/4, AB = 18 cm and BC = 15 cm then PR =)",
+      "options": [
+        "20/3 सेमी (cm)",
+        "10 सेमी (cm)",
+        "8 सेमी (cm)",
+        "12 सेमी (cm)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "10 सेमी (cm)"
+    },
+    {
+      "id": 24,
+      "question": "a भुजा वाली समबाहु त्रिभुज का क्षेत्रफल है\n(The area of an equilateral triangle with side a is)",
+      "options": [
+        "a²",
+        "(√3/2)a²",
+        "(√3/4)a²",
+        "(1/2)a²"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "(√3/4)a²"
+    },
+    {
+      "id": 25,
+      "question": "यदि 2θ = π/3 हो, तब sin θ = ...\n(If 2θ = π/3, then sin θ = ...)",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1/√2",
+        "1"
+      ],
+      "correct": 0,
+      "year": 2016,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 26,
+      "question": "Δ PQR में, बिन्दु S और T क्रमशः भुजाओं PQ तथा PR पर इस प्रकार है कि ST || QR. यदि PS = x सेमी, SQ = (x - 2) सेमी, PT = (x + 2) सेमी तथा TR = (x - 1) सेमी तो x का मान होगा\n(In Δ PQR, S and T are points on the sides PQ and PR respectively such that ST || QR. If PS = x cm, SQ = (x - 2) cm, PT = (x + 2) cm and TR = (x - 1) cm then the value of x is)",
+      "options": [
+        "4 सेमी (cm)",
+        "4.5 सेमी (cm)",
+        "3 सेमी (cm)",
+        "3.5 सेमी (cm)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "4 सेमी (cm)"
+    },
+    {
+      "id": 27,
+      "question": "किसी बाह्य बिन्दु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ?\n(How many tangents can be drawn to a circle from an external point ?)",
+      "options": [
+        "एक (One)",
+        "दो (Two)",
+        "तीन (Three)",
+        "अनगिनत (Infinitely many)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "दो (Two)"
+    },
+    {
+      "id": 28,
+      "question": "यदि किसी घन का प्रत्येक किनारा a इकाई हो, तो उसका विकर्ण होगा\n(If each edge of any cube is a unit then its diagonal will be)",
+      "options": [
+        "√3a इकाई (units)",
+        "√2a इकाई (units)",
+        "3a इकाई (units)",
+        "√6a इकाई (units)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "√3a इकाई (units)"
+    },
+    {
+      "id": 29,
+      "question": "y-अक्ष पर सभी बिन्दुओं का भुज होता है\n(Abscissa of all the points on the y-axis is)",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "कोई संख्या (any number)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 30,
+      "question": "एक समान्तर श्रेढ़ी 4, 10, 16, 22, 28 का सार्व अंतर ... होगा।\n(The common difference of an A.P. 4, 10, 16, 22, 28 will be)",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "8"
+      ],
+      "correct": 1,
+      "year": 2016,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 31,
+      "question": "यदि cos θ = p तो tan θ का मान होगा\n(If cos θ = p then the value of tan θ is)",
+      "options": [
+        "√(1-p²) / p",
+        "1/p",
+        "p / √(1-p²)",
+        "√(1+p²) / p"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "√(1-p²) / p"
+    },
+    {
+      "id": 32,
+      "question": "बिन्दु A(0, -8) और B(-12, 0) को मिलानेवाली रेखाखंड के मध्य बिन्दु का निर्देशांक है\n(The coordinates of the midpoint of the line segment joining the points A(0, -8) and B(-12, 0) are)",
+      "options": [
+        "(0, 0)",
+        "(-6, -4)",
+        "(-4, -6)",
+        "(-12, -8)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "(-6, -4)"
+    },
+    {
+      "id": 33,
+      "question": "समांतर श्रेढ़ी 0, 1/8, 1/4, 3/8, ... का सार्व अंतर है\n(The common difference of the A.P. 0, 1/8, 1/4, 3/8, ... is)",
+      "options": [
+        "1/8",
+        "-1/8",
+        "1/4",
+        "-1/4"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "1/8"
+    },
+    {
+      "id": 34,
+      "question": "यदि A = 45° तो sin A + cos A =\n(If A = 45° then sin A + cos A =)",
+      "options": [
+        "√2",
+        "1/√2",
+        "1/2",
+        "1"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "√2"
+    },
+    {
+      "id": 35,
+      "question": "समकोण Δ ABC में ∠B = 90°, AB = 12 सेमी, BC = 5 सेमी तथा AC = 13 सेमी हो तो sin C बराबर होगा\n(In right Δ ABC, ∠B = 90°, AB = 12 cm, BC = 5 cm and AC = 13 cm, then sin C is equal to)",
+      "options": [
+        "5/12",
+        "5/13",
+        "12/13",
+        "13/5"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "12/13"
+    },
+    {
+      "id": 36,
+      "question": "किसी द्विघात बहुपद के शून्यक यदि 2 एवं 6 हैं, तो द्विघात बहुपद होगा\n(If zeroes of a quadratic polynomial are 2 and 6 then the quadratic polynomial is)",
+      "options": [
+        "x² + 12x + 8",
+        "x² - 12x + 8",
+        "x² + 4x + 12",
+        "x² - 8x + 12"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "x² - 8x + 12"
+    },
+    {
+      "id": 37,
+      "question": "यदि Δ PQR में PR² = PQ² + QR² तो ∠Q =\n(In Δ PQR if PR² = PQ² + QR² then ∠Q =)",
+      "options": [
+        "60°",
+        "75°",
+        "45°",
+        "90°"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 38,
+      "question": "दी गई आकृति में ∠AOB = 130° तो ∠APB का मान है\n(In the given figure ∠AOB = 130° then the value of ∠APB is)",
+      "options": [
+        "130°",
+        "50°",
+        "65°",
+        "100°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "50°"
+    },
+    {
+      "id": 39,
+      "question": "यदि बिन्दुएँ P(2, 3), Q(4, k) और R(6, -3) संरेख हैं, तो k =\n(If the points P(2, 3), Q(4, k) and R(6, -3) are collinear, then k =)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "2"
+    },
+    {
+      "id": 40,
+      "question": "यदि त्रिभुज के शीर्ष (0, 4), (0, 0) तथा (3, 0) हैं, तो इसका परिमाप होगा\n(If the vertices of a triangle are (0, 4), (0, 0) and (3, 0), then its perimeter will be)",
+      "options": [
+        "5 इकाई (units)",
+        "12 इकाई (units)",
+        "12√5 इकाई (units)",
+        "5√5 इकाई (units)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "12 इकाई (units)"
+    },
+    {
+      "id": 41,
+      "question": "Δ ABC में बिन्दु D और E क्रमशः भुजाओं AB तथा AC पर इस प्रकार है कि DE || BC. यदि AD/DB = 4/5 और AC = 18 सेमी तो AE =\n(In Δ ABC, D and E are points on the sides AB and AC respectively such that DE || BC. If AD/DB = 4/5 and AC = 18 cm then AE =)",
+      "options": [
+        "8 सेमी (cm)",
+        "6 सेमी (cm)",
+        "10 सेमी (cm)",
+        "12 सेमी (cm)"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "8 सेमी (cm)"
+    },
+    {
+      "id": 42,
+      "question": "64 के अभाज्य गुणनखंड में 2 का घातांक है\n(The exponent of 2 in the prime factorisation of 64 is)",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 43,
+      "question": "बाह्य रूप से स्पर्श करने वाले दो वृत्तों के उभयनिष्ठ स्पर्श-रेखाओं की संख्या है\n(The number of common tangents of two circles which touch each other externally is)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 44,
+      "question": "6 सेमी त्रिज्या वाले वृत्त पर खींची गई दो समांतर स्पर्श रेखाओं के बीच की दूरी होगी\n(The distance between two parallel tangents drawn on a circle of radius 6 cm is)",
+      "options": [
+        "10 सेमी (cm)",
+        "6 सेमी (cm)",
+        "12 सेमी (cm)",
+        "36 सेमी (cm)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "12 सेमी (cm)"
+    },
+    {
+      "id": 45,
+      "question": "महत्तम समापवर्त्तक (p, q) × लघुत्तम समापवर्त्य (p, q) बराबर है\n(H.C.F. (p, q) × L.C.M (p, q) is equal to)",
+      "options": [
+        "p × q",
+        "p / q",
+        "p²q²",
+        "q / p"
+      ],
+      "correct": 0,
+      "year": 2022,
+      "correctAnswer": "p × q"
+    },
+    {
+      "id": 46,
+      "question": "समांतर श्रेढ़ी 126, 120, 114, ... का कौन-सा पद 0 है ?\n(Which term of the A.P. 126, 120, 114, ... is 0?)",
+      "options": [
+        "20 वाँ (20th)",
+        "21 वाँ (21st)",
+        "22 वाँ (22nd)",
+        "23 वाँ (23rd)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "22 वाँ (22nd)"
+    },
+    {
+      "id": 47,
+      "question": "दी गई आकृति में TP तथा TQ दो स्पर्श-रेखाएँ O केन्द्र वाले वृत्त पर इस प्रकार हैं कि ∠PTQ = 50°, तो ∠OPQ का मान है\n(In the given figure TP and TQ are two tangents to the circle with centre O such that ∠PTQ = 50°, then the value of ∠OPQ is)",
+      "options": [
+        "30°",
+        "25°",
+        "45°",
+        "50°"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "25°"
+    },
+    {
+      "id": 48,
+      "question": "बहुपद ax² + bx + c, a ≠ 0 का आलेख होता है\n(The graph of polynomial ax² + bx + c, a ≠ 0 is)",
+      "options": [
+        "वृत्त (circle)",
+        "परवलय (parabola)",
+        "सरल रेखा (straight line)",
+        "अतिपरवलय (hyperbola)"
+      ],
+      "correct": 1,
+      "year": 2022,
+      "correctAnswer": "परवलय (parabola)"
+    },
+    {
+      "id": 49,
+      "question": "यदि Δ ABC के शीर्षों के निर्देशांक A(x₁, y₁), B(x₂, y₂) तथा C(x₃, y₃) हैं, तो इसके केन्द्रक का निर्देशांक होगा\n(If the co-ordinates of the vertices of Δ ABC are A(x₁, y₁), B(x₂, y₂) and C(x₃, y₃) then the coordinates of its centroid will be)",
+      "options": [
+        "(x₁+x₂+x₃, y₁+y₂+y₃)",
+        "(x₁-x₂-x₃, y₁-y₂-y₃)",
+        "((x₁+x₂+x₃)/2, (y₁+y₂+y₃)/2)",
+        "((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)"
+      ],
+      "correct": 3,
+      "year": 2022,
+      "correctAnswer": "((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)"
+    },
+    {
+      "id": 50,
+      "question": "किसी बहुपद की घात होती है\n(The degree of any polynomial is)",
+      "options": [
+        "भिन्न संख्या (fraction number)",
+        "ऋण पूर्णांक (negative integer)",
+        "पूर्ण संख्या (whole number)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2022,
+      "correctAnswer": "पूर्ण संख्या (whole number)"
+    }
+  ]
+}

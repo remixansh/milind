@@ -1,0 +1,658 @@
+{
+  "date": "0129",
+  "dateDisplay": "29 January 2026",
+  "testTime": "19:00",
+  "subject": "mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "6, 8 और 22 का ल०स० और म०स० का अनुपात है\n(The ratio of the LCM and HCF of 6, 8 and 22 is)",
+      "options": [
+        "132:1",
+        "2:22",
+        "8:6",
+        "12:3"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "132:1"
+    },
+    {
+      "id": 2,
+      "question": "बिन्दुएँ (3, 2) और (-3, 2) दोनों अवस्थित हैं\n(Both of the points (3, 2) and (-3, 2) are located on)",
+      "options": [
+        "x-अक्ष पर (x-axis)",
+        "y-अक्ष पर (y-axis)",
+        "x-अक्ष के एक ओर (one side of x-axis)",
+        "x-अक्ष के दोनों ओर (both sides of x-axis)"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "x-अक्ष के एक ओर (one side of x-axis)"
+    },
+    {
+      "id": 3,
+      "question": "किसी वृत्त के केन्द्र से 5 cm दूर स्थित बिन्दु A से वृत्त पर खींची गई स्पर्श रेखा की लंबाई 4 cm है, तो वृत्त की त्रिज्या है\n(The length of a tangent to a circle from a point A at a distance 5 cm from the centre of the circle is 4 cm, then the radius of the circle is)",
+      "options": [
+        "7 cm",
+        "6 cm",
+        "3 cm",
+        "4 cm"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "3 cm"
+    },
+    {
+      "id": 4,
+      "question": "किसी पासे को फेंकने पर सम संख्या आने की प्रायिकता है\n(A die is thrown. The probability of getting an even number is)",
+      "options": [
+        "2/3",
+        "1/6",
+        "1/3",
+        "1/2"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "1/2"
+    },
+    {
+      "id": 5,
+      "question": "प्रेक्षण 8, 12, 7, 14, 6, 13, 15 का माध्यक है\n(The median of the observations 8, 12, 7, 14, 6, 13, 15 is)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 3,
+      "year": 2024,
+      "correctAnswer": "12"
+    },
+    {
+      "id": 6,
+      "question": "बहुपद x² - 2x - 3 के शून्यक कौन-से हैं ?\n(What are the zeroes of polynomial x² - 2x - 3?)",
+      "options": [
+        "3, 1",
+        "3, -1",
+        "-3, 1",
+        "-3, -1"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "3, -1"
+    },
+    {
+      "id": 7,
+      "question": "निम्न में कौन-सी एक घटना की प्रायिकता नहीं हो सकती है ?\n(Which of the following cannot be the probability of an event ?)",
+      "options": [
+        "25%",
+        "2/6",
+        "3/4",
+        "3/2"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "3/2"
+    },
+    {
+      "id": 8,
+      "question": "8 सेमी त्रिज्या के गोले को पिघलाकर एक 32 सेमी ऊँचाई के शंकु के रूप में लाया जाता है। शंकु के आधार की त्रिज्या है\n(A sphere of radius 8 cm is melted to form a cone of height 32 cm. The radius of base of the cone is)",
+      "options": [
+        "8 cm",
+        "9 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "correct": 0,
+      "year": 2024,
+      "correctAnswer": "8 cm"
+    },
+    {
+      "id": 9,
+      "question": "यदि समीकरण x - 2y = 3 तथा 3x + ky = 1 का एक अद्वितीय हल हो, तो\n(If the equations x - 2y = 3 and 3x + ky = 1 have an unique solution, then)",
+      "options": [
+        "k = -6",
+        "k ≠ -6",
+        "k = 0",
+        "k ≠ 0"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "k ≠ -6"
+    },
+    {
+      "id": 10,
+      "question": "यदि किसी समद्विबाहु त्रिभुज का आधार b और बराबर भुजा a हो, तो उसका क्षेत्रफल होगा\n(If an isosceles triangle has base b and equal sides a, then its area will be)",
+      "options": [
+        "(√3/4)a²",
+        "(a+b+c)/2",
+        "(1/2)√(4a² - b²)",
+        "(b√(4a² - b²))/4"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "(b√(4a² - b²))/4"
+    },
+    {
+      "id": 11,
+      "question": "(1 - cos²θ)(1 + cot²θ) =",
+      "options": [
+        "0",
+        "-1",
+        "1/2",
+        "1"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "1"
+    },
+    {
+      "id": 12,
+      "question": "cot(90° - A) =",
+      "options": [
+        "cot A",
+        "tan A",
+        "sin A",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "tan A"
+    },
+    {
+      "id": 13,
+      "question": "द्विघात बहुपद 2x² + 5x - 12 के शून्यक हैं\n(The zeroes of the polynomial 2x² + 5x - 12 are)",
+      "options": [
+        "(4, 3/2)",
+        "(-4, 3/2)",
+        "(-3/2, 4/3)",
+        "(-3, 4)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "(-4, 3/2)"
+    },
+    {
+      "id": 14,
+      "question": "दो गोलों के आयतनों का अनुपात 125 : 27 है तो इनके पृष्ठीय क्षेत्रफलों का अनुपात होगा\n(The ratio of volumes of two spheres is 125: 27 then the ratio of its surface areas is)",
+      "options": [
+        "9:25",
+        "25:9",
+        "5:3",
+        "3:5"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "25:9"
+    },
+    {
+      "id": 15,
+      "question": "समांतर श्रेणी 2, 7, 12, 17, ... के लिए a₃₀ - a₂₀ का मान है (जहाँ aₙ समांतर श्रेणी का n वाँ पद है।)\n(The value of a₃₀ - a₂₀ for the AP 2, 7, 12, 17, ... (where aₙ denotes the n-th term of AP is)",
+      "options": [
+        "100",
+        "10",
+        "50",
+        "20"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "50"
+    },
+    {
+      "id": 16,
+      "question": "बिन्दुओं R(x₁, y₁) और S(x₂, y₂) को मिलाने वाले रेखाखण्ड के मध्यबिन्दु के नियामक हैं\n(The coordinates of the mid-point of the line segment joining the points R(x₁, y₁) and S(x₂, y₂) is)",
+      "options": [
+        "((x₁+y₁)/2, (x₂+y₂)/2)",
+        "((x₁+x₂)/2, (y₁+y₂)/2)",
+        "((x₁-x₂)/2, (y₁-y₂)/2)",
+        "(x₁+x₂, y₁+y₂)"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "((x₁+y₁)/2, (x₂+y₂)/2)"
+    },
+    {
+      "id": 17,
+      "question": "समान्तर श्रेणी 6, 13, 20, ..., 216 का मध्य पद है\n(The middle term of the A.P. 6, 13, 20, ..., 216 is)",
+      "options": [
+        "118",
+        "104",
+        "111",
+        "125"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "111"
+    },
+    {
+      "id": 18,
+      "question": "दो वृत्तीय बेलन जिनका आयतन समान है एवं उनकी ऊँचाइयों का अनुपात 1 : 2 है तो उनकी त्रिज्याओं का अनुपात होगा\n(Two circular cylinders of equal volume have their heights in the ratio 1: 2. The ratio of their radii is)",
+      "options": [
+        "1:√2",
+        "√2:1",
+        "1:2",
+        "1:4"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "√2:1"
+    },
+    {
+      "id": 19,
+      "question": "दो संख्याओं का गुणनफल 8670 है और उनका म०स० 17 है, तो उनका ल०स० होगा\n(The product of two numbers is 8670 and their HCF is 17, then their LCM will be)",
+      "options": [
+        "102",
+        "85",
+        "107",
+        "510"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "510"
+    },
+    {
+      "id": 20,
+      "question": "प्रथम पाँच प्राकृत संख्याओं का माध्य है\n(The mean of first five natural numbers is)",
+      "options": [
+        "2",
+        "3",
+        "10",
+        "20"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "3"
+    },
+    {
+      "id": 21,
+      "question": "√12 का परिमेयीकरण गुणांक है\n(The rationalising factor of √12 is)",
+      "options": [
+        "√3",
+        "√2",
+        "√6",
+        "2√3"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "√3"
+    },
+    {
+      "id": 22,
+      "question": "यदि A और B दो ऐसे न्यूनकोण हों कि sin A = cos B, तब (A + B) = ?\n(If A and B are two acute angles such that sin A = cos B, then (A + B) = ?)",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "30°"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "90°"
+    },
+    {
+      "id": 23,
+      "question": "निम्नलिखित में कौन-सा द्विघात समीकरण नहीं है ?\n(Which of the following is not a quadratic equation ?)",
+      "options": [
+        "5x + 2x² = x² + 3",
+        "x³ - x² = (x - 1)³",
+        "(x + 3)² = 3(x² - 5)",
+        "(√2x + 3)² = 2x² + 5"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "(√2x + 3)² = 2x² + 5"
+    },
+    {
+      "id": 24,
+      "question": "r त्रिज्या के गोले का आयतन होता है\n(The volume of the sphere of radius r is)",
+      "options": [
+        "(4/3)πr³",
+        "(2/3)πr³",
+        "(3/2)πr³",
+        "(1/3)πr³"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "(4/3)πr³"
+    },
+    {
+      "id": 25,
+      "question": "k के किस मान के लिए समीकरण निकाय 4x + ky = 6, 2x - 4y = 3 के अनगिनत हल होंगे?\n(For which value of k will the system of equations 4x + ky = 6, 2x - 4y = 3 have infinite many solutions?)",
+      "options": [
+        "-2",
+        "-8",
+        "8",
+        "2"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "-8"
+    },
+    {
+      "id": 26,
+      "question": "माध्यक का तीन गुना और माध्य का दोगुना का अन्तर बराबर होता है\n(The difference of three times of median and two times of mean is equal to)",
+      "options": [
+        "माध्य (mean)",
+        "माध्यक (median)",
+        "बहुलक (mode)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "बहुलक (mode)"
+    },
+    {
+      "id": 27,
+      "question": "बिन्दु (6, -5) का भुज है\n(The x-coordinate of the point (6, -5) is)",
+      "options": [
+        "6",
+        "-5",
+        "-6",
+        "5"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "6"
+    },
+    {
+      "id": 28,
+      "question": "प्रायिकता का न्यूनतम मान होता है\n(The minimum value of probability is)",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correct": 0,
+      "year": 2019,
+      "correctAnswer": "0"
+    },
+    {
+      "id": 29,
+      "question": "निम्नलिखित में कौन-सी परिमेय संख्या है ?\n(Which of the following is a rational number ?)",
+      "options": [
+        "√25",
+        "√5",
+        "1/√2",
+        "√3 + √3"
+      ],
+      "correct": 0,
+      "year": 2023,
+      "correctAnswer": "√25"
+    },
+    {
+      "id": 30,
+      "question": "प्रेक्षण 14, 15, 13, 16, 14, 15, 17, 13, 15 का बहुलक है\n(The mode of observations 14, 15, 13, 16, 14, 15, 17, 13, 15 is)",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "15"
+    },
+    {
+      "id": 31,
+      "question": "96 का अभाज्य गुणनखंड क्या होगा ?\n(What will be the prime factor of 96?)",
+      "options": [
+        "2⁴ × 3²",
+        "2³ × 3³",
+        "2⁵ × 3",
+        "2 × 3⁵"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "2⁵ × 3"
+    },
+    {
+      "id": 32,
+      "question": "एक घड़ी की मिनट की सूई 21 cm लंबी है। इसके द्वारा 10 मिनट में रचित क्षेत्रफल है\n(The minute needle of a watch is 21 cm long. The area covered by it in 10 minutes is)",
+      "options": [
+        "126 cm²",
+        "210 cm²",
+        "231 cm²",
+        "252 cm²"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "231 cm²"
+    },
+    {
+      "id": 33,
+      "question": "यदि (x² + 5x + 8) के शून्यक α तथा β हों तो (α + β) = ?\n(If α and β are zeroes of (x² + 5x + 8) then (α + β) = ?)",
+      "options": [
+        "5",
+        "-5",
+        "8",
+        "-8"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "-5"
+    },
+    {
+      "id": 34,
+      "question": "दो भिन्न त्रिज्याओं वाले वृत्त हमेशा होते हैं\n(Two circles of different radii are always)",
+      "options": [
+        "सर्वांगसम (congruent)",
+        "समरूप (similar)",
+        "सर्वांगसम और समरूप (congruent and similar)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "समरूप (similar)"
+    },
+    {
+      "id": 35,
+      "question": "2x + 3y = 11 और 2x - 4y = -24 के हल हैं\n(Solutions of 2x + 3y = 11 and 2x - 4y = -24 are)",
+      "options": [
+        "x = 2, y = 4",
+        "x = -2, y = -5",
+        "x = -3, y = 1",
+        "x = -2, y = 5"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "x = -2, y = 5"
+    },
+    {
+      "id": 36,
+      "question": "किसी मीनार की ऊंचाई 10m है। जब सूर्य का उन्नयन कोण 45° हो, तो मीनार की छाया की लम्बाई जमीन पर क्या होगी ?\n(The height of a tower is 10 m. When the angle of elevation of the sun is 45°, what will be the length of the tower's shadow on the ground ?)",
+      "options": [
+        "5 m",
+        "8 m",
+        "7 m",
+        "10 m"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "10 m"
+    },
+    {
+      "id": 37,
+      "question": "चित्र में BC || DE, AD : AB = AE : x, तो x बराबर है\n(In figure BC || DE, AD : AB = AE : x, then x is equal to)",
+      "options": [
+        "BD",
+        "BC",
+        "AC",
+        "EC"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "AC"
+    },
+    {
+      "id": 38,
+      "question": "0.13 (bar on 13) =\n",
+      "options": [
+        "13/100",
+        "13/90",
+        "13/99",
+        "3/99"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "13/99"
+    },
+    {
+      "id": 39,
+      "question": "यदि गोले का पृष्ठीय क्षेत्रफल 616 सेमी² हो तो गोले का व्यास होगा\n(If the surface area of a sphere is 616 cm² then the diameter of sphere is)",
+      "options": [
+        "7 cm",
+        "14 cm",
+        "28 cm",
+        "56 cm"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "14 cm"
+    },
+    {
+      "id": 40,
+      "question": "कितने दो अंकों की संख्या 3 से विभाज्य है ?\n(How many two-digit numbers are divisible by 3 ?)",
+      "options": [
+        "25",
+        "30",
+        "32",
+        "36"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "30"
+    },
+    {
+      "id": 41,
+      "question": "दो पासों को एक साथ उछाला गया। दोनों पासों के ऊपरी सतह पर एक ही संख्या आने की क्या प्रायिकता है ?\n(Two dice are thrown together. The probability of getting the same number on both dice is)",
+      "options": [
+        "1/3",
+        "1/6",
+        "1/4",
+        "2/3"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": 42,
+      "question": "√3 है एक\n(√3 is a)",
+      "options": [
+        "परिमेय संख्या (Rational number)",
+        "प्राकृत संख्या (Natural number)",
+        "अपरिमेय संख्या (Irrational number)",
+        "इनमें से कोई नहीं (none of these)"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "अपरिमेय संख्या (Irrational number)"
+    },
+    {
+      "id": 43,
+      "question": "यदि केन्द्र O और त्रिज्या R वाले वृत्त में ∠AOB = θ तो चाप AB की लम्बाई होगी\n(If O is the centre and R is the radius of a circle and ∠AOB = θ then the length of arc AB is)",
+      "options": [
+        "(2πRθ)/180",
+        "(2πRθ)/360",
+        "(πR²θ)/180",
+        "(πR²θ)/360"
+      ],
+      "correct": 1,
+      "year": 2024,
+      "correctAnswer": "(2πRθ)/360"
+    },
+    {
+      "id": 44,
+      "question": "ΔABC तथा ΔDEF में AB/DE = BC/DF ये दोनों त्रिभुज समरूप होंगे, यदि\n(In ΔABC and ΔDEF, AB/DE = BC/DF both of these triangles will be similar if)",
+      "options": [
+        "∠B = ∠E",
+        "∠A = ∠D",
+        "∠B = ∠D",
+        "∠A = ∠F"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "∠B = ∠D"
+    },
+    {
+      "id": 45,
+      "question": "निम्नलिखित में किसका दशमलव प्रसार असांत है ?\n(Which of the following has non-terminating decimal expansion ?)",
+      "options": [
+        "15/400",
+        "17/80",
+        "13/121",
+        "14/400"
+      ],
+      "correct": 2,
+      "year": 2023,
+      "correctAnswer": "13/121"
+    },
+    {
+      "id": 46,
+      "question": "यदि sin A = 8/17 हो, तो cot A का मान होगा\n(If sin A = 8/17 then the value of cot A is)",
+      "options": [
+        "8/15",
+        "17/15",
+        "15/8",
+        "8/17"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "15/8"
+    },
+    {
+      "id": 47,
+      "question": "5005 के कितने अभाज्य गुणनखंड हैं ?\n(How many prime factors of 5005 are there?)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "year": 2019,
+      "correctAnswer": "4"
+    },
+    {
+      "id": 48,
+      "question": "किसी घटना E के घटित होने की प्रायिकता P(E) हो, तो निम्नांकित में कौन सही है ?\n(If the probability of occurrence of an event E is P(E), then which of the following is correct?)",
+      "options": [
+        "P(E) < 0",
+        "P(E) > 1",
+        "-1 ≤ P(E) ≤ 1",
+        "0 ≤ P(E) ≤ 1"
+      ],
+      "correct": 3,
+      "year": 2019,
+      "correctAnswer": "0 ≤ P(E) ≤ 1"
+    },
+    {
+      "id": 49,
+      "question": "एक बेलन का वक्रपृष्ठीय क्षेत्रफल 1760 सेमी² एवं इसके आधार का व्यास 28 सेमी है तो इसकी ऊँचाई होगी\n(If the curved surface area of a cylinder is 1760 cm² and its base diameter is 28 cm then its height is)",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "40 cm"
+      ],
+      "correct": 2,
+      "year": 2024,
+      "correctAnswer": "20 cm"
+    },
+    {
+      "id": 50,
+      "question": "किसी वृत्त की स्पर्शरेखा उसे कितने बिन्दु पर स्पर्श करती है ?\n(At how many points does a tangent line of a circle touch it?)",
+      "options": [
+        "8",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 2,
+      "year": 2019,
+      "correctAnswer": "1"
+    }
+  ]
+}
