@@ -39,9 +39,9 @@
         "cot²A",
         "sec²A"
       ],
-      "correct": 1,
+      "correct": 3,
       "year": 2022,
-      "correctAnswer": "tan²A"
+      "correctAnswer": "sec²A"
     },
     {
       "id": 4,
@@ -182,9 +182,9 @@
         "2",
         "3"
       ],
-      "correct": 3,
+      "correct": 0,
       "year": 2022,
-      "correctAnswer": "3"
+      "correctAnswer": "0"
     },
     {
       "id": 15,
@@ -364,9 +364,9 @@
         "9/16",
         "25/9"
       ],
-      "correct": 1,
+      "correct": 0,
       "year": 2022,
-      "correctAnswer": "16/25"
+      "correctAnswer": "9/25"
     },
     {
       "id": 29,

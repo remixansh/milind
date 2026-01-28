@@ -104,9 +104,9 @@
         "आश्रित (Dependent)",
         "इनमें से कोई नहीं (None of these)"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2024,
-      "correctAnswer": "आश्रित (Dependent)"
+      "correctAnswer": "विरोधी (Inconsistent)"
     },
     {
       "id": 9,
@@ -533,9 +533,9 @@
         "8/3",
         "8/5"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2024,
-      "correctAnswer": "8/3"
+      "correctAnswer": "5/3"
     },
     {
       "id": 42,

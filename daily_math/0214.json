@@ -156,9 +156,9 @@
         "पूर्णांक संख्या (an integer)",
         "इनमें से कोई नहीं (none of these)"
       ],
-      "correct": 0,
+      "correct": 1,
       "year": 2024,
-      "correctAnswer": "परिमेय संख्या (a rational number)"
+      "correctAnswer": "अपरिमेय संख्या (an irrational number)"
     },
     {
       "id": 13,

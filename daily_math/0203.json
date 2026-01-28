@@ -78,9 +78,9 @@
         "tan 50°",
         "2 tan 50°"
       ],
-      "correct": 1,
+      "correct": 3,
       "year": 2021,
-      "correctAnswer": "tan 10°"
+      "correctAnswer": "2 tan 50°"
     },
     {
       "id": 7,
@@ -130,9 +130,9 @@
         "2.8 सेमी (cm)",
         "2.1 सेमी (cm)"
       ],
-      "correct": 4,
+      "correct": 3,
       "year": 2021,
-      "correctAnswer": ""
+      "correctAnswer": "2.1 सेमी (cm)"
     },
     {
       "id": 11,
@@ -338,9 +338,9 @@
         "176 सेमी (cm)",
         "66 सेमी (cm)"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2021,
-      "correctAnswer": "176 सेमी (cm)"
+      "correctAnswer": "88 सेमी (cm)"
     },
     {
       "id": 27,
@@ -364,9 +364,9 @@
         "∠R",
         "कोई नहीं (None)"
       ],
-      "correct": 1,
+      "correct": 2,
       "year": 2021,
-      "correctAnswer": "∠Q"
+      "correctAnswer": "∠R"
     },
     {
       "id": 29,
@@ -403,9 +403,9 @@
         "πR²θ / 180",
         "πR²θ / 360"
       ],
-      "correct": 3,
+      "correct": 1,
       "year": 2021,
-      "correctAnswer": "πR²θ / 360"
+      "correctAnswer": "2πRθ / 360"
     },
     {
       "id": 32,

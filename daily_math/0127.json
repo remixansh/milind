@@ -156,9 +156,9 @@
         "x + 2√x",
         "(1/5)x³ - 3x² + 2"
       ],
-      "correct": 3,
+      "correct": 2,
       "year": 2020,
-      "correctAnswer": "(1/5)x³ - 3x² + 2"
+      "correctAnswer": "x + 2√x"
     },
     {
       "id": 13,

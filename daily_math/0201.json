@@ -13,9 +13,9 @@
         "4",
         "अनगिनत (infinitely many)"
       ],
-      "correct": 0,
+      "correct": 3,
       "year": 2022,
-      "correctAnswer": "1"
+      "correctAnswer": "अनगिनत (infinitely many)"
     },
     {
       "id": 2,
@@ -234,9 +234,9 @@
         "1:5",
         "2:5"
       ],
-      "correct": 1,
+      "correct": 3,
       "year": 2022,
-      "correctAnswer": "5:2"
+      "correctAnswer": "2:5"
     },
     {
       "id": 19,
@@ -273,9 +273,9 @@
         "(b²+2ac)/c²",
         "(b²-ac)/c²"
       ],
-      "correct": 2,
+      "correct": 0,
       "year": 2016,
-      "correctAnswer": "(b²+2ac)/c²"
+      "correctAnswer": "(b²-2ac)/c²"
     },
     {
       "id": 22,

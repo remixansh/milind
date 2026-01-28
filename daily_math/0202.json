@@ -26,9 +26,9 @@
         "(x + y) इकाई (units)",
         "(x² + y²) इकाई (units)"
       ],
-      "correct": 3,
+      "correct": 0,
       "year": 2022,
-      "correctAnswer": "(x² + y²) इकाई (units)"
+      "correctAnswer": "√(x² + y²) इकाई (units)"
     },
     {
       "id": 3,
@@ -104,9 +104,9 @@
         "175/7 cm²",
         "176/7 cm²"
       ],
-      "correct": 4,
+      "correct": 3,
       "year": 2022,
-      "correctAnswer": ""
+      "correctAnswer": "176/7 cm²"
     },
     {
       "id": 9,
@@ -117,9 +117,9 @@
         "√(9/27)",
         "√5 × √5"
       ],
-      "correct": 3,
+      "correct": 2,
       "year": 2022,
-      "correctAnswer": "√5 × √5"
+      "correctAnswer": "√(9/27)"
     },
     {
       "id": 10,
@@ -182,9 +182,9 @@
         "5n - 11",
         "11 + 5n"
       ],
-      "correct": 0,
+      "correct": 1,
       "year": 2022,
-      "correctAnswer": "21 + 5n"
+      "correctAnswer": "21 - 5n"
     },
     {
       "id": 15,
@@ -247,9 +247,9 @@
         "x² - x + 4",
         "x² + 4x + 1"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2021,
-      "correctAnswer": "x² - x + 4"
+      "correctAnswer": "x² - 4x + 1"
     },
     {
       "id": 20,
@@ -312,9 +312,9 @@
         "2",
         "3"
       ],
-      "correct": 0,
+      "correct": 1,
       "year": 2022,
-      "correctAnswer": "0"
+      "correctAnswer": "1"
     },
     {
       "id": 25,
@@ -338,9 +338,9 @@
         "k = -4",
         "k ≠ -4"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2021,
-      "correctAnswer": "k = -4"
+      "correctAnswer": "k ≠ 4"
     },
     {
       "id": 27,
@@ -351,9 +351,9 @@
         "120°",
         "100°"
       ],
-      "correct": 0,
+      "correct": 3,
       "year": 2022,
-      "correctAnswer": "40°"
+      "correctAnswer": "100°"
     },
     {
       "id": 28,
@@ -455,9 +455,9 @@
         "कोई हल नहीं (No solution)",
         "इनमें से कोई नहीं (None of these)"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2021,
-      "correctAnswer": "कोई हल नहीं (No solution)"
+      "correctAnswer": "अनन्त हल (Infinitely many solutions)"
     },
     {
       "id": 36,

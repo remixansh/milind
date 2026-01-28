@@ -208,9 +208,9 @@
         "((x₁-x₂)/2, (y₁-y₂)/2)",
         "(x₁+x₂, y₁+y₂)"
       ],
-      "correct": 0,
+      "correct": 1,
       "year": 2019,
-      "correctAnswer": "((x₁+y₁)/2, (x₂+y₂)/2)"
+      "correctAnswer": "((x₁+x₂)/2, (y₁+y₂)/2)"
     },
     {
       "id": 17,

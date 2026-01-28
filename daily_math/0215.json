@@ -234,9 +234,9 @@
         "√13, -√13",
         "√13, -13"
       ],
-      "correct": 3,
+      "correct": 2,
       "year": 2024,
-      "correctAnswer": "√13, -13"
+      "correctAnswer": "√13, -√13"
     },
     {
       "id": 19,
@@ -299,9 +299,9 @@
         "((x₁-x₂)/2, (y₁-y₂)/2)",
         "(x₁+x₂, y₁+y₂)"
       ],
-      "correct": 0,
+      "correct": 1,
       "year": 2019,
-      "correctAnswer": "((x₁+y₁)/2, (x₂+y₂)/2)"
+      "correctAnswer": "((x₁+x₂)/2, (y₁+y₂)/2)"
     },
     {
       "id": 24,
@@ -338,9 +338,9 @@
         "49:25",
         "125: 343"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2024,
-      "correctAnswer": "49:25"
+      "correctAnswer": "25:49"
     },
     {
       "id": 27,
@@ -390,9 +390,9 @@
         "4",
         "3"
       ],
-      "correct": 2,
+      "correct": 1,
       "year": 2024,
-      "correctAnswer": "4"
+      "correctAnswer": "6"
     },
     {
       "id": 31,
@@ -546,9 +546,9 @@
         "2a = b",
         "a + b = 0"
       ],
-      "correct": 1,
+      "correct": 2,
       "year": 2024,
-      "correctAnswer": "a = 2b"
+      "correctAnswer": "2a = b"
     },
     {
       "id": 43,
