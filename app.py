@@ -28,6 +28,8 @@ def get_data_dir(subject_id):
         return os.path.join(base_dir, 'daily_hindi')
     if subject_id == 'math':
         return os.path.join(base_dir, 'daily_math')
+    if subject_id == 'sanskrit':
+        return os.path.join(base_dir, 'daily_sanskrit')
     return os.path.join(base_dir, 'data', subject_id)
 
 def load_daily_questions(subject_id, date_code):
@@ -114,7 +116,7 @@ def get_subjects():
             'nameHindi': 'संस्कृत',
             'icon': 'om',
             'color': 'amber',
-            'coming_soon': True
+            'coming_soon': False
         }
     ]
     # Ensure sorted by availability (Available first)
